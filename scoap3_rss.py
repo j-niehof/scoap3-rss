@@ -21,7 +21,7 @@ import html
 # ── Configuration ────────────────────────────────────────────────────────────
 API_BASE = "https://repo.scoap3.org/api/records/"
 PAGE_SIZE = 10
-FETCH_PAGES = 10      # Scan up to 100 recent articles
+FETCH_PAGES = 10
 FEED_ITEMS = 20
 OUTPUT_FILE = "scoap3_feed.xml"
 
@@ -31,16 +31,71 @@ COUNTRY_FILTER = ["cern", "united states", "usa", "u.s.a"]
 
 def clean_text(value):
     """
-    Remove HTML/XML tags (including MathML) and normalize whitespace.
+    Remove HTML/XML tags, MathML, and common LaTeX-style markup
+    so titles display cleanly in RSS/LibGuides.
     """
     if not value:
         return ""
 
-    # Convert HTML entities to normal characters
     value = html.unescape(value)
 
-    # Remove all tags such as <math>, <mi>, <msub>, etc.
+    # Remove XML/HTML/MathML tags
     value = re.sub(r"<[^>]+>", "", value)
+
+    # Handle common LaTeX commands while preserving readable text
+    value = re.sub(r"\\textit\{([^}]*)\}", r"\1", value)
+    value = re.sub(r"\\mathrm\{([^}]*)\}", r"\1", value)
+    value = re.sub(r"\\mathbf\{([^}]*)\}", r"\1", value)
+    value = re.sub(r"\\mathit\{([^}]*)\}", r"\1", value)
+    value = re.sub(r"\\cal\{([^}]*)\}", r"\1", value)
+
+    # Common Greek letters and math symbols
+    replacements = {
+        r"\mu": "μ",
+        r"\alpha": "α",
+        r"\beta": "β",
+        r"\gamma": "γ",
+        r"\delta": "δ",
+        r"\epsilon": "ε",
+        r"\lambda": "λ",
+        r"\pi": "π",
+        r"\tau": "τ",
+        r"\nu": "ν",
+        r"\rho": "ρ",
+        r"\sigma": "σ",
+        r"\phi": "φ",
+        r"\chi": "χ",
+        r"\omega": "ω",
+        r"\pm": "±",
+        r"\times": "×",
+        r"\to": "→",
+        r"\rightarrow": "→",
+        r"\left": "",
+        r"\right": "",
+    }
+
+    for old, new in replacements.items():
+        value = value.replace(old, new)
+
+    # Remove dollar signs used for inline math
+    value = value.replace("$", "")
+
+    # Convert simple subscripts like _3, _{3}, _mu
+    value = re.sub(r"_\{?3\}?", "₃", value)
+    value = re.sub(r"_\{?2\}?", "₂", value)
+    value = re.sub(r"_\{?1\}?", "₁", value)
+    value = re.sub(r"_\{?0\}?", "₀", value)
+    value = re.sub(r"_\{?μ\}?", "μ", value)
+    value = re.sub(r"_\{?mu\}?", "μ", value)
+
+    # Remove remaining braces and stray backslashes
+    value = value.replace("{", "").replace("}", "")
+    value = value.replace("\\", "")
+
+    # Clean spacing around hyphens and parentheses
+    value = re.sub(r"\s+-\s+", "-", value)
+    value = re.sub(r"\s+-", "-", value)
+    value = re.sub(r"-\s+", "-", value)
 
     # Collapse repeated whitespace
     value = re.sub(r"\s+", " ", value)
@@ -183,7 +238,7 @@ def build_rss(articles):
         title_text = clean_text(title_text)
         ET.SubElement(item, "title").text = title_text
 
-        # Link (prefer DOI)
+        # Link, DOI preferred
         dois = metadata.get("dois", [])
         if dois:
             doi = dois[0].get("value", "")
