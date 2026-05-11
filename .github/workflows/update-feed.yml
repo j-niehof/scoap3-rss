@@ -1,0 +1,39 @@
+name: Update SCOAP3 RSS Feed
+
+on:
+  schedule:
+    # Runs every day at 10:00 UTC (6:00 AM Eastern during daylight saving)
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run feed generator
+        run: python scoap3_rss.py
+
+      - name: Commit updated RSS feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scoap3_feed.xml
+          git commit -m "Automated update of SCOAP3 RSS feed" || echo "No changes to commit"
+          git push
