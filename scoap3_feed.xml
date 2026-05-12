@@ -5,35 +5,42 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 19:55:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 17:36:13 +0000</lastBuildDate>
     <item>
-      <title>Radiative semileptonic decays of beautiful hadrons</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)097</link>
-      <description>We derive predictions for the hadronic matrix elements of radiative semileptonic decays of beautiful hadrons within Heavy Quark Effective Theory (HQET), relevant for future measurements at Belle II and LHCb. Our study considers Λ → Λ , Lambda_c1^(ast ) and overlineB→ D^(ast ) , D transitions. The symmetries of HQET highly constrain the number of structure-dependent form factors in all cases. In the soft and sub-leading soft regions, all the form factors are fully determined in terms of non-radiative Isgur-Wise functions and the magnetic dipole moments of the heavy hadrons. The structure of higher order corrections is also briefly discussed.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)097">Journal of High Energy Physics</source>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)097</guid>
+      <title>Replica manifolds, pole skipping, and the butterfly effect</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)108</link>
+      <description>The black hole butterfly effect is a signal of quantum chaos in holographic theories that can be probed in different ways, including out-of-time-order correlators (OTOCs), pole skipping (PS), and entanglement wedge (EW) reconstruction. Each of these three phenomena can be used to define a butterfly velocity that measures the speed at which chaos spreads. In a general quantum system the three velocities v_B^textrmOTOC , v_B^textrmPS , and v_B^textrmEW can be different, but it is known from explicit calculations that they are all equal in certain holographic theories dual to Einstein gravity plus higher-curvature corrections. A conceptual explanation for this apparent coincidence is lacking. We show that it follows from a deeper relationship: the pole-skipping mode, added to the black hole background, can be reinterpreted as the gravitational replica manifold for the late-time entanglement wedge, and its imaginary part is the shockwave that computes the OTOC. Thus pole skipping is direct</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)108">Journal of High Energy Physics</source>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)108</guid>
     </item><item>
-      <title>Tracking the symmetries of ℤ 3-orbifold K3s within the Mathieu groups</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)094</link>
-      <description>For ℤ-orbifold limits of K3, we provide a counterpart to the extensive studies by Nikulin and others of the geometry and symmetries of classical Kummer surfaces. In particular, we determine the group of holomorphic symplectic automorphisms of ℤ-orbifold limits of K3. We moreover track this group within two of the Mathieu groups, which involves a variation of Kondo’s lattice techniques that Taormina and Wendland introduced earlier in their study of the symmetries of Kummer surfaces and the genesis of their symmetry surfing programme. Specifically, we realise the finite group of symplectic automorphisms of this class of K3 surfaces as a subgroup of the sporadic groups Mathieu 12 and Mathieu 24 in terms of permutations of 12, resp. 24 elements. As a proof of concept, we construct an embedding that yields the largest Mathieu group when the symmetry group of ℤ-orbifold K3s is combined with all symmetries of Kummer surfaces.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)094">Journal of High Energy Physics</source>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)094</guid>
+      <title>Tests of restricted quantum focusing and a new CFT bound</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)111</link>
+      <description>The restricted quantum focusing conjecture (rQFC) plays a central role in an axiomatic formulation of semiclassical gravity. Since much hinges on its validity, it is imperative to subject the rQFC to rigorous tests in novel settings. Here we do so in two independent directions.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)111">Journal of High Energy Physics</source>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)111</guid>
     </item><item>
-      <title>Spoofing entanglement in holography</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)107</link>
-      <description>A defining property of Hawking radiation is that states with very low entanglement masquerade as highly mixed states; this property is captured by a quantum computational phenomenon known as spoofing entanglement. Motivated by the potential implications for black hole information and the emergence of spacetime connectivity, as well as possible applications of spoofing entanglement, we investigate the geometrization of two types of entanglement spoofers in AdS/CFT: so-called EFI pairs and pseudoentangled state ensembles. We show that (a strengthened version of) EFI pairs with a semiclassical bulk dual have a Python’s Lunch; the maximally mixed state over the pseudoentangled state ensemble likewise features a Python’s Lunch. Since a Python’s Lunch must lie behind an event horizon, we find that black holes are the exclusive gravitational source of entanglement spoofing in the semiclassical limit. Finally, we use an extant construction of holographic pseudorandom states to yield a candidat</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)107">Journal of High Energy Physics</source>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)107</guid>
+      <title>The quantum evolutions of the diffractive transverse-momentum dependent gluon distribution</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)099</link>
+      <description>Using the Colour Glass Condensate description of electron-nucleus collisions at high energy, we study the diffractive production of a pair of jets with transverse momenta much larger than the nuclear saturation momentum Q . At leading order in the QCD coupling, the di-jet cross-section exhibits transverse-momentum dependent (TMD) factorisation, with a gluon diffractive TMD distribution (DTMD) which is controlled by gluon saturation and describes the transverse-momentum imbalance between the produced jets. The next-to-leading corrections generate the various quantum evolutions of the diffractive gluon distribution. We focus on the Collins-Soper-Sterman (CSS) evolution which describes the change in the gluon DTMD when increasing the “hard scale” (the typical transverse momentum of the di-jets). We consider two different representations for this equation, one in transverse-momentum space, the other one in transverse-coordinate space. They are not fully equivalent with each other (despite </description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)099">Journal of High Energy Physics</source>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)099</guid>
     </item><item>
-      <title>Baryons, skyrmions, and θ-periodicity anomaly in chiral and vectorlike gauge theories</title>
-      <link>https://doi.org/10.1103/brm8-v5cc</link>
-      <description>In this paper, we study the baryons and solitons of chiral and vectorlike SU(N) gauge theories with matter in mixed one-and two-index representations. Focusing on the color-flavor locked (CFL) phase, we compute the topology of the coset of their low-energy effective field theory (EFT). We find that in the chiral models under consideration, skyrmions are always absent. We also show, however, that some of these models admit heavy baryons that are expected to be stable, because their decay into the lighter degrees of freedom of the EFT is forbidden by the unbroken symmetry group. This mismatch suggests that some deeper dynamical mechanism must be responsible with either the instability of the seemingly stable heavy baryons or the unreliability of the Skyrme model in the low-energy EFT. In the vectorlike models all the expected baryons are mirrored by skyrmions. Then we turn to the study of domain walls. We determine some aspects of their dynamics by matching the θ-periodicity anomaly. We </description>
-      <source url="https://doi.org/10.1103/brm8-v5cc">Physical Review D</source>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/brm8-v5cc</guid>
+      <title>Minijet thermalization and jet transport coefficients in QCD kinetic theory</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)093</link>
+      <description>We apply weakly coupled QCD kinetic theory to investigate the thermalization of high-momentum on-shell partons (minijets) in a Quark-Gluon Plasma (QGP). Our approach incorporates isotropic hard thermal loop screening to model soft quark and gluon exchanges, allowing us to verify consistency with established analytic results of jet transport coefficients. We perform kinetic simulations of minijets propagating through a thermal gluon plasma, incorporating both collinear radiation and elastic scatterings. The resulting evolution is compared to predictions from jet transport coefficients, including the longitudinal and transverse jet-quenching parameters hatq , energy loss, and the drag coefficient. We find that standard definitions of jet transport coefficients neglect the contributions from recoiling medium particles. Including these contributions restores consistency with the kinetic evolution. Finally, we show that the minijet thermalization time scales remarkably well with hatq and we</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)093">Journal of High Energy Physics</source>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)093</guid>
+    </item><item>
+      <title>Quirks live in cool universes</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)092</link>
+      <description>We demonstrate that cosmological observations place strong bounds on the reheat temperature T of the Standard Model (SM) in minimal models of ‘quirks’ — heavy fermions transforming under the SM gauge group together with a new non-Abelian gauge interaction with a confinement scale far below the mass of the fermions. These models have unique collider signals associated with the confining flux strings, which cannot break due to the large mass of the quirks. Our work shows that in these models T ≲ 𝒪(100) GeV for the entire ‘quirky’ parameter space where the effects of the flux string are important. These bounds are in tension with most models of baryogenesis, showing that the discovery of quirks at colliders can have far-reaching implications for cosmology. The bounds arise because the irreducible relic abundance of glueballs from UV freeze-in, combined with their long lifetimes, leads to constraints from the disruption of BBN, distortions of the CMB, excess γ-rays, an over-abundance of se</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)092">Journal of High Energy Physics</source>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)092</guid>
     </item><item>
       <title>Signs of nonmonotonic finite-volume corrections to gA</title>
       <link>https://doi.org/10.1103/q88h-2vz8</link>
@@ -43,13 +50,12 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/q88h-2vz8</guid>
     </item><item>
-      <title>First High-Throughput Evaluation of Dark Matter Detector Materials</title>
-      <link>https://doi.org/10.1103/bb4g-7939</link>
-      <description>We perform the first high-throughput search and evaluation of materials that can serve as excellent low-mass dark matter detectors. Using properties of close to 1000 materials from the Materials Project database, we project the sensitivity in dark matter parameter space for experiments constructed from each material, including both absorption and scattering processes between dark matter and electrons. Using the anisotropic materials in the dataset, we further compute the level of daily modulation in interaction rates and the resulting directional sensitivities, highlighting materials with prospects to detect the dark matter wind. Our methods provide the basic tools for the data-driven design of dark matter detectors, and our findings lay the groundwork for the next generation of highly optimized direct searches for dark matter as light as the keV scale. This represents a major step in the application of results from condensed matter physics to dark matter search design.</description>
-      <source url="https://doi.org/10.1103/bb4g-7939">Physical Review Letters</source>
-      <author>et al.</author>
+      <title>Baryons, skyrmions, and θ-periodicity anomaly in chiral and vectorlike gauge theories</title>
+      <link>https://doi.org/10.1103/brm8-v5cc</link>
+      <description>In this paper, we study the baryons and solitons of chiral and vectorlike SU(N) gauge theories with matter in mixed one-and two-index representations. Focusing on the color-flavor locked (CFL) phase, we compute the topology of the coset of their low-energy effective field theory (EFT). We find that in the chiral models under consideration, skyrmions are always absent. We also show, however, that some of these models admit heavy baryons that are expected to be stable, because their decay into the lighter degrees of freedom of the EFT is forbidden by the unbroken symmetry group. This mismatch suggests that some deeper dynamical mechanism must be responsible with either the instability of the seemingly stable heavy baryons or the unreliability of the Skyrme model in the low-energy EFT. In the vectorlike models all the expected baryons are mirrored by skyrmions. Then we turn to the study of domain walls. We determine some aspects of their dynamics by matching the θ-periodicity anomaly. We </description>
+      <source url="https://doi.org/10.1103/brm8-v5cc">Physical Review D</source>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/bb4g-7939</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/brm8-v5cc</guid>
     </item><item>
       <title>Spoofing entanglement in holography</title>
       <link>https://doi.org/10.1007/JHEP05(2026)107</link>
@@ -58,12 +64,35 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)107</guid>
     </item><item>
-      <title>Maximal trombone supergravity from wrapped M5-branes</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)076</link>
-      <description>A new family of maximal supergravities in four dimensions, involving gaugings of the trombone scaling symmetry, has been recently introduced. Using exceptional generalised geometry, we show some supergravities in this class to arise by consistent truncation of D = 11 supergravity. The seven-dimensional reduction manifold is locally equivalent to the topologically-twisted internal manifold of the AdS geometries that arise near the horizon of M5-branes wrapped on supersymmetric three-cycles of special holonomy manifolds. The dimensional reduction involves a mixture of conventional and generalised Scherk-Schwarz prescriptions, and provides the first maximally supersymmetric consistent truncation to four dimensions in the context of the M5-brane.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)076">Journal of High Energy Physics</source>
+      <title>Signs of nonmonotonic finite-volume corrections to gA</title>
+      <link>https://doi.org/10.1103/q88h-2vz8</link>
+      <description>We study finite-volume (FV) corrections to determinations of gA via lattice quantum chromodynamics (QCD) using analytic results and numerical analysis. We observe that SU(2) heavy Baryon chiral perturbation theory does not provide an unambiguous prediction for the sign of the FV correction, which is not surprising when one also considers large-Nc constraints on the axial couplings. We further show that nonmonotonic FV corrections are naturally allowed when one considers either including explicit Δ-resonance degrees of freedom or one works to higher orders in the chiral expansion. We investigate the potential impact of these FV corrections with a precision study of gA using models of FV corrections that are monotonic and nonmonotonic. Using lattice QCD data that is approximately at the 1% level of precision, we do not see significant evidence of nonmonotonic corrections. Looking forward to the next phase of lattice QCD calculations, we estimate that calculations that are between the 0.1</description>
+      <source url="https://doi.org/10.1103/q88h-2vz8">Physical Review C</source>
+      <author>et al.</author>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)076</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/q88h-2vz8</guid>
+    </item><item>
+      <title>Tale of three scales: The Planck, the species, and the black hole scales</title>
+      <link>https://doi.org/10.1103/4lsn-l2ln</link>
+      <description>Quantum gravity (QG) has a natural cutoff given by the Planck scale Mpl. However, it is known that the effective field theory (EFT) of gravity can break down at a lower scale, the species scale Λs≲Mpl, if there are light species of particles. Here we point out that there is a third scale ΛBH≲Λs≲Mpl, which marks the inverse length (or the temperature) of the smallest black hole where the EFT gives a correct description of its entropy and free energy. This latter scale is hard to detect from the viewpoint of EFT as it represents a phase transition to a state with lower free energy. We illustrate this using examples drawn from consistent QG landscape. In particular ΛBH gets related to Gregory-Laflamme transition in the decompactification limits of quantum gravity and to the Horowitz-Polchinski solution in the light perturbative string limits. We propose the existence of ΛBH marking the temperature at which neutral black holes undergo a phase transition, as a new Swampland condition for al</description>
+      <source url="https://doi.org/10.1103/4lsn-l2ln">Physical Review D</source>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4lsn-l2ln</guid>
+    </item><item>
+      <title>First High-Throughput Evaluation of Dark Matter Detector Materials</title>
+      <link>https://doi.org/10.1103/bb4g-7939</link>
+      <description>We perform the first high-throughput search and evaluation of materials that can serve as excellent low-mass dark matter detectors. Using properties of close to 1000 materials from the Materials Project database, we project the sensitivity in dark matter parameter space for experiments constructed from each material, including both absorption and scattering processes between dark matter and electrons. Using the anisotropic materials in the dataset, we further compute the level of daily modulation in interaction rates and the resulting directional sensitivities, highlighting materials with prospects to detect the dark matter wind. Our methods provide the basic tools for the data-driven design of dark matter detectors, and our findings lay the groundwork for the next generation of highly optimized direct searches for dark matter as light as the keV scale. This represents a major step in the application of results from condensed matter physics to dark matter search design.</description>
+      <source url="https://doi.org/10.1103/bb4g-7939">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/bb4g-7939</guid>
+    </item><item>
+      <title>Baryons, skyrmions, and θ-periodicity anomaly in chiral and vectorlike gauge theories</title>
+      <link>https://doi.org/10.1103/brm8-v5cc</link>
+      <description>In this paper, we study the baryons and solitons of chiral and vectorlike SU(N) gauge theories with matter in mixed one-and two-index representations. Focusing on the color-flavor locked (CFL) phase, we compute the topology of the coset of their low-energy effective field theory (EFT). We find that in the chiral models under consideration, skyrmions are always absent. We also show, however, that some of these models admit heavy baryons that are expected to be stable, because their decay into the lighter degrees of freedom of the EFT is forbidden by the unbroken symmetry group. This mismatch suggests that some deeper dynamical mechanism must be responsible with either the instability of the seemingly stable heavy baryons or the unreliability of the Skyrme model in the low-energy EFT. In the vectorlike models all the expected baryons are mirrored by skyrmions. Then we turn to the study of domain walls. We determine some aspects of their dynamics by matching the θ-periodicity anomaly. We </description>
+      <source url="https://doi.org/10.1103/brm8-v5cc">Physical Review D</source>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/brm8-v5cc</guid>
     </item><item>
       <title>Field-theoretic versus data-driven evaluations of electromagnetic corrections to hadronic vacuum polarization in (g-2)μ</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15521-6</link>
@@ -72,13 +101,6 @@
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15521-6</guid>
     </item><item>
-      <title>Nucleosynthesis and CMB bounds on photophilic ALPs: a fresh look</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15544-z</link>
-      <description>We provide a fresh look at the cosmological constraints on axion-like particles (ALPs) that couple predominantly to photons, focusing on lifetimes τ _a lesssim 10^4, textrms and masses m_alesssim 10,textrmGeV . We consider Big Bang nucleosynthesis (BBN) and Cosmic Microwave Background (CMB) bounds and explore how these limits depend upon the unknown reheating temperature of the Universe, T_textrmreh . Compared with some previous studies, we account for the rare decays of these ALPs into light hadrons and show that this leads to extended constraints for several reheating temperatures. Our limits are cast in a model-independent way, and we identify regions of parameter space where these ALPs could alleviate small tensions in the determinations of N_textrmeff and the deuterium abundance. Our Mathematica BBN code is publicly available at .</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15544-z">European Physical Journal C</source>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15544-z</guid>
-    </item><item>
       <title>Mass spectroscopy and strong decays of open charm-strange mesons using relativistic Dirac formalism</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15725-w</link>
       <description>The mass spectra of charm-strange mesons including ground, radial and orbital excitations have been calculated within a relativistic Dirac framework. The predicted masses of the first orbital excited state 1P exhibits excellent agreement with values reported by the PDG. Utilizing these mass predictions and an effective Lagrangian approach based on heavy quark and chiral symmetries, we have computed the OZI allowed two body strong decay widths of higher excited state candidates of charm-strange sector. The resulting partial widths and branching ratios enable the assignment of spin-parity quantum numbers to several newly observed charm-strange states. In particular, we identify D_sJ(2700) as the 2^3S₁ , D_s0(2590) as the 2^1S₀ , D_sJ(2860) as the 1^3D₃ , D_s1(2860) as the 1^3D₁ and D_sJ(3040) as the 2^1P₁ states. The effective coupling constants g_T , g_X , g_Y , tildeg_S and tildeg_H determined in the present study appear to be consistent with the reported values. Furthermore, the D^*K </description>
@@ -86,19 +108,12 @@
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15725-w</guid>
     </item><item>
-      <title>Nonlinear relativistic tidal response of neutron stars</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)074</link>
-      <description>We investigate the nonlinear tidal response of relativistic neutron stars by computing the fully relativistic, static, quadratic Love numbers. Using both the worldline effective field theory for extended gravitating bodies and second-order perturbations of relativistic stellar models, we derive the nonlinear tidal deformation induced by an external gravito-electric tidal field to quadratic order. Through a suitable matching procedure, we provide for the first time the leading nonlinear tidal corrections to the conservative dynamics and gravitational-wave signal of binary systems. Quadratic Love numbers are enhanced more than the linear ones in the small-compactness limit. Because of this, despite entering the gravitational-wave phase at 8th post-Newtonian (PN) order, the leading quadratic Love number can be as important as the next-to-next-to-leading order linear tidal correction, which enters at 7th PN order, and is larger than the subleading point-particle contribution entering at 4t</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)074">Journal of High Energy Physics</source>
+      <title>Nucleosynthesis and CMB bounds on photophilic ALPs: a fresh look</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15544-z</link>
+      <description>We provide a fresh look at the cosmological constraints on axion-like particles (ALPs) that couple predominantly to photons, focusing on lifetimes τ _a lesssim 10^4, textrms and masses m_alesssim 10,textrmGeV . We consider Big Bang nucleosynthesis (BBN) and Cosmic Microwave Background (CMB) bounds and explore how these limits depend upon the unknown reheating temperature of the Universe, T_textrmreh . Compared with some previous studies, we account for the rare decays of these ALPs into light hadrons and show that this leads to extended constraints for several reheating temperatures. Our limits are cast in a model-independent way, and we identify regions of parameter space where these ALPs could alleviate small tensions in the determinations of N_textrmeff and the deuterium abundance. Our Mathematica BBN code is publicly available at .</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15544-z">European Physical Journal C</source>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)074</guid>
-    </item><item>
-      <title>Completeness from gravitational scattering</title>
-      <link>https://doi.org/10.1103/pztp-rchl</link>
-      <description>We prove that symmetry in the presence of gravity implies a version of the completeness hypothesis. For a broad class of theories, we demonstrate that the existence of finitely many charged particles logically necessitates the existence of infinitely many charged particles populating the entire charge lattice. Our conclusions follow from the consistency of perturbative gravitational scattering and require the following ingredients: (1) a weakly coupled ultraviolet completion of gravity, (2) a non-Abelian symmetry G, gauged or global, whose Cartan subgroup generates the Abelian charge lattice, and (3) a spectrum containing some finite set of charged representations, in the simplest cases taken to be a single particle in the fundamental. Under these conditions, the Abelian charge lattice is completely filled by single-particle states for G=SO(N) with N≥5 and G=SU(N) with N≥3, which in turn implies completeness for other symmetry groups such as Spin(N), Sp(N), and E8. Curiously, a corolla</description>
-      <source url="https://doi.org/10.1103/pztp-rchl">Physical Review D</source>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pztp-rchl</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15544-z</guid>
     </item><item>
       <title>Schwinger-Keldysh effective theory of charge transport: redundancies and systematic ω/T expansion</title>
       <link>https://doi.org/10.1007/JHEP05(2026)079</link>
@@ -106,6 +121,21 @@
       <source url="https://doi.org/10.1007/JHEP05(2026)079">Journal of High Energy Physics</source>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)079</guid>
+    </item><item>
+      <title>Emergent mixed states for baby universes and black holes</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)090</link>
+      <description>We examine the behavior of sequences of states in the large N limit of AdS/CFT duality in cases in which the bulk duals involve baby universes or black holes. Such sequences generally fail to converge as pure states. Under suitable conditions, such as diverging coarse-grained entropy, they can converge to mixed states for the large N algebra, as in the case of black holes. For Euclidean preparations that produce baby universes, the sequences do not converge, due to wormhole contributions, and so these states cannot admit large N limits. Nevertheless, appropriate averaging over N can lead to convergence to a mixed state. The associated algebras have nontrivial commutants, which can possibly be interpreted as operators in the baby universe.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)090">Journal of High Energy Physics</source>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)090</guid>
+    </item><item>
+      <title>Search for Light Pseudoscalar Bosons, Pair-Produced in Higgs Boson Decays in the Four-Electron Final State in Proton-Proton Collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/r53x-8fqp</link>
+      <description>A search for pairs of light neutral pseudoscalar bosons (A) resulting from the decay of a Higgs boson is performed. The search is conducted using LHC proton-proton collision data at s=13 TeV, collected with the CMS detector in 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. The A boson decays into a highly collimated electron-positron pair. A novel multivariate algorithm using tracks and calorimeter information is developed to identify these distinctive signatures, and events are selected with two such merged electron-positron pairs. No significant excess above the standard model background predictions is observed. Upper limits on the branching fraction for H→AA→4e are set at 95% confidence level, for masses between 10 and 100 MeV and proper decay lengths below 100 μm, reaching branching fraction sensitivities as low as 10−5. This is the first search for Higgs boson decays to four electrons via light pseudoscalars at the LHC. It significantly improves the experimen</description>
+      <source url="https://doi.org/10.1103/r53x-8fqp">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/r53x-8fqp</guid>
     </item><item>
       <title>Measurement of the branching fractions and longitudinal polarizations of B(s)0→K*0K¯*0 decays</title>
       <link>https://doi.org/10.1103/cd57-xr8f</link>
@@ -115,40 +145,12 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/cd57-xr8f</guid>
     </item><item>
-      <title>Ultralight dark matter detection with trapped-ion interferometry</title>
-      <link>https://doi.org/10.1103/528c-xs6p</link>
-      <description>We explore how recent advances in the manipulation of single-ion wave packets open new avenues for detecting weak magnetic fields sourced by ultralight dark matter. A trapped ion in a “Schrödinger’s cat” state can be prepared with its spin and motional degrees of freedom entangled and be used as a matter-wave interferometer that is sensitive to the Aharonov-Bohm-like phase shift accumulated by the ion over its trajectory. The result of the spin-motion entanglement is a parametrically enhanced sensitivity to weak magnetic fields as compared with an unentangled ion in a trap. Taking into account the relevant boundary conditions, we demonstrate that a single trapped ion can probe unexplored regions of kinetically mixed dark-photon dark matter parameter space in the 10−15 eV≲mA′≲10−14 eV mass window. We also show how such a table-top quantum device will also serve as a complementary probe of axionlike particle dark matter in the same mass window.</description>
-      <source url="https://doi.org/10.1103/528c-xs6p">Physical Review D</source>
+      <title>Emergent mixed states for baby universes and black holes</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)090</link>
+      <description>We examine the behavior of sequences of states in the large N limit of AdS/CFT duality in cases in which the bulk duals involve baby universes or black holes. Such sequences generally fail to converge as pure states. Under suitable conditions, such as diverging coarse-grained entropy, they can converge to mixed states for the large N algebra, as in the case of black holes. For Euclidean preparations that produce baby universes, the sequences do not converge, due to wormhole contributions, and so these states cannot admit large N limits. Nevertheless, appropriate averaging over N can lead to convergence to a mixed state. The associated algebras have nontrivial commutants, which can possibly be interpreted as operators in the baby universe.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)090">Journal of High Energy Physics</source>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/528c-xs6p</guid>
-    </item><item>
-      <title>Two-loop QCD corrections to e+e−→Z*→J/ψ+J/ψ</title>
-      <link>https://doi.org/10.1103/n2sz-8b2x</link>
-      <description>We present a next-to-next-to-leading-order (NNLO) calculation within the nonrelativistic QCD framework for the process e+e−→Z*→J/ψ+J/ψ. We find that the NNLO contribution is two to three times larger than the next-to-leading-order contribution, which itself is already three to five times larger than the leading-order result. In the high-energy limit, we provide analytic expressions for the leading-power coefficients in the asymptotic expansion of the two-loop amplitudes. Our results are directly applicable to the bottomonium process Z→ϒ+ϒ. Using the obtained hadronic amplitudes, we predict the decay width of the Z boson into these rare dicharmonium and dibottomonium final states.</description>
-      <source url="https://doi.org/10.1103/n2sz-8b2x">Physical Review D</source>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/n2sz-8b2x</guid>
-    </item><item>
-      <title>Completeness from gravitational scattering</title>
-      <link>https://doi.org/10.1103/pztp-rchl</link>
-      <description>We prove that symmetry in the presence of gravity implies a version of the completeness hypothesis. For a broad class of theories, we demonstrate that the existence of finitely many charged particles logically necessitates the existence of infinitely many charged particles populating the entire charge lattice. Our conclusions follow from the consistency of perturbative gravitational scattering and require the following ingredients: (1) a weakly coupled ultraviolet completion of gravity, (2) a non-Abelian symmetry G, gauged or global, whose Cartan subgroup generates the Abelian charge lattice, and (3) a spectrum containing some finite set of charged representations, in the simplest cases taken to be a single particle in the fundamental. Under these conditions, the Abelian charge lattice is completely filled by single-particle states for G=SO(N) with N≥5 and G=SU(N) with N≥3, which in turn implies completeness for other symmetry groups such as Spin(N), Sp(N), and E8. Curiously, a corolla</description>
-      <source url="https://doi.org/10.1103/pztp-rchl">Physical Review D</source>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pztp-rchl</guid>
-    </item><item>
-      <title>Probing quantum entanglement with generalized parton distributions at the Electron-Ion Collider</title>
-      <link>https://doi.org/10.1103/qdb2-k2nh</link>
-      <description>Within the collinear factorization framework based on generalized parton distributions, we calculate the spin density matrix of exclusively produced quark and antiquark pairs uu¯, dd¯, ss¯, cc¯, bb¯ in electron-proton scattering. The presence of both real and imaginary parts in the scattering amplitudes leads to a rich pattern of entanglement between the quark and the antiquark. We map out kinematical regions where the pairs exhibit entanglement, Bell nonlocality, and nonstabilizerness. We also predict that massive quarks and antiquarks are transversely polarized, similar to the well-known transverse hyperon polarization in unpolarized collisions. In strangeness, charm, and bottom productions, the polarization can reach 50%–80% in certain kinematic regions in the low-energy runs of the Electron-Ion Collider.</description>
-      <source url="https://doi.org/10.1103/qdb2-k2nh">Physical Review D</source>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qdb2-k2nh</guid>
-    </item><item>
-      <title>Resurrecting the coherent state variational algorithm for large N gauge theories</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)091</link>
-      <description>The feasibility of studying, numerically, properties of infinite volume QCD-like theories in the large N limit using coherent state variational methods is reassessed. An entirely new implementation of this approach is described, applicable to SU(N) lattice gauge theories, with or without fundamental representation fermions, on cubic lattices of up to four dimensions. In addition to various test cases, initial results are presented for Hamiltonian Yang-Mills theory on an infinite two-dimensional spatial lattice.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)091">Journal of High Energy Physics</source>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)091</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)090</guid>
     </item>
   </channel>
 </rss>
