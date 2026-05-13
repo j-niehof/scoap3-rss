@@ -5,8 +5,59 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 17:36:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:37:12 +0000</lastBuildDate>
     <item>
+      <title>i-ncidental N-naturalness</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)127</link>
+      <description>N-naturalness is a novel solution to the electroweak hierarchy problem which posits N copies of the Standard Model with varying Higgs mass-squared parameters. Reheating proceeds through a “reheaton” particle that deposits most of its energy density into the Standard Model and small but potentially measurable fractions into the other copies. Typically the sector with the lightest negative Higgs mass-squared is identified as the Standard Model. We demonstrate that N-naturalness admits a broader class of realizations in which the Standard Model is identified with a heavier sector, rather than being restricted to the lightest. This is made possible by resonant mixing between the reheaton and the Higgs, which generically causes one sector to be preferentially reheated and to acquire the largest share of the energy density, singling it out as the Standard Model. We demonstrate that this scenario is consistent with current cosmological bounds on new relativistic degrees of freedom and overclo</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)127">Journal of High Energy Physics</source>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)127</guid>
+    </item><item>
+      <title>Search for lepton-number-violating B−→D(*)+μ−μ− decays</title>
+      <link>https://doi.org/10.1103/r27c-9ghw</link>
+      <description>A search is performed for lepton-number-violating B−→D(*)+μ−μ− decays, using data collected by the LHCb experiment in proton-proton collisions at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 5.4 fb−1. No significant signal is observed, and upper limits are set on the branching fractions, B(B−→D+μ−μ−)4.6×10−8 and B(B−→D*+μ−μ−)5.9×10−8, at the 95% confidence level.</description>
+      <source url="https://doi.org/10.1103/r27c-9ghw">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/r27c-9ghw</guid>
+    </item><item>
+      <title>Split-helicity tree amplitudes and flag cluster algebras</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)130</link>
+      <description>Recent work has uncovered a connection between the symbol letters of general massless scattering and (permutations of) cluster variables of partial flag varieties. In this paper we explore the cluster adjacency of tree-level gluon amplitudes, specifically focusing on split-helicity amplitudes which can be written in closed form in terms of zigzag diagrams. We check in several cases, and conjecture in general, that the poles in each term satisfy cluster adjacency under a set of permutations that is built from arc permutations of the corresponding zigzag.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)130">Journal of High Energy Physics</source>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)130</guid>
+    </item><item>
+      <title>Higher structure of non-invertible symmetries from Lagrangian descriptions</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)120</link>
+      <description>The symmetry structure of a quantum field theory is determined not only by the topological defects that implement the symmetry and their fusion rules, but also by the topological networks they can form, which is referred to as the higher structure of the symmetry. In this paper, we consider theories with non-invertible symmetries that have an explicit Lagrangian description, and use it to study their higher structure. Starting with the 2d free compact boson theory and its non-invertible duality defects, we will find Lagrangian descriptions of networks of defects and use them to recover all the F-symbols of the familiar Tambara-Yamagami fusion category TY(ℤ , +1). We will then use the same approach in 4d Maxwell theory to compute F-symbols associated with its non-invertible duality and triality defects, which are 2d topological field theories. In addition, we will also compute some of the F-symbols using a different (group theoretical) approach that is not based on the Lagrangian descri</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)120">Journal of High Energy Physics</source>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)120</guid>
+    </item><item>
+      <title>Large charge bootstrap with U(1) current probes</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)121</link>
+      <description>We study the large-charge bootstrap for conformal field theories with a U(1) symmetry extending the analysis of scalar probes to include conserved currents. We formulate the bootstrap equations and analyze their solutions assuming the existence of a non-trivial macroscopic limit and that the spectrum organizes into a finite number of Regge trajectories. We show that current probes lead to additional bootstrap constraints that are absent in the purely scalar case, and we classify the resulting solutions.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)121">Journal of High Energy Physics</source>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)121</guid>
+    </item><item>
+      <title>Proton transparency and neutrino physics: New methods and modeling</title>
+      <link>https://doi.org/10.1103/7xct-5jcp</link>
+      <description>Extracting accurate results from neutrino oscillation and cross section experiments requires accurate simulation of the neutrino-nucleus interaction. The rescattering of outgoing hadrons (final state interactions) by the rest of the nucleus is an important component of these interactions. We present a new measurement of proton transparency (defined as the fraction of outgoing protons that emerge without significant rescattering) using electron-nucleus scattering data recorded by the CLAS detector at Jefferson Laboratory on helium, carbon, and iron targets. This analysis uses a new data-driven method to extract the transparency. It defines transparency as the ratio of electron-scattering events with a detected proton to quasi-elastic electron-scattering events where a proton should have been knocked out. Our results are consistent with previous measurements that determined the transparency from the ratio of measured events to theoretically predicted events. We find that the GENIE event </description>
+      <source url="https://doi.org/10.1103/7xct-5jcp">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7xct-5jcp</guid>
+    </item><item>
+      <title>Sensitivity of Higgs factories to composite Higgs models via precision measurements</title>
+      <link>https://doi.org/10.1103/jgsv-fdyk</link>
+      <description>We investigate the potential of precision Higgs factory measurements to discover signatures of a representative model of electroweak symmetry breaking in which the Higgs boson arises as a composite Nambu-Goldstone boson. In this model, as in other models of the “Little Higgs” or Natural Composite Higgs type, the primary perturbations of the Standard Model come from effects of vectorlike top quark partners. We carry out an explicit calculation of the Higgs potential in this model. Applying phenomenological constraints, we are left with a three-dimensional parameter space. We then present results from a complete scan of this parameter space. The region in which there are significant departures from the Standard Model predictions extends to models in which the lightest top quark partner has a mass above 3 TeV. Little Higgs models with such heavy top partners also predict significant deviations from the Standard Model in the top quark electroweak couplings, in particular, in the model stud</description>
+      <source url="https://doi.org/10.1103/jgsv-fdyk">Physical Review D</source>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jgsv-fdyk</guid>
+    </item><item>
       <title>Replica manifolds, pole skipping, and the butterfly effect</title>
       <link>https://doi.org/10.1007/JHEP05(2026)108</link>
       <description>The black hole butterfly effect is a signal of quantum chaos in holographic theories that can be probed in different ways, including out-of-time-order correlators (OTOCs), pole skipping (PS), and entanglement wedge (EW) reconstruction. Each of these three phenomena can be used to define a butterfly velocity that measures the speed at which chaos spreads. In a general quantum system the three velocities v_B^textrmOTOC , v_B^textrmPS , and v_B^textrmEW can be different, but it is known from explicit calculations that they are all equal in certain holographic theories dual to Einstein gravity plus higher-curvature corrections. A conceptual explanation for this apparent coincidence is lacking. We show that it follows from a deeper relationship: the pole-skipping mode, added to the black hole background, can be reinterpreted as the gravitational replica manifold for the late-time entanglement wedge, and its imaginary part is the shockwave that computes the OTOC. Thus pole skipping is direct</description>
@@ -41,6 +92,14 @@
       <source url="https://doi.org/10.1007/JHEP05(2026)092">Journal of High Energy Physics</source>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)092</guid>
+    </item><item>
+      <title>Coherent elastic neutrino-nucleus scattering at the Japan Proton Accelerator Research Complex</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)106</link>
+      <description>The Japan Proton Accelerator Research Complex (J-PARC) currently delivers a 1 MW, 3 GeV proton beam to the Materials and Life Science Experimental Facility (MLF). Power is expected to increase to 1.3 MW, driven by the needs of Hyper-Kamiokande. As a result, the MLF presently provides the highest neutron yield of any spallation source, while potentially holding the best current and foreseeable conditions for Coherent Elastic Neutrino-Nucleus Scattering (CEνNS) experimentation. We explore this potential, using as examples detector technologies presently funded for construction and under development. We quantify their sensitivity to a rich variety of particle physics scenarios, finding that very-high-statistics CEνNS measurements with significant sensitivity to relevant scenarios are feasible at this facility within the next few years.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)106">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)106</guid>
     </item><item>
       <title>Signs of nonmonotonic finite-volume corrections to gA</title>
       <link>https://doi.org/10.1103/q88h-2vz8</link>
@@ -93,64 +152,6 @@
       <source url="https://doi.org/10.1103/brm8-v5cc">Physical Review D</source>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/brm8-v5cc</guid>
-    </item><item>
-      <title>Field-theoretic versus data-driven evaluations of electromagnetic corrections to hadronic vacuum polarization in (g-2)μ</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15521-6</link>
-      <description>The Standard Model prediction of the muon g-2 increasingly depends on lattice QCD computations of the hadronic vacuum polarization (HVP), where the isospin-breaking (IB) effects remain a significant source of uncertainty. To complement the lattice QCD evaluations, the data-driven approach to HVP has been used to assess some of the electromagnetic IB effects, in particular from the channels with a photon in the final state, e.g., e^+e^-→ π ^0 γ . Here we argue that such contributions are largely canceled by virtual electromagnetic corrections to the purely hadronic channels: π ^+ π ^-, π ^+ π ^-π ^0 , etc. We identify these leading corrections by performing a field-theoretic calculation in a vector-meson dominance model, thereby reconciling the timelike and spacelike approaches to electromagnetic effects. Although these virtual corrections are more difficult to extract in a systematic manner, addressing them is essential for the data-driven method to consistently complement the lattice </description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15521-6">European Physical Journal C</source>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15521-6</guid>
-    </item><item>
-      <title>Mass spectroscopy and strong decays of open charm-strange mesons using relativistic Dirac formalism</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15725-w</link>
-      <description>The mass spectra of charm-strange mesons including ground, radial and orbital excitations have been calculated within a relativistic Dirac framework. The predicted masses of the first orbital excited state 1P exhibits excellent agreement with values reported by the PDG. Utilizing these mass predictions and an effective Lagrangian approach based on heavy quark and chiral symmetries, we have computed the OZI allowed two body strong decay widths of higher excited state candidates of charm-strange sector. The resulting partial widths and branching ratios enable the assignment of spin-parity quantum numbers to several newly observed charm-strange states. In particular, we identify D_sJ(2700) as the 2^3S₁ , D_s0(2590) as the 2^1S₀ , D_sJ(2860) as the 1^3D₃ , D_s1(2860) as the 1^3D₁ and D_sJ(3040) as the 2^1P₁ states. The effective coupling constants g_T , g_X , g_Y , tildeg_S and tildeg_H determined in the present study appear to be consistent with the reported values. Furthermore, the D^*K </description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15725-w">European Physical Journal C</source>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15725-w</guid>
-    </item><item>
-      <title>Nucleosynthesis and CMB bounds on photophilic ALPs: a fresh look</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15544-z</link>
-      <description>We provide a fresh look at the cosmological constraints on axion-like particles (ALPs) that couple predominantly to photons, focusing on lifetimes τ _a lesssim 10^4, textrms and masses m_alesssim 10,textrmGeV . We consider Big Bang nucleosynthesis (BBN) and Cosmic Microwave Background (CMB) bounds and explore how these limits depend upon the unknown reheating temperature of the Universe, T_textrmreh . Compared with some previous studies, we account for the rare decays of these ALPs into light hadrons and show that this leads to extended constraints for several reheating temperatures. Our limits are cast in a model-independent way, and we identify regions of parameter space where these ALPs could alleviate small tensions in the determinations of N_textrmeff and the deuterium abundance. Our Mathematica BBN code is publicly available at .</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15544-z">European Physical Journal C</source>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15544-z</guid>
-    </item><item>
-      <title>Schwinger-Keldysh effective theory of charge transport: redundancies and systematic ω/T expansion</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)079</link>
-      <description>We study Schwinger-Keldysh effective field theories (EFTs) for systems with non-Abelian internal symmetries near thermal equilibrium. We consider two approaches that were put forward in the literature — one using a redundant Goldstone parameterization, the other employing an adjoint matter field — and demonstrate their complete equivalence by providing an explicit dictionary and proving their equivalence at the path integral level. Critically, we extend both formalisms to be compatible with the dynamical Kubo-Martin-Schwinger (DKMS) symmetry to all orders in ℏω/T, classifying all possible invariant kernels satisfying unitarity constraints. We also establish precise power-counting rules, clarifying the interplay between the semiclassical and hydrodynamic expansions. Our work provides a framework for studying non-Abelian charge transport and fluctuations to arbitrary orders in ℏω/T.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)079">Journal of High Energy Physics</source>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)079</guid>
-    </item><item>
-      <title>Emergent mixed states for baby universes and black holes</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)090</link>
-      <description>We examine the behavior of sequences of states in the large N limit of AdS/CFT duality in cases in which the bulk duals involve baby universes or black holes. Such sequences generally fail to converge as pure states. Under suitable conditions, such as diverging coarse-grained entropy, they can converge to mixed states for the large N algebra, as in the case of black holes. For Euclidean preparations that produce baby universes, the sequences do not converge, due to wormhole contributions, and so these states cannot admit large N limits. Nevertheless, appropriate averaging over N can lead to convergence to a mixed state. The associated algebras have nontrivial commutants, which can possibly be interpreted as operators in the baby universe.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)090">Journal of High Energy Physics</source>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)090</guid>
-    </item><item>
-      <title>Search for Light Pseudoscalar Bosons, Pair-Produced in Higgs Boson Decays in the Four-Electron Final State in Proton-Proton Collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/r53x-8fqp</link>
-      <description>A search for pairs of light neutral pseudoscalar bosons (A) resulting from the decay of a Higgs boson is performed. The search is conducted using LHC proton-proton collision data at s=13 TeV, collected with the CMS detector in 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. The A boson decays into a highly collimated electron-positron pair. A novel multivariate algorithm using tracks and calorimeter information is developed to identify these distinctive signatures, and events are selected with two such merged electron-positron pairs. No significant excess above the standard model background predictions is observed. Upper limits on the branching fraction for H→AA→4e are set at 95% confidence level, for masses between 10 and 100 MeV and proper decay lengths below 100 μm, reaching branching fraction sensitivities as low as 10−5. This is the first search for Higgs boson decays to four electrons via light pseudoscalars at the LHC. It significantly improves the experimen</description>
-      <source url="https://doi.org/10.1103/r53x-8fqp">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/r53x-8fqp</guid>
-    </item><item>
-      <title>Measurement of the branching fractions and longitudinal polarizations of B(s)0→K*0K¯*0 decays</title>
-      <link>https://doi.org/10.1103/cd57-xr8f</link>
-      <description>A time-and flavor-integrated amplitude analysis of B0 and Bs0 decays to the (K+π−)(K−π+) final state in the K*(892)0K¯*(892)0 region is presented, using pp collision data recorded with the LHCb detector in 2011–2018, corresponding to an integrated luminosity of 9 fb−1. The branching fractions of the B0 and Bs0 decays are measured relative to the B0→D−π+ and Bs0→Ds−π+ modes, respectively. The corresponding longitudinal polarization fractions are found to be fLd=0.600±0.022±0.017 and fLs=0.159±0.010±0.007, where the uncertainties are statistical and systematic, respectively. The theory-motivated ratio of the squared Bs0 to B0 longitudinally polarized decay amplitudes is found to be LK*0K¯*0=4.92±0.55±0.48±0.02±0.10, where the uncertainties are statistical, systematic, due to uncertainty of external mass and lifetime measurements, and due to knowledge of the fragmentation fraction ratio, respectively. This confirms the previously reported tension between experimental determinations and th</description>
-      <source url="https://doi.org/10.1103/cd57-xr8f">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cd57-xr8f</guid>
-    </item><item>
-      <title>Emergent mixed states for baby universes and black holes</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)090</link>
-      <description>We examine the behavior of sequences of states in the large N limit of AdS/CFT duality in cases in which the bulk duals involve baby universes or black holes. Such sequences generally fail to converge as pure states. Under suitable conditions, such as diverging coarse-grained entropy, they can converge to mixed states for the large N algebra, as in the case of black holes. For Euclidean preparations that produce baby universes, the sequences do not converge, due to wormhole contributions, and so these states cannot admit large N limits. Nevertheless, appropriate averaging over N can lead to convergence to a mixed state. The associated algebras have nontrivial commutants, which can possibly be interpreted as operators in the baby universe.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)090">Journal of High Energy Physics</source>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)090</guid>
     </item>
   </channel>
 </rss>
