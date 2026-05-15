@@ -5,15 +5,30 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 17:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 16:27:07 +0000</lastBuildDate>
     <item>
-      <title>Precision measurement of the branching fraction for the decay ψ(2S)→τ+τ−</title>
-      <link>https://doi.org/10.1103/d1bz-msqd</link>
-      <description>Using (2259.3±11.1)×106 ψ(2S) events acquired with the BESIII detector, the branching fraction of ψ(2S)→τ+τ− is measured with improved precision to be Bψ(2S)→τ+τ−=(3.240±0.023±0.081)×10−3, where the first and second uncertainties are statistical and systematic, respectively, which is consistent with the world average value within 1 standard deviation. This value, along with those for the branching fractions of the ψ(2S) decaying into e+e− and μ+μ−, is in good agreement with the relation predicted by the sequential lepton hypothesis. Combining the branching fraction values with the leptonic width of the ψ(2S), the total width of the ψ(2S) is determined to be (287±9) keV.</description>
-      <source url="https://doi.org/10.1103/d1bz-msqd">Physical Review D</source>
+      <title>Extended BMS representations and strings</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)167</link>
+      <description>We construct in detail the irreducible representations of the BMS group with super rotations in three and four dimensions that have the same rest frame momenta as the massive and massless Poincaré point particles. We compare these representations to those of the Poincaré group and also to the analogous representations of global BMS. We argue that these extended BMS representations are carried by a string rather than a point particle. The super rotations play a crucial role in our discussions.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)167">Journal of High Energy Physics</source>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)167</guid>
+    </item><item>
+      <title>Search for Dark Particles in KL0→γX at the KOTO Experiment</title>
+      <link>https://doi.org/10.1103/zyx1-y1bj</link>
+      <description>We report a search for an invisible particle X in the decay KL0→γX (X→invisible), where X can be interpreted as a massless or massive dark photon. No evidence for X was found, based on 13 candidate events consistent with a predicted background of 12.66±4.42stat±2.13syst events. Upper limits on the branching ratio of KL0→γX were set for the X mass range 0≤mX≤425 MeV/c2. For massless X, the upper limit was 3.4×10−7 at the 90% confidence level, improving the previous indirect bound by over three orders of magnitude. This result yielded a new lower bound of 4.1×106 TeV on the probed effective mass scale governing flavor-changing dark-photon couplings, representing approximately two orders of magnitude improvement on existing constraints. For massive X, the upper limits in the searched mass region ranged from O(10−7) to O(10−3).</description>
+      <source url="https://doi.org/10.1103/zyx1-y1bj">Physical Review Letters</source>
       <author>et al.</author>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/d1bz-msqd</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/zyx1-y1bj</guid>
+    </item><item>
+      <title>Search for the rare decays of D→h(h(′))e+e−</title>
+      <link>https://doi.org/10.1103/1zvh-w47t</link>
+      <description>We search for 15 rare decays of D mesons to hadrons accompanied by an electron-positron pair D→h(h(′))e+e−, based on 20.3 fb−1 of e+e− collision data collected at the center-of-mass energy of 3.773 GeV with the BESIII detector at BEPCII. No significant signals are observed, and the corresponding upper limits on the branching fractions at the 90% confidence level are determined. The sensitivities of the results are at the level of 10−6∼10−7. The upper limits on the branching fractions for the D+→ρ+e+e−, D+→K*+e+e−, D0→KS0KS0e+e−, D0→π0π0e+e− and D0→η′e+e− decay channels are measured for the first time. For the D0→π0e+e−, D0→ηe+e−, D0→ωe+e−, D0→KS0e+e−, D+→π+π0e+e−, D+→K+π0e+e−, D+→π+KS0e+e− and D+→K+KS0e+e− decay channels, the upper limits on the branching fractions are determined, with an improvement of at least a factor of four compared to previous searches. The upper limits on the branching fractions for the D0→ρ0e+e− and D0→ϕe+e− decay channels are set at 0.7×10−6 and 4.6×10−6, resp</description>
+      <source url="https://doi.org/10.1103/1zvh-w47t">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1zvh-w47t</guid>
     </item><item>
       <title>Quantum symmetry and geometry in double-scaled SYK</title>
       <link>https://doi.org/10.1007/JHEP05(2026)148</link>
@@ -72,13 +87,6 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)127</guid>
     </item><item>
-      <title>i-ncidental N-naturalness</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)127</link>
-      <description>N-naturalness is a novel solution to the electroweak hierarchy problem which posits N copies of the Standard Model with varying Higgs mass-squared parameters. Reheating proceeds through a “reheaton” particle that deposits most of its energy density into the Standard Model and small but potentially measurable fractions into the other copies. Typically the sector with the lightest negative Higgs mass-squared is identified as the Standard Model. We demonstrate that N-naturalness admits a broader class of realizations in which the Standard Model is identified with a heavier sector, rather than being restricted to the lightest. This is made possible by resonant mixing between the reheaton and the Higgs, which generically causes one sector to be preferentially reheated and to acquire the largest share of the energy density, singling it out as the Standard Model. We demonstrate that this scenario is consistent with current cosmological bounds on new relativistic degrees of freedom and overclo</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)127">Journal of High Energy Physics</source>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)127</guid>
-    </item><item>
       <title>Search for lepton-number-violating B−→D(*)+μ−μ− decays</title>
       <link>https://doi.org/10.1103/r27c-9ghw</link>
       <description>A search is performed for lepton-number-violating B−→D(*)+μ−μ− decays, using data collected by the LHCb experiment in proton-proton collisions at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 5.4 fb−1. No significant signal is observed, and upper limits are set on the branching fractions, B(B−→D+μ−μ−)4.6×10−8 and B(B−→D*+μ−μ−)5.9×10−8, at the 95% confidence level.</description>
@@ -94,19 +102,13 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)130</guid>
     </item><item>
-      <title>Large charge bootstrap with U(1) current probes</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)121</link>
-      <description>We study the large-charge bootstrap for conformal field theories with a U(1) symmetry extending the analysis of scalar probes to include conserved currents. We formulate the bootstrap equations and analyze their solutions assuming the existence of a non-trivial macroscopic limit and that the spectrum organizes into a finite number of Regge trajectories. We show that current probes lead to additional bootstrap constraints that are absent in the purely scalar case, and we classify the resulting solutions.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)121">Journal of High Energy Physics</source>
+      <title>Proton transparency and neutrino physics: New methods and modeling</title>
+      <link>https://doi.org/10.1103/7xct-5jcp</link>
+      <description>Extracting accurate results from neutrino oscillation and cross section experiments requires accurate simulation of the neutrino-nucleus interaction. The rescattering of outgoing hadrons (final state interactions) by the rest of the nucleus is an important component of these interactions. We present a new measurement of proton transparency (defined as the fraction of outgoing protons that emerge without significant rescattering) using electron-nucleus scattering data recorded by the CLAS detector at Jefferson Laboratory on helium, carbon, and iron targets. This analysis uses a new data-driven method to extract the transparency. It defines transparency as the ratio of electron-scattering events with a detected proton to quasi-elastic electron-scattering events where a proton should have been knocked out. Our results are consistent with previous measurements that determined the transparency from the ratio of measured events to theoretically predicted events. We find that the GENIE event </description>
+      <source url="https://doi.org/10.1103/7xct-5jcp">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)121</guid>
-    </item><item>
-      <title>Sensitivity of Higgs factories to composite Higgs models via precision measurements</title>
-      <link>https://doi.org/10.1103/jgsv-fdyk</link>
-      <description>We investigate the potential of precision Higgs factory measurements to discover signatures of a representative model of electroweak symmetry breaking in which the Higgs boson arises as a composite Nambu-Goldstone boson. In this model, as in other models of the “Little Higgs” or Natural Composite Higgs type, the primary perturbations of the Standard Model come from effects of vectorlike top quark partners. We carry out an explicit calculation of the Higgs potential in this model. Applying phenomenological constraints, we are left with a three-dimensional parameter space. We then present results from a complete scan of this parameter space. The region in which there are significant departures from the Standard Model predictions extends to models in which the lightest top quark partner has a mass above 3 TeV. Little Higgs models with such heavy top partners also predict significant deviations from the Standard Model in the top quark electroweak couplings, in particular, in the model stud</description>
-      <source url="https://doi.org/10.1103/jgsv-fdyk">Physical Review D</source>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jgsv-fdyk</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/7xct-5jcp</guid>
     </item><item>
       <title>Sensitivity of Higgs factories to composite Higgs models via precision measurements</title>
       <link>https://doi.org/10.1103/jgsv-fdyk</link>
