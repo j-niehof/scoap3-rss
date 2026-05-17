@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 14:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 14:41:37 +0000</lastBuildDate>
     <item>
+      <title>Regular black holes with gravitational self-energy as dark matter</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15787-w</link>
+      <description>We incorporate the effect of non-local gravitational self-energy to obtain a neutral, non-singular spacetime geometry. This is achieved by using a non-local gravitational theory inspired by T-duality, where particle mass is not point-like but smeared over a region. This non-local gravitational self-interaction is derived from the Newtonian gravitational potential and energy density, allowing us to define a coordinate-independent quantity. Thus, we incorporate the non-local gravitational field into the spacetime metric. We demonstrate that the total ADM mass is modified by a finite, regularized gravitational mass term, leading to a regular solution of the Ayon-Beato-Garcia type metric but without electric charge. We show the existence of extremal configurations known as particle–black hole objects of order of the Planck mass, which are thermodynamically stable, have a vanishing Hawking temperature and could be a viable dark matter candidate.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15787-w">European Physical Journal C</source>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15787-w</guid>
+    </item><item>
       <title>Deciphering compressed electroweakino excesses with</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15710-3</link>
       <description>We present version 1.11 of , which extends the software package in several major ways to improve the handling of efficiency tables, the computation of observables in different reference frames and the calculation of statistical limits and/or significance. We detail how these improvements, whose development was motivated by the desire to implement two Run 2 LHC analyses targeting signatures with soft leptons and missing energy and exhibiting mild excesses (ATLAS-SUSY-2018-16 and ATLAS-SUSY-2019-09), have been implemented by both direct extensions of the code and integrations with third-party software. We then document the implementation and validation of these analyses, demonstrating their utility along with the improved statistics capabilities of through an investigation of the Next-to-Minimal Supersymmetric Standard Model in the context of a larger set of overlapping excesses in channels with soft leptons/jets and missing transverse energy.</description>
@@ -57,19 +64,20 @@
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)162</guid>
     </item><item>
-      <title>Inflation with a growing fifth dimension</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)169</link>
-      <description>Inflation generally assumes a field with nonzero potential that leads to inflationary expansion happening at arbitrarily early times. We demonstrate potentially observable consequences of inflation with a finite initial time in a model in five-dimensional warped anti-de Sitter space, with both a UV and an IR brane present during inflation. Considering an inflaton with an approximately flat potential localized on the UV brane, we derive the resulting brane motion in the bulk and the 4D effective action describing the dynamics. A concrete model allows us to evaluate possible consequences of a starting point of inflation. The background evolution is driven by the fast roll of the radion at early times and the slow roll of the inflaton at late times. We find that the action has the form of a two-field hyperbolic inflation model, the two fields being the radion and the inflaton, both of which have a time-dependent background solution. This setup is holographically dual to an inflaton couple</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)169">Journal of High Energy Physics</source>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)169</guid>
-    </item><item>
       <title>Extended BMS representations and strings</title>
       <link>https://doi.org/10.1007/JHEP05(2026)167</link>
       <description>We construct in detail the irreducible representations of the BMS group with super rotations in three and four dimensions that have the same rest frame momenta as the massive and massless Poincaré point particles. We compare these representations to those of the Poincaré group and also to the analogous representations of global BMS. We argue that these extended BMS representations are carried by a string rather than a point particle. The super rotations play a crucial role in our discussions.</description>
       <source url="https://doi.org/10.1007/JHEP05(2026)167">Journal of High Energy Physics</source>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)167</guid>
+    </item><item>
+      <title>Search for the rare decays of D→h(h(′))e+e−</title>
+      <link>https://doi.org/10.1103/1zvh-w47t</link>
+      <description>We search for 15 rare decays of D mesons to hadrons accompanied by an electron-positron pair D→h(h(′))e+e−, based on 20.3 fb−1 of e+e− collision data collected at the center-of-mass energy of 3.773 GeV with the BESIII detector at BEPCII. No significant signals are observed, and the corresponding upper limits on the branching fractions at the 90% confidence level are determined. The sensitivities of the results are at the level of 10−6∼10−7. The upper limits on the branching fractions for the D+→ρ+e+e−, D+→K*+e+e−, D0→KS0KS0e+e−, D0→π0π0e+e− and D0→η′e+e− decay channels are measured for the first time. For the D0→π0e+e−, D0→ηe+e−, D0→ωe+e−, D0→KS0e+e−, D+→π+π0e+e−, D+→K+π0e+e−, D+→π+KS0e+e− and D+→K+KS0e+e− decay channels, the upper limits on the branching fractions are determined, with an improvement of at least a factor of four compared to previous searches. The upper limits on the branching fractions for the D0→ρ0e+e− and D0→ϕe+e− decay channels are set at 0.7×10−6 and 4.6×10−6, resp</description>
+      <source url="https://doi.org/10.1103/1zvh-w47t">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1zvh-w47t</guid>
     </item><item>
       <title>Search for Dark Particles in KL0→γX at the KOTO Experiment</title>
       <link>https://doi.org/10.1103/zyx1-y1bj</link>
@@ -78,6 +86,30 @@
       <author>et al.</author>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/zyx1-y1bj</guid>
+    </item><item>
+      <title>Search for Dark Particles in KL0→γX at the KOTO Experiment</title>
+      <link>https://doi.org/10.1103/zyx1-y1bj</link>
+      <description>We report a search for an invisible particle X in the decay KL0→γX (X→invisible), where X can be interpreted as a massless or massive dark photon. No evidence for X was found, based on 13 candidate events consistent with a predicted background of 12.66±4.42stat±2.13syst events. Upper limits on the branching ratio of KL0→γX were set for the X mass range 0≤mX≤425 MeV/c2. For massless X, the upper limit was 3.4×10−7 at the 90% confidence level, improving the previous indirect bound by over three orders of magnitude. This result yielded a new lower bound of 4.1×106 TeV on the probed effective mass scale governing flavor-changing dark-photon couplings, representing approximately two orders of magnitude improvement on existing constraints. For massive X, the upper limits in the searched mass region ranged from O(10−7) to O(10−3).</description>
+      <source url="https://doi.org/10.1103/zyx1-y1bj">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/zyx1-y1bj</guid>
+    </item><item>
+      <title>Search for the rare decays of D→h(h(′))e+e−</title>
+      <link>https://doi.org/10.1103/1zvh-w47t</link>
+      <description>We search for 15 rare decays of D mesons to hadrons accompanied by an electron-positron pair D→h(h(′))e+e−, based on 20.3 fb−1 of e+e− collision data collected at the center-of-mass energy of 3.773 GeV with the BESIII detector at BEPCII. No significant signals are observed, and the corresponding upper limits on the branching fractions at the 90% confidence level are determined. The sensitivities of the results are at the level of 10−6∼10−7. The upper limits on the branching fractions for the D+→ρ+e+e−, D+→K*+e+e−, D0→KS0KS0e+e−, D0→π0π0e+e− and D0→η′e+e− decay channels are measured for the first time. For the D0→π0e+e−, D0→ηe+e−, D0→ωe+e−, D0→KS0e+e−, D+→π+π0e+e−, D+→K+π0e+e−, D+→π+KS0e+e− and D+→K+KS0e+e− decay channels, the upper limits on the branching fractions are determined, with an improvement of at least a factor of four compared to previous searches. The upper limits on the branching fractions for the D0→ρ0e+e− and D0→ϕe+e− decay channels are set at 0.7×10−6 and 4.6×10−6, resp</description>
+      <source url="https://doi.org/10.1103/1zvh-w47t">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1zvh-w47t</guid>
+    </item><item>
+      <title>Precision measurement of the branching fraction for the decay ψ(2S)→τ+τ−</title>
+      <link>https://doi.org/10.1103/d1bz-msqd</link>
+      <description>Using (2259.3±11.1)×106 ψ(2S) events acquired with the BESIII detector, the branching fraction of ψ(2S)→τ+τ− is measured with improved precision to be Bψ(2S)→τ+τ−=(3.240±0.023±0.081)×10−3, where the first and second uncertainties are statistical and systematic, respectively, which is consistent with the world average value within 1 standard deviation. This value, along with those for the branching fractions of the ψ(2S) decaying into e+e− and μ+μ−, is in good agreement with the relation predicted by the sequential lepton hypothesis. Combining the branching fraction values with the leptonic width of the ψ(2S), the total width of the ψ(2S) is determined to be (287±9) keV.</description>
+      <source url="https://doi.org/10.1103/d1bz-msqd">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/d1bz-msqd</guid>
     </item><item>
       <title>Classifying GNY-like models</title>
       <link>https://doi.org/10.1007/JHEP05(2026)150</link>
@@ -93,19 +125,19 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)149</guid>
     </item><item>
-      <title>Quantum symmetry and geometry in double-scaled SYK</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)148</link>
-      <description>The emergence of the quantum R-matrix in the double-scaled SYK model points to an underlying quantum group structure. In this work, we identify the quantum group 𝒰 (𝔰𝔲(1, 1)) as a subalgebra of the chord algebra. Specifically, we construct the generators of 𝒰 (𝔰𝔲(1, 1)) from combinations of operators within the chord algebra and show that the one-particle chord Hilbert space decomposes into the positive discrete series representations of 𝒰 (𝔰𝔲(1, 1)). Using the coproduct structure of the quantum group, we build the multi-particle Hilbert space and establish its equivalence with previous results defined by the chord rules. In particular, we show that the quantum R-matrix acts as a swapping operator that reverses the ordering of open chords in each fusion channel while incorporating the corresponding q-weighted penalty factors. This action enables an explicit derivation of the chord Yang-Baxter relation. We further explore a realization of the quantum group generators on the quantum disk</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)148">Journal of High Energy Physics</source>
+      <title>Classifying GNY-like models</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)150</link>
+      <description>We perform a systematic classification of (2+1)d Gross-Neveu-Yukawa-like models built out of one or more 4-component Dirac fermions and M scalar fields, which preserve an O(M) symmetry rotating the scalars. We then identify the perturbative fixed points of these models in the 4 – ϵ expansion. Our classification highlights several targets for the conformal bootstrap and reveals a new fixed point with M = 3, which we call the “orthogonal Heisenberg” CFT.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)150">Journal of High Energy Physics</source>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)148</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)150</guid>
     </item><item>
-      <title>How large can lepton mixing be?</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)142</link>
-      <description>We show that, contrary to common expectations, the observed charged leptons can have a substantial mixing with new heavier fermions, at the level of 20%. This can happen, in the language of effective theories, when the effect of mixing with heavier fermions vanishes at tree level in operators of mass-dimension 6 (or it is suppressed by the small charged lepton masses), a cancellation that can be naturally ensured by symmetries. Using a model that realizes this scenario we consider all current direct and indirect constraints and show that experimental constraints on the mixing are so mild that, given the current direct limit on the mass of the heavy fermions, theoretical considerations become the leading current constraints on the mixing. We also estimate the sensitivity to the mixing at future experiments, including the high-luminosity phase of the LHC and, most notably, the FCC-ee, and FCC-hh. We find a pattern in which the reach of direct searches in hadron machines makes theoretical</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)142">Journal of High Energy Physics</source>
+      <title>Bootstrapping extremal scalar amplitudes with and without supersymmetry</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)149</link>
+      <description>We re-examine positivity bounds on the 2 → 2 scattering of identical massless real scalars with a novel perspective on how these bounds can be used to constrain the spectrum of UV theories. We propose that the entire space of consistent weakly-coupled (and generically non-supersymmetric) UV amplitudes is determined as a convex hull of the massive scalar amplitude and a one-parameter family of scalarless “extremal amplitudes” parameterized by the ratio of the masses of the two lightest massive states. Further, we propose that the extremal amplitudes can be constructed from a similar one-parameter set of maximally supersymmetric amplitudes, leading to the surprising possibility that the S-matrix bootstrap with maximal supersymmetry may be sufficient to determine the entire allowed space of four-point amplitudes! Finally, we show that minimal spectrum input reduces the allowed space of Wilson coefficients to small islands around the open string Dirac-Born-Infeld tree amplitude and the clo</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)149">Journal of High Energy Physics</source>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)142</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)149</guid>
     </item><item>
       <title>Search for Higgsinos in final states with low-momentum lepton-track pairs at 13 TeV</title>
       <link>https://doi.org/10.1103/w3b5-92ls</link>
@@ -121,35 +153,6 @@
       <source url="https://doi.org/10.1103/56wg-gjk1">Physical Review D</source>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/56wg-gjk1</guid>
-    </item><item>
-      <title>β-decay spectrum of tritiated graphene: Combining nuclear quantum mechanics with density functional theory</title>
-      <link>https://doi.org/10.1103/gr8x-lf9f</link>
-      <description>We present the results of a multimethodological study aimed at investigating the interaction between graphene and tritium during its β-decay to helium, under different levels of loading and geometrical configurations. We combine density-functional theory (DFT) to evaluate the interaction potentials, with calculations of the decay rate, in order to study the consequences that the presence of the substrate has on the β-decay spectrum of tritium. We determine the shape of the event rate, accounting for the effects of (part of) the corresponding condensed-matter degrees of freedom. In the context of future neutrino experiments, our results provide important information aimed at the optimization of hosting material. Furthermore, our work outlines a novel theoretical and computational scheme to account for the different timescales involved in the process and to address a question at the boundary between high-and low-energy physics. This requires nonconventional declinations of DFT combined w</description>
-      <source url="https://doi.org/10.1103/gr8x-lf9f">Physical Review C</source>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/gr8x-lf9f</guid>
-    </item><item>
-      <title>Search for lepton-number-violating B−→D(*)+μ−μ− decays</title>
-      <link>https://doi.org/10.1103/r27c-9ghw</link>
-      <description>A search is performed for lepton-number-violating B−→D(*)+μ−μ− decays, using data collected by the LHCb experiment in proton-proton collisions at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 5.4 fb−1. No significant signal is observed, and upper limits are set on the branching fractions, B(B−→D+μ−μ−)4.6×10−8 and B(B−→D*+μ−μ−)5.9×10−8, at the 95% confidence level.</description>
-      <source url="https://doi.org/10.1103/r27c-9ghw">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/r27c-9ghw</guid>
-    </item><item>
-      <title>Split-helicity tree amplitudes and flag cluster algebras</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)130</link>
-      <description>Recent work has uncovered a connection between the symbol letters of general massless scattering and (permutations of) cluster variables of partial flag varieties. In this paper we explore the cluster adjacency of tree-level gluon amplitudes, specifically focusing on split-helicity amplitudes which can be written in closed form in terms of zigzag diagrams. We check in several cases, and conjecture in general, that the poles in each term satisfy cluster adjacency under a set of permutations that is built from arc permutations of the corresponding zigzag.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)130">Journal of High Energy Physics</source>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)130</guid>
-    </item><item>
-      <title>Higher structure of non-invertible symmetries from Lagrangian descriptions</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)120</link>
-      <description>The symmetry structure of a quantum field theory is determined not only by the topological defects that implement the symmetry and their fusion rules, but also by the topological networks they can form, which is referred to as the higher structure of the symmetry. In this paper, we consider theories with non-invertible symmetries that have an explicit Lagrangian description, and use it to study their higher structure. Starting with the 2d free compact boson theory and its non-invertible duality defects, we will find Lagrangian descriptions of networks of defects and use them to recover all the F-symbols of the familiar Tambara-Yamagami fusion category TY(ℤ , +1). We will then use the same approach in 4d Maxwell theory to compute F-symbols associated with its non-invertible duality and triality defects, which are 2d topological field theories. In addition, we will also compute some of the F-symbols using a different (group theoretical) approach that is not based on the Lagrangian descri</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)120">Journal of High Energy Physics</source>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)120</guid>
     </item>
   </channel>
 </rss>
