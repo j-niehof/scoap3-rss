@@ -5,8 +5,29 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 14:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 17:48:27 +0000</lastBuildDate>
     <item>
+      <title>A new connection between WIMP dark matter and the hierarchy problem</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)179</link>
+      <description>This work proposes a direct link between the hierarchy problem and Weakly Interacting Massive Particles (WIMPs): we suggest that the small mass of the Higgs boson arises from being dynamically driven to the scale of the WIMP. Such a special electroweak vacuum is singled out by lying close to the critical boundary of a phase transition, as recently explored in a new class of cosmological solutions to the hierarchy problem. They generically predict the Higgs potential to be destabilised just above the weak scale. Intriguingly, the requirement for new physics to achieve this coincides with two independently well-motivated expectations: a split spectrum of light fermions and heavy bosons, as anticipated from naturalness, and the so-called “WIMP miracle”. A WIMP with mass around the weak scale not only happens to have the correct thermal relic abundance to be the dark matter (DM), it can also give rise to the necessary critical boundary at the TeV scale through its Yukawa couplings to the H</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)179">Journal of High Energy Physics</source>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)179</guid>
+    </item><item>
+      <title>Higher-point correlators in the BFSS matrix model</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)160</link>
+      <description>We investigate higher-point correlators in the BFSS matrix model, a non-conformal theory dual to type IIA string theory, using Witten diagrams and techniques from the amplitudes program. While the Witten diagrams are more complex than those relevant for conformal holographic theories, we find that the added complexity is minimal. As an illustration, we compute the leading three-point Witten diagram, evaluating it in a squeezed limit using the method of regions. Our results provide new targets for future Monte-Carlo and quantum simulations of the BFSS matrix model.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)160">Journal of High Energy Physics</source>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)160</guid>
+    </item><item>
+      <title>Toponia at the HL-LHC and FCC-ee</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)154</link>
+      <description>The hint of a pseudoscalar toponium state at the Large Hadron Collider (LHC) opens a new avenue for studying a novel class of QCD (quasi-)bound states with comparable formation and decay times. Compared with charmonium and bottomonium, toponium is a quasi-bound state, resembling a hydrogen atom of the strong interaction, although it appears as a broader resonance. We compute the masses and annihilation decay widths of the lowest S-wave (η , ψ ) and P-wave (χ , χ ) toponium states, and assess their discovery prospects at the High-Luminosity LHC (HL-LHC) and future lepton colliders, such as the e e stage of the Future Circular Collider (FCC-ee). Detecting the vector ψ state at the HL-LHC is hindered by the Landau-Yang theorem and the gluon-dominated production environment of the collider, whereas lepton colliders offer promising sensitivity through both constituent and two-body decays. A more precise measurement of the η mass-approximately equal to that of ψ-at the LHC could help determi</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)154">Journal of High Energy Physics</source>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)154</guid>
+    </item><item>
       <title>Regular black holes with gravitational self-energy as dark matter</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15787-w</link>
       <description>We incorporate the effect of non-local gravitational self-energy to obtain a neutral, non-singular spacetime geometry. This is achieved by using a non-local gravitational theory inspired by T-duality, where particle mass is not point-like but smeared over a region. This non-local gravitational self-interaction is derived from the Newtonian gravitational potential and energy density, allowing us to define a coordinate-independent quantity. Thus, we incorporate the non-local gravitational field into the spacetime metric. We demonstrate that the total ADM mass is modified by a finite, regularized gravitational mass term, leading to a regular solution of the Ayon-Beato-Garcia type metric but without electric charge. We show the existence of extremal configurations known as particle–black hole objects of order of the Planck mass, which are thermodynamically stable, have a vanishing Hawking temperature and could be a viable dark matter candidate.</description>
@@ -57,27 +78,12 @@
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)155</guid>
     </item><item>
-      <title>The stringy geometry of integral cohomology in mirror symmetry</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)162</link>
-      <description>We examine the physical significance of torsion co-cycles in the cohomology of a projective Calabi-Yau three-fold for the (2,2) superconformal field theory (SCFT) associated to the non-linear sigma model with such a manifold as a target space. There are two independent torsion subgroups in the cohomology. While one is associated to an orbifold construction of the SCFT, the other encodes the possibility of turning on a topologically non-trivial flat gerbe for the NS-NS B-field. Inclusion of these data enriches mirror symmetry by providing a refinement of the familiar structures and points to a generalization of the duality symmetry, where the topology of the flat gerbe enters on the same footing as the topology of the underlying manifold.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)162">Journal of High Energy Physics</source>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)162</guid>
-    </item><item>
       <title>Extended BMS representations and strings</title>
       <link>https://doi.org/10.1007/JHEP05(2026)167</link>
       <description>We construct in detail the irreducible representations of the BMS group with super rotations in three and four dimensions that have the same rest frame momenta as the massive and massless Poincaré point particles. We compare these representations to those of the Poincaré group and also to the analogous representations of global BMS. We argue that these extended BMS representations are carried by a string rather than a point particle. The super rotations play a crucial role in our discussions.</description>
       <source url="https://doi.org/10.1007/JHEP05(2026)167">Journal of High Energy Physics</source>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)167</guid>
-    </item><item>
-      <title>Search for the rare decays of D→h(h(′))e+e−</title>
-      <link>https://doi.org/10.1103/1zvh-w47t</link>
-      <description>We search for 15 rare decays of D mesons to hadrons accompanied by an electron-positron pair D→h(h(′))e+e−, based on 20.3 fb−1 of e+e− collision data collected at the center-of-mass energy of 3.773 GeV with the BESIII detector at BEPCII. No significant signals are observed, and the corresponding upper limits on the branching fractions at the 90% confidence level are determined. The sensitivities of the results are at the level of 10−6∼10−7. The upper limits on the branching fractions for the D+→ρ+e+e−, D+→K*+e+e−, D0→KS0KS0e+e−, D0→π0π0e+e− and D0→η′e+e− decay channels are measured for the first time. For the D0→π0e+e−, D0→ηe+e−, D0→ωe+e−, D0→KS0e+e−, D+→π+π0e+e−, D+→K+π0e+e−, D+→π+KS0e+e− and D+→K+KS0e+e− decay channels, the upper limits on the branching fractions are determined, with an improvement of at least a factor of four compared to previous searches. The upper limits on the branching fractions for the D0→ρ0e+e− and D0→ϕe+e− decay channels are set at 0.7×10−6 and 4.6×10−6, resp</description>
-      <source url="https://doi.org/10.1103/1zvh-w47t">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1zvh-w47t</guid>
     </item><item>
       <title>Search for Dark Particles in KL0→γX at the KOTO Experiment</title>
       <link>https://doi.org/10.1103/zyx1-y1bj</link>
@@ -111,19 +117,13 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/d1bz-msqd</guid>
     </item><item>
-      <title>Classifying GNY-like models</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)150</link>
-      <description>We perform a systematic classification of (2+1)d Gross-Neveu-Yukawa-like models built out of one or more 4-component Dirac fermions and M scalar fields, which preserve an O(M) symmetry rotating the scalars. We then identify the perturbative fixed points of these models in the 4 – ϵ expansion. Our classification highlights several targets for the conformal bootstrap and reveals a new fixed point with M = 3, which we call the “orthogonal Heisenberg” CFT.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)150">Journal of High Energy Physics</source>
+      <title>Precision measurement of the branching fraction for the decay ψ(2S)→τ+τ−</title>
+      <link>https://doi.org/10.1103/d1bz-msqd</link>
+      <description>Using (2259.3±11.1)×106 ψ(2S) events acquired with the BESIII detector, the branching fraction of ψ(2S)→τ+τ− is measured with improved precision to be Bψ(2S)→τ+τ−=(3.240±0.023±0.081)×10−3, where the first and second uncertainties are statistical and systematic, respectively, which is consistent with the world average value within 1 standard deviation. This value, along with those for the branching fractions of the ψ(2S) decaying into e+e− and μ+μ−, is in good agreement with the relation predicted by the sequential lepton hypothesis. Combining the branching fraction values with the leptonic width of the ψ(2S), the total width of the ψ(2S) is determined to be (287±9) keV.</description>
+      <source url="https://doi.org/10.1103/d1bz-msqd">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)150</guid>
-    </item><item>
-      <title>Bootstrapping extremal scalar amplitudes with and without supersymmetry</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)149</link>
-      <description>We re-examine positivity bounds on the 2 → 2 scattering of identical massless real scalars with a novel perspective on how these bounds can be used to constrain the spectrum of UV theories. We propose that the entire space of consistent weakly-coupled (and generically non-supersymmetric) UV amplitudes is determined as a convex hull of the massive scalar amplitude and a one-parameter family of scalarless “extremal amplitudes” parameterized by the ratio of the masses of the two lightest massive states. Further, we propose that the extremal amplitudes can be constructed from a similar one-parameter set of maximally supersymmetric amplitudes, leading to the surprising possibility that the S-matrix bootstrap with maximal supersymmetry may be sufficient to determine the entire allowed space of four-point amplitudes! Finally, we show that minimal spectrum input reduces the allowed space of Wilson coefficients to small islands around the open string Dirac-Born-Infeld tree amplitude and the clo</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)149">Journal of High Energy Physics</source>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)149</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/d1bz-msqd</guid>
     </item><item>
       <title>Classifying GNY-like models</title>
       <link>https://doi.org/10.1007/JHEP05(2026)150</link>
