@@ -5,8 +5,61 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 17:48:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:53:58 +0000</lastBuildDate>
     <item>
+      <title>Analytic structure of the high-energy gravitational amplitude: Multi-H diagrams and classical 5PM logarithms</title>
+      <link>https://doi.org/10.1103/2qtg-6msp</link>
+      <description>We investigate the high-energy, small-angle limit of two-body gravitational scattering. Using power counting arguments and dispersion relations in an effective field theory for the Regge regime, we derive the general loop expansion that determines how the leading Regge logarithms and their complex structure arise as a power series in t/s. Focusing on the tower of multi-H diagrams that govern the leading logarithmic behavior, we compute the leading double logarithm at four loops (or equivalently fifth post-Minkowskian order, 5PM) using both effective field theory methods and the multi-Regge expansion, finding complete agreement. Finally, using the aforementioned dispersion relations, we extract the single logarithmic contribution to the imaginary part of the eikonal phase at 5PM in the Regge limit.</description>
+      <source url="https://doi.org/10.1103/2qtg-6msp">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2qtg-6msp</guid>
+    </item><item>
+      <title>Demystifying stringy miracles with eclectic flavor symmetries</title>
+      <link>https://doi.org/10.1103/p6p2-46s1</link>
+      <description>Effective field theories arising from string compactifications are subject to constraints originating from the duality transformations of string theory. Interpreting these so-called selection rules in terms of conventional symmetries has remained challenging. We show that particular selection rules in heterotic orbifolds can be explained from a subtle interplay between modular and traditional flavor symmetries within the eclectic flavor framework.</description>
+      <source url="https://doi.org/10.1103/p6p2-46s1">Physical Review D</source>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/p6p2-46s1</guid>
+    </item><item>
+      <title>Macdonald index from a refined Kontsevich-Soibelman operator</title>
+      <link>https://doi.org/10.1103/gv2h-8hs8</link>
+      <description>We propose a refinement of the Kontsevich-Soibelman operator for a class of four-dimensional N=2 superconformal field theories characterized by the following conditions: (1) Their Coulomb branch admits a source/sink chamber, i.e., a chamber in which the Bogomol’nyi-Prasad-Sommerfield (BPS) quiver consists of only source and sink nodes. (2) The nodes with valency greater than 2 of the BPS quiver in a source/sink chamber are either all sources or all sinks. We present strong evidence that the trace of this refined operator is related to the Macdonald index of the theory. In particular, we conjecture new closed form expressions for the Macdonald indices of the (A1,g) Argyres-Douglas theories for any simply laced Lie algebra g.</description>
+      <source url="https://doi.org/10.1103/gv2h-8hs8">Physical Review D</source>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/gv2h-8hs8</guid>
+    </item><item>
+      <title>Precise Measurement of Matter-Antimatter Asymmetry with Entangled Hyperon-Antihyperon Pairs</title>
+      <link>https://doi.org/10.1103/c1fz-9r8q</link>
+      <description>A search for CP violation with an entangled system of Ξ−Ξ¯+ pairs is performed, using (10,087±44)×106 J/ψ events collected with the BESIII experiment. A nine-dimensional helicity amplitude is used to fit e+e−→J/ψ→Ξ−Ξ¯+ and its subsequent decays. The Ξ− and Ξ¯+ decay parameters are determined with higher precision compared to the best results reported so far. Furthermore, the strong phase difference, (δP−δS)=(0.3±1.2±0.2)×10−2 rad, and the weak phase difference, (ξP−ξS)=(−0.2±1.2±0.1)×10−2 rad, are directly determined. These are the most precise measurements to date. The CP asymmetry observables ACPΞ=(−7.8±4.8±0.8)×10−3 and ΔϕCPΞ=(0.6±5.1±0.2)×10−3 rad are determined, which are consistent with CP conservation. In addition, independent measurements of the Λ decay parameter and CP asymmetry ACPΛ=(−2.9±4.3±0.7)×10−3 are also obtained, which are in agreement with the previous measurements, but with much improved precision.</description>
+      <source url="https://doi.org/10.1103/c1fz-9r8q">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/c1fz-9r8q</guid>
+    </item><item>
+      <title>Search for ψ0(4360)→ηψ(2S) through the process e+e−→ηηψ(2S)</title>
+      <link>https://doi.org/10.1103/5tcy-gpd2</link>
+      <description>Using data samples corresponding to an integrated luminosity of 0.9 fb−1 collected with the BESIII detector operating at the BEPCII storage ring at the center-of-mass energies of 4.84, 4.92, and 4.95 GeV, we search for the exotic charmoniumlike state with quantum numbers JPC=0−−, ψ0(4360), in the process e+e−→ηψ0(4360) with ψ0(4360)→ηψ(2S). No significant signal of the ψ0(4360) resonance state is observed. Upper limits on σ(e+e−→ηψ0(4360))·B(ψ0(4360)→ηψ(2S)) and σ(e+e−→ηηψ(2S)) at the 90% confidence level are determined for each energy point.</description>
+      <source url="https://doi.org/10.1103/5tcy-gpd2">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5tcy-gpd2</guid>
+    </item><item>
+      <title>Role of Final-State Interaction Modeling in Neutrino-Energy Reconstruction and Oscillation Measurements</title>
+      <link>https://doi.org/10.1103/5ckv-2hpk</link>
+      <description>We present a quantitative demonstration that, without additional theoretical and experimental efforts, realistic variations in final-state interaction (FSI) modeling may alter reconstructed neutrino-energy spectra at next-generation long-baseline experiments by amounts comparable to, or larger than, variations induced by oscillation-parameter shifts at their projected precision. Using the DUNE flux and baseline as a case study, we show that these FSI-driven distortions can mimic the effects of changes in the oscillation parameters Δm322 or δCP, producing a potential degeneracy. Our analysis thereby underscores the urgent need for an improved characterization of FSI to enable robust constraints from near detectors through the development of theory-driven uncertainty parameterizations benchmarked with dedicated new measurements.</description>
+      <source url="https://doi.org/10.1103/5ckv-2hpk">Physical Review Letters</source>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5ckv-2hpk</guid>
+    </item><item>
+      <title>Precise Measurement of Matter-Antimatter Asymmetry with Entangled Hyperon-Antihyperon Pairs</title>
+      <link>https://doi.org/10.1103/c1fz-9r8q</link>
+      <description>A search for CP violation with an entangled system of Ξ−Ξ¯+ pairs is performed, using (10,087±44)×106 J/ψ events collected with the BESIII experiment. A nine-dimensional helicity amplitude is used to fit e+e−→J/ψ→Ξ−Ξ¯+ and its subsequent decays. The Ξ− and Ξ¯+ decay parameters are determined with higher precision compared to the best results reported so far. Furthermore, the strong phase difference, (δP−δS)=(0.3±1.2±0.2)×10−2 rad, and the weak phase difference, (ξP−ξS)=(−0.2±1.2±0.1)×10−2 rad, are directly determined. These are the most precise measurements to date. The CP asymmetry observables ACPΞ=(−7.8±4.8±0.8)×10−3 and ΔϕCPΞ=(0.6±5.1±0.2)×10−3 rad are determined, which are consistent with CP conservation. In addition, independent measurements of the Λ decay parameter and CP asymmetry ACPΛ=(−2.9±4.3±0.7)×10−3 are also obtained, which are in agreement with the previous measurements, but with much improved precision.</description>
+      <source url="https://doi.org/10.1103/c1fz-9r8q">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/c1fz-9r8q</guid>
+    </item><item>
       <title>A new connection between WIMP dark matter and the hierarchy problem</title>
       <link>https://doi.org/10.1007/JHEP05(2026)179</link>
       <description>This work proposes a direct link between the hierarchy problem and Weakly Interacting Massive Particles (WIMPs): we suggest that the small mass of the Higgs boson arises from being dynamically driven to the scale of the WIMP. Such a special electroweak vacuum is singled out by lying close to the critical boundary of a phase transition, as recently explored in a new class of cosmological solutions to the hierarchy problem. They generically predict the Higgs potential to be destabilised just above the weak scale. Intriguingly, the requirement for new physics to achieve this coincides with two independently well-motivated expectations: a split spectrum of light fermions and heavy bosons, as anticipated from naturalness, and the so-called “WIMP miracle”. A WIMP with mass around the weak scale not only happens to have the correct thermal relic abundance to be the dark matter (DM), it can also give rise to the necessary critical boundary at the TeV scale through its Yukawa couplings to the H</description>
@@ -14,19 +67,19 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)179</guid>
     </item><item>
-      <title>Higher-point correlators in the BFSS matrix model</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)160</link>
-      <description>We investigate higher-point correlators in the BFSS matrix model, a non-conformal theory dual to type IIA string theory, using Witten diagrams and techniques from the amplitudes program. While the Witten diagrams are more complex than those relevant for conformal holographic theories, we find that the added complexity is minimal. As an illustration, we compute the leading three-point Witten diagram, evaluating it in a squeezed limit using the method of regions. Our results provide new targets for future Monte-Carlo and quantum simulations of the BFSS matrix model.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)160">Journal of High Energy Physics</source>
+      <title>(Anti)-de Sitter with leaky boundaries and corners</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)185</link>
+      <description>We construct charges for four-dimensional spacetimes with a non-vanishing cosmological constant, including charges that are not conserved because of a leaky boundary and charges associated with corner terms in the symplectic current. The construction leads to manifestly finite charges for any choice of boundary conditions, and reveals new charges in partial Bondi gauge for an enlarged class of field configurations which are not fully on-shell, including a Weyl charge for conformal boundary conditions. In addition, we generalize the variational principle for AdS gravity with Dirichlet boundary conditions to a wedge of spacetime where the conformal boundary includes a corner. The boundary data is completely general, with no conditions restricting time dependence or the determinant of the metric. The Ward identities associated with boundary diffeomorphisms are shown to reproduce the evolution equations for the mass and angular momentum of fully on-shell field configurations.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)185">Journal of High Energy Physics</source>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)160</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)185</guid>
     </item><item>
-      <title>Toponia at the HL-LHC and FCC-ee</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)154</link>
-      <description>The hint of a pseudoscalar toponium state at the Large Hadron Collider (LHC) opens a new avenue for studying a novel class of QCD (quasi-)bound states with comparable formation and decay times. Compared with charmonium and bottomonium, toponium is a quasi-bound state, resembling a hydrogen atom of the strong interaction, although it appears as a broader resonance. We compute the masses and annihilation decay widths of the lowest S-wave (η , ψ ) and P-wave (χ , χ ) toponium states, and assess their discovery prospects at the High-Luminosity LHC (HL-LHC) and future lepton colliders, such as the e e stage of the Future Circular Collider (FCC-ee). Detecting the vector ψ state at the HL-LHC is hindered by the Landau-Yang theorem and the gluon-dominated production environment of the collider, whereas lepton colliders offer promising sensitivity through both constituent and two-body decays. A more precise measurement of the η mass-approximately equal to that of ψ-at the LHC could help determi</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)154">Journal of High Energy Physics</source>
+      <title>Analytic thermal bootstrap meets holography</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)180</link>
+      <description>We compute thermal holographic correlators by combining their analytic structure with the Kubo-Martin-Schwinger (KMS) condition and multi-stress tensor OPE coefficients determined from the dual AdS description. We focus on two-point functions of identical scalar operators with integer conformal dimensions at zero spatial separation. In the black brane background, we show explicitly that holographic two-point functions split into three contributions: a principal one, computed exactly, plus regularized and arcs contributions, both approximated through the use of OPE coefficients asymptotics. For ∆ = 3, we show that the principal contribution agree with good approximation with the numerical solution of the bulk wave equation. Moreover, we demonstrate that the expansion in generalized free field correlators proposed in [1] admits a natural interpretation in terms of Witten diagrams. Finally, we initiate the study of thermal correlators in the spherically symmetric black hole background, co</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)180">Journal of High Energy Physics</source>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)154</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)180</guid>
     </item><item>
       <title>Regular black holes with gravitational self-energy as dark matter</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15787-w</link>
@@ -34,6 +87,13 @@
       <source url="https://doi.org/10.1140/epjc/s10052-026-15787-w">European Physical Journal C</source>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15787-w</guid>
+    </item><item>
+      <title>Deciphering compressed electroweakino excesses with</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15710-3</link>
+      <description>We present version 1.11 of , which extends the software package in several major ways to improve the handling of efficiency tables, the computation of observables in different reference frames and the calculation of statistical limits and/or significance. We detail how these improvements, whose development was motivated by the desire to implement two Run 2 LHC analyses targeting signatures with soft leptons and missing energy and exhibiting mild excesses (ATLAS-SUSY-2018-16 and ATLAS-SUSY-2019-09), have been implemented by both direct extensions of the code and integrations with third-party software. We then document the implementation and validation of these analyses, demonstrating their utility along with the improved statistics capabilities of through an investigation of the Next-to-Minimal Supersymmetric Standard Model in the context of a larger set of overlapping excesses in channels with soft leptons/jets and missing transverse energy.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15710-3">European Physical Journal C</source>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15710-3</guid>
     </item><item>
       <title>Deciphering compressed electroweakino excesses with</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15710-3</link>
@@ -78,81 +138,19 @@
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)155</guid>
     </item><item>
-      <title>Extended BMS representations and strings</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)167</link>
-      <description>We construct in detail the irreducible representations of the BMS group with super rotations in three and four dimensions that have the same rest frame momenta as the massive and massless Poincaré point particles. We compare these representations to those of the Poincaré group and also to the analogous representations of global BMS. We argue that these extended BMS representations are carried by a string rather than a point particle. The super rotations play a crucial role in our discussions.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)167">Journal of High Energy Physics</source>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)167</guid>
+      <title>The stringy geometry of integral cohomology in mirror symmetry</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)162</link>
+      <description>We examine the physical significance of torsion co-cycles in the cohomology of a projective Calabi-Yau three-fold for the (2,2) superconformal field theory (SCFT) associated to the non-linear sigma model with such a manifold as a target space. There are two independent torsion subgroups in the cohomology. While one is associated to an orbifold construction of the SCFT, the other encodes the possibility of turning on a topologically non-trivial flat gerbe for the NS-NS B-field. Inclusion of these data enriches mirror symmetry by providing a refinement of the familiar structures and points to a generalization of the duality symmetry, where the topology of the flat gerbe enters on the same footing as the topology of the underlying manifold.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)162">Journal of High Energy Physics</source>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)162</guid>
     </item><item>
-      <title>Search for Dark Particles in KL0→γX at the KOTO Experiment</title>
-      <link>https://doi.org/10.1103/zyx1-y1bj</link>
-      <description>We report a search for an invisible particle X in the decay KL0→γX (X→invisible), where X can be interpreted as a massless or massive dark photon. No evidence for X was found, based on 13 candidate events consistent with a predicted background of 12.66±4.42stat±2.13syst events. Upper limits on the branching ratio of KL0→γX were set for the X mass range 0≤mX≤425 MeV/c2. For massless X, the upper limit was 3.4×10−7 at the 90% confidence level, improving the previous indirect bound by over three orders of magnitude. This result yielded a new lower bound of 4.1×106 TeV on the probed effective mass scale governing flavor-changing dark-photon couplings, representing approximately two orders of magnitude improvement on existing constraints. For massive X, the upper limits in the searched mass region ranged from O(10−7) to O(10−3).</description>
-      <source url="https://doi.org/10.1103/zyx1-y1bj">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/zyx1-y1bj</guid>
-    </item><item>
-      <title>Search for Dark Particles in KL0→γX at the KOTO Experiment</title>
-      <link>https://doi.org/10.1103/zyx1-y1bj</link>
-      <description>We report a search for an invisible particle X in the decay KL0→γX (X→invisible), where X can be interpreted as a massless or massive dark photon. No evidence for X was found, based on 13 candidate events consistent with a predicted background of 12.66±4.42stat±2.13syst events. Upper limits on the branching ratio of KL0→γX were set for the X mass range 0≤mX≤425 MeV/c2. For massless X, the upper limit was 3.4×10−7 at the 90% confidence level, improving the previous indirect bound by over three orders of magnitude. This result yielded a new lower bound of 4.1×106 TeV on the probed effective mass scale governing flavor-changing dark-photon couplings, representing approximately two orders of magnitude improvement on existing constraints. For massive X, the upper limits in the searched mass region ranged from O(10−7) to O(10−3).</description>
-      <source url="https://doi.org/10.1103/zyx1-y1bj">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/zyx1-y1bj</guid>
-    </item><item>
-      <title>Search for the rare decays of D→h(h(′))e+e−</title>
-      <link>https://doi.org/10.1103/1zvh-w47t</link>
-      <description>We search for 15 rare decays of D mesons to hadrons accompanied by an electron-positron pair D→h(h(′))e+e−, based on 20.3 fb−1 of e+e− collision data collected at the center-of-mass energy of 3.773 GeV with the BESIII detector at BEPCII. No significant signals are observed, and the corresponding upper limits on the branching fractions at the 90% confidence level are determined. The sensitivities of the results are at the level of 10−6∼10−7. The upper limits on the branching fractions for the D+→ρ+e+e−, D+→K*+e+e−, D0→KS0KS0e+e−, D0→π0π0e+e− and D0→η′e+e− decay channels are measured for the first time. For the D0→π0e+e−, D0→ηe+e−, D0→ωe+e−, D0→KS0e+e−, D+→π+π0e+e−, D+→K+π0e+e−, D+→π+KS0e+e− and D+→K+KS0e+e− decay channels, the upper limits on the branching fractions are determined, with an improvement of at least a factor of four compared to previous searches. The upper limits on the branching fractions for the D0→ρ0e+e− and D0→ϕe+e− decay channels are set at 0.7×10−6 and 4.6×10−6, resp</description>
-      <source url="https://doi.org/10.1103/1zvh-w47t">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1zvh-w47t</guid>
-    </item><item>
-      <title>Precision measurement of the branching fraction for the decay ψ(2S)→τ+τ−</title>
-      <link>https://doi.org/10.1103/d1bz-msqd</link>
-      <description>Using (2259.3±11.1)×106 ψ(2S) events acquired with the BESIII detector, the branching fraction of ψ(2S)→τ+τ− is measured with improved precision to be Bψ(2S)→τ+τ−=(3.240±0.023±0.081)×10−3, where the first and second uncertainties are statistical and systematic, respectively, which is consistent with the world average value within 1 standard deviation. This value, along with those for the branching fractions of the ψ(2S) decaying into e+e− and μ+μ−, is in good agreement with the relation predicted by the sequential lepton hypothesis. Combining the branching fraction values with the leptonic width of the ψ(2S), the total width of the ψ(2S) is determined to be (287±9) keV.</description>
-      <source url="https://doi.org/10.1103/d1bz-msqd">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/d1bz-msqd</guid>
-    </item><item>
-      <title>Precision measurement of the branching fraction for the decay ψ(2S)→τ+τ−</title>
-      <link>https://doi.org/10.1103/d1bz-msqd</link>
-      <description>Using (2259.3±11.1)×106 ψ(2S) events acquired with the BESIII detector, the branching fraction of ψ(2S)→τ+τ− is measured with improved precision to be Bψ(2S)→τ+τ−=(3.240±0.023±0.081)×10−3, where the first and second uncertainties are statistical and systematic, respectively, which is consistent with the world average value within 1 standard deviation. This value, along with those for the branching fractions of the ψ(2S) decaying into e+e− and μ+μ−, is in good agreement with the relation predicted by the sequential lepton hypothesis. Combining the branching fraction values with the leptonic width of the ψ(2S), the total width of the ψ(2S) is determined to be (287±9) keV.</description>
-      <source url="https://doi.org/10.1103/d1bz-msqd">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/d1bz-msqd</guid>
-    </item><item>
-      <title>Classifying GNY-like models</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)150</link>
-      <description>We perform a systematic classification of (2+1)d Gross-Neveu-Yukawa-like models built out of one or more 4-component Dirac fermions and M scalar fields, which preserve an O(M) symmetry rotating the scalars. We then identify the perturbative fixed points of these models in the 4 – ϵ expansion. Our classification highlights several targets for the conformal bootstrap and reveals a new fixed point with M = 3, which we call the “orthogonal Heisenberg” CFT.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)150">Journal of High Energy Physics</source>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)150</guid>
-    </item><item>
-      <title>Bootstrapping extremal scalar amplitudes with and without supersymmetry</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)149</link>
-      <description>We re-examine positivity bounds on the 2 → 2 scattering of identical massless real scalars with a novel perspective on how these bounds can be used to constrain the spectrum of UV theories. We propose that the entire space of consistent weakly-coupled (and generically non-supersymmetric) UV amplitudes is determined as a convex hull of the massive scalar amplitude and a one-parameter family of scalarless “extremal amplitudes” parameterized by the ratio of the masses of the two lightest massive states. Further, we propose that the extremal amplitudes can be constructed from a similar one-parameter set of maximally supersymmetric amplitudes, leading to the surprising possibility that the S-matrix bootstrap with maximal supersymmetry may be sufficient to determine the entire allowed space of four-point amplitudes! Finally, we show that minimal spectrum input reduces the allowed space of Wilson coefficients to small islands around the open string Dirac-Born-Infeld tree amplitude and the clo</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)149">Journal of High Energy Physics</source>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)149</guid>
-    </item><item>
-      <title>Search for Higgsinos in final states with low-momentum lepton-track pairs at 13 TeV</title>
-      <link>https://doi.org/10.1103/w3b5-92ls</link>
-      <description>We present a search for the pair production of Higgsinos in final states with large missing transverse momentum and either two reconstructed muons or a reconstructed lepton (muon or electron) and an isolated track. The analyzed data correspond to proton-proton collisions with an integrated luminosity of 137 fb−1, collected by the CMS experiment at s=13 TeV in 2016, 2017, and 2018. The signal scenario assumes four nearly mass degenerate Higgsino mass eigenstates: two neutralino states χ˜20 and χ˜10 with a small mass difference in the range 1–10 GeV and two chargino states χ˜1± with an intermediate mass. The analysis focuses on the decay of the heavier neutralino into the lighter one and a virtual Z boson, which decays into two same-flavor leptons. The leptons have small transverse momentum and/or a small opening angle between the identified muons. An isolated track is used to recover events in which only one of the two leptons is identified. Multivariate discriminants are used to enhanc</description>
-      <source url="https://doi.org/10.1103/w3b5-92ls">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/w3b5-92ls</guid>
-    </item><item>
-      <title>Vertex corrections and wavefunction renormalization for atoms, nuclei, and other heavy composite particles</title>
-      <link>https://doi.org/10.1103/56wg-gjk1</link>
-      <description>We study quantum electrodynamics (QED) corrections to operator matrix elements involving heavy composite particles (e.g., heavy-mesons, nuclei, and atoms). We define a new notion of reducible and irreducible graphs which is useful for systems with many discrete excited states. The equivalence of the Lehman-Symanzik-Zimmerman (LSZ) reduction formula and old fashioned perturbation theory is explicitly demonstrated. The self-energy and vertex corrections are defined (to all orders), and the one-loop corrections are reduced to operator matrix elements which may be evaluated by hadronic, nuclear, or atomic theorists. The gauge dependence of the various pieces are studied in detail at one loop, and cancellation of spurious contributions are demonstrated in a class of covariant gauges; Coulomb gauge is also discussed. The formalism is applied to superallowed beta decay where the one-loop structure is connected to existing literature based on current algebra techniques. We further identify the</description>
-      <source url="https://doi.org/10.1103/56wg-gjk1">Physical Review D</source>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/56wg-gjk1</guid>
+      <title>Inflation with a growing fifth dimension</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)169</link>
+      <description>Inflation generally assumes a field with nonzero potential that leads to inflationary expansion happening at arbitrarily early times. We demonstrate potentially observable consequences of inflation with a finite initial time in a model in five-dimensional warped anti-de Sitter space, with both a UV and an IR brane present during inflation. Considering an inflaton with an approximately flat potential localized on the UV brane, we derive the resulting brane motion in the bulk and the 4D effective action describing the dynamics. A concrete model allows us to evaluate possible consequences of a starting point of inflation. The background evolution is driven by the fast roll of the radion at early times and the slow roll of the inflaton at late times. We find that the action has the form of a two-field hyperbolic inflation model, the two fields being the radion and the inflaton, both of which have a time-dependent background solution. This setup is holographically dual to an inflaton couple</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)169">Journal of High Energy Physics</source>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)169</guid>
     </item>
   </channel>
 </rss>
