@@ -5,8 +5,81 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 17:53:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:35:08 +0000</lastBuildDate>
     <item>
+      <title>Coherent Freeze-Out of Dark Matter</title>
+      <link>https://doi.org/10.1103/2f8m-hy53</link>
+      <description>We propose a novel coherent freeze-out mechanism where a weakly interacting massive particle (WIMP) is quadratically coupled to a light axionlike particle (ALP). Although the coupling is too feeble to thermalize the ALP, coherent forward scattering induces medium-dependent mass shifts that significantly modify both WIMP freeze-out and ALP misalignment dynamics. The symmetry of the ALP potential is broken at high temperatures and restored through either a first-order transition or a crossover. In the former, WIMPs alone compose dark matter with annihilation cross sections enhanced by up to 3 orders of magnitude relative to the standard scenario; in the latter, a Planck-suppressed coupling naturally yields an ALP abundance of the order of the observed dark matter density, largely independent of its initial displacement and mass.</description>
+      <source url="https://doi.org/10.1103/2f8m-hy53">Physical Review Letters</source>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2f8m-hy53</guid>
+    </item><item>
+      <title>Twisting the Hagedorn temperature in planar mathcalN = 4 super Yang-Mills</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)216</link>
+      <description>We consider planar mathcalN = 4 super Yang-Mills at finite temperature with chemical potentials that couple either to the R-charges or the spins of the operators. We find expressions for the Hagedorn temperatures at both zero coupling by explicitly counting states, and at strong coupling using the string theory dual. We then apply the quantum spectral curve (QSC) to this problem, which adds additional twists to the Q-functions. For a single chemical potential μ coupled to one of the R-charges, we find the analytic weak-coupling Hagedorn temperature to one-loop order for any value of μ, and to two-loop order for μ = 1/2. We then solve the QSC numerically, showing that at strong coupling there is good agreement with the string theory prediction to order 1/λ . This provides further evidence for a recent conjecture of Harmark for the form of the world-sheet zero-point shift. We also use the QSC to find the analytic one-loop correction to the Hagedorn temperature with non-zero chemical pote</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)216">Journal of High Energy Physics</source>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)216</guid>
+    </item><item>
+      <title>Constraints on Symmetric Dark Matter from Neutron Star Capture and Collapse</title>
+      <link>https://doi.org/10.1103/5wsg-z61z</link>
+      <description>Dark matter (DM) models with a conserved particle-antiparticle number, nχ−nχ˜, and the asymmetry in the cosmological abundance nχ≠nχ˜, are known to be challenged by the existence of old neutron stars (NSs), as the sufficient accumulation of DM will lead to the collapse of NSs into black holes. We demonstrate that the applicability of these constraints is much wider and covers models with symmetric populations of DM, nχ=nχ˜, as the process of DM capture regulated by a nucleon-DM scattering can be inherently asymmetric, σχn≠σχ˜n. The asymmetry is induced by the interference of different types of χ−n interactions, provided that their combination is odd under charge conjugation in the DM sector, Cχ, and even under combined parity Pχ+n. We provide a complete analysis of DM-nucleon bilinear χ−n interactions and find that this asymmetry is very generic. Using canonical NS parameters and local DM halo inputs, we exclude spin-averaged scattering cross sections down to σnχ≳10−46 cm2 at DM mass m</description>
+      <source url="https://doi.org/10.1103/5wsg-z61z">Physical Review Letters</source>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5wsg-z61z</guid>
+    </item><item>
+      <title>Nucleon Electric Dipole Moments in Paramagnetic Molecules through Effective Field Theory</title>
+      <link>https://doi.org/10.1103/5rpp-f6h4</link>
+      <description>Electric dipole moment (EDM) measurements using paramagnetic molecules have significantly advanced over the last decade. Traditionally, these experiments have been analyzed in terms of the electron EDM. However, paramagnetic molecules are also sensitive to hadronic sources of charge-parity (CP) violation, highlighting the need for a new framework to interpret the experimental results. In this Letter, we introduce an effective field theory framework to relate molecular EDMs to the EDMs of neutrons and protons. We identify the dominant contributions through power counting and pinpoint the necessary nuclear matrix elements. As a practical application, we employ the nuclear shell model to calculate these nuclear matrix elements for the polar molecule BaF. Finally, we estimate the limits on the nucleon EDMs set by current molecular EDM experiments.</description>
+      <source url="https://doi.org/10.1103/5rpp-f6h4">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5rpp-f6h4</guid>
+    </item><item>
+      <title>The compact X and Z and their invisible molecular partners</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)192</link>
+      <description>We propose a model explaining the strong isospin violations observed in X(3872) decays. The X is assumed to be a compact isosinglet tetraquark and its charged partners to form an isotriplet, together with an additional neutral state mixing with the isosinglet. The isotriplet results from the loose binding of open charm mesons and, in isolation, has strongly suppressed production rates. However, its neutral component can still mix with the isosinglet and induce the large isospin violations observed. The compact-isosinglet/molecular-isotriplet pattern appears reversed when the Z(3900) resonances are considered. The Z particles observed correspond to a compact isotriplet and there is no evidence of a neutral isosinglet Z. We show that no isospin violation in the Z decays is expected.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)192">Journal of High Energy Physics</source>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)192</guid>
+    </item><item>
+      <title>Isospin-based EWP-tree relations</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)195</link>
+      <description>In 1998, it was shown that, if flavor SU(3) symmetry [SU(3) ] is assumed in charmless B → PP decays (P is a light pseudoscalar meson), some reduced matrix elements involving electroweak penguin (EWP) operators are related to those involving tree operators. Similarly, EWP diagrams are related to tree diagrams. These SU(3) EWP-tree relations were recently used in global analyses of B → PP decays. They have also been used over the years in analyses of the B → πK puzzle, even though the B → πK amplitudes are related by isospin symmetry [SU(2) ], and not the full SU(3) . In this paper, we show that, even if only SU(2) is assumed, there are still EWP-tree relations. In ∆S = 0 decays, these relations are similar to those of SU(3) , and can be used to take into account the EWP contributions in the extraction of the CP phase α from B → ππ decays. In ∆S = 1 decays, the SU(2) EWP-tree relations are quite different from those of SU(3) ; when these are used to analyze the B → πK puzzle, one now fin</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)195">Journal of High Energy Physics</source>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)195</guid>
+    </item><item>
+      <title>Spectrum of BPS black holes in AdS3 × S 3 × S 3 × S 1</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)198</link>
+      <description>We uncover novel features in the spectrum of BPS and near-BPS states in asymptotically AdS × S × S × S spacetimes. This follows from a careful analysis of semiclassical and quantum black holes in this theory, which have peculiarities due to the nonlinear large mathcalN = 4 superconformal symmetry. Notably, we find that the S × S angular momentum spectrum of BPS states in the Ramond sector exhibits discrete jumps as a function of the ratio between the radii of the two three-spheres. This phenomenon is a quantum gravity effect for which no microscopic derivation is currently known. In addition, we construct a family of non-extremal supersymmetric black holes that contribute to a supersymmetric index yet possess a temperature-dependent free energy. Analogous results apply to six-dimensional black holes with AdS × S × S near-horizon geometries constructed in M-theory compactifications.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)198">Journal of High Energy Physics</source>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)198</guid>
+    </item><item>
+      <title>Quantum-corrected evaporation and absorption cross-section of near-extremal rotating black holes</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)194</link>
+      <description>We revisit the Hawking evaporation history of low-temperature rotating black holes by taking into consideration the strong quantum fluctuations known to be present in the near-horizon, near-AdS throat region governed by an effective action that includes Schwarzian and two gauge modes. Imposing compatibility of this quantum framework with the semiclassical results creates a novel link of the black hole angular momentum and electric charge before and after emission, leading to a nontrivial interplay among the superradiance effect, eigenstate thermalization hypothesis and microscopic statistic description. We evaluate single scalar (neutral and charged) emission of Kerr-Newman and single and di-particle emission of photons, gravitons and spinors in the Kerr spacetime. We uncover that quantum corrections may affect late time evaporation rates, which further slows down the whole evaporation process because of the near-balance between the s-wave channel and the superradiance channel. Specifi</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)194">Journal of High Energy Physics</source>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)194</guid>
+    </item><item>
+      <title>Amplitude analysis of B^0 → eta _c(1S) K^+ π ^-decays</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15474-w</link>
+      <description>An amplitude analysis of the B ^0 !→ eta _c (1S) K ^+ π ^-decays with eta _c (1S) → p overlinep is performed using a sample corresponding to an integrated luminosity of 9 ,text fb ^-1 of p p collision data collected by the LHCb detector at centre-of-mass energies of sqrts = 7, 8 and 13 ,text Tehspace-1.00006ptV . The data are described with a model including only intermediate contributions from known K ^*0 resonances. Evidence for an exotic resonance in the eta _c (1S) π ^-system, reported in a previous analysis of this decay channel, is not confirmed. The inclusive branching fraction of the B ^0 → eta _c (1S) K ^+ π ^-decays is measured to be where the first uncertainty is statistical, the second systematic, and the third arises from the limited knowledge of external branching fractions.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15474-w">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15474-w</guid>
+    </item><item>
+      <title>Amplitude analysis of B^0 → eta _c(1S) K^+ π ^-decays</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15474-w</link>
+      <description>An amplitude analysis of the B ^0 !→ eta _c (1S) K ^+ π ^-decays with eta _c (1S) → p overlinep is performed using a sample corresponding to an integrated luminosity of 9 ,text fb ^-1 of p p collision data collected by the LHCb detector at centre-of-mass energies of sqrts = 7, 8 and 13 ,text Tehspace-1.00006ptV . The data are described with a model including only intermediate contributions from known K ^*0 resonances. Evidence for an exotic resonance in the eta _c (1S) π ^-system, reported in a previous analysis of this decay channel, is not confirmed. The inclusive branching fraction of the B ^0 → eta _c (1S) K ^+ π ^-decays is measured to be where the first uncertainty is statistical, the second systematic, and the third arises from the limited knowledge of external branching fractions.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15474-w">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15474-w</guid>
+    </item><item>
       <title>Analytic structure of the high-energy gravitational amplitude: Multi-H diagrams and classical 5PM logarithms</title>
       <link>https://doi.org/10.1103/2qtg-6msp</link>
       <description>We investigate the high-energy, small-angle limit of two-body gravitational scattering. Using power counting arguments and dispersion relations in an effective field theory for the Regge regime, we derive the general loop expansion that determines how the leading Regge logarithms and their complex structure arise as a power series in t/s. Focusing on the tower of multi-H diagrams that govern the leading logarithmic behavior, we compute the leading double logarithm at four loops (or equivalently fifth post-Minkowskian order, 5PM) using both effective field theory methods and the multi-Regge expansion, finding complete agreement. Finally, using the aforementioned dispersion relations, we extract the single logarithmic contribution to the imaginary part of the eikonal phase at 5PM in the Regge limit.</description>
@@ -60,27 +133,6 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/c1fz-9r8q</guid>
     </item><item>
-      <title>A new connection between WIMP dark matter and the hierarchy problem</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)179</link>
-      <description>This work proposes a direct link between the hierarchy problem and Weakly Interacting Massive Particles (WIMPs): we suggest that the small mass of the Higgs boson arises from being dynamically driven to the scale of the WIMP. Such a special electroweak vacuum is singled out by lying close to the critical boundary of a phase transition, as recently explored in a new class of cosmological solutions to the hierarchy problem. They generically predict the Higgs potential to be destabilised just above the weak scale. Intriguingly, the requirement for new physics to achieve this coincides with two independently well-motivated expectations: a split spectrum of light fermions and heavy bosons, as anticipated from naturalness, and the so-called “WIMP miracle”. A WIMP with mass around the weak scale not only happens to have the correct thermal relic abundance to be the dark matter (DM), it can also give rise to the necessary critical boundary at the TeV scale through its Yukawa couplings to the H</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)179">Journal of High Energy Physics</source>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)179</guid>
-    </item><item>
-      <title>(Anti)-de Sitter with leaky boundaries and corners</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)185</link>
-      <description>We construct charges for four-dimensional spacetimes with a non-vanishing cosmological constant, including charges that are not conserved because of a leaky boundary and charges associated with corner terms in the symplectic current. The construction leads to manifestly finite charges for any choice of boundary conditions, and reveals new charges in partial Bondi gauge for an enlarged class of field configurations which are not fully on-shell, including a Weyl charge for conformal boundary conditions. In addition, we generalize the variational principle for AdS gravity with Dirichlet boundary conditions to a wedge of spacetime where the conformal boundary includes a corner. The boundary data is completely general, with no conditions restricting time dependence or the determinant of the metric. The Ward identities associated with boundary diffeomorphisms are shown to reproduce the evolution equations for the mass and angular momentum of fully on-shell field configurations.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)185">Journal of High Energy Physics</source>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)185</guid>
-    </item><item>
-      <title>Analytic thermal bootstrap meets holography</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)180</link>
-      <description>We compute thermal holographic correlators by combining their analytic structure with the Kubo-Martin-Schwinger (KMS) condition and multi-stress tensor OPE coefficients determined from the dual AdS description. We focus on two-point functions of identical scalar operators with integer conformal dimensions at zero spatial separation. In the black brane background, we show explicitly that holographic two-point functions split into three contributions: a principal one, computed exactly, plus regularized and arcs contributions, both approximated through the use of OPE coefficients asymptotics. For ∆ = 3, we show that the principal contribution agree with good approximation with the numerical solution of the bulk wave equation. Moreover, we demonstrate that the expansion in generalized free field correlators proposed in [1] admits a natural interpretation in terms of Witten diagrams. Finally, we initiate the study of thermal correlators in the spherically symmetric black hole background, co</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)180">Journal of High Energy Physics</source>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)180</guid>
-    </item><item>
       <title>Regular black holes with gravitational self-energy as dark matter</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15787-w</link>
       <description>We incorporate the effect of non-local gravitational self-energy to obtain a neutral, non-singular spacetime geometry. This is achieved by using a non-local gravitational theory inspired by T-duality, where particle mass is not point-like but smeared over a region. This non-local gravitational self-interaction is derived from the Newtonian gravitational potential and energy density, allowing us to define a coordinate-independent quantity. Thus, we incorporate the non-local gravitational field into the spacetime metric. We demonstrate that the total ADM mass is modified by a finite, regularized gravitational mass term, leading to a regular solution of the Ayon-Beato-Garcia type metric but without electric charge. We show the existence of extremal configurations known as particle–black hole objects of order of the Planck mass, which are thermodynamically stable, have a vanishing Hawking temperature and could be a viable dark matter candidate.</description>
@@ -101,56 +153,6 @@
       <source url="https://doi.org/10.1140/epjc/s10052-026-15710-3">European Physical Journal C</source>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15710-3</guid>
-    </item><item>
-      <title>Cross sections of η mesons in p+p collisions at forward rapidity at s=500 GeV and central rapidity at s=510 GeV</title>
-      <link>https://doi.org/10.1103/zvkl-wrlc</link>
-      <description>We present the first measurements of the forward and midrapidity η-meson cross sections from p+p collisions at s=500 and 510 GeV, respectively. We also report the midrapidity η/π0 ratio at 510 GeV. The forward cross section is measured differentially in η-meson transverse momentum (pT) from 1.0 to 6.5 GeV/c for pseudorapidity 3.0|η|3.8. The midrapidity cross section is measured from 3.5 to 44 GeV/c for pseudorapidity |η|0.35. Both cross sections serve as critical inputs to an updated global analysis of the η-meson fragmentation functions.</description>
-      <source url="https://doi.org/10.1103/zvkl-wrlc">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/zvkl-wrlc</guid>
-    </item><item>
-      <title>Eta fragmentation functions revisited</title>
-      <link>https://doi.org/10.1103/q5p2-brl5</link>
-      <description>We revisit the extraction of parton-to-eta meson fragmentation functions at next-to-leading order accuracy in QCD in the light of the recent hadroproduction measurements in proton-proton collisions obtained by the PHENIX, LHCb, and ALICE collaborations. In addition to an increased precision, the data explore complementary rapidity ranges and center-of-mass system energies. The analysis exploits the theoretical scale dependence to ease tensions among the datasets at different energies that are potentially caused by QCD corrections beyond the next-to-leading order. The resulting set of fragmentation functions yields a consistent description of all available data. Estimates of uncertainties are obtained with the Monte Carlo replica method.</description>
-      <source url="https://doi.org/10.1103/q5p2-brl5">Physical Review D</source>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/q5p2-brl5</guid>
-    </item><item>
-      <title>Nonperturbative double copy: worldline instantons, color thermality, and backreaction</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)177</link>
-      <description>We present a first-principles, non-perturbative worldline instanton analysis of vacuum decay in the non-abelian Yang-Mills root of a Schwarzschild background. We recover the gauge theory color-thermal spectrum as a topological winding mode. The double copy maps vacuum response from the gauge theory directly to the gravity theory. Furthermore, the decay exponent acquires a universal quadratic correction from color charge conservation, showing that the double copy correctly captures the non-linear backreaction as required for unitarity.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)177">Journal of High Energy Physics</source>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)177</guid>
-    </item><item>
-      <title>Spin h structure, scalar and charged spinor eigenfunctions on the SU(3)/SO(3) Wu manifold</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)173</link>
-      <description>Generalised spin structures are necessary for placing fermions on manifolds that do not admit a standard spin structure. This is especially relevant in a dimensional reduction on such a manifold, which can then be compensated by using fermions that are appropriately charged under some Maxwell or Yang-Mills field defined on the internal manifold. A well known example in the physics literature is mathbbmCP^2 , which has four real dimensions and is the coset SU(3)/U(2). In this paper we focus on a five-dimensional coset space, namely the Wu manifold SU(3)/SO(3) , where SO(3) is maximal in SU(3). Intriguingly, the Wu manifold does not admit a spin structure or spin structure, it does admit a spin structure. We provide a physical interpretation of the spin structure by considering spinors that are coupled to an SO(3) Yang-Mills field defined on the Wu manifold, but which carry half-integer “isospin,” thereby canceling the minus sign in the holonomy for uncharged spinors that provides the or</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)173">Journal of High Energy Physics</source>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)173</guid>
-    </item><item>
-      <title>Deconfined quantum criticality with internal supersymmetry</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)155</link>
-      <description>Deconfined quantum critical point (DQCP) describes direct, non-fine-tuned quantum phase transition between two ordered phases that break distinct and seemingly unrelated symmetries, providing a route to continuous phase transition beyond the conventional Ginzburg-Landau paradigm. In this work we extend the DQCP paradigm to systems with internal supersymmetry (SUSY), where the on-site Hilbert space furnishes a representation of a Lie superalgebra, and the Hamiltonian is invariant under the corresponding Lie supergroup. Focusing on the minimal supersymmetric generalization of spin SU(2), namely OSp(1|2), we propose a supersymmetric deconfined quantum critical point (sDQCP) between a phase that breaks internal OSp(1|2) and a phase that instead breaks lattice rotation symmetry. We formulate a non-linear sigma model on the supersphere target space that captures the symmetry intertwinement characteristic of the sDQCP, and we further develop a gauge theory description to address its dynamical</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)155">Journal of High Energy Physics</source>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)155</guid>
-    </item><item>
-      <title>The stringy geometry of integral cohomology in mirror symmetry</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)162</link>
-      <description>We examine the physical significance of torsion co-cycles in the cohomology of a projective Calabi-Yau three-fold for the (2,2) superconformal field theory (SCFT) associated to the non-linear sigma model with such a manifold as a target space. There are two independent torsion subgroups in the cohomology. While one is associated to an orbifold construction of the SCFT, the other encodes the possibility of turning on a topologically non-trivial flat gerbe for the NS-NS B-field. Inclusion of these data enriches mirror symmetry by providing a refinement of the familiar structures and points to a generalization of the duality symmetry, where the topology of the flat gerbe enters on the same footing as the topology of the underlying manifold.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)162">Journal of High Energy Physics</source>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)162</guid>
-    </item><item>
-      <title>Inflation with a growing fifth dimension</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)169</link>
-      <description>Inflation generally assumes a field with nonzero potential that leads to inflationary expansion happening at arbitrarily early times. We demonstrate potentially observable consequences of inflation with a finite initial time in a model in five-dimensional warped anti-de Sitter space, with both a UV and an IR brane present during inflation. Considering an inflaton with an approximately flat potential localized on the UV brane, we derive the resulting brane motion in the bulk and the 4D effective action describing the dynamics. A concrete model allows us to evaluate possible consequences of a starting point of inflation. The background evolution is driven by the fast roll of the radion at early times and the slow roll of the inflaton at late times. We find that the action has the form of a two-field hyperbolic inflation model, the two fields being the radion and the inflaton, both of which have a time-dependent background solution. This setup is holographically dual to an inflaton couple</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)169">Journal of High Energy Physics</source>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)169</guid>
     </item>
   </channel>
 </rss>
