@@ -5,8 +5,82 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 17:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:39:55 +0000</lastBuildDate>
     <item>
+      <title>Interpolating conformal algebra in (1+1) dimensions between the instant form and the light-front form of relativistic dynamics</title>
+      <link>https://doi.org/10.1103/prlq-4j1l</link>
+      <description>We present the interpolating conformal algebra between the instant form dynamics (IFD) and the light-front dynamics (LFD) in (1+1) dimensions, along with a 4×4 interpolating projective spacetime matrix representation. While there are six generators in the (1+1)-dimensional conformal algebra, the number of kinematic and dynamic generators dramatically changes in LFD, maximizing (minimizing) the number of kinematic (dynamic) generators to four (two) with respect to two (four) kinematic (dynamic) generators in IFD, as well as in any other forms of dynamics between IFD and LFD. It confirms and signifies the utility of LFD, saving substantial dynamical efforts in solving the (1+1)-dimensional quantum field theories. We also present 2×2 Pauli matrix representation of (1+0) and (0+1) conformal groups and creation/annihilation operators of quantum simple harmonic oscillator representations of (1+0)-dimensional conformal groups.</description>
+      <source url="https://doi.org/10.1103/prlq-4j1l">Physical Review D</source>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/prlq-4j1l</guid>
+    </item><item>
+      <title>Dynamical Love Numbers for Black Holes and Beyond from Shell Effective Field Theory</title>
+      <link>https://doi.org/10.1103/mtqm-xz2k</link>
+      <description>We construct a novel effective field theory for a compact body coupled to gravity, whose key feature is that the dynamics of gravitational perturbations is explicitly determined by known solutions in black hole perturbation theory in four dimensions. In this way, the physics of gravitational perturbations in curved space are already encoded in the effective field theory, thus bypassing the need for the higher-order calculations that constitute a major hurdle in standard approaches. Concretely, we model the compact body as a spherical shell, whose finite size regulates short-distance divergences in four dimensions and whose tidal responses are described by higher-dimensional operators. As an application, we consider scalar perturbations and derive new results for scalar Love numbers through O(G9) for Schwarzschild black holes and for generic compact bodies. Finally, our analysis reveals an intriguing structure of the scalar black-hole Love numbers in terms of the Riemann zeta function, </description>
+      <source url="https://doi.org/10.1103/mtqm-xz2k">Physical Review Letters</source>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mtqm-xz2k</guid>
+    </item><item>
+      <title>Amplitude analysis of the isospin-violating decay J/ψ→γηπ0</title>
+      <link>https://doi.org/10.1103/8wdg-kwqj</link>
+      <description>Using (10087±44)×106 J/ψ events collected with the BESIII detector, we perform the first amplitude analysis of the process J/ψ→γηπ0. The decay is dominated by the intermediate processes J/ψ→π0b1(1235)0→γηπ0, J/ψ→π0ρ(1450)0→γηπ0 and J/ψ→ηh1(1170)→γηπ0. Contributions from J/ψ→γa0(980)0→γηπ0, J/ψ→γa2(1320)0→γηπ0 and J/ψ→γa2(1700)0→γηπ0 are observed with a statistical significance exceeding 5σ, constituting the first observation of radiative transitions of J/ψ to isospin-triplet scalar mesons. The total branching fraction of J/ψ→γηπ0 is measured to be (25.7±0.3±1.5)×10−6, where the first uncertainty is statistical and the second systematic. This result is consistent with the previous measurement, with the precision improved by more than a factor of two.</description>
+      <source url="https://doi.org/10.1103/8wdg-kwqj">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/8wdg-kwqj</guid>
+    </item><item>
+      <title>Search for dark matter produced in association with a Higgs boson decaying to bottom quarks in proton-proton collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/2m87-3dlr</link>
+      <description>A search for dark matter particles produced in association with a Higgs boson decaying to a bottom quark-antiquark pair in proton-proton collisions at s=13 TeV is presented. The data, collected with the CMS detector at the LHC, correspond to an integrated luminosity of 101 fb−1. The analysis is performed in exclusive categories targeting both Lorentz-boosted (merged) and resolved b jet pair topologies, covering a wide range of Higgs boson transverse momentum. A statistical combination is made with a previous search using data collected in 2016 and corresponding to an integrated luminosity of 35.9 fb−1. The observed data agree with the standard model background predictions. Constraints are placed on models predicting new particles or interactions, such as those in the simplified frameworks of baryonic-Z′ and 2HDM+a, where the latter is a type-II two-Higgs-doublet model featuring a heavy pseudoscalar with an additional light pseudoscalar. Upper limits at 95% confidence level are set on t</description>
+      <source url="https://doi.org/10.1103/2m87-3dlr">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2m87-3dlr</guid>
+    </item><item>
+      <title>Measurement of the Higgs boson total decay width using the H→WW→eνμν decay channel in proton-proton collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/rny9-zby1</link>
+      <description>The Higgs boson (H) decay width is determined from the ratio of off-and on-shell production of H→WW→eνμν using proton–proton collision data corresponding to an integrated luminosity of 138 fb−1 collected at s=13 TeV by the CMS experiment at the Large Hadron Collider. The off-shell signal strength is measured as μoff−shell=1.2−0.7+0.8. The Higgs boson total decay width is ΓH=3.9−2.2+2.7 MeV, in agreement with the standard model prediction. The uncertainty in this result represents a factor of 3 improvement over the previous CMS result in this decay channel.</description>
+      <source url="https://doi.org/10.1103/rny9-zby1">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rny9-zby1</guid>
+    </item><item>
+      <title>Full three-loop electroweak multiplet contributions to the electron electric dipole moment</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)277</link>
+      <description>Experimental sensitivity to the electric dipole moment (EDM) of the electron has improved remarkably in recent years. Consequently, future prospects could probe new physics whose contribution to the electron EDM first arises at three-loop order. Additional SU(2) multiplets with CP-violating Yukawa interactions, which contribute to the electron EDM at three-loop level, is one such testable new physics scenario. In this scenario, the electron EDM is radiatively induced from two contributions: the CP-odd trilinear W-boson coupling, called the electroweak-Weinberg operator, and the CP-odd dipole operator of electron. The former and the latter operators are generated at two-loop and three-loop levels, respectively, after integrating out the SU(2) multiplets. Within the same models, according to an analysis based on the Standard Model Effective Field Theory (SMEFT), we previously found that the contribution to the electron EDM from the electroweak-Weinberg operator can be probed in future ex</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)277">Journal of High Energy Physics</source>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)277</guid>
+    </item><item>
+      <title>Accurate bootstrap bounds from optimal interpolation</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)275</link>
+      <description>We develop new methods for approximating conformal blocks as positive functions times polynomials, with applications to the numerical bootstrap. We argue that to obtain accurate bootstrap bounds, conformal block approximations should minimize a certain error norm related to the asymptotics of dispersive functionals. This error norm can be made small using interpolation nodes with an appropriate optimal density. The optimal density turns out to satisfy a kind of force-balance equation for charges in 1-dimension, which can be solved using standard techniques from large-N matrix models. We also describe how to use optimal density interpolation nodes to improve condition numbers inside the semidefinite program solver SDPB. Altogether, our new approximation scheme and improvements to condition numbers lead to more accurate bootstrap bounds with fewer computational resources. They were crucial in the recent bootstrap study of stress tensors in the 3d Ising CFT.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)275">Journal of High Energy Physics</source>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)275</guid>
+    </item><item>
+      <title>Next-to-next-to-leading power corrections to unpolarized Semi-Inclusive Deep Inelastic Scattering</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)265</link>
+      <description>Semi-Inclusive Deep Inelastic Scattering (SIDIS) is a key tool for exploring the three-dimensional structure of the nucleon through Transverse Momentum Dependent parton distributions and fragmentation functions. While leading-power contributions to the SIDIS cross-section are well established, next-to-leading power (NLP) corrections of order 1/Q and next-to-next-to-leading power (NNLP) corrections of order 1/Q to the hadronic tensor have only recently begun to be systematically investigated. These corrections are essential for reliable phenomenology and interpretation of modern high-precision data. In recent papers by one of the authors, NNLP corrections to the Drell-Yan process were derived using the rapidity factorization formalism. In the present work, we extend this approach to SIDIS and obtain analytic expressions for the unpolarized structure functions. We derive NNLP corrections that include convolutions of unpolarized distributions, f , with unpolarized fragmentation functions,</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)265">Journal of High Energy Physics</source>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)265</guid>
+    </item><item>
+      <title>Long-lived-particle signals of a composite hidden sector through the neutrino portal</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)261</link>
+      <description>We explore the signals of a scenario in which the composite states of a strongly coupled hidden sector couple to the Standard Model through the neutrino portal, giving rise to the neutrino masses. We consider a framework in which the hidden sector is conformal in the ultraviolet and the compositeness scale lies below the weak scale. If the lightest composite state in the hidden sector is a scalar, its decay rate back to the Standard Model is suppressed by angular momentum considerations and can naturally be small, giving rise to long-lived particle signals. We determine the current constraints on this class of models and explore the reach of future collider and beam dump searches. We find that FASER, SHiP, and Belle II can potentially probe a significant part of the unexplored parameter space.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)261">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)261</guid>
+    </item><item>
+      <title>Tori, Klein bottles, and modulo 8 parity/time-reversal anomalies of 2+1d staggered fermions</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)264</link>
+      <description>We study the symmetries of lattice staggered fermions in 2+1d. Using the symmetries, we can place the system on any sheared torus or Klein bottle. These different backgrounds provide diagnostics of various ’t Hooft anomalies associated with the crystalline symmetries. We then compare the lattice model to its continuum limit. The symmetries of the lattice system are mapped in a nontrivial way to the symmetries of the continuum theories. Using this map, we match the ’t Hooft anomalies on the lattice and the continuum. Along the way, we develop a general formalism to study Hamiltonian lattice models on nontrivial, compact, flat spaces.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)264">Journal of High Energy Physics</source>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)264</guid>
+    </item><item>
       <title>Symmetry topological field theory entanglement and holographic nonfactorization</title>
       <link>https://doi.org/10.1103/9wgn-ntnn</link>
       <description>Given two otherwise decoupled D-dimensional CFTs which possess a common (finite) symmetry subcategory, one can consider entangled boundary states of their (D+1)-dimensional symmetry topological field theories (SymTFTs). This roughly corresponds to performing a gauging of the tensor product of two CFTs, and we call this phenomena “SymTFT entanglement” (or “S entanglement” for short). In the case when these CFTs have semiclassical holographic duals, the S entanglement relates the bulk gauge charges between two otherwise disconnected AdS spacetimes as we highlight in several top-down examples. We show that taking partial traces of such S-entangled states leads to a streamlined approach to preparing ensemble-averaged CFTs in string theory. This ensemble averaging coincides with that generated by α states in the baby universe Hilbert space, and we propose a symmetry-enriched generalization of this Hilbert space via generalized global symmetries. We quantify how this symmetry-governed averag</description>
@@ -71,82 +145,12 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/m719-7tdf</guid>
     </item><item>
-      <title>Baryon junction and string interactions. Part II</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)240</link>
-      <description>We study junctions between confining strings, extending the analysis of [Phys. Rev. D (2024) 056018]. These junctions arise in Yang-Mills theories, and we focus on their universal low-energy dynamics. Using open-closed duality, we map junctions with nonlinear corrections to the s-wave scattering amplitudes between confining string loops. In (3 + 1) dimensions, we uncover an accidental ℤ symmetry. This symmetry implies novel selection rules for loop scattering amplitudes and is broken by the junction mass at subleading order. We determine the total mass of baryons up to order (baryon size) , providing new, testable predictions for lattice simulations.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)240">Journal of High Energy Physics</source>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)240</guid>
-    </item><item>
-      <title>Baryon junction and string interactions. Part II</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)240</link>
-      <description>We study junctions between confining strings, extending the analysis of [Phys. Rev. D (2024) 056018]. These junctions arise in Yang-Mills theories, and we focus on their universal low-energy dynamics. Using open-closed duality, we map junctions with nonlinear corrections to the s-wave scattering amplitudes between confining string loops. In (3 + 1) dimensions, we uncover an accidental ℤ symmetry. This symmetry implies novel selection rules for loop scattering amplitudes and is broken by the junction mass at subleading order. We determine the total mass of baryons up to order (baryon size) , providing new, testable predictions for lattice simulations.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)240">Journal of High Energy Physics</source>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)240</guid>
-    </item><item>
       <title>Chasing Higgsino dark matter at colliders in the neutrino fog era</title>
       <link>https://doi.org/10.1103/m7qf-j8j6</link>
       <description>Higgsinos can be the lightest supersymmetric particles, allowing for either a full or partial dark matter interpretation, with the correct thermal freeze-out abundance obtained for masses near 1.1 TeV. Dark matter direct detection experimental results, now rapidly approaching the neutrino fog, imposes increasingly stringent requirements on Higgsino purity. We begin by summarizing the purity constraints implied by the current strong limits from the LUX-ZEPLIN experiment in 2024, presenting them as lower bounds on gaugino masses in scenarios with decoupled sfermions and heavy Higgs bosons. We further quantify how these constraints will evolve as direct detection approaches various neutrino fog discovery and exclusion definitions and future exclusion projections. Finally, given that nearly pure Higgsinos remain notoriously challenging to probe directly at colliders, we explore complementary signatures in which Higgsinos are produced from the decays of heavier superpartners, where addition</description>
       <source url="https://doi.org/10.1103/m7qf-j8j6">Physical Review D</source>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/m7qf-j8j6</guid>
-    </item><item>
-      <title>Renormalized quark masses using gradient flow</title>
-      <link>https://doi.org/10.1103/3nvr-pkn1</link>
-      <description>We propose a new and simple method for determining the renormalized quark masses from lattice simulations. Renormalized quark masses are an important input to many phenomenological applications, including searching and modeling physics beyond the Standard Model. The nonperturbative renormalization is performed using gradient flow combined with the short-flow-time expansion that is improved by renormalization group (RG) running to match to the MS¯ scheme. Implementing the RG running perturbatively, we demonstrate this method works reliably at least up to the charm-quark mass and exhibits an easily attainable “windowing condition.” Using RBC/UKQCD’s (2+1)-flavor Shamir domain-wall fermion ensembles with Iwasaki gauge action, we find msMS¯(μ=2 GeV)=89(3) MeV and mcMS¯(μ=3 GeV)=972(16) MeV. These results predict the scale-independent ratio mc/ms=12.1(4). Generalization to other observables is possible, providing an efficient approach to determine nonperturbatively renormalized fermionic ob</description>
-      <source url="https://doi.org/10.1103/3nvr-pkn1">Physical Review D</source>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3nvr-pkn1</guid>
-    </item><item>
-      <title>Untwisting the double copy: the zeroth copy as an optical seed</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)249</link>
-      <description>We present a historical optical foundation for stationary vacuum Kerr-Schild spacetimes on a flat background and interpret it in modern double-copy language. In this setting, a complex optical seed ρ = −θ − iω, built from the expansion and signed twist of the Kerr-Schild congruence, is harmonic, while its inverse obeys an eikonal equation and reconstructs the congruence algebraically. Thus the local stationary geometry is organized by a single complex seed. In the overlap of the stationary Kerr-Schild and Petrov type-D Weyl double-copy framework, this seed furnishes a normalized representative of the zeroth-copy data, while its real part yields the Kerr-Schild profile and its gradient generates the single-copy gauge-field strength. The construction provides, without recourse to twistor methods, a spacetime realization of how a single complex seed builds the congruence, organizes the associated spacetime and gauge fields, and encodes the geometric content of the zeroth copy.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)249">Journal of High Energy Physics</source>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)249</guid>
-    </item><item>
-      <title>Chasing Higgsino dark matter at colliders in the neutrino fog era</title>
-      <link>https://doi.org/10.1103/m7qf-j8j6</link>
-      <description>Higgsinos can be the lightest supersymmetric particles, allowing for either a full or partial dark matter interpretation, with the correct thermal freeze-out abundance obtained for masses near 1.1 TeV. Dark matter direct detection experimental results, now rapidly approaching the neutrino fog, imposes increasingly stringent requirements on Higgsino purity. We begin by summarizing the purity constraints implied by the current strong limits from the LUX-ZEPLIN experiment in 2024, presenting them as lower bounds on gaugino masses in scenarios with decoupled sfermions and heavy Higgs bosons. We further quantify how these constraints will evolve as direct detection approaches various neutrino fog discovery and exclusion definitions and future exclusion projections. Finally, given that nearly pure Higgsinos remain notoriously challenging to probe directly at colliders, we explore complementary signatures in which Higgsinos are produced from the decays of heavier superpartners, where addition</description>
-      <source url="https://doi.org/10.1103/m7qf-j8j6">Physical Review D</source>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/m7qf-j8j6</guid>
-    </item><item>
-      <title>Radiative corrections in supergravity models of inflation</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)229</link>
-      <description>Supergravity provides the natural supersymmetric framework for early universe cosmology. A broad class of inflationary models in no-scale supergravity yields tree-level predictions for cosmic microwave background (CMB) observables that closely resemble those of the Starobinsky R + R model. Using results from global supersymmetry and supergravity, we analyze radiative corrections in models with canonical and non-canonical kinetic terms, focusing particularly on Starobinsky-like no-scale supergravity models. We derive conditions on the superpotential that keep the gravitino mass finite during inflation and ensure that loop-induced corrections to the Kähler potential remain either finite or subdominant relative to the tree-level potential. We show that in some models, most notably the original no-scale supergravity model with a Wess-Zumino superpotential, radiative corrections grow at large inflaton field values and can dominate the inflationary dynamics, rendering unreliable the model pr</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)229">Journal of High Energy Physics</source>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)229</guid>
-    </item><item>
-      <title>Tripartite correlation signal from multipartite entanglement of purification</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)236</link>
-      <description>We propose a signal Delta _p^(3) for tripartite correlations in finite-dimensional quantum systems and Delta _w^(3) for holographic systems. We prove that Delta _p^(3) is non-negative for any tripartite entangled mixed states and vanishes for mixed product states. It is a correlation signal because it is generally nonzero for a separable state containing a classical mixture. Based on the conjecture, the equality between an entanglement wedge cross section E and entanglement of purification E , i.e., E = E in the semiclassical limit, we apply the tripartite correlation signal to study the structures of tripartite entanglement in AdS /CFT , especially for pure AdS . We comment on a generalization to n-partite correlation signals Delta_p^(n)(A₁:cdots :A_n) .</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)236">Journal of High Energy Physics</source>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)236</guid>
-    </item><item>
-      <title>WIMP dark matter from a natural discrete gauge symmetry in the Standard Model</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)224</link>
-      <description>The internal structure of the Standard Model implies a natural ℤ × ℤ discrete gauge symmetry. Cancellation of the corresponding Dai-Freed anomalies requires the introduction of three right-handed neutrinos and three additional Majorana fermions χ . This gauge symmetry forbids the decay of the lightest fermion χ into Standard Model particles, rendering it automatically stable and providing a dark matter candidate without introducing an ad hoc stabilizing symmetry and domain-wall problem. The mass of χ is generated by the vacuum expectation value of a singlet scalar near the electroweak scale, naturally realizing a weakly interacting massive particle (WIMP) freeze-out scenario. Dark matter annihilation proceeds through scalar mediation, allowing the observed relic abundance to be reproduced while remaining consistent with current direct-detection constraints. It naturally realizes the secluded dark matter scenario and can be further tested in the next generation of experiments.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)224">Journal of High Energy Physics</source>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)224</guid>
-    </item><item>
-      <title>Uncertainty principles and maximum entropic force</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15821-x</link>
-      <description>We consider quantum gravity corrections to the maximum entropic force that arise from several gravitational uncertainty principles. These include the Generalized Uncertainty Principle (GUP), the Extended Uncertainty Principle (EUP), the Generalized Extended Uncertainty Principle (GEUP), and the Linear-Quadratic GUP (LQGUP). We find that the modified entropic force depends on the dimensionless parameters of the uncertainty principles and, thus, on the underlying quantum gravity theory. Furthermore, the entropic force, which is quantum gravity corrected in the framework of the extended uncertainty principles, also depends on the number of Planck areas that made the “EUP area”.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15821-x">European Physical Journal C</source>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15821-x</guid>
-    </item><item>
-      <title>Coherent Freeze-Out of Dark Matter</title>
-      <link>https://doi.org/10.1103/2f8m-hy53</link>
-      <description>We propose a novel coherent freeze-out mechanism where a weakly interacting massive particle (WIMP) is quadratically coupled to a light axionlike particle (ALP). Although the coupling is too feeble to thermalize the ALP, coherent forward scattering induces medium-dependent mass shifts that significantly modify both WIMP freeze-out and ALP misalignment dynamics. The symmetry of the ALP potential is broken at high temperatures and restored through either a first-order transition or a crossover. In the former, WIMPs alone compose dark matter with annihilation cross sections enhanced by up to 3 orders of magnitude relative to the standard scenario; in the latter, a Planck-suppressed coupling naturally yields an ALP abundance of the order of the observed dark matter density, largely independent of its initial displacement and mass.</description>
-      <source url="https://doi.org/10.1103/2f8m-hy53">Physical Review Letters</source>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2f8m-hy53</guid>
     </item>
   </channel>
 </rss>
