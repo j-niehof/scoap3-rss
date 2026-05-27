@@ -5,14 +5,49 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 18:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 18:36:40 +0000</lastBuildDate>
     <item>
-      <title>Interpolating conformal algebra in (1+1) dimensions between the instant form and the light-front form of relativistic dynamics</title>
-      <link>https://doi.org/10.1103/prlq-4j1l</link>
-      <description>We present the interpolating conformal algebra between the instant form dynamics (IFD) and the light-front dynamics (LFD) in (1+1) dimensions, along with a 4×4 interpolating projective spacetime matrix representation. While there are six generators in the (1+1)-dimensional conformal algebra, the number of kinematic and dynamic generators dramatically changes in LFD, maximizing (minimizing) the number of kinematic (dynamic) generators to four (two) with respect to two (four) kinematic (dynamic) generators in IFD, as well as in any other forms of dynamics between IFD and LFD. It confirms and signifies the utility of LFD, saving substantial dynamical efforts in solving the (1+1)-dimensional quantum field theories. We also present 2×2 Pauli matrix representation of (1+0) and (0+1) conformal groups and creation/annihilation operators of quantum simple harmonic oscillator representations of (1+0)-dimensional conformal groups.</description>
-      <source url="https://doi.org/10.1103/prlq-4j1l">Physical Review D</source>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/prlq-4j1l</guid>
+      <title>Affleck-Dine curvaton</title>
+      <link>https://doi.org/10.1103/7hr7-rtvh</link>
+      <description>The Standard Model of particle physics does not explain the origin of the universe’s baryon asymmetry or its primordial fluctuations. The Affleck-Dine mechanism is a well motivated scenario for generating the baryon asymmetry through the postinflationary dynamics of a complex scalar field with baryon number. The curvaton mechanism is a popular approach for producing curvature perturbations through the dynamics of a light spectator field that decays after inflation. We demonstrate that the same complex field can viably perform both roles without any modifications to the minimal realization of Affleck-Dine baryogenesis. This scenario can also accommodate appreciable levels of primordial non-Gaussianity, beyond those achievable with only a real-valued curvaton field, and may be observable with future cosmic microwave background experiments.</description>
+      <source url="https://doi.org/10.1103/7hr7-rtvh">Physical Review D</source>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7hr7-rtvh</guid>
+    </item><item>
+      <title>Degenerate vortices and worldline instantons in three-dimensional gauge theories</title>
+      <link>https://doi.org/10.1103/tz6f-8b5m</link>
+      <description>In this paper we continue the study of particlelike topological solitons with degenerate masses and their mixing due to worldline instantons. Previously, this phenomenon was studied in (1+1)-dimensional setups. Here we take a step further and consider degenerate vortices in 2+1 dimensions. We find that, while classically such vortices may be degenerate, they generally mix and split at the quantum level. Supersymmetry protects BPS-saturated vortices only when the number of supercharges in the bulk is large enough.</description>
+      <source url="https://doi.org/10.1103/tz6f-8b5m">Physical Review D</source>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tz6f-8b5m</guid>
+    </item><item>
+      <title>Degenerate vortices and worldline instantons in three-dimensional gauge theories</title>
+      <link>https://doi.org/10.1103/tz6f-8b5m</link>
+      <description>In this paper we continue the study of particlelike topological solitons with degenerate masses and their mixing due to worldline instantons. Previously, this phenomenon was studied in (1+1)-dimensional setups. Here we take a step further and consider degenerate vortices in 2+1 dimensions. We find that, while classically such vortices may be degenerate, they generally mix and split at the quantum level. Supersymmetry protects BPS-saturated vortices only when the number of supercharges in the bulk is large enough.</description>
+      <source url="https://doi.org/10.1103/tz6f-8b5m">Physical Review D</source>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tz6f-8b5m</guid>
+    </item><item>
+      <title>The effects of near-AdS2 backreaction on matter fields</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)282</link>
+      <description>We quantify how the two-point function of a real scalar field is affected by the distortion caused by deforming AdS to a near-AdS background. At tree-level, the backreaction of the geometry induces a finite-temperature correction to the correlator that arises from interactions that the background generates. For a massive field, we show that this correction is not captured by JT gravity coupled to matter: it requires a backreaction of the metric field. For a massless field, the correction is controlled solely by the dilaton and hence is model-independent. We compare our findings with correlation functions on BTZ and find perfect agreement. We use our results to quantify the corrections for a class of correlators relevant to five-and four-dimensional black holes. We discuss how these corrections would enter in a holographic description of near-AdS ; we also comment on how these corrections provide a universal prediction for quasinormal modes in higher dimensions.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)282">Journal of High Energy Physics</source>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)282</guid>
+    </item><item>
+      <title>Manifest symplecticity in classical scattering</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)287</link>
+      <description>The Liouville theorem states that classical time evolution is an incompressible flow in phase space. We investigate two formulations of classical mechanics in which this property is manifested. First, the traditional Hamilton-Jacobi theory provides an in-out formalism. Second, a recent idea employing an exponential representation of time evolution provides an in-in formalism. Through explicit examples, it is demonstrated that the on-shell action in the former and the exponential generator in the latter are disparate objects. Still, a concrete relation between the two is identified in terms of a matching calculation. A strictly classical derivation and formulation of classical scattering theory is provided.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)287">Journal of High Energy Physics</source>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)287</guid>
+    </item><item>
+      <title>The dark dimension, proton decay, and the length of the M-theory interval</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)293</link>
+      <description>The existence of a large extra dimension in which only gravity propagates would have spectacular consequences for cosmology and laboratory experiments. In the strong coupling limit of the E × E heterotic string theory, the gauge and matter fields live at the end of the eleventh dimension, which becomes a natural candidate for a micron-size dark dimension. In this work, however, we show that the length of the M-theory interval is severely constrained by proton decay searches. Our results indicate that in such constructions the size of the eleventh dimension is R ≲ 𝒪(10 ) meters.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)293">Journal of High Energy Physics</source>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)293</guid>
     </item><item>
       <title>Dynamical Love Numbers for Black Holes and Beyond from Shell Effective Field Theory</title>
       <link>https://doi.org/10.1103/mtqm-xz2k</link>
@@ -20,22 +55,6 @@
       <source url="https://doi.org/10.1103/mtqm-xz2k">Physical Review Letters</source>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/mtqm-xz2k</guid>
-    </item><item>
-      <title>Amplitude analysis of the isospin-violating decay J/ψ→γηπ0</title>
-      <link>https://doi.org/10.1103/8wdg-kwqj</link>
-      <description>Using (10087±44)×106 J/ψ events collected with the BESIII detector, we perform the first amplitude analysis of the process J/ψ→γηπ0. The decay is dominated by the intermediate processes J/ψ→π0b1(1235)0→γηπ0, J/ψ→π0ρ(1450)0→γηπ0 and J/ψ→ηh1(1170)→γηπ0. Contributions from J/ψ→γa0(980)0→γηπ0, J/ψ→γa2(1320)0→γηπ0 and J/ψ→γa2(1700)0→γηπ0 are observed with a statistical significance exceeding 5σ, constituting the first observation of radiative transitions of J/ψ to isospin-triplet scalar mesons. The total branching fraction of J/ψ→γηπ0 is measured to be (25.7±0.3±1.5)×10−6, where the first uncertainty is statistical and the second systematic. This result is consistent with the previous measurement, with the precision improved by more than a factor of two.</description>
-      <source url="https://doi.org/10.1103/8wdg-kwqj">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8wdg-kwqj</guid>
-    </item><item>
-      <title>Search for dark matter produced in association with a Higgs boson decaying to bottom quarks in proton-proton collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/2m87-3dlr</link>
-      <description>A search for dark matter particles produced in association with a Higgs boson decaying to a bottom quark-antiquark pair in proton-proton collisions at s=13 TeV is presented. The data, collected with the CMS detector at the LHC, correspond to an integrated luminosity of 101 fb−1. The analysis is performed in exclusive categories targeting both Lorentz-boosted (merged) and resolved b jet pair topologies, covering a wide range of Higgs boson transverse momentum. A statistical combination is made with a previous search using data collected in 2016 and corresponding to an integrated luminosity of 35.9 fb−1. The observed data agree with the standard model background predictions. Constraints are placed on models predicting new particles or interactions, such as those in the simplified frameworks of baryonic-Z′ and 2HDM+a, where the latter is a type-II two-Higgs-doublet model featuring a heavy pseudoscalar with an additional light pseudoscalar. Upper limits at 95% confidence level are set on t</description>
-      <source url="https://doi.org/10.1103/2m87-3dlr">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2m87-3dlr</guid>
     </item><item>
       <title>Measurement of the Higgs boson total decay width using the H→WW→eνμν decay channel in proton-proton collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/rny9-zby1</link>
@@ -45,6 +64,28 @@
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rny9-zby1</guid>
     </item><item>
+      <title>Amplitude analysis of the isospin-violating decay J/ψ→γηπ0</title>
+      <link>https://doi.org/10.1103/8wdg-kwqj</link>
+      <description>Using (10087±44)×106 J/ψ events collected with the BESIII detector, we perform the first amplitude analysis of the process J/ψ→γηπ0. The decay is dominated by the intermediate processes J/ψ→π0b1(1235)0→γηπ0, J/ψ→π0ρ(1450)0→γηπ0 and J/ψ→ηh1(1170)→γηπ0. Contributions from J/ψ→γa0(980)0→γηπ0, J/ψ→γa2(1320)0→γηπ0 and J/ψ→γa2(1700)0→γηπ0 are observed with a statistical significance exceeding 5σ, constituting the first observation of radiative transitions of J/ψ to isospin-triplet scalar mesons. The total branching fraction of J/ψ→γηπ0 is measured to be (25.7±0.3±1.5)×10−6, where the first uncertainty is statistical and the second systematic. This result is consistent with the previous measurement, with the precision improved by more than a factor of two.</description>
+      <source url="https://doi.org/10.1103/8wdg-kwqj">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/8wdg-kwqj</guid>
+    </item><item>
+      <title>Interpolating conformal algebra in (1+1) dimensions between the instant form and the light-front form of relativistic dynamics</title>
+      <link>https://doi.org/10.1103/prlq-4j1l</link>
+      <description>We present the interpolating conformal algebra between the instant form dynamics (IFD) and the light-front dynamics (LFD) in (1+1) dimensions, along with a 4×4 interpolating projective spacetime matrix representation. While there are six generators in the (1+1)-dimensional conformal algebra, the number of kinematic and dynamic generators dramatically changes in LFD, maximizing (minimizing) the number of kinematic (dynamic) generators to four (two) with respect to two (four) kinematic (dynamic) generators in IFD, as well as in any other forms of dynamics between IFD and LFD. It confirms and signifies the utility of LFD, saving substantial dynamical efforts in solving the (1+1)-dimensional quantum field theories. We also present 2×2 Pauli matrix representation of (1+0) and (0+1) conformal groups and creation/annihilation operators of quantum simple harmonic oscillator representations of (1+0)-dimensional conformal groups.</description>
+      <source url="https://doi.org/10.1103/prlq-4j1l">Physical Review D</source>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/prlq-4j1l</guid>
+    </item><item>
+      <title>Interpolating conformal algebra in (1+1) dimensions between the instant form and the light-front form of relativistic dynamics</title>
+      <link>https://doi.org/10.1103/prlq-4j1l</link>
+      <description>We present the interpolating conformal algebra between the instant form dynamics (IFD) and the light-front dynamics (LFD) in (1+1) dimensions, along with a 4×4 interpolating projective spacetime matrix representation. While there are six generators in the (1+1)-dimensional conformal algebra, the number of kinematic and dynamic generators dramatically changes in LFD, maximizing (minimizing) the number of kinematic (dynamic) generators to four (two) with respect to two (four) kinematic (dynamic) generators in IFD, as well as in any other forms of dynamics between IFD and LFD. It confirms and signifies the utility of LFD, saving substantial dynamical efforts in solving the (1+1)-dimensional quantum field theories. We also present 2×2 Pauli matrix representation of (1+0) and (0+1) conformal groups and creation/annihilation operators of quantum simple harmonic oscillator representations of (1+0)-dimensional conformal groups.</description>
+      <source url="https://doi.org/10.1103/prlq-4j1l">Physical Review D</source>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/prlq-4j1l</guid>
+    </item><item>
       <title>Full three-loop electroweak multiplet contributions to the electron electric dipole moment</title>
       <link>https://doi.org/10.1007/JHEP05(2026)277</link>
       <description>Experimental sensitivity to the electric dipole moment (EDM) of the electron has improved remarkably in recent years. Consequently, future prospects could probe new physics whose contribution to the electron EDM first arises at three-loop order. Additional SU(2) multiplets with CP-violating Yukawa interactions, which contribute to the electron EDM at three-loop level, is one such testable new physics scenario. In this scenario, the electron EDM is radiatively induced from two contributions: the CP-odd trilinear W-boson coupling, called the electroweak-Weinberg operator, and the CP-odd dipole operator of electron. The former and the latter operators are generated at two-loop and three-loop levels, respectively, after integrating out the SU(2) multiplets. Within the same models, according to an analysis based on the Standard Model Effective Field Theory (SMEFT), we previously found that the contribution to the electron EDM from the electroweak-Weinberg operator can be probed in future ex</description>
@@ -52,12 +93,12 @@
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)277</guid>
     </item><item>
-      <title>Accurate bootstrap bounds from optimal interpolation</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)275</link>
-      <description>We develop new methods for approximating conformal blocks as positive functions times polynomials, with applications to the numerical bootstrap. We argue that to obtain accurate bootstrap bounds, conformal block approximations should minimize a certain error norm related to the asymptotics of dispersive functionals. This error norm can be made small using interpolation nodes with an appropriate optimal density. The optimal density turns out to satisfy a kind of force-balance equation for charges in 1-dimension, which can be solved using standard techniques from large-N matrix models. We also describe how to use optimal density interpolation nodes to improve condition numbers inside the semidefinite program solver SDPB. Altogether, our new approximation scheme and improvements to condition numbers lead to more accurate bootstrap bounds with fewer computational resources. They were crucial in the recent bootstrap study of stress tensors in the 3d Ising CFT.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)275">Journal of High Energy Physics</source>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)275</guid>
+      <title>Full three-loop electroweak multiplet contributions to the electron electric dipole moment</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)277</link>
+      <description>Experimental sensitivity to the electric dipole moment (EDM) of the electron has improved remarkably in recent years. Consequently, future prospects could probe new physics whose contribution to the electron EDM first arises at three-loop order. Additional SU(2) multiplets with CP-violating Yukawa interactions, which contribute to the electron EDM at three-loop level, is one such testable new physics scenario. In this scenario, the electron EDM is radiatively induced from two contributions: the CP-odd trilinear W-boson coupling, called the electroweak-Weinberg operator, and the CP-odd dipole operator of electron. The former and the latter operators are generated at two-loop and three-loop levels, respectively, after integrating out the SU(2) multiplets. Within the same models, according to an analysis based on the Standard Model Effective Field Theory (SMEFT), we previously found that the contribution to the electron EDM from the electroweak-Weinberg operator can be probed in future ex</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)277">Journal of High Energy Physics</source>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)277</guid>
     </item><item>
       <title>Next-to-next-to-leading power corrections to unpolarized Semi-Inclusive Deep Inelastic Scattering</title>
       <link>https://doi.org/10.1007/JHEP05(2026)265</link>
@@ -73,13 +114,6 @@
       <author>et al.</author>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)261</guid>
-    </item><item>
-      <title>Tori, Klein bottles, and modulo 8 parity/time-reversal anomalies of 2+1d staggered fermions</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)264</link>
-      <description>We study the symmetries of lattice staggered fermions in 2+1d. Using the symmetries, we can place the system on any sheared torus or Klein bottle. These different backgrounds provide diagnostics of various ’t Hooft anomalies associated with the crystalline symmetries. We then compare the lattice model to its continuum limit. The symmetries of the lattice system are mapped in a nontrivial way to the symmetries of the continuum theories. Using this map, we match the ’t Hooft anomalies on the lattice and the continuum. Along the way, we develop a general formalism to study Hamiltonian lattice models on nontrivial, compact, flat spaces.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)264">Journal of High Energy Physics</source>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)264</guid>
     </item><item>
       <title>Symmetry topological field theory entanglement and holographic nonfactorization</title>
       <link>https://doi.org/10.1103/9wgn-ntnn</link>
@@ -115,42 +149,6 @@
       <source url="https://doi.org/10.1103/fvfm-hxpk">Physical Review D</source>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/fvfm-hxpk</guid>
-    </item><item>
-      <title>Two-loop QCD amplitudes from the chiral algebra bootstrap</title>
-      <link>https://doi.org/10.1103/yk39-n6zq</link>
-      <description>We show that the chiral algebra bootstrap, which computes form factors of twistorial theories, can help determine two-loop amplitudes in massless QCD. We give an n-gluon result for a previously unknown partial amplitude of the two-loop all-plus-helicity QCD amplitude by utilizing supersymmetry Ward identities and known chiral algebra bootstrap results. We then show that the full-color two-loop n-gluon amplitude of QCD with nf quark flavors can be obtained from certain two-loop form factors of twistorial theories and one-loop and tree-level amplitudes. Chiral algebra bootstrap results exist for these form factors when all gluons have positive helicities. Hence, the bootstrap simplifies the computation of these two-loop amplitudes by one loop level.</description>
-      <source url="https://doi.org/10.1103/yk39-n6zq">Physical Review D</source>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yk39-n6zq</guid>
-    </item><item>
-      <title>Lorentzian threads and nonlocal computation in holography</title>
-      <link>https://doi.org/10.1103/bk1l-3ffb</link>
-      <description>Recent advances in holography and quantum gravity have shown that conformal field theories (CFTs) with classical gravity duals can implement nonlocal quantum computation protocols that appear local from the bulk perspective. We examine the extent to which current prescriptions for holographic complexity support this claim, focusing on the complexity=volume (CV) proposal. The reformulation of CV in terms of Lorentzian threads suggests that bulk computations are performed with local gates. However, we find that the original formalism is insufficient when it comes to analyzing the complexity of subsystems and their inequalities. Specifically, standard Lorentzian threads cannot account for the negativity of mutual complexity and its higher-partite generalizations. To address this deficiency, we modify the Lorentzian threads program by introducing multiple flavors of threads. Our analysis reveals that an optimal solution for this new program implies the existence of additional types of gate</description>
-      <source url="https://doi.org/10.1103/bk1l-3ffb">Physical Review D</source>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/bk1l-3ffb</guid>
-    </item><item>
-      <title>Dynamical gluon effects in twist-3 generalized parton distributions of the proton</title>
-      <link>https://doi.org/10.1103/1yjm-sqck</link>
-      <description>Within the basis light-front quantization framework, we systematically investigate the subleading-twist (twist-3) generalized parton distributions (GPDs) of the proton’s valence quarks beyond the Wandzura-Wilczek (WW) approximation. The twist-3 GPDs are not independent; through the equations of motion they decompose into a nongenuine contribution and a genuine twist-3 term. The latter encodes quark–quark–gluon correlations and involves interference between the light-front Fock sectors |qqq⟩ and |qqqg⟩, which are typically neglected in the WW approximation. Using light-front wave functions obtained from diagonalizing the proton light-front Hamiltonian for its |qqq⟩ and |qqqg⟩ Fock components, we compute these GPDs via their overlap representations. To further explore their physical implications, we also evaluate several twist-3–related quantities, including the quark orbital angular momentum, the total quark spin contribution, and the quark spin-orbit correlation. Our results provide ne</description>
-      <source url="https://doi.org/10.1103/1yjm-sqck">Physical Review D</source>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1yjm-sqck</guid>
-    </item><item>
-      <title>Perturbation theory, irrep truncations, and state preparation methods for quantum simulations of SU(3) lattice gauge theory</title>
-      <link>https://doi.org/10.1103/m719-7tdf</link>
-      <description>We study methods for efficient preparation of approximate ground states of SU(3) lattice gauge theory on quantum hardware. Working in a variant of the electric basis, we introduce a refinement of the irrep truncation based on the energy density of site singlets, which provides a finer gradation of simulation complexity. Using strong-coupling perturbation theory as a guide, we develop simple ansatz circuits for ground state preparation and test them via classical simulation on small lattices, including the 2×2 plaquette lattice in d=2 and the cube in d=3. We contrast state fidelities and resource requirements of variational methods against adiabatic state preparation and introduce a method that hybridizes the two approaches. Finally, we report on the public release of ymcirc—a package of tools for building SU(3) circuits and processing measurements—and pyclebsch, a package for efficiently computing SU(N) Clebsch–Gordan coefficients.</description>
-      <source url="https://doi.org/10.1103/m719-7tdf">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/m719-7tdf</guid>
-    </item><item>
-      <title>Chasing Higgsino dark matter at colliders in the neutrino fog era</title>
-      <link>https://doi.org/10.1103/m7qf-j8j6</link>
-      <description>Higgsinos can be the lightest supersymmetric particles, allowing for either a full or partial dark matter interpretation, with the correct thermal freeze-out abundance obtained for masses near 1.1 TeV. Dark matter direct detection experimental results, now rapidly approaching the neutrino fog, imposes increasingly stringent requirements on Higgsino purity. We begin by summarizing the purity constraints implied by the current strong limits from the LUX-ZEPLIN experiment in 2024, presenting them as lower bounds on gaugino masses in scenarios with decoupled sfermions and heavy Higgs bosons. We further quantify how these constraints will evolve as direct detection approaches various neutrino fog discovery and exclusion definitions and future exclusion projections. Finally, given that nearly pure Higgsinos remain notoriously challenging to probe directly at colliders, we explore complementary signatures in which Higgsinos are produced from the decays of heavier superpartners, where addition</description>
-      <source url="https://doi.org/10.1103/m7qf-j8j6">Physical Review D</source>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/m7qf-j8j6</guid>
     </item>
   </channel>
 </rss>
