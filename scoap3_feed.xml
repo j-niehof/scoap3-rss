@@ -5,8 +5,51 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 18:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 19:44:41 +0000</lastBuildDate>
     <item>
+      <title>Quarkyonic Meson Matter for Finite Isospin Density</title>
+      <link>https://doi.org/10.5506/aphyspolb.57.6-a7</link>
+      <description>QCD at finite isospin density is considered for a large number of colors (N_c). A linear sigma model is used to model the meson content of the theory at low density. At isospin chemical potential (μ _I ll mit Lambda _mathrm QCD), this matter forms a Bose condensate. For (μ _I gg sqrt N_c mit Lambda _mathrm QCD), unlike QCD, remains confined, but the degrees of freedom of the system are mesons and Cooper pairs bound on size scales small compared to the QCD size scale determined by the superfluid gap. For most purposes, this matter may be analyzed using weak coupling methods. For ( mit Lambda _mathrm QCD le μ _I le sqrt N_c mit Lambda _mathrm QCD), we argue that meson matter is quarkyonic, with quarks bound into mesons on a size scale of order (mit Lambda _mathrm QCD) corresponding to a filled Fermi sea of quarks, with possible Bose condensation at the Fermi surface and/or Cooper pairs with a finite width of the surface of order (mit Lambda _mathrm QCD). Abstract Published by the Jagiell</description>
+      <source url="https://doi.org/10.5506/aphyspolb.57.6-a7">Acta Physica Polonica B</source>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.5506/aphyspolb.57.6-a7</guid>
+    </item><item>
+      <title>Squeezed State Radiation in Shockwave Scattering: QCD–Gravity Double Copy</title>
+      <link>https://doi.org/10.5506/aphyspolb.57.6-a3</link>
+      <description>Gluon and graviton radiation in strong field shockwave scattering are described by effective Lipatov vertices, with the graviton Lipatov vertex proportional to the bilinear of its QCD counterpart. We show here that the (n)-particle gluon radiation spectrum can be described as a generalized Susskind–Glogower (gSG) squeezed coherent state and discuss the properties of such squeezed states. The double-copy structure of the radiative frameworks suggests that multi-graviton radiation can be similarly described as a gSG state. We examine the physical parameter space and show that very large squeezing parameters (sim ln (bar n)) (where (bar n) is the mean graviton occupancy) are feasible for nearly minimal uncertainty configurations of the gSG state. Quantum noise in the corresponding gravitational wave spectrum is enhanced above the sensitivity of current and future gravitational wave detectors. Our results point to the importance of a comprehensive study of the strong field Lipatov regime o</description>
+      <source url="https://doi.org/10.5506/aphyspolb.57.6-a3">Acta Physica Polonica B</source>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.5506/aphyspolb.57.6-a3</guid>
+    </item><item>
+      <title>Diffractive and Photon-Induced Processes at the LHC: From the Odderon Discovery, the Evidence for Saturation to the Search for Axion-like Particles</title>
+      <link>https://doi.org/10.5506/aphyspolb.57.6-a10</link>
+      <description>We discuss first the discovery of the odderon by the TOTEM and D0 collaborations. We then describe the gap between jet measurements sensitive to the high gluon density regime and the possible observation of the saturation phenomenon in PbPb interactions. We also mention the sensitivity to beyond the Standard Model physics and to the production of axion-like particles via photon–photon interactions. Abstract Published by the Jagiellonian University 2026 authors</description>
+      <source url="https://doi.org/10.5506/aphyspolb.57.6-a10">Acta Physica Polonica B</source>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.5506/aphyspolb.57.6-a10</guid>
+    </item><item>
+      <title>Avoiding blindness in baryon number violating processes: Free-beam and intranuclear paths to neutron-antineutron transitions</title>
+      <link>https://doi.org/10.1103/4p9z-nd1s</link>
+      <description>Experimental searches for neutron-antineutron (n→n¯) transitions can be considered via two approaches: conversion in free-neutron beams and intranuclear transformation leading to matter instability in large-mass detectors. Plans for next-generation searches make it timely to highlight the complementarity, necessity, and limitations of each method. Converting the bound neutron limit into one for free neutrons traditionally utilizes nucleus-specific estimates of the in-medium suppression of n→n¯, obtained within mean-field theory under a single-operator assumption. This paper highlights how this suppression can be scenario-dependent, which can lead to deviations from the standard approach that can span several orders of magnitude. A further goal of the paper is to point out the need for a broader phenomenology program for n→n¯ that is akin to those developed for electric dipole moments and other systems for which short-distance new physics must be studied in medium. We find that moderate</description>
+      <source url="https://doi.org/10.1103/4p9z-nd1s">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4p9z-nd1s</guid>
+    </item><item>
+      <title>Euclidean correlation functions in quantum gravity</title>
+      <link>https://doi.org/10.1103/gqms-364h</link>
+      <description>We calculate Euclidean correlation functions through next-to-leading order in the low-energy effective theory of gravity. We focus on correlation functions of curvature and volume operators, calculating these functions through one-loop order. We show that quantum fluctuations of the background spacetime must be taken into account in order to obtain gauge invariant expressions, and we point out a subtlety associated with the analytic continuation of the conformal mode. Our final expressions for the correlation functions involve only Newton’s constant and the source-sink separation, and they are a universal prediction of the low-energy effective theory. Thus, they serve as a useful point of comparison for nonperturbative lattice formulations of gravity.</description>
+      <source url="https://doi.org/10.1103/gqms-364h">Physical Review D</source>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/gqms-364h</guid>
+    </item><item>
+      <title>Constraints on Loryons in a two Higgs doublet model</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)304</link>
+      <description>We consider Loryons, particles beyond the Standard Model that receive a significant fraction of their masses from electroweak symmetry breaking, in the context of a two Higgs doublet model. Using scalar Loryons in the [1, 1], [1, 3] (as well as the equivalent [3, 1]) and the [2, 2] representations of the custodial SU(2) × SU(2) global symmetry as benchmarks, we study the constraints on the Loryon parameter space, focusing on unitarity, Higgs decay observables, and the absence of Loryon vacuum expectation values. We find that while neutral singlet Loryons remain viable for masses up to 700 GeV, representations containing charged scalars are severely constrained by LHC data, particularly as the fraction of mass generated by symmetry breaking increases.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)304">Journal of High Energy Physics</source>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)304</guid>
+    </item><item>
       <title>Affleck-Dine curvaton</title>
       <link>https://doi.org/10.1103/7hr7-rtvh</link>
       <description>The Standard Model of particle physics does not explain the origin of the universe’s baryon asymmetry or its primordial fluctuations. The Affleck-Dine mechanism is a well motivated scenario for generating the baryon asymmetry through the postinflationary dynamics of a complex scalar field with baryon number. The curvaton mechanism is a popular approach for producing curvature perturbations through the dynamics of a light spectator field that decays after inflation. We demonstrate that the same complex field can viably perform both roles without any modifications to the minimal realization of Affleck-Dine baryogenesis. This scenario can also accommodate appreciable levels of primordial non-Gaussianity, beyond those achievable with only a real-valued curvaton field, and may be observable with future cosmic microwave background experiments.</description>
@@ -21,12 +64,12 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/tz6f-8b5m</guid>
     </item><item>
-      <title>Degenerate vortices and worldline instantons in three-dimensional gauge theories</title>
-      <link>https://doi.org/10.1103/tz6f-8b5m</link>
-      <description>In this paper we continue the study of particlelike topological solitons with degenerate masses and their mixing due to worldline instantons. Previously, this phenomenon was studied in (1+1)-dimensional setups. Here we take a step further and consider degenerate vortices in 2+1 dimensions. We find that, while classically such vortices may be degenerate, they generally mix and split at the quantum level. Supersymmetry protects BPS-saturated vortices only when the number of supercharges in the bulk is large enough.</description>
-      <source url="https://doi.org/10.1103/tz6f-8b5m">Physical Review D</source>
+      <title>The effects of near-AdS2 backreaction on matter fields</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)282</link>
+      <description>We quantify how the two-point function of a real scalar field is affected by the distortion caused by deforming AdS to a near-AdS background. At tree-level, the backreaction of the geometry induces a finite-temperature correction to the correlator that arises from interactions that the background generates. For a massive field, we show that this correction is not captured by JT gravity coupled to matter: it requires a backreaction of the metric field. For a massless field, the correction is controlled solely by the dilaton and hence is model-independent. We compare our findings with correlation functions on BTZ and find perfect agreement. We use our results to quantify the corrections for a class of correlators relevant to five-and four-dimensional black holes. We discuss how these corrections would enter in a holographic description of near-AdS ; we also comment on how these corrections provide a universal prediction for quasinormal modes in higher dimensions.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)282">Journal of High Energy Physics</source>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tz6f-8b5m</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)282</guid>
     </item><item>
       <title>The effects of near-AdS2 backreaction on matter fields</title>
       <link>https://doi.org/10.1007/JHEP05(2026)282</link>
@@ -49,12 +92,27 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)293</guid>
     </item><item>
+      <title>Exact three-point functions in mathcalN = 2 superconformal field theories: integrability vs. localization</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)289</link>
+      <description>We propose an integrability approach for planar three-point functions at finite coupling in mathcalN = 2 superconformal field theories obtained as ℤ orbifolds of mathcalN = 4 super Yang-Mills (SYM). Generalizing the hexagon formalism for mathcalN = 4 SYM, we reproduce the structure constants of Coulomb branch operators, previously obtained by supersymmetric localization, as exact functions of the ’t Hooft coupling. Our analysis explains the common physical origin of Fredholm kernels in integrability and localization, and hints at structures after the resummation in the hexagon formalism. Notably, we conjecture an all-loop, all-magnon expression for the wrapping contribution, that we checked against the Fredholm determinant result. We were also able to check that the first few magnon contributions are consistent with the factorized form of the final result.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)289">Journal of High Energy Physics</source>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)289</guid>
+    </item><item>
       <title>Dynamical Love Numbers for Black Holes and Beyond from Shell Effective Field Theory</title>
       <link>https://doi.org/10.1103/mtqm-xz2k</link>
       <description>We construct a novel effective field theory for a compact body coupled to gravity, whose key feature is that the dynamics of gravitational perturbations is explicitly determined by known solutions in black hole perturbation theory in four dimensions. In this way, the physics of gravitational perturbations in curved space are already encoded in the effective field theory, thus bypassing the need for the higher-order calculations that constitute a major hurdle in standard approaches. Concretely, we model the compact body as a spherical shell, whose finite size regulates short-distance divergences in four dimensions and whose tidal responses are described by higher-dimensional operators. As an application, we consider scalar perturbations and derive new results for scalar Love numbers through O(G9) for Schwarzschild black holes and for generic compact bodies. Finally, our analysis reveals an intriguing structure of the scalar black-hole Love numbers in terms of the Riemann zeta function, </description>
       <source url="https://doi.org/10.1103/mtqm-xz2k">Physical Review Letters</source>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/mtqm-xz2k</guid>
+    </item><item>
+      <title>Search for dark matter produced in association with a Higgs boson decaying to bottom quarks in proton-proton collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/2m87-3dlr</link>
+      <description>A search for dark matter particles produced in association with a Higgs boson decaying to a bottom quark-antiquark pair in proton-proton collisions at s=13 TeV is presented. The data, collected with the CMS detector at the LHC, correspond to an integrated luminosity of 101 fb−1. The analysis is performed in exclusive categories targeting both Lorentz-boosted (merged) and resolved b jet pair topologies, covering a wide range of Higgs boson transverse momentum. A statistical combination is made with a previous search using data collected in 2016 and corresponding to an integrated luminosity of 35.9 fb−1. The observed data agree with the standard model background predictions. Constraints are placed on models predicting new particles or interactions, such as those in the simplified frameworks of baryonic-Z′ and 2HDM+a, where the latter is a type-II two-Higgs-doublet model featuring a heavy pseudoscalar with an additional light pseudoscalar. Upper limits at 95% confidence level are set on t</description>
+      <source url="https://doi.org/10.1103/2m87-3dlr">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2m87-3dlr</guid>
     </item><item>
       <title>Measurement of the Higgs boson total decay width using the H→WW→eνμν decay channel in proton-proton collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/rny9-zby1</link>
@@ -64,21 +122,6 @@
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rny9-zby1</guid>
     </item><item>
-      <title>Amplitude analysis of the isospin-violating decay J/ψ→γηπ0</title>
-      <link>https://doi.org/10.1103/8wdg-kwqj</link>
-      <description>Using (10087±44)×106 J/ψ events collected with the BESIII detector, we perform the first amplitude analysis of the process J/ψ→γηπ0. The decay is dominated by the intermediate processes J/ψ→π0b1(1235)0→γηπ0, J/ψ→π0ρ(1450)0→γηπ0 and J/ψ→ηh1(1170)→γηπ0. Contributions from J/ψ→γa0(980)0→γηπ0, J/ψ→γa2(1320)0→γηπ0 and J/ψ→γa2(1700)0→γηπ0 are observed with a statistical significance exceeding 5σ, constituting the first observation of radiative transitions of J/ψ to isospin-triplet scalar mesons. The total branching fraction of J/ψ→γηπ0 is measured to be (25.7±0.3±1.5)×10−6, where the first uncertainty is statistical and the second systematic. This result is consistent with the previous measurement, with the precision improved by more than a factor of two.</description>
-      <source url="https://doi.org/10.1103/8wdg-kwqj">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8wdg-kwqj</guid>
-    </item><item>
-      <title>Interpolating conformal algebra in (1+1) dimensions between the instant form and the light-front form of relativistic dynamics</title>
-      <link>https://doi.org/10.1103/prlq-4j1l</link>
-      <description>We present the interpolating conformal algebra between the instant form dynamics (IFD) and the light-front dynamics (LFD) in (1+1) dimensions, along with a 4×4 interpolating projective spacetime matrix representation. While there are six generators in the (1+1)-dimensional conformal algebra, the number of kinematic and dynamic generators dramatically changes in LFD, maximizing (minimizing) the number of kinematic (dynamic) generators to four (two) with respect to two (four) kinematic (dynamic) generators in IFD, as well as in any other forms of dynamics between IFD and LFD. It confirms and signifies the utility of LFD, saving substantial dynamical efforts in solving the (1+1)-dimensional quantum field theories. We also present 2×2 Pauli matrix representation of (1+0) and (0+1) conformal groups and creation/annihilation operators of quantum simple harmonic oscillator representations of (1+0)-dimensional conformal groups.</description>
-      <source url="https://doi.org/10.1103/prlq-4j1l">Physical Review D</source>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/prlq-4j1l</guid>
-    </item><item>
       <title>Interpolating conformal algebra in (1+1) dimensions between the instant form and the light-front form of relativistic dynamics</title>
       <link>https://doi.org/10.1103/prlq-4j1l</link>
       <description>We present the interpolating conformal algebra between the instant form dynamics (IFD) and the light-front dynamics (LFD) in (1+1) dimensions, along with a 4×4 interpolating projective spacetime matrix representation. While there are six generators in the (1+1)-dimensional conformal algebra, the number of kinematic and dynamic generators dramatically changes in LFD, maximizing (minimizing) the number of kinematic (dynamic) generators to four (two) with respect to two (four) kinematic (dynamic) generators in IFD, as well as in any other forms of dynamics between IFD and LFD. It confirms and signifies the utility of LFD, saving substantial dynamical efforts in solving the (1+1)-dimensional quantum field theories. We also present 2×2 Pauli matrix representation of (1+0) and (0+1) conformal groups and creation/annihilation operators of quantum simple harmonic oscillator representations of (1+0)-dimensional conformal groups.</description>
@@ -93,62 +136,12 @@
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)277</guid>
     </item><item>
-      <title>Full three-loop electroweak multiplet contributions to the electron electric dipole moment</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)277</link>
-      <description>Experimental sensitivity to the electric dipole moment (EDM) of the electron has improved remarkably in recent years. Consequently, future prospects could probe new physics whose contribution to the electron EDM first arises at three-loop order. Additional SU(2) multiplets with CP-violating Yukawa interactions, which contribute to the electron EDM at three-loop level, is one such testable new physics scenario. In this scenario, the electron EDM is radiatively induced from two contributions: the CP-odd trilinear W-boson coupling, called the electroweak-Weinberg operator, and the CP-odd dipole operator of electron. The former and the latter operators are generated at two-loop and three-loop levels, respectively, after integrating out the SU(2) multiplets. Within the same models, according to an analysis based on the Standard Model Effective Field Theory (SMEFT), we previously found that the contribution to the electron EDM from the electroweak-Weinberg operator can be probed in future ex</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)277">Journal of High Energy Physics</source>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)277</guid>
-    </item><item>
-      <title>Next-to-next-to-leading power corrections to unpolarized Semi-Inclusive Deep Inelastic Scattering</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)265</link>
-      <description>Semi-Inclusive Deep Inelastic Scattering (SIDIS) is a key tool for exploring the three-dimensional structure of the nucleon through Transverse Momentum Dependent parton distributions and fragmentation functions. While leading-power contributions to the SIDIS cross-section are well established, next-to-leading power (NLP) corrections of order 1/Q and next-to-next-to-leading power (NNLP) corrections of order 1/Q to the hadronic tensor have only recently begun to be systematically investigated. These corrections are essential for reliable phenomenology and interpretation of modern high-precision data. In recent papers by one of the authors, NNLP corrections to the Drell-Yan process were derived using the rapidity factorization formalism. In the present work, we extend this approach to SIDIS and obtain analytic expressions for the unpolarized structure functions. We derive NNLP corrections that include convolutions of unpolarized distributions, f , with unpolarized fragmentation functions,</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)265">Journal of High Energy Physics</source>
+      <title>Accurate bootstrap bounds from optimal interpolation</title>
+      <link>https://doi.org/10.1007/JHEP05(2026)275</link>
+      <description>We develop new methods for approximating conformal blocks as positive functions times polynomials, with applications to the numerical bootstrap. We argue that to obtain accurate bootstrap bounds, conformal block approximations should minimize a certain error norm related to the asymptotics of dispersive functionals. This error norm can be made small using interpolation nodes with an appropriate optimal density. The optimal density turns out to satisfy a kind of force-balance equation for charges in 1-dimension, which can be solved using standard techniques from large-N matrix models. We also describe how to use optimal density interpolation nodes to improve condition numbers inside the semidefinite program solver SDPB. Altogether, our new approximation scheme and improvements to condition numbers lead to more accurate bootstrap bounds with fewer computational resources. They were crucial in the recent bootstrap study of stress tensors in the 3d Ising CFT.</description>
+      <source url="https://doi.org/10.1007/JHEP05(2026)275">Journal of High Energy Physics</source>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)265</guid>
-    </item><item>
-      <title>Long-lived-particle signals of a composite hidden sector through the neutrino portal</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)261</link>
-      <description>We explore the signals of a scenario in which the composite states of a strongly coupled hidden sector couple to the Standard Model through the neutrino portal, giving rise to the neutrino masses. We consider a framework in which the hidden sector is conformal in the ultraviolet and the compositeness scale lies below the weak scale. If the lightest composite state in the hidden sector is a scalar, its decay rate back to the Standard Model is suppressed by angular momentum considerations and can naturally be small, giving rise to long-lived particle signals. We determine the current constraints on this class of models and explore the reach of future collider and beam dump searches. We find that FASER, SHiP, and Belle II can potentially probe a significant part of the unexplored parameter space.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)261">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)261</guid>
-    </item><item>
-      <title>Symmetry topological field theory entanglement and holographic nonfactorization</title>
-      <link>https://doi.org/10.1103/9wgn-ntnn</link>
-      <description>Given two otherwise decoupled D-dimensional CFTs which possess a common (finite) symmetry subcategory, one can consider entangled boundary states of their (D+1)-dimensional symmetry topological field theories (SymTFTs). This roughly corresponds to performing a gauging of the tensor product of two CFTs, and we call this phenomena “SymTFT entanglement” (or “S entanglement” for short). In the case when these CFTs have semiclassical holographic duals, the S entanglement relates the bulk gauge charges between two otherwise disconnected AdS spacetimes as we highlight in several top-down examples. We show that taking partial traces of such S-entangled states leads to a streamlined approach to preparing ensemble-averaged CFTs in string theory. This ensemble averaging coincides with that generated by α states in the baby universe Hilbert space, and we propose a symmetry-enriched generalization of this Hilbert space via generalized global symmetries. We quantify how this symmetry-governed averag</description>
-      <source url="https://doi.org/10.1103/9wgn-ntnn">Physical Review D</source>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9wgn-ntnn</guid>
-    </item><item>
-      <title>Weyl anomaly for chiral fermions</title>
-      <link>https://doi.org/10.1103/ry3t-xm88</link>
-      <description>We compute the parity-odd part of the Weyl anomaly for chiral fermions in a background gravitational field. We start from a manifestly real form of the Lagrangian (that is, not only real up to a total derivative), and we regularize it by means of Pauli-Villars fermions. All parity-odd terms in the anomaly cancel in the integrand, so that the result of the anomaly is necessarily parity even.</description>
-      <source url="https://doi.org/10.1103/ry3t-xm88">Physical Review D</source>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ry3t-xm88</guid>
-    </item><item>
-      <title>Dynamical black hole emission</title>
-      <link>https://doi.org/10.1007/JHEP05(2026)258</link>
-      <description>Semiclassical black hole emission in four spacetime dimensions is studied using a non-local effective action. The field equations that determine the time-dependent renormalized stress tensor are solved numerically for a black hole formed by an ingoing null shock wave, and otherwise smooth initial data. We find that Hawking radiation is generated dynamically near the black hole horizon and freely propagates out to null infinity, resulting in an outgoing energy flux that builds up from zero at early retarded times before the black hole forms. This resolves the long-standing issue of pre-Hawking radiation, suffered by calculations based on a static approximation to the stress tensor in an Unruh state, and paves the way towards four-dimensional black hole evolution with semiclassical back-reaction included.</description>
-      <source url="https://doi.org/10.1007/JHEP05(2026)258">Journal of High Energy Physics</source>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)258</guid>
-    </item><item>
-      <title>Deep neural network extraction of unpolarized transverse momentum distributions</title>
-      <link>https://doi.org/10.1103/p3sg-k524</link>
-      <description>Building on the first-ever application of neural networks in transverse momentum distribution (TMD) phenomenology—“Extraction of the Sivers function with deep neural networks”—we now present a momentum-space, physics-informed deep-learning framework for the direct extraction of unpolarized transverse-momentum-dependent parton distribution functions (TMDs) from fixed-target Drell-Yan data (E288, E605). Rather than transforming to impact-parameter space, we remain in k⊥ and embed a normalized integrand s(x,k⊥;Q) whose autoconvolution produces the observed qT spectra. We introduce two phenomenological objects in this data-driven approach: the transverse structure kernel S(qT,x1,x2;Q) and the intrinsic-transverse-momentum profile s(x,k⊥;Q). The extraction proceeds in two steps. Stage I learns the structure kernel S(qT,x1,x2;QM) by regressing the cross section with known kinematic prefactors and charge-weighted parton distribution function (PDF) combinations factored out; experimental and P</description>
-      <source url="https://doi.org/10.1103/p3sg-k524">Physical Review D</source>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p3sg-k524</guid>
-    </item><item>
-      <title>Small-x behavior in QCD from maximal entanglement and conformal invariance</title>
-      <link>https://doi.org/10.1103/fvfm-hxpk</link>
-      <description>Recent evidence suggests that, at small Bjorken x, QCD evolution drives the proton into a state of maximal entanglement. If the evolution kernel is assumed to be conformally invariant—as is the case for the Balitsky-Fadin-Kuraev-Lipatov equation—we can describe it by a conformal field theory. Moreover, the central charge c of the corresponding conformal field theory emerges as the key parameter governing the x dependence of both the entanglement entropy and the structure function. Here we apply the exact Bethe ansatz methods to the quantum spin chain dual to Lipatov’s high energy effective action to extract the central charge of the theory, and find that c=1. This implies the ∼x−1/3 small x behavior for the structure function—the prediction that can be tested at the forthcoming Electron-Ion Collider.</description>
-      <source url="https://doi.org/10.1103/fvfm-hxpk">Physical Review D</source>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/fvfm-hxpk</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)275</guid>
     </item>
   </channel>
 </rss>
