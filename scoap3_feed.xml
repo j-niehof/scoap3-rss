@@ -5,29 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 14:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 15:04:48 +0000</lastBuildDate>
     <item>
-      <title>Observing spacetime</title>
-      <link>https://doi.org/10.1103/p7wt-47rj</link>
-      <description>Complex states of quantum gravity in flat and Anti de Sitter gravity can have features that are inaccessible to classical asymptotic observers. The missing information appears to such observers to be hidden behind a horizon or in a baby universe. Here we use the gravitational path integral to ask whether quantum observables can access the hidden data. We show that generic probes give a universal result and contain no information about the state. However, a probe appropriately fine-tuned to the state can give a large signal because of novel wormhole saddles in the path integral. Thus, in these settings, asymptotic observers cannot easily determine the state of the universe, but can check a proposal for it. Using these fine-tuned probes we show that an asymptotic observer can detect information hidden in a disconnected baby universe. Furthermore we show that the state of a two-boundary black hole can be detected using Lorentzian operators localized on just one of the boundaries.</description>
-      <source url="https://doi.org/10.1103/p7wt-47rj">Physical Review D</source>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p7wt-47rj</guid>
-    </item><item>
-      <title>Distinct neutrino signatures and onset condition of quark deconfinement in accretion-induced collapse of white dwarfs</title>
-      <link>https://doi.org/10.1103/ffd8-p2ps</link>
-      <description>We present the first general relativistic, neutrino-radiation hydrodynamics simulations of accretion-induced collapse (AIC) extending to seconds after core bounce, using realistic hadron–quark hybrid equations of state (EOSs). A first-order QCD phase transition (PT) triggers a second dynamical collapse and the formation of a quasistable protohybrid star (PHS) with a deconfined quark core and a distinctive second neutrino burst. We find that the thermally suppressed onset of the mixed phase allows low-mass protoneutron stars to enter the hadron-quark mixed phase during long-term evolution, even for hybrid EOSs with high onset densities. In contrast to core-collapse supernovae (CCSNe), AIC models exhibit a tightly constrained onset mass with minimal EOS dependence, owing to the absence of a massive envelope and thus the reduced postbounce accretion. This enhances the sensitivity of neutrino observables in AIC to hybrid EOS properties. We establish empirical relations between PT onset den</description>
-      <source url="https://doi.org/10.1103/ffd8-p2ps">Physical Review D</source>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ffd8-p2ps</guid>
-    </item><item>
-      <title>Measurements of the branching fractions of χcJ→ϕϕη, ϕϕη′ and ϕK+K−η</title>
-      <link>https://doi.org/10.1103/qns3-wyxt</link>
-      <description>Using a sample of (2712.4±14.3)×106 ψ(3686) events collected by the BESIII detector at the BEPCII collider, we measure the branching fractions of the decays χcJ→ϕϕη,ϕϕη′, and ϕK+K−η (J=0, 1, 2). The obtained branching fractions are B(χc0→ϕϕη)=(7.40±0.23±0.55)×10−4, B(χc1→ϕϕη)=(3.33±0.14±0.25)×10−4, B(χc2→ϕϕη)=(5.46±0.17±0.40)×10−4, B(χc0→ϕϕη′)=(2.96±0.23±0.29)×10−4, B(χc1→ϕϕη′)=(0.69±0.10±0.08)×10−4, B(χc2→ϕϕη′)=(0.65±0.09±0.07)×10−4, B(χc0→ϕK+K−η)=(1.23±0.08±0.10)×10−4, B(χc1→ϕK+K−η)=(1.00±0.07±0.07)×10−4, and B(χc2→ϕK+K−η)=(1.82±0.09±0.14)×10−4, where K+K− is not from the decay of a ϕ meson, the first uncertainties are statistical and the second systematic. The branching fractions of χcJ→ϕϕη are measured with precision improved by factors of 1.5–1.9, and those of χcJ→ϕϕη′ and ϕK+K−η are measured for the first time.</description>
-      <source url="https://doi.org/10.1103/qns3-wyxt">Physical Review D</source>
+      <title>Longitudinal spin transfer to Λ hyperons in semi-inclusive deep inelastic scattering with the CLAS12 spectrometer</title>
+      <link>https://doi.org/10.1103/d6g9-96xr</link>
+      <description>The polarization of Λ hyperons is preserved in the angular distribution of their decay products. This property allows one to study the spin structure of the Λ. In semi-inclusive deep inelastic scattering where a high energy lepton interacts with a nucleon target and one or more hadrons and the scattered lepton are detected in the final state, the probability for a struck quark to impart the polarization of the lepton to the Λ may be measured. In particular, in electron-proton scattering this quantity may be related to the longitudinal light quark polarization of the Λ. Currently, limited experimental data cannot discriminate between different models of Λ spin structure. This work reports on the measurement of the longitudinal spin transfer DLL′Λ to the Λ using data taken by the CLAS12 spectrometer at Jefferson Lab with a 10.6 GeV longitudinally polarized electron beam and an unpolarized hydrogen target. This measurement is the most precise to date, and, in comparison with theory predic</description>
+      <source url="https://doi.org/10.1103/d6g9-96xr">Physical Review D</source>
       <author>et al.</author>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qns3-wyxt</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/d6g9-96xr</guid>
     </item><item>
       <title>Finding unexpected nonhelical tracks</title>
       <link>https://doi.org/10.1103/k9n2-d85w</link>
@@ -66,12 +52,27 @@
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/5wrw-7dz8</guid>
     </item><item>
-      <title>Highest-energy neutrino event constrains dark matter-neutrino interactions</title>
-      <link>https://doi.org/10.1103/ds8v-lvmw</link>
-      <description>Dark matter-neutrino interactions affect the propagation of astrophysical neutrinos, attenuating the flux of neutrinos arriving at Earth. Using the highest-energy neutrino event detected to date by the KM3NeT Collaboration as an example, and assuming an extragalactic origin, we derive limits on these interactions at Eν=220−110+570 PeV. Considering only the propagation on the Milky Way dark matter halo, we constrain the interaction cross section over the mass of the dark matter candidate to be σDM−ν/mDM≲10−22 cm2 GeV−1. If a transient source was positively identified, the high-energy neutrino would have crossed the dark matter halo of the source host as well, resulting in more stringent constraints (e.g., up to ∼6 orders of magnitude assuming the blazar PKS 0605-085 is the source). These bounds on the dark matter-neutrino interaction cross section are translated into limits on the mass of the dark matter candidate, the mass of the mediator, and the coupling strength for different simpli</description>
-      <source url="https://doi.org/10.1103/ds8v-lvmw">Physical Review D</source>
+      <title>New multimessenger probe of dark matter-nucleon interactions from ultrahigh energy cosmic ray acceleration</title>
+      <link>https://doi.org/10.1103/747j-mhcq</link>
+      <description>It has been suggested that the density of dark matter (DM) halo can be highly enhanced around supermassive black holes at the centers of massive galaxies. If real, these DM spikes would offer new opportunities to probe the properties of DM. In this work, we point out that DM spikes can significantly impact the composition and survivability of ultrahigh-energy cosmic rays accelerated near supermassive black holes. A large DM-nucleon cross section would fragment heavy nuclei into lighter elements and prevent them from attaining the energies observed at Earth. While the origin of cosmic rays remains a mystery, we show that if the highest-energy cosmic rays on Earth come from sources like NGC 1068, then cross sections of size σχp≤10−33(mχGeV) cm2 would be excluded by cosmic ray data. These bounds can be competitive with other existing probes and rule out new parameter space in the DM mass region mχ∈[3 MeV,30 MeV]. While the uncertainties on the acceleration mechanism of cosmic rays prevent</description>
+      <source url="https://doi.org/10.1103/747j-mhcq">Physical Review D</source>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ds8v-lvmw</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/747j-mhcq</guid>
+    </item><item>
+      <title>Strong constraints on dark photon and scalar dark matter decay from INTEGRAL and AMS-02 data</title>
+      <link>https://doi.org/10.1103/5wrw-7dz8</link>
+      <description>We investigate the decay of bosonic dark matter with masses between 1 MeV and 2 TeV into Standard Model final states. We specifically focus on dark photons that kinetically mix with the Standard Model, as well as scalar dark matter models that have Yukawa couplings with the Standard Model. Using INTEGRAL and AMS-02 data, we constrain the dark matter decay lifetime into final states that include photons or positrons, setting strong constraints on the dark matter lifetime that reach 1025 s for dark matter below 10 GeV and up to 1029 s for dark matter above 10 GeV.</description>
+      <source url="https://doi.org/10.1103/5wrw-7dz8">Physical Review D</source>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5wrw-7dz8</guid>
+    </item><item>
+      <title>Measurements of the branching fractions of χcJ→ϕϕη, ϕϕη′ and ϕK+K−η</title>
+      <link>https://doi.org/10.1103/qns3-wyxt</link>
+      <description>Using a sample of (2712.4±14.3)×106 ψ(3686) events collected by the BESIII detector at the BEPCII collider, we measure the branching fractions of the decays χcJ→ϕϕη,ϕϕη′, and ϕK+K−η (J=0, 1, 2). The obtained branching fractions are B(χc0→ϕϕη)=(7.40±0.23±0.55)×10−4, B(χc1→ϕϕη)=(3.33±0.14±0.25)×10−4, B(χc2→ϕϕη)=(5.46±0.17±0.40)×10−4, B(χc0→ϕϕη′)=(2.96±0.23±0.29)×10−4, B(χc1→ϕϕη′)=(0.69±0.10±0.08)×10−4, B(χc2→ϕϕη′)=(0.65±0.09±0.07)×10−4, B(χc0→ϕK+K−η)=(1.23±0.08±0.10)×10−4, B(χc1→ϕK+K−η)=(1.00±0.07±0.07)×10−4, and B(χc2→ϕK+K−η)=(1.82±0.09±0.14)×10−4, where K+K− is not from the decay of a ϕ meson, the first uncertainties are statistical and the second systematic. The branching fractions of χcJ→ϕϕη are measured with precision improved by factors of 1.5–1.9, and those of χcJ→ϕϕη′ and ϕK+K−η are measured for the first time.</description>
+      <source url="https://doi.org/10.1103/qns3-wyxt">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/qns3-wyxt</guid>
     </item><item>
       <title>Measurements of the branching fractions of χcJ→2K+2K−ω and ϕK+K−ω decays</title>
       <link>https://doi.org/10.1103/ppb7-fdts</link>
@@ -96,13 +97,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/gqms-364h</guid>
     </item><item>
-      <title>Squeezed State Radiation in Shockwave Scattering: QCD–Gravity Double Copy</title>
-      <link>https://doi.org/10.5506/aphyspolb.57.6-a3</link>
-      <description>Gluon and graviton radiation in strong field shockwave scattering are described by effective Lipatov vertices, with the graviton Lipatov vertex proportional to the bilinear of its QCD counterpart. We show here that the (n)-particle gluon radiation spectrum can be described as a generalized Susskind–Glogower (gSG) squeezed coherent state and discuss the properties of such squeezed states. The double-copy structure of the radiative frameworks suggests that multi-graviton radiation can be similarly described as a gSG state. We examine the physical parameter space and show that very large squeezing parameters (sim ln (bar n)) (where (bar n) is the mean graviton occupancy) are feasible for nearly minimal uncertainty configurations of the gSG state. Quantum noise in the corresponding gravitational wave spectrum is enhanced above the sensitivity of current and future gravitational wave detectors. Our results point to the importance of a comprehensive study of the strong field Lipatov regime o</description>
-      <source url="https://doi.org/10.5506/aphyspolb.57.6-a3">Acta Physica Polonica B</source>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.5506/aphyspolb.57.6-a3</guid>
-    </item><item>
       <title>Diffractive and Photon-Induced Processes at the LHC: From the Odderon Discovery, the Evidence for Saturation to the Search for Axion-like Particles</title>
       <link>https://doi.org/10.5506/aphyspolb.57.6-a10</link>
       <description>We discuss first the discovery of the odderon by the TOTEM and D0 collaborations. We then describe the gap between jet measurements sensitive to the high gluon density regime and the possible observation of the saturation phenomenon in PbPb interactions. We also mention the sensitivity to beyond the Standard Model physics and to the production of axion-like particles via photon–photon interactions. Abstract Published by the Jagiellonian University 2026 authors</description>
@@ -116,6 +110,13 @@
       <source url="https://doi.org/10.5506/aphyspolb.57.6-a7">Acta Physica Polonica B</source>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.5506/aphyspolb.57.6-a7</guid>
+    </item><item>
+      <title>Squeezed State Radiation in Shockwave Scattering: QCD–Gravity Double Copy</title>
+      <link>https://doi.org/10.5506/aphyspolb.57.6-a3</link>
+      <description>Gluon and graviton radiation in strong field shockwave scattering are described by effective Lipatov vertices, with the graviton Lipatov vertex proportional to the bilinear of its QCD counterpart. We show here that the (n)-particle gluon radiation spectrum can be described as a generalized Susskind–Glogower (gSG) squeezed coherent state and discuss the properties of such squeezed states. The double-copy structure of the radiative frameworks suggests that multi-graviton radiation can be similarly described as a gSG state. We examine the physical parameter space and show that very large squeezing parameters (sim ln (bar n)) (where (bar n) is the mean graviton occupancy) are feasible for nearly minimal uncertainty configurations of the gSG state. Quantum noise in the corresponding gravitational wave spectrum is enhanced above the sensitivity of current and future gravitational wave detectors. Our results point to the importance of a comprehensive study of the strong field Lipatov regime o</description>
+      <source url="https://doi.org/10.5506/aphyspolb.57.6-a3">Acta Physica Polonica B</source>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.5506/aphyspolb.57.6-a3</guid>
     </item><item>
       <title>Constraints on Loryons in a two Higgs doublet model</title>
       <link>https://doi.org/10.1007/JHEP05(2026)304</link>
@@ -131,12 +132,12 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/tz6f-8b5m</guid>
     </item><item>
-      <title>Degenerate vortices and worldline instantons in three-dimensional gauge theories</title>
-      <link>https://doi.org/10.1103/tz6f-8b5m</link>
-      <description>In this paper we continue the study of particlelike topological solitons with degenerate masses and their mixing due to worldline instantons. Previously, this phenomenon was studied in (1+1)-dimensional setups. Here we take a step further and consider degenerate vortices in 2+1 dimensions. We find that, while classically such vortices may be degenerate, they generally mix and split at the quantum level. Supersymmetry protects BPS-saturated vortices only when the number of supercharges in the bulk is large enough.</description>
-      <source url="https://doi.org/10.1103/tz6f-8b5m">Physical Review D</source>
+      <title>Affleck-Dine curvaton</title>
+      <link>https://doi.org/10.1103/7hr7-rtvh</link>
+      <description>The Standard Model of particle physics does not explain the origin of the universe’s baryon asymmetry or its primordial fluctuations. The Affleck-Dine mechanism is a well motivated scenario for generating the baryon asymmetry through the postinflationary dynamics of a complex scalar field with baryon number. The curvaton mechanism is a popular approach for producing curvature perturbations through the dynamics of a light spectator field that decays after inflation. We demonstrate that the same complex field can viably perform both roles without any modifications to the minimal realization of Affleck-Dine baryogenesis. This scenario can also accommodate appreciable levels of primordial non-Gaussianity, beyond those achievable with only a real-valued curvaton field, and may be observable with future cosmic microwave background experiments.</description>
+      <source url="https://doi.org/10.1103/7hr7-rtvh">Physical Review D</source>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tz6f-8b5m</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/7hr7-rtvh</guid>
     </item><item>
       <title>Dynamical Love Numbers for Black Holes and Beyond from Shell Effective Field Theory</title>
       <link>https://doi.org/10.1103/mtqm-xz2k</link>
