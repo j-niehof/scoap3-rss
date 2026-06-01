@@ -5,15 +5,52 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 15:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 21:54:37 +0000</lastBuildDate>
     <item>
-      <title>Longitudinal spin transfer to Λ hyperons in semi-inclusive deep inelastic scattering with the CLAS12 spectrometer</title>
-      <link>https://doi.org/10.1103/d6g9-96xr</link>
-      <description>The polarization of Λ hyperons is preserved in the angular distribution of their decay products. This property allows one to study the spin structure of the Λ. In semi-inclusive deep inelastic scattering where a high energy lepton interacts with a nucleon target and one or more hadrons and the scattered lepton are detected in the final state, the probability for a struck quark to impart the polarization of the lepton to the Λ may be measured. In particular, in electron-proton scattering this quantity may be related to the longitudinal light quark polarization of the Λ. Currently, limited experimental data cannot discriminate between different models of Λ spin structure. This work reports on the measurement of the longitudinal spin transfer DLL′Λ to the Λ using data taken by the CLAS12 spectrometer at Jefferson Lab with a 10.6 GeV longitudinally polarized electron beam and an unpolarized hydrogen target. This measurement is the most precise to date, and, in comparison with theory predic</description>
-      <source url="https://doi.org/10.1103/d6g9-96xr">Physical Review D</source>
+      <title>Gravitational production of massive spin-2 particles during reheating</title>
+      <link>https://doi.org/10.1103/3st2-jhx5</link>
+      <description>We study the minimal gravitational portal for a massive spin-2 dark matter candidate Xμν produced during perturbative reheating. The dark sector couples to the visible sector only via gravity, and we analyze two unavoidable channels: (i) inflaton condensate annihilation, ϕ+ϕ→X+X, and (ii) thermal scatterings, SM+SM→X+X, both mediated by graviton exchange. Working in the Fierz-Pauli framework for a free massive spin-2 field of mass m2, we derive the graviton-mediated amplitudes and perform a full helicity decomposition of the final state. The relic abundance is obtained analytically in terms of m2 and the reheating temperature TRH. In the light mass regime m2≪mϕ (with mϕ the inflaton mass during oscillations), production is overwhelmingly dominated by the longitudinal (helicity-0) mode: the 2→2 cross section is parametrically enhanced, scaling as ∼(mϕ/m2)4, and yields efficient dark matter production despite purely gravitational couplings. Compared to lower-spin cases (spin-0, 1/2, 1, a</description>
+      <source url="https://doi.org/10.1103/3st2-jhx5">Physical Review D</source>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3st2-jhx5</guid>
+    </item><item>
+      <title>Scattering off unstable states</title>
+      <link>https://doi.org/10.1103/24fy-h8fp</link>
+      <description>Unstable states that live long enough may appear as in(out)going particles in scattering experiments. Yet, the standard QFT approach strictly applies only to fully stable asymptotic states. This is evident when scattering involving unstable particles develops a t-channel singularity at specific angles. We employ a finite-time formalism leading to analytic results without the singularity (even in the infinite-time limit), thus solving the problem at a phenomenological level. In turn, the approach also justifies treating long-lived particles, like weakly decaying pions, as stable during strong interactions.</description>
+      <source url="https://doi.org/10.1103/24fy-h8fp">Physical Review D</source>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/24fy-h8fp</guid>
+    </item><item>
+      <title>Measurement of the solar neutrino interaction rate below 3.49 MeV in Super-Kamiokande-IV</title>
+      <link>https://doi.org/10.1103/yz79-h758</link>
+      <description>Super-Kamiokande (SK) has observed B8 solar neutrino elastic scattering at recoil electron kinetic energies (Ekin) as low as 3.49 MeV to study neutrino flavor conversion within the Sun. At SK-observable energies, these conversions are dominated by the Mikheyev-Smirnov-Wolfenstein effect. An upturn in the electron neutrino survival probability in which vacuum neutrino oscillations become dominant is predicted to occur at lower energies, but radioactive background increases exponentially with decreasing energy. New machine learning approaches provide substantial background reduction below 3.49 MeV such that statistical extraction of solar neutrino interactions becomes feasible. This article presents an analysis of the solar neutrino interaction rate at Ekin3.49 MeV with the full SK-IV period, using data from a wideband intelligent trigger when available and with a boosted decision tree for event selection. A solar neutrino signal is observed between 2.99 MeVEkin3.49 MeV with 2.76σ signif</description>
+      <source url="https://doi.org/10.1103/yz79-h758">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yz79-h758</guid>
+    </item><item>
+      <title>Measurement of the Top-Quark Production Cross Section and Charge Asymmetry at LHCb</title>
+      <link>https://doi.org/10.1103/c1x7-f9wn</link>
+      <description>The first measurements of the top-and antitop-quark differential production cross sections and the top-quark charge asymmetry in the forward region are presented, using proton-proton collision data collected by the LHCb experiment at a center-of-mass energy of 13 TeV corresponding to an integrated luminosity of 5.4 fb−1. The total production cross sections of top and antitop quarks are also determined. Measurements are performed using the μ+b-jet final state within a fiducial region defined by b-jet pT,jet&gt;50 GeV and pseudorapidity 2.2ηjet4.0, with the muon from the W-boson decay required to have pT,μ&gt;25 GeV and 2.0ημ4.5. The muon and b-jet system must satisfy pT(μ+jet)&gt;20 GeV. The measured integrated production cross sections for the top and antitop quarks are σt=0.95±0.04±0.08±0.02 pb, σt¯=0.81±0.03±0.07±0.02 pb, where the first uncertainty is statistical, the second systematic, and the third accounts for the luminosity uncertainty. The top-quark charge asymmetry is measured to be AC</description>
+      <source url="https://doi.org/10.1103/c1x7-f9wn">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/c1x7-f9wn</guid>
+    </item><item>
+      <title>Distinct neutrino signatures and onset condition of quark deconfinement in accretion-induced collapse of white dwarfs</title>
+      <link>https://doi.org/10.1103/ffd8-p2ps</link>
+      <description>We present the first general relativistic, neutrino-radiation hydrodynamics simulations of accretion-induced collapse (AIC) extending to seconds after core bounce, using realistic hadron–quark hybrid equations of state (EOSs). A first-order QCD phase transition (PT) triggers a second dynamical collapse and the formation of a quasistable protohybrid star (PHS) with a deconfined quark core and a distinctive second neutrino burst. We find that the thermally suppressed onset of the mixed phase allows low-mass protoneutron stars to enter the hadron-quark mixed phase during long-term evolution, even for hybrid EOSs with high onset densities. In contrast to core-collapse supernovae (CCSNe), AIC models exhibit a tightly constrained onset mass with minimal EOS dependence, owing to the absence of a massive envelope and thus the reduced postbounce accretion. This enhances the sensitivity of neutrino observables in AIC to hybrid EOS properties. We establish empirical relations between PT onset den</description>
+      <source url="https://doi.org/10.1103/ffd8-p2ps">Physical Review D</source>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ffd8-p2ps</guid>
+    </item><item>
+      <title>Measurements of the branching fractions of χcJ→ϕϕη, ϕϕη′ and ϕK+K−η</title>
+      <link>https://doi.org/10.1103/qns3-wyxt</link>
+      <description>Using a sample of (2712.4±14.3)×106 ψ(3686) events collected by the BESIII detector at the BEPCII collider, we measure the branching fractions of the decays χcJ→ϕϕη,ϕϕη′, and ϕK+K−η (J=0, 1, 2). The obtained branching fractions are B(χc0→ϕϕη)=(7.40±0.23±0.55)×10−4, B(χc1→ϕϕη)=(3.33±0.14±0.25)×10−4, B(χc2→ϕϕη)=(5.46±0.17±0.40)×10−4, B(χc0→ϕϕη′)=(2.96±0.23±0.29)×10−4, B(χc1→ϕϕη′)=(0.69±0.10±0.08)×10−4, B(χc2→ϕϕη′)=(0.65±0.09±0.07)×10−4, B(χc0→ϕK+K−η)=(1.23±0.08±0.10)×10−4, B(χc1→ϕK+K−η)=(1.00±0.07±0.07)×10−4, and B(χc2→ϕK+K−η)=(1.82±0.09±0.14)×10−4, where K+K− is not from the decay of a ϕ meson, the first uncertainties are statistical and the second systematic. The branching fractions of χcJ→ϕϕη are measured with precision improved by factors of 1.5–1.9, and those of χcJ→ϕϕη′ and ϕK+K−η are measured for the first time.</description>
+      <source url="https://doi.org/10.1103/qns3-wyxt">Physical Review D</source>
       <author>et al.</author>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/d6g9-96xr</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/qns3-wyxt</guid>
     </item><item>
       <title>Finding unexpected nonhelical tracks</title>
       <link>https://doi.org/10.1103/k9n2-d85w</link>
@@ -21,6 +58,13 @@
       <source url="https://doi.org/10.1103/k9n2-d85w">Physical Review D</source>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/k9n2-d85w</guid>
+    </item><item>
+      <title>Highest-energy neutrino event constrains dark matter-neutrino interactions</title>
+      <link>https://doi.org/10.1103/ds8v-lvmw</link>
+      <description>Dark matter-neutrino interactions affect the propagation of astrophysical neutrinos, attenuating the flux of neutrinos arriving at Earth. Using the highest-energy neutrino event detected to date by the KM3NeT Collaboration as an example, and assuming an extragalactic origin, we derive limits on these interactions at Eν=220−110+570 PeV. Considering only the propagation on the Milky Way dark matter halo, we constrain the interaction cross section over the mass of the dark matter candidate to be σDM−ν/mDM≲10−22 cm2 GeV−1. If a transient source was positively identified, the high-energy neutrino would have crossed the dark matter halo of the source host as well, resulting in more stringent constraints (e.g., up to ∼6 orders of magnitude assuming the blazar PKS 0605-085 is the source). These bounds on the dark matter-neutrino interaction cross section are translated into limits on the mass of the dark matter candidate, the mass of the mediator, and the coupling strength for different simpli</description>
+      <source url="https://doi.org/10.1103/ds8v-lvmw">Physical Review D</source>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ds8v-lvmw</guid>
     </item><item>
       <title>Searches for CEνNS and physics beyond the standard model using Skipper-CCDs at CONNIE</title>
       <link>https://doi.org/10.1103/l1pf-cpcv</link>
@@ -30,27 +74,12 @@
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/l1pf-cpcv</guid>
     </item><item>
-      <title>Longitudinal spin transfer to Λ hyperons in semi-inclusive deep inelastic scattering with the CLAS12 spectrometer</title>
-      <link>https://doi.org/10.1103/d6g9-96xr</link>
-      <description>The polarization of Λ hyperons is preserved in the angular distribution of their decay products. This property allows one to study the spin structure of the Λ. In semi-inclusive deep inelastic scattering where a high energy lepton interacts with a nucleon target and one or more hadrons and the scattered lepton are detected in the final state, the probability for a struck quark to impart the polarization of the lepton to the Λ may be measured. In particular, in electron-proton scattering this quantity may be related to the longitudinal light quark polarization of the Λ. Currently, limited experimental data cannot discriminate between different models of Λ spin structure. This work reports on the measurement of the longitudinal spin transfer DLL′Λ to the Λ using data taken by the CLAS12 spectrometer at Jefferson Lab with a 10.6 GeV longitudinally polarized electron beam and an unpolarized hydrogen target. This measurement is the most precise to date, and, in comparison with theory predic</description>
-      <source url="https://doi.org/10.1103/d6g9-96xr">Physical Review D</source>
-      <author>et al.</author>
+      <title>Finding unexpected nonhelical tracks</title>
+      <link>https://doi.org/10.1103/k9n2-d85w</link>
+      <description>Many theories of physics beyond the Standard Model predict particles with nonhelical trajectories in a uniform magnetic field, but standard tracking algorithms assume helical paths and so are incapable of discovering nonhelical tracks. While alternative algorithms have been developed for specific trajectories, unforeseen physics could lead to unanticipated behavior, and such unexpected tracks are largely invisible to current algorithms, despite being potentially striking to the naked eye. A model-agnostic tracking algorithm is presented, capable of reconstructing a broad class of smooth nonhelical tracks without requiring explicit specification of particle trajectories, instead defining the target trajectories implicitly in the training sample. The network exhibits strong performance, even outside of the trajectories defined by the training sample. This proof-of-principle study takes the first step towards searches for unexpected tracks which may await discovery in current data.</description>
+      <source url="https://doi.org/10.1103/k9n2-d85w">Physical Review D</source>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/d6g9-96xr</guid>
-    </item><item>
-      <title>New multimessenger probe of dark matter-nucleon interactions from ultrahigh energy cosmic ray acceleration</title>
-      <link>https://doi.org/10.1103/747j-mhcq</link>
-      <description>It has been suggested that the density of dark matter (DM) halo can be highly enhanced around supermassive black holes at the centers of massive galaxies. If real, these DM spikes would offer new opportunities to probe the properties of DM. In this work, we point out that DM spikes can significantly impact the composition and survivability of ultrahigh-energy cosmic rays accelerated near supermassive black holes. A large DM-nucleon cross section would fragment heavy nuclei into lighter elements and prevent them from attaining the energies observed at Earth. While the origin of cosmic rays remains a mystery, we show that if the highest-energy cosmic rays on Earth come from sources like NGC 1068, then cross sections of size σχp≤10−33(mχGeV) cm2 would be excluded by cosmic ray data. These bounds can be competitive with other existing probes and rule out new parameter space in the DM mass region mχ∈[3 MeV,30 MeV]. While the uncertainties on the acceleration mechanism of cosmic rays prevent</description>
-      <source url="https://doi.org/10.1103/747j-mhcq">Physical Review D</source>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/747j-mhcq</guid>
-    </item><item>
-      <title>Strong constraints on dark photon and scalar dark matter decay from INTEGRAL and AMS-02 data</title>
-      <link>https://doi.org/10.1103/5wrw-7dz8</link>
-      <description>We investigate the decay of bosonic dark matter with masses between 1 MeV and 2 TeV into Standard Model final states. We specifically focus on dark photons that kinetically mix with the Standard Model, as well as scalar dark matter models that have Yukawa couplings with the Standard Model. Using INTEGRAL and AMS-02 data, we constrain the dark matter decay lifetime into final states that include photons or positrons, setting strong constraints on the dark matter lifetime that reach 1025 s for dark matter below 10 GeV and up to 1029 s for dark matter above 10 GeV.</description>
-      <source url="https://doi.org/10.1103/5wrw-7dz8">Physical Review D</source>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5wrw-7dz8</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/k9n2-d85w</guid>
     </item><item>
       <title>New multimessenger probe of dark matter-nucleon interactions from ultrahigh energy cosmic ray acceleration</title>
       <link>https://doi.org/10.1103/747j-mhcq</link>
@@ -82,6 +111,13 @@
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ppb7-fdts</guid>
     </item><item>
+      <title>Euclidean correlation functions in quantum gravity</title>
+      <link>https://doi.org/10.1103/gqms-364h</link>
+      <description>We calculate Euclidean correlation functions through next-to-leading order in the low-energy effective theory of gravity. We focus on correlation functions of curvature and volume operators, calculating these functions through one-loop order. We show that quantum fluctuations of the background spacetime must be taken into account in order to obtain gauge invariant expressions, and we point out a subtlety associated with the analytic continuation of the conformal mode. Our final expressions for the correlation functions involve only Newton’s constant and the source-sink separation, and they are a universal prediction of the low-energy effective theory. Thus, they serve as a useful point of comparison for nonperturbative lattice formulations of gravity.</description>
+      <source url="https://doi.org/10.1103/gqms-364h">Physical Review D</source>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/gqms-364h</guid>
+    </item><item>
       <title>Avoiding blindness in baryon number violating processes: Free-beam and intranuclear paths to neutron-antineutron transitions</title>
       <link>https://doi.org/10.1103/4p9z-nd1s</link>
       <description>Experimental searches for neutron-antineutron (n→n¯) transitions can be considered via two approaches: conversion in free-neutron beams and intranuclear transformation leading to matter instability in large-mass detectors. Plans for next-generation searches make it timely to highlight the complementarity, necessity, and limitations of each method. Converting the bound neutron limit into one for free neutrons traditionally utilizes nucleus-specific estimates of the in-medium suppression of n→n¯, obtained within mean-field theory under a single-operator assumption. This paper highlights how this suppression can be scenario-dependent, which can lead to deviations from the standard approach that can span several orders of magnitude. A further goal of the paper is to point out the need for a broader phenomenology program for n→n¯ that is akin to those developed for electric dipole moments and other systems for which short-distance new physics must be studied in medium. We find that moderate</description>
@@ -89,13 +125,6 @@
       <author>et al.</author>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/4p9z-nd1s</guid>
-    </item><item>
-      <title>Euclidean correlation functions in quantum gravity</title>
-      <link>https://doi.org/10.1103/gqms-364h</link>
-      <description>We calculate Euclidean correlation functions through next-to-leading order in the low-energy effective theory of gravity. We focus on correlation functions of curvature and volume operators, calculating these functions through one-loop order. We show that quantum fluctuations of the background spacetime must be taken into account in order to obtain gauge invariant expressions, and we point out a subtlety associated with the analytic continuation of the conformal mode. Our final expressions for the correlation functions involve only Newton’s constant and the source-sink separation, and they are a universal prediction of the low-energy effective theory. Thus, they serve as a useful point of comparison for nonperturbative lattice formulations of gravity.</description>
-      <source url="https://doi.org/10.1103/gqms-364h">Physical Review D</source>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/gqms-364h</guid>
     </item><item>
       <title>Diffractive and Photon-Induced Processes at the LHC: From the Odderon Discovery, the Evidence for Saturation to the Search for Axion-like Particles</title>
       <link>https://doi.org/10.5506/aphyspolb.57.6-a10</link>
@@ -124,35 +153,6 @@
       <source url="https://doi.org/10.1007/JHEP05(2026)304">Journal of High Energy Physics</source>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP05(2026)304</guid>
-    </item><item>
-      <title>Degenerate vortices and worldline instantons in three-dimensional gauge theories</title>
-      <link>https://doi.org/10.1103/tz6f-8b5m</link>
-      <description>In this paper we continue the study of particlelike topological solitons with degenerate masses and their mixing due to worldline instantons. Previously, this phenomenon was studied in (1+1)-dimensional setups. Here we take a step further and consider degenerate vortices in 2+1 dimensions. We find that, while classically such vortices may be degenerate, they generally mix and split at the quantum level. Supersymmetry protects BPS-saturated vortices only when the number of supercharges in the bulk is large enough.</description>
-      <source url="https://doi.org/10.1103/tz6f-8b5m">Physical Review D</source>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tz6f-8b5m</guid>
-    </item><item>
-      <title>Affleck-Dine curvaton</title>
-      <link>https://doi.org/10.1103/7hr7-rtvh</link>
-      <description>The Standard Model of particle physics does not explain the origin of the universe’s baryon asymmetry or its primordial fluctuations. The Affleck-Dine mechanism is a well motivated scenario for generating the baryon asymmetry through the postinflationary dynamics of a complex scalar field with baryon number. The curvaton mechanism is a popular approach for producing curvature perturbations through the dynamics of a light spectator field that decays after inflation. We demonstrate that the same complex field can viably perform both roles without any modifications to the minimal realization of Affleck-Dine baryogenesis. This scenario can also accommodate appreciable levels of primordial non-Gaussianity, beyond those achievable with only a real-valued curvaton field, and may be observable with future cosmic microwave background experiments.</description>
-      <source url="https://doi.org/10.1103/7hr7-rtvh">Physical Review D</source>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7hr7-rtvh</guid>
-    </item><item>
-      <title>Dynamical Love Numbers for Black Holes and Beyond from Shell Effective Field Theory</title>
-      <link>https://doi.org/10.1103/mtqm-xz2k</link>
-      <description>We construct a novel effective field theory for a compact body coupled to gravity, whose key feature is that the dynamics of gravitational perturbations is explicitly determined by known solutions in black hole perturbation theory in four dimensions. In this way, the physics of gravitational perturbations in curved space are already encoded in the effective field theory, thus bypassing the need for the higher-order calculations that constitute a major hurdle in standard approaches. Concretely, we model the compact body as a spherical shell, whose finite size regulates short-distance divergences in four dimensions and whose tidal responses are described by higher-dimensional operators. As an application, we consider scalar perturbations and derive new results for scalar Love numbers through O(G9) for Schwarzschild black holes and for generic compact bodies. Finally, our analysis reveals an intriguing structure of the scalar black-hole Love numbers in terms of the Riemann zeta function, </description>
-      <source url="https://doi.org/10.1103/mtqm-xz2k">Physical Review Letters</source>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mtqm-xz2k</guid>
-    </item><item>
-      <title>Measurement of the Higgs boson total decay width using the H→WW→eνμν decay channel in proton-proton collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/rny9-zby1</link>
-      <description>The Higgs boson (H) decay width is determined from the ratio of off-and on-shell production of H→WW→eνμν using proton–proton collision data corresponding to an integrated luminosity of 138 fb−1 collected at s=13 TeV by the CMS experiment at the Large Hadron Collider. The off-shell signal strength is measured as μoff−shell=1.2−0.7+0.8. The Higgs boson total decay width is ΓH=3.9−2.2+2.7 MeV, in agreement with the standard model prediction. The uncertainty in this result represents a factor of 3 improvement over the previous CMS result in this decay channel.</description>
-      <source url="https://doi.org/10.1103/rny9-zby1">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rny9-zby1</guid>
     </item>
   </channel>
 </rss>
