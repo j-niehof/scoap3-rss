@@ -5,8 +5,132 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 17:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 15:00:03 +0000</lastBuildDate>
     <item>
+      <title>Covariant conservation laws, local invariance and Noether’s second theorem</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15850-6</link>
+      <description>We lay down a set of requirements for a field theory to produce a covariant conservation law out of Noether’s second theorem, and show that neither local invariance implies a covariant conservation law, nor the existence of a covariant conservation law necessarily stems from the local invariance of the theory. We illustrate our results with the examples of well-known theories.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15850-6">European Physical Journal C</source>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15850-6</guid>
+    </item><item>
+      <title>Graded unitarity in the SCFT/VOA correspondence</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)075</link>
+      <description>Vertex algebras that arise from four-dimensional, 𝒩 = 2 superconformal field theories inherit a collection of novel structural properties from their four-dimensional ancestors. Crucially, when the parent SCFT is unitary, the corresponding vertex algebra is not unitary in the conventional sense. In this paper, we motivate and define a generalized notion of unitarity for vertex algebras that we call graded unitarity, and which captures the consequences of four-dimensional unitarity under this correspondence. We also take the first steps towards a classification program for graded-unitary vertex algebras whose underlying vertex algebras are Virasoro or affine Kac-Moody vertex algebras. Remarkably, under certain natural assumptions about the ℜ-filtration for these vertex algebras, we show that only the (2, p) central charges for Virasoro VOAs and boundary admissible levels for 𝔰𝔩 and 𝔰𝔩 Kac-Moody vertex algebras can possibly be compatible with graded unitarity. These are precisely the case</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)075">Journal of High Energy Physics</source>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)075</guid>
+    </item><item>
+      <title>Asymptotic behavior of diagram classes</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)069</link>
+      <description>Perturbative expansions in quantum field theory are typically asymptotic, with large-order growth driven by instantons (factorial proliferation of diagrams) and renormalons (factorial growth from momentum integrations). In this work we compute the large-order behavior and Borel-plane singularity structure for several nontrivial truncations of Schwinger-Dyson equations, including diagram classes whose asymptotics have not, to our knowledge, been previously worked out. We recover the known chain-, rainbow-, and Hopf-series results in ϕ theory and extend the analysis to additional truncations, including the two-arm ϕ self-energy class in d = 6 and several classes in ϕ theory in d = 4. Our derivations use Schwinger-Dyson equations together with Borel transforms and a direct renormalization-group/leading-log analysis: given the same primitive integral input, this yields the relevant differential/recursion structure and makes the renormalon interpretation of the dominant Borel singularities </description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)069">Journal of High Energy Physics</source>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)069</guid>
+    </item><item>
+      <title>ψ(2S) production in jets using NRQCD</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)063</link>
+      <description>Based on recent data from LHCb, we study ψ(2S) production in jets using non-relativistic QCD (NRQCD) in conjunction with the Fragmenting Jet Function (FJF) and Gluon Fragmentation Improved P (GFIP) formalisms. Similar to previous studies of J/ψ production in jets, our results show that these formalisms offer a much better description of data than the default P +NRQCD prediction. We compare and contrast between the predictions from the FJF formalism and the GFIP approach. In addition, our results show that the distribution of ψ(2S) in jets is an excellent discriminator to test different predictions for the ψ(2S) LDMEs from various extractions. We find a large disparity between the predictions from three different collaborations showing that a more precise extraction of the ψ(2S) LDMEs may be necessary.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)063">Journal of High Energy Physics</source>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)063</guid>
+    </item><item>
+      <title>Observation and branching fraction measurements of χcJ→pp¯KS0KS0</title>
+      <link>https://doi.org/10.1103/kcys-whfc</link>
+      <description>Based on (2.712±0.014)×109 ψ(3686) events collected with the BESIII detector, the decays χcJ→pp¯KS0KS0 (J=0, 1, 2) are observed for the first time with statistical significances exceeding 5σ. The measured branching fractions are B(χc0→pp¯KS0KS0)=(7.25±0.28±0.35)×10−5, B(χc1→pp¯KS0KS0)=(1.33±0.12±0.07)×10−5, and B(χc2→pp¯KS0KS0)=(2.51±0.16±0.12)×10−5, where the first uncertainties are statistical and the second systematic. In addition, no significant structures are observed in the pp¯, pKS0, and p¯KS0 mass spectra.</description>
+      <source url="https://doi.org/10.1103/kcys-whfc">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/kcys-whfc</guid>
+    </item><item>
+      <title>Jet quenching in out-of-equilibrium QCD matter</title>
+      <link>https://doi.org/10.1103/q8bb-qlm8</link>
+      <description>We present the first study of jet substructure modifications during the bottom-up evolution that describes the early stages of heavy-ion collisions. To this end, we study the bremsstrahlung radiation rate of soft gluons from a hard parton propagating through out-of-equilibrium QCD matter. The gluon spectrum is computed within the improved opacity expansion, which accounts for both multiple soft and single hard momentum exchanges between the hard probe and the medium. The background evolution is obtained from effective kinetic theory simulations that determine the jet quenching parameter, which in turn controls the radiation rate. We compute the radiation rate for initially underoccupied and overoccupied systems, as well as for an expanding system undergoing hydrodynamization, which typically represents the initial stages of heavy-ion collisions. The results for these dynamical backgrounds are compared to static and thermally matched scenarios, allowing to gauge the importance of bulk e</description>
+      <source url="https://doi.org/10.1103/q8bb-qlm8">Physical Review D</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/q8bb-qlm8</guid>
+    </item><item>
+      <title>Supersymmetric truncation of N=3 dilaton Weyl multiplet</title>
+      <link>https://doi.org/10.1103/hdns-1fmd</link>
+      <description>We perform all possible supersymmetric truncations of the four-dimensional N=3 dilaton Weyl multiplet, which realizes an R-symmetry SU(2)×U(1)×U(1), to N=2. A particular truncation procedure does not break any of the R-symmetries and leads to the known N=2 vector-dilaton Weyl multiplet and the N=2 vector multiplet. A different truncation procedure breaks the SU(2) part of the R-symmetry to U(1) and leads to a 32+32 off-shell representation of N=2 conformal supergravity with a partially broken R-symmetry. Independently, we construct another 32+32 off-shell multiplet in N=2 conformal supergravity by coupling the N=2 scalar-tensor multiplet to the N=2 standard Weyl multiplet and using the scalar fields present in the scalar-tensor multiplet to break the SU(2) R-symmetry to U(1). We then establish the equivalence between these two multiplets through a mapping. We observe that this 32+32 multiplet is gauge equivalent to a Poincaré supergravity multiplet as it has all the compensators necess</description>
+      <source url="https://doi.org/10.1103/hdns-1fmd">Physical Review D</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hdns-1fmd</guid>
+    </item><item>
+      <title>Supersymmetric truncation of N=3 dilaton Weyl multiplet</title>
+      <link>https://doi.org/10.1103/hdns-1fmd</link>
+      <description>We perform all possible supersymmetric truncations of the four-dimensional N=3 dilaton Weyl multiplet, which realizes an R-symmetry SU(2)×U(1)×U(1), to N=2. A particular truncation procedure does not break any of the R-symmetries and leads to the known N=2 vector-dilaton Weyl multiplet and the N=2 vector multiplet. A different truncation procedure breaks the SU(2) part of the R-symmetry to U(1) and leads to a 32+32 off-shell representation of N=2 conformal supergravity with a partially broken R-symmetry. Independently, we construct another 32+32 off-shell multiplet in N=2 conformal supergravity by coupling the N=2 scalar-tensor multiplet to the N=2 standard Weyl multiplet and using the scalar fields present in the scalar-tensor multiplet to break the SU(2) R-symmetry to U(1). We then establish the equivalence between these two multiplets through a mapping. We observe that this 32+32 multiplet is gauge equivalent to a Poincaré supergravity multiplet as it has all the compensators necess</description>
+      <source url="https://doi.org/10.1103/hdns-1fmd">Physical Review D</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hdns-1fmd</guid>
+    </item><item>
+      <title>New high-statistics measurement of the π0→e+e−γ Dalitz decay at the Mainz Microtron</title>
+      <link>https://doi.org/10.1103/9tk1-2dxp</link>
+      <description>The Dalitz decay π0→e+e−γ has been measured with the highest statistical accuracy obtained so far in the γp→π0p reaction with the A2 tagged-photon facility at the Mainz Microtron, MAMI. The value of the slope parameter for the π0 electromagnetic transition form factor, aπ=0.0315±0.0026stat±0.0010syst, is obtained from the analysis of 2.4×106 π0→e+e−γ observed decays. Within experimental uncertainties, it is in agreement with existing measurements and theoretical calculations, with its own uncertainty being smaller than previous results based on the analysis of π0→e+e−γ decays.</description>
+      <source url="https://doi.org/10.1103/9tk1-2dxp">Physical Review C</source>
+      <author>et al.</author>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9tk1-2dxp</guid>
+    </item><item>
+      <title>Matter unification and lepton flavor violation</title>
+      <link>https://doi.org/10.1103/qgvz-sd3v</link>
+      <description>We explore the idea of quark-lepton unification at low energies. In particular, we discuss the minimal framework for matter unification at the multi-TeV scale, in which neutrino masses are necessarily generated via the inverse seesaw mechanism. To assess the testability of this theory for physics beyond the Standard Model, we analyze current experimental constraints and derive the corresponding lower bound on the symmetry breaking scale. We reexamine the impact of existing limits from lepton number violating meson decays, taking into account the freedom associated with unknown quark-lepton mixing angles. Furthermore, we study the correlation between bounds from meson decays and μ→e conversion. We demonstrate that the upcoming μ→e conversion experiment at Fermilab can play a crucial role in probing quark-lepton unification at the multi-TeV scale.</description>
+      <source url="https://doi.org/10.1103/qgvz-sd3v">Physical Review D</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/qgvz-sd3v</guid>
+    </item><item>
+      <title>Muon collider probes of the gluonic quartic gauge couplings</title>
+      <link>https://doi.org/10.1103/sws9-5bw3</link>
+      <description>We investigate the dimension-8 gluonic quartic gauge couplings at future high-energy muon colliders through the process μ+μ−→ggγ. Using detailed event simulation and optimized kinematic selections, we derive projected sensitivities to the Wilson coefficients and their associated new-physics scales, showing that muon colliders can probe deep into the multi-TeV regime and significantly surpass current LHC bounds. We further present the positivity bounds on those Wilson coefficients, as theoretical constraints from the fundamental principles of quantum field theory. Our results establish μ+μ−→ggγ as one of the most sensitive probes of dimension-8 new physics at future muon colliders.</description>
+      <source url="https://doi.org/10.1103/sws9-5bw3">Physical Review D</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/sws9-5bw3</guid>
+    </item><item>
+      <title>Search for the isospin-violating decays χcJ→ΛΣ¯ 0+c.c. and ηc→ΛΣ¯ 0+c.c.</title>
+      <link>https://doi.org/10.1103/513w-6wjl</link>
+      <description>Using a sample of (2712.4±14.3)×106 ψ(3686) events collected with the BESIII detector, we perform a search for the isospin-violating decays χcJ→ΛΣ¯ 0+c.c.(J=0,1,2) and ηc→ΛΣ¯ 0+c.c. No significant signal for χcJ or ηc is observed in the ΛΣ¯ 0 invariant mass distribution. The upper limits on the branching fractions at the 90% confidence level are set to be B(χc0→ΛΣ¯ 0+c.c.)1.5×10−6, B(χc1→ΛΣ¯ 0+c.c.)1.6×10−6, B(χc2→ΛΣ¯ 0+c.c.)1.7×10−6, and B(ηc→ΛΣ¯ 0+c.c.)6.2×10−5 for the first time.</description>
+      <source url="https://doi.org/10.1103/513w-6wjl">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/513w-6wjl</guid>
+    </item><item>
+      <title>Observation and branching fraction measurements of χcJ→pp¯KS0KS0</title>
+      <link>https://doi.org/10.1103/kcys-whfc</link>
+      <description>Based on (2.712±0.014)×109 ψ(3686) events collected with the BESIII detector, the decays χcJ→pp¯KS0KS0 (J=0, 1, 2) are observed for the first time with statistical significances exceeding 5σ. The measured branching fractions are B(χc0→pp¯KS0KS0)=(7.25±0.28±0.35)×10−5, B(χc1→pp¯KS0KS0)=(1.33±0.12±0.07)×10−5, and B(χc2→pp¯KS0KS0)=(2.51±0.16±0.12)×10−5, where the first uncertainties are statistical and the second systematic. In addition, no significant structures are observed in the pp¯, pKS0, and p¯KS0 mass spectra.</description>
+      <source url="https://doi.org/10.1103/kcys-whfc">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/kcys-whfc</guid>
+    </item><item>
+      <title>Ultracold Neutron Energy Spectrum and Storage Properties from Magnetically Induced Spin Depolarization</title>
+      <link>https://doi.org/10.1103/hspm-dwkn</link>
+      <description>We present a novel method for extracting the energy spectrum of ultracold neutrons from magnetically induced spin depolarization measurements using the n2EDM apparatus. This method is also used to exploit sensitivity to the storage properties of the materials used to trap ultracold neutrons, specifically, whether collisions are specular or diffuse. To do so, we utilize tomat simulation to map storage properties to correlation times of the ultracold neutrons to induced magnetic nonuniformities. We highlight the sensitivity of this new technique by comparing the two different storage chambers of the n2EDM experiment, which host different ultracold neutron energy spectra. This method should prove to be invaluable to assess systematic effects in experiments utilizing spin-polarized systems with precise magnetic control and long spin-spin coherence time relative to the observation time, such as neutron electric dipole moment and neutron lifetime experiments worldwide.</description>
+      <source url="https://doi.org/10.1103/hspm-dwkn">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hspm-dwkn</guid>
+    </item><item>
+      <title>Neutrinos, B-L symmetry and the dark dimension</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)059</link>
+      <description>We consider realizations of a gauged B-L symmetry in the context of the Dark Dimension scenario, where the SM lives on a codimension one brane in 5d spacetime. The B-L can naturally be a bulk gauge symmetery leading to a global symmetry on the SM brane, and have its gauge anomaly canceled by charged bulk modes. This naturally leads to the existence of 3 right-handed neutrinos propagating in the dark dimension. Allowing for Higgsing of B-L by a bulk scalar at the Higgs scale, results in a massive gauge field with m ~ 100 GeV and weak coupling g ~ 10 which is allowed by current bounds. The model also predicts a natural matching m ~ m ~ Λ , thereby providing a theoretical explanation for the observed coincidence between neutrino masses and the Dark Energy scale. It also predicts a tower of sterile right-handed neutrinos in the keV mass range.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)059">Journal of High Energy Physics</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)059</guid>
+    </item><item>
+      <title>Holography of K-complexity: switchbacks and shockwaves</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)060</link>
+      <description>In this paper we study Krylov complexity in the presence of single and multiple operators in the DSSYK model, where we can use the analytical techniques coming from chord diagrammatics. One of the results we obtain is that it showcases the switchback effect, when the appropriate “triple-scaling limit” is taken, under which the model becomes dual to semiclassical JT gravity. We build on previous work, where it was shown that, in the continuum limit, Krylov complexity is defined as the sum of expectations value of right and left chord number operators. Here we argue that this property signals the emergence of the geometric nature of this notion of K-complexity. We show that in the regime where DSSYK is dual to semi-classical gravity, the light matter chord corresponds to a shockwave insertion in JT gravity. We identify the geodesic-length dual of the operator complexity and extend the relevant holographic dictionary to describe the details of the matter insertions. Additionally, we defin</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)060">Journal of High Energy Physics</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)060</guid>
+    </item><item>
+      <title>Time evolution of multi-party entanglement signals</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)055</link>
+      <description>We study the real-time dynamics of multi-party entanglement signals in chaotic quantum many-body systems including but not necessarily restricted to holographic conformal field theories. We find that scrambling dynamics generates multiparty entanglement with rich structure including: (a) qualitatively different dynamical behaviours for different signals, likely reflecting different dynamics for different kinds of entanglement patterns, (b) discontinuities possibly indicating dynamical phase transitions in the entanglement structure, (c) transient and non-monotonic multiparty entanglement signals, and (d) periods during which the extensive entanglement of some regions is entirely multipartite. Our main technical tool is the membrane theory of entanglement dynamics.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)055">Journal of High Energy Physics</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)055</guid>
+    </item><item>
       <title>J/ψ-meson–nucleon scattering length from threshold photoproduction on light nuclei</title>
       <link>https://doi.org/10.1103/ndmt-2brb</link>
       <description>The quality of recent Short-Range Correlations/Color-Transparency (SRC/CT) Collaboration J/ψ photoproduction data off a He4 target from Hall D at Jefferson Laboratory, combined with the feasibility of measuring the reaction close to the free-nucleon energy threshold, opens the door to using incoherent J/ψ photoproduction to explore a variety of interesting physics aspects. An example is the estimation of the J/ψp scattering length |αJ/ψp| on the bound proton, obtained using the vector meson dominance model. The new experiment E12–25–002, conducted by the SRC/CT Collaboration, was recently approved in Hall D with the GlueX spectrometer, which will significantly enhance the number of reconstructed J/ψ mesons. Using a plane-wave theoretical model to generate quasidata, we estimated that the experiment could achieve a result of |αJ/ψp|=3.08±0.45mfm. This value can be compared to an extraction based on the free proton data from the GlueX Collaboration, |αJ/ψp|=3.08±0.55mfm. A comparison bet</description>
@@ -29,127 +153,6 @@
       <author>et al.</author>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/mw5c-5rw3</guid>
-    </item><item>
-      <title>Quark-lepton unification signatures</title>
-      <link>https://doi.org/10.1103/2ts7-tt1p</link>
-      <description>We investigate the collider signatures of the minimal framework for quark-lepton unification at a scale not far from the electroweak symmetry breaking scale. This theory predicts a rich spectrum of new fields, including one vector leptoquark, two scalar leptoquarks, a color-octet scalar, and an additional Higgs doublet. Neutrino masses are generated via the inverse seesaw mechanism, facilitating viable matter unification at the low scale. We find that this theory predicts that in many cases the dominant leptoquark decays are to the third generation Standard Model quarks and leptons. We identify key experimental signatures at the Large Hadron Collider, evaluate and discuss the limits from current measurements, and outline potential strategies for probing this theory in the near future.</description>
-      <source url="https://doi.org/10.1103/2ts7-tt1p">Physical Review D</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2ts7-tt1p</guid>
-    </item><item>
-      <title>Energy-momentum tensor in a classical model of the electron</title>
-      <link>https://doi.org/10.1103/zp92-8sd5</link>
-      <description>We show that the leading nonanalytic terms in the small-t expansion of the energy-momentum tensor form factors of an electrically charged particle in QED can be correctly derived in a classical model of the electron by Białynicki-Birula. Based on the lucidity of the employed exactly solvable model, we comment also on the recently proposed concept of a regularized proton D-term.</description>
-      <source url="https://doi.org/10.1103/zp92-8sd5">Physical Review D</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/zp92-8sd5</guid>
-    </item><item>
-      <title>Singly heavy cascade baryon Xi ^0_c , Xi ^'0_c , Xi ^-_b &amp; Xi ^'-_b spectroscopy in the relativistic framework of independent quark model</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15778-x</link>
-      <description>In this work, the potential parameters of the independent quark model are systematically reduced using previously determined inputs from a broad range of baryons. The reduced-parameter formulation, developed within the relativistic Dirac formalism and employing a Martin-like potential, is then applied to the spectroscopy of the singly heavy baryons Xi _c^0 and Xi _b^-in anti-triplet( bartextbf3 ) and sextet( textbf6 ) representations. This enables an explicit verification of the linear relation obtained between the potential parameters. Radially and orbitally excited state masses are calculated accordingly, and the resulting Regge trajectories are used to assign spin-parity of experimentally observed states. The observed states Xi _c^0(2882) , Xi _c^0(2923) , and Xi _c^0(2970) are interpreted as J^P = tfrac32^-states, where Xi _c^0(2882) is assigned to the anti-triplet ( bartextbf3 ) configuration, while Xi _c^0(2923) and Xi _c^0(2970) are identified as sextet ( textbf6 ) states. In th</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15778-x">European Physical Journal C</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15778-x</guid>
-    </item><item>
-      <title>Hofstadter’s butterfly in AdS3 black holes</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)038</link>
-      <description>We derive the reduced Dirac Hamiltonian on the non-rotating BTZ background and use its redshift structure to construct a gauge-covariant single-band lattice model on the constant-time BTZ cylinder. In equal-area coordinates the AdS radius L fixes the local Gaussian curvature, while the horizon radius r fixes the throat size and the strength of the near-horizon redshift. The lattice model therefore has a direct geometric interpretation and is not presented as an unshown reduction of the two-component Dirac lattice. Its angular Fourier transform yields an exact curved Harper equation with BTZ-dependent hopping amplitudes and a consistent dimensionless angular quasi-momentum. We then supplement global parameter scans with state-resolved diagnostics: spectra color-coded by mean radius, local density of states, direct flux-response versus radius correlations, and Aharonov–Bohm spectral flow and persistent current on the BTZ cycle. These results show that weaker curvature sharpens the butter</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)038">Journal of High Energy Physics</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)038</guid>
-    </item><item>
-      <title>Searching for quirks at LHCb</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)037</link>
-      <description>Quirks are heavy particles connected by a flux tube from a hidden confining force that remain weakly constrained in large regions of their parameter space. This flux tube acts as a string that, at short enough distance, stretches as the quirk pair separates, then pulls the pair back together leading to interesting dynamics. We propose a novel search using the LHCb Vertex Locator (VELO), whose forward geometry and software-based trigger are uniquely suited to detecting the characteristic back-to-back, planar hit patterns produced by quirk pairs with little transverse recoil. Using detailed simulations of the VELO geometry, together with simple geometric selections, we present different sensitivity projections, demonstrating that LHCb can probe parameter regions inaccessible to existing ATLAS and CMS searches and offering a powerful, complementary path toward discovering quirks.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)037">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)037</guid>
-    </item><item>
-      <title>Disjoint additivity and local quantum physics</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)025</link>
-      <description>Quantum systems of physical interest are often local, but there are at least three competing perspectives on how “locality” should be formalized: an algebraic framework, a path-integral framework, and a lattice framework. One puzzle in this competition is that systems with higher-form symmetries, which are perfectly local from the path-integral and lattice perspectives, can violate the algebraic principle of “additivity”. In this paper, we propose a resolution to this puzzle by introducing a weaker locality principle, disjoint additivity, which together with Haag duality should always be satisfied in local quantum systems. As evidence, we give examples in which disjoint additivity is preserved when ordinary additivity is violated; we show that Haag duality and disjoint additivity are satisfied in rather general lattice systems with local symmetry constraints; we give examples of nonlocal theories in which either disjoint additivity or Haag duality is violated; and finally we give examp</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)025">Journal of High Energy Physics</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)025</guid>
-    </item><item>
-      <title>Allowable complex Black Holes in the Euclidean Gravitational Path Integral</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)026</link>
-      <description>The Euclidean Gravitational Path Integral has proven remarkably effective in the quantum regime of black hole physics. In this work, we examine the applicability of the Kontsevich-Segal-Witten (KSW) criterion for admissible complex metrics in the context of the Euclidean Gravitational Path Integral. We find that, for the super-conformal index of 𝒩 = 4 SYM with unequal angular momenta, the black hole saddle points violate the KSW criterion precisely where the statistical description of the index breaks down. The corresponding critical point coincides with a phase transition into two-component “grey galaxy” configurations.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)026">Journal of High Energy Physics</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)026</guid>
-    </item><item>
-      <title>Yang-Mills flux tube in AdS</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)029</link>
-      <description>We initiate the study of flux tubes in confining gauge theories placed in a rigid AdS background, which serves as an infrared regulator. Varying the AdS radius from large to small allows us to interpolate between the flat space confining string, and a weakly coupled string-like object which is held together by the AdS gravitational potential. At any radius, the string preserves a subgroup of AdS isometries equivalent to the one-dimensional conformal group and hence, from the boundary point of view, can be thought of as a conformal defect. The defect hosts a protected operator, called displacement, which nonlinearly realizes the broken AdS isometries. At small radius the displacement corresponds to the gauge field strength inserted at the boundary, while at large radius it is mapped to the Goldstone mode living on the string worldsheet. This relates gauge field and worldsheet degrees of freedom. We propose a hypothesis according to which the large and small radius perturbative expansion</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)029">Journal of High Energy Physics</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)029</guid>
-    </item><item>
-      <title>Holomorphic structure of massive scalar fields in (A)dS2</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)028</link>
-      <description>Scalar field theories in (A)dS with integer scaling dimensions ∆ = k + 1 are characterised by the existence of a pair of (anti-)holomorphic higher-spin currents. We explore the consequences of this to describe their quantisation and subsets of their linear and non-linear symmetries, taking care to treat AdS and dS separately. In particular, we point out that the theories admit mode expansions reminiscent of standard two-dimensional conformal field theories in complex coordinates, with which we are able to construct a large set of symmetry transformations which includes Virasoro symmetry. We further leverage holomorphicity of the currents to show that the significant subset of the full symmetries of theories with k &gt; 0 is captured by a chiral algebra, which is a subalgebra of the one in the k = 0 (massless) theory. This allows us to identify integrable deformations for k ∈ 0, 1, 2. We finally observe that a lack of integrable deformations for k &gt; 2 is a consequence of a known conjecture</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)028">Journal of High Energy Physics</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)028</guid>
-    </item><item>
-      <title>Background-enhanced axion force by axion dark matter</title>
-      <link>https://doi.org/10.1103/mzcz-n7r2</link>
-      <description>We investigate the influence of axion dark matter as a background on the spin-independent axion forces between nucleons. Notably, we find that the potential for axion forces scales from 1/r3 in a vacuum-only context to 1/r when the background effect is considered. Also, the magnitude of the axion force is substantially amplified in proportion to the number density of axion DM particles. These enhancements significantly improve the constraints on the axion decay constant by several orders of magnitude, across a broad range of axion masses, based on the fifth-force experiments such as the Casimirless and torsion balance tests. This suggests that such experiments are more effective than previously understood in detecting axions.</description>
-      <source url="https://doi.org/10.1103/mzcz-n7r2">Physical Review D</source>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mzcz-n7r2</guid>
-    </item><item>
-      <title>Jet charge with global event shapes: Probing quark flavor dynamics</title>
-      <link>https://doi.org/10.1103/668t-9jv3</link>
-      <description>We propose measuring the jet electric charge of jet regions, defined within the framework of global event shapes, as a probe of quark flavor dynamics within the nucleon and the hadronization process. In particular, we consider a measurement of the jet region charge while simultaneously keeping track of the energy flow throughout the event, as characterized by the global event shape. As a concrete example, we focus on the measurement of the 1-Jettiness jet charge (Q), the jet charge of the jet region (J) defined within the framework of the 1-Jettiness global event shape (τ1) for the deep inelastic scattering (DIS) process, e−+p→e−+J+X, with unpolarized or longitudinally polarized protons. The 1-Jettiness distribution, binned according to jet charge, allows for enhanced quark flavor separation of the initial-state unpolarized or polarized PDFs. On the other hand, the jet charge distribution binned by 1-Jettiness can serve as a probe of quark flavor dynamics in the final-state hadronizati</description>
-      <source url="https://doi.org/10.1103/668t-9jv3">Physical Review D</source>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/668t-9jv3</guid>
-    </item><item>
-      <title>Background-enhanced axion force by axion dark matter</title>
-      <link>https://doi.org/10.1103/mzcz-n7r2</link>
-      <description>We investigate the influence of axion dark matter as a background on the spin-independent axion forces between nucleons. Notably, we find that the potential for axion forces scales from 1/r3 in a vacuum-only context to 1/r when the background effect is considered. Also, the magnitude of the axion force is substantially amplified in proportion to the number density of axion DM particles. These enhancements significantly improve the constraints on the axion decay constant by several orders of magnitude, across a broad range of axion masses, based on the fifth-force experiments such as the Casimirless and torsion balance tests. This suggests that such experiments are more effective than previously understood in detecting axions.</description>
-      <source url="https://doi.org/10.1103/mzcz-n7r2">Physical Review D</source>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mzcz-n7r2</guid>
-    </item><item>
-      <title>Jet charge with global event shapes: Probing quark flavor dynamics</title>
-      <link>https://doi.org/10.1103/668t-9jv3</link>
-      <description>We propose measuring the jet electric charge of jet regions, defined within the framework of global event shapes, as a probe of quark flavor dynamics within the nucleon and the hadronization process. In particular, we consider a measurement of the jet region charge while simultaneously keeping track of the energy flow throughout the event, as characterized by the global event shape. As a concrete example, we focus on the measurement of the 1-Jettiness jet charge (Q), the jet charge of the jet region (J) defined within the framework of the 1-Jettiness global event shape (τ1) for the deep inelastic scattering (DIS) process, e−+p→e−+J+X, with unpolarized or longitudinally polarized protons. The 1-Jettiness distribution, binned according to jet charge, allows for enhanced quark flavor separation of the initial-state unpolarized or polarized PDFs. On the other hand, the jet charge distribution binned by 1-Jettiness can serve as a probe of quark flavor dynamics in the final-state hadronizati</description>
-      <source url="https://doi.org/10.1103/668t-9jv3">Physical Review D</source>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/668t-9jv3</guid>
-    </item><item>
-      <title>Gamma rays and gravitational waves from inelastic Higgs portal dark matter</title>
-      <link>https://doi.org/10.1103/4vqv-vmxz</link>
-      <description>We explore a simple and predictive dark matter scenario involving a complex scalar field, ϕ, coupled to the Higgs portal with no additional field content. In the UV, the field possesses a global U(1) symmetry which is broken by mass terms and Higgs portal interactions. In the mass basis, the complex field splits into a pair of real scalars with a small mass splitting (in analogy to pseudo-Dirac fermions), such that the Higgs portal acquires both diagonal and off-diagonal terms with respect to these eigenstates. In the parameter space where the off-diagonal interaction predominates, this scenario is safe from direct detection constraints. Moreover, this model provides a viable explanation for the longstanding Galactic Center γ-ray excess. Additionally, this model influences the Higgs potential in a way that could facilitate a strong first-order electroweak phase transition in the early Universe, potentially leading to a stochastic gravitational wave background that could fall within the</description>
-      <source url="https://doi.org/10.1103/4vqv-vmxz">Physical Review D</source>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4vqv-vmxz</guid>
-    </item><item>
-      <title>Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb–Pb collisions at mathbf sqrts_textrmNN = 5.02 TeV</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15412-w</link>
-      <description>The azimuthal-correlation distributions between electrons from the decays of heavy-flavor hadrons and associated charged particles in Pb–Pb collisions at sqrts_textrmNN = 5.02 TeV are reported for the 0–10% and 30–50% centrality classes. This measurement provides access to the jet-like correlation observables in the heavy-flavor sector in Pb–Pb collisions. The analysis is performed for trigger electrons from heavy-flavor hadron decays with transverse momentum 44 GeV/c on the away side. The I_textrmAA for electron triggers from heavy-flavor hadron decays is compared with that for light-flavor and strange-particle triggers to investigate the dependence on different fragmentation processes and parton-medium dynamics, and is found to be the same within uncertainties.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15412-w">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15412-w</guid>
-    </item><item>
-      <title>Kaon decay constraints on vector bosons coupled to nonconserved currents</title>
-      <link>https://doi.org/10.1103/wvhd-8mtc</link>
-      <description>We study rare three-and four-body kaon decays as a probe of light vector and axial-vector bosons coupled to nonconserved currents. We find that searches for KL→π0π0(X→e+e−) decays constrain the couplings of light X bosons to light quarks to be as small as O(10−5). The charged-pion modes K+→π+π0(X→e+e−) and KL→π+π−(X→e+e−) provide weaker limits, but constrain complementary combinations of couplings to the u, d, and s quarks at the level of O(10−4). Finally, we also find that double emission of X in K→πXX decays can provide yet additional constraints on the parameter space of light X bosons due to a double (mK/mX)2 enhancement to the rate. For a 17 MeV boson, these limits add to the known tension between spin-1 bosons coupled to vector and axial-vector currents interpretations of the results of the ATOMKI experiment with meson decay data. Finally, we also comment on negative pion capture on hydrogen and deuterium as a source of light particles and discuss the prospects for testing the 17</description>
-      <source url="https://doi.org/10.1103/wvhd-8mtc">Physical Review D</source>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wvhd-8mtc</guid>
-    </item><item>
-      <title>Signatures of quasi-Dirac neutrinos in diffuse high-energy astrophysical neutrino data</title>
-      <link>https://doi.org/10.1103/2hxm-qpsm</link>
-      <description>Although the sources of astrophysical neutrinos are still unknown, they are believed to be produced by a population of sources in the distant Universe. Measurements of the diffuse, all-sky astrophysical flux can thus be sensitive to flavor-and energy-dependent propagation effects, such as very long–baseline oscillations. These oscillations are present in certain neutrino mass models, such as when neutrinos are quasi-Dirac. Assuming generic models for the source flux, we find that these oscillations can still be resolved even when integrated over wide distributions in source redshift. We use two sets of IceCube all-sky flux measurements, made with muon and all-flavor neutrino samples, to set constraints at the 3σ level on quasi-Dirac mass splittings between (5×10−19,8×10−19) eV2. Additionally, we find that when the mass-square splittings are different between generations, the quasi-Dirac scenario can explain tensions between the all-flavor and muon-flavor measurements. We consider syste</description>
-      <source url="https://doi.org/10.1103/2hxm-qpsm">Physical Review D</source>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2hxm-qpsm</guid>
     </item>
   </channel>
 </rss>
