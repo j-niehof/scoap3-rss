@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 15:14:16 +0000</lastBuildDate>
     <item>
       <title>Covariant conservation laws, local invariance and Noether’s second theorem</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15850-6</link>
@@ -56,6 +56,20 @@
       <source url="https://doi.org/10.1103/hdns-1fmd">Physical Review D</source>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/hdns-1fmd</guid>
+    </item><item>
+      <title>Color force acting on a quark in the pion and nucleon</title>
+      <link>https://doi.org/10.1103/j3lv-wgrl</link>
+      <description>In the operator product expansion (OPE) of hard scattering amplitudes, the twist-3 operators describe local colored Lorentz forces acting on a quark, thereby providing a measure of the strength of the gluon fields. Its value is directly accessible from the nucleon twist-3 polarized g2-parton distribution function. In the semiclassical (instanton-based) QCD vacuum models, the leading nonperturbative contribution stems from correlated instanton-antiinstanton pairs, or molecules. We analyze the magnitude of the color force on a struck quark in light hadrons (pion and nucleon), in the context of the instanton liquid model (ILM). We derive explicitly the pertinent form factors associated with the color Lorentz force and show that they are intimately related to the pertinent hadronic gravitational and transversity form factors. Using the ILM enhanced by molecules, we detail the ensuing colored force distribution in the transverse plane for the luminal pions and nucleons. The results for the </description>
+      <source url="https://doi.org/10.1103/j3lv-wgrl">Physical Review D</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/j3lv-wgrl</guid>
+    </item><item>
+      <title>Jet quenching in out-of-equilibrium QCD matter</title>
+      <link>https://doi.org/10.1103/q8bb-qlm8</link>
+      <description>We present the first study of jet substructure modifications during the bottom-up evolution that describes the early stages of heavy-ion collisions. To this end, we study the bremsstrahlung radiation rate of soft gluons from a hard parton propagating through out-of-equilibrium QCD matter. The gluon spectrum is computed within the improved opacity expansion, which accounts for both multiple soft and single hard momentum exchanges between the hard probe and the medium. The background evolution is obtained from effective kinetic theory simulations that determine the jet quenching parameter, which in turn controls the radiation rate. We compute the radiation rate for initially underoccupied and overoccupied systems, as well as for an expanding system undergoing hydrodynamization, which typically represents the initial stages of heavy-ion collisions. The results for these dynamical backgrounds are compared to static and thermally matched scenarios, allowing to gauge the importance of bulk e</description>
+      <source url="https://doi.org/10.1103/q8bb-qlm8">Physical Review D</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/q8bb-qlm8</guid>
     </item><item>
       <title>Supersymmetric truncation of N=3 dilaton Weyl multiplet</title>
       <link>https://doi.org/10.1103/hdns-1fmd</link>
@@ -110,26 +124,13 @@
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/hspm-dwkn</guid>
     </item><item>
-      <title>Neutrinos, B-L symmetry and the dark dimension</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)059</link>
-      <description>We consider realizations of a gauged B-L symmetry in the context of the Dark Dimension scenario, where the SM lives on a codimension one brane in 5d spacetime. The B-L can naturally be a bulk gauge symmetery leading to a global symmetry on the SM brane, and have its gauge anomaly canceled by charged bulk modes. This naturally leads to the existence of 3 right-handed neutrinos propagating in the dark dimension. Allowing for Higgsing of B-L by a bulk scalar at the Higgs scale, results in a massive gauge field with m ~ 100 GeV and weak coupling g ~ 10 which is allowed by current bounds. The model also predicts a natural matching m ~ m ~ Λ , thereby providing a theoretical explanation for the observed coincidence between neutrino masses and the Dark Energy scale. It also predicts a tower of sterile right-handed neutrinos in the keV mass range.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)059">Journal of High Energy Physics</source>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)059</guid>
-    </item><item>
-      <title>Holography of K-complexity: switchbacks and shockwaves</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)060</link>
-      <description>In this paper we study Krylov complexity in the presence of single and multiple operators in the DSSYK model, where we can use the analytical techniques coming from chord diagrammatics. One of the results we obtain is that it showcases the switchback effect, when the appropriate “triple-scaling limit” is taken, under which the model becomes dual to semiclassical JT gravity. We build on previous work, where it was shown that, in the continuum limit, Krylov complexity is defined as the sum of expectations value of right and left chord number operators. Here we argue that this property signals the emergence of the geometric nature of this notion of K-complexity. We show that in the regime where DSSYK is dual to semi-classical gravity, the light matter chord corresponds to a shockwave insertion in JT gravity. We identify the geodesic-length dual of the operator complexity and extend the relevant holographic dictionary to describe the details of the matter insertions. Additionally, we defin</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)060">Journal of High Energy Physics</source>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)060</guid>
-    </item><item>
-      <title>Time evolution of multi-party entanglement signals</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)055</link>
-      <description>We study the real-time dynamics of multi-party entanglement signals in chaotic quantum many-body systems including but not necessarily restricted to holographic conformal field theories. We find that scrambling dynamics generates multiparty entanglement with rich structure including: (a) qualitatively different dynamical behaviours for different signals, likely reflecting different dynamics for different kinds of entanglement patterns, (b) discontinuities possibly indicating dynamical phase transitions in the entanglement structure, (c) transient and non-monotonic multiparty entanglement signals, and (d) periods during which the extensive entanglement of some regions is entirely multipartite. Our main technical tool is the membrane theory of entanglement dynamics.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)055">Journal of High Energy Physics</source>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)055</guid>
+      <title>Measurement of the ratio of the Bc+→J/ψτ+ντ and Bc+→J/ψμ+νμ branching fractions using three-prong τ lepton decays</title>
+      <link>https://doi.org/10.1103/mw5c-5rw3</link>
+      <description>The ratio between the Bc+→J/ψτ+ντ and Bc+→J/ψμ+νμ branching fractions is measured using a data sample of proton-proton collisions collected by CMS at a center-of-mass energy of 13 TeV in the years 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. The J/ψ meson is identified through its J/ψ→μ+μ− decay and the tau lepton is reconstructed in the hadronic three-prong final state. The measured ratio of branching fractions in this tau decay mode, RJ/ψhad=1.04−0.44+0.50, is combined with the previous analysis based on the τ+→μ+νμν¯τ leptonic decay channel, leading to RJ/ψ=0.49±0.26. As this result is consistent with the standard model prediction of 0.258±0.004, no evidence of lepton flavor universality violation is found.</description>
+      <source url="https://doi.org/10.1103/mw5c-5rw3">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mw5c-5rw3</guid>
     </item><item>
       <title>J/ψ-meson–nucleon scattering length from threshold photoproduction on light nuclei</title>
       <link>https://doi.org/10.1103/ndmt-2brb</link>
@@ -139,20 +140,19 @@
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ndmt-2brb</guid>
     </item><item>
-      <title>Singly heavy cascade baryon Xi ^0_c , Xi ^'0_c , Xi ^-_b &amp; Xi ^'-_b spectroscopy in the relativistic framework of independent quark model</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15778-x</link>
-      <description>In this work, the potential parameters of the independent quark model are systematically reduced using previously determined inputs from a broad range of baryons. The reduced-parameter formulation, developed within the relativistic Dirac formalism and employing a Martin-like potential, is then applied to the spectroscopy of the singly heavy baryons Xi _c^0 and Xi _b^-in anti-triplet( bartextbf3 ) and sextet( textbf6 ) representations. This enables an explicit verification of the linear relation obtained between the potential parameters. Radially and orbitally excited state masses are calculated accordingly, and the resulting Regge trajectories are used to assign spin-parity of experimentally observed states. The observed states Xi _c^0(2882) , Xi _c^0(2923) , and Xi _c^0(2970) are interpreted as J^P = tfrac32^-states, where Xi _c^0(2882) is assigned to the anti-triplet ( bartextbf3 ) configuration, while Xi _c^0(2923) and Xi _c^0(2970) are identified as sextet ( textbf6 ) states. In th</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15778-x">European Physical Journal C</source>
+      <title>Quark-lepton unification signatures</title>
+      <link>https://doi.org/10.1103/2ts7-tt1p</link>
+      <description>We investigate the collider signatures of the minimal framework for quark-lepton unification at a scale not far from the electroweak symmetry breaking scale. This theory predicts a rich spectrum of new fields, including one vector leptoquark, two scalar leptoquarks, a color-octet scalar, and an additional Higgs doublet. Neutrino masses are generated via the inverse seesaw mechanism, facilitating viable matter unification at the low scale. We find that this theory predicts that in many cases the dominant leptoquark decays are to the third generation Standard Model quarks and leptons. We identify key experimental signatures at the Large Hadron Collider, evaluate and discuss the limits from current measurements, and outline potential strategies for probing this theory in the near future.</description>
+      <source url="https://doi.org/10.1103/2ts7-tt1p">Physical Review D</source>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15778-x</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/2ts7-tt1p</guid>
     </item><item>
-      <title>Measurement of the ratio of the Bc+→J/ψτ+ντ and Bc+→J/ψμ+νμ branching fractions using three-prong τ lepton decays</title>
-      <link>https://doi.org/10.1103/mw5c-5rw3</link>
-      <description>The ratio between the Bc+→J/ψτ+ντ and Bc+→J/ψμ+νμ branching fractions is measured using a data sample of proton-proton collisions collected by CMS at a center-of-mass energy of 13 TeV in the years 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. The J/ψ meson is identified through its J/ψ→μ+μ− decay and the tau lepton is reconstructed in the hadronic three-prong final state. The measured ratio of branching fractions in this tau decay mode, RJ/ψhad=1.04−0.44+0.50, is combined with the previous analysis based on the τ+→μ+νμν¯τ leptonic decay channel, leading to RJ/ψ=0.49±0.26. As this result is consistent with the standard model prediction of 0.258±0.004, no evidence of lepton flavor universality violation is found.</description>
-      <source url="https://doi.org/10.1103/mw5c-5rw3">Physical Review D</source>
-      <author>et al.</author>
+      <title>Energy-momentum tensor in a classical model of the electron</title>
+      <link>https://doi.org/10.1103/zp92-8sd5</link>
+      <description>We show that the leading nonanalytic terms in the small-t expansion of the energy-momentum tensor form factors of an electrically charged particle in QED can be correctly derived in a classical model of the electron by Białynicki-Birula. Based on the lucidity of the employed exactly solvable model, we comment also on the recently proposed concept of a regularized proton D-term.</description>
+      <source url="https://doi.org/10.1103/zp92-8sd5">Physical Review D</source>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mw5c-5rw3</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/zp92-8sd5</guid>
     </item>
   </channel>
 </rss>
