@@ -5,8 +5,50 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 15:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:39:59 +0000</lastBuildDate>
     <item>
+      <title>Remarks on the de Sitter double cone</title>
+      <link>https://doi.org/10.1103/jync-pmnz</link>
+      <description>We study the double cone geometry proposed by Saad-Shenker-Stanford in de Sitter space. We show that with the inclusion of static patch observers, the double cone leads to a linear ramp consistent with random matrix behavior, where the ramp comes from the relative timeshift between two clocks sitting at opposite static patches.</description>
+      <source url="https://doi.org/10.1103/jync-pmnz">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jync-pmnz</guid>
+    </item><item>
+      <title>Rotating synchrotron radiation: Photon emission from magnetized and rotating quark-gluon plasma</title>
+      <link>https://doi.org/10.1103/5d5w-9338</link>
+      <description>This paper investigates the production of nonprompt photons originating from rotating synchrotron radiation (RoSyRa), specifically the emission of photons by a rigidly rotating quark-gluon plasma in thermal equilibrium, in the presence of an external magnetic field. We compute the nonprompt photon spectrum and its elliptic flow (v2) at midrapidity. In particular, we investigate the finite-volume effects. We find that at low transverse momentum, the magnetic field induces a significant v2, while the plasma rotation boosts the synchrotron radiation of negatively charged quarks. These findings make RoSyRa a viable candidate mechanism to resolve the “direct photon puzzle.”</description>
+      <source url="https://doi.org/10.1103/5d5w-9338">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5d5w-9338</guid>
+    </item><item>
+      <title>Remarks on the de Sitter double cone</title>
+      <link>https://doi.org/10.1103/jync-pmnz</link>
+      <description>We study the double cone geometry proposed by Saad-Shenker-Stanford in de Sitter space. We show that with the inclusion of static patch observers, the double cone leads to a linear ramp consistent with random matrix behavior, where the ramp comes from the relative timeshift between two clocks sitting at opposite static patches.</description>
+      <source url="https://doi.org/10.1103/jync-pmnz">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jync-pmnz</guid>
+    </item><item>
+      <title>Boomerang mechanism explaining the excess radio background</title>
+      <link>https://doi.org/10.1103/ncv3-jtnp</link>
+      <description>We propose a boomerang mechanism for the explanation of the excess radio background detected by ARCADE 2. In an early stage of the Universe, at a temperature T in the range ∼0.1 keV−1 MeV, a fraction of relic neutrinos is resonantly converted into dark neutrinos by mixing induced by a preexisting lepton asymmetry. Dark neutrinos decay much later into a dark-standard photon state and a dark fermion, with a lifetime longer than the age of the Universe, as required by a solution to the excess radio background. This scenario circumvents the upper bound on the neutrino magnetic moment but still implies a testable lower bound.</description>
+      <source url="https://doi.org/10.1103/ncv3-jtnp">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ncv3-jtnp</guid>
+    </item><item>
+      <title>Predicting the dark matter-baryon abundance ratio</title>
+      <link>https://doi.org/10.1103/98dc-kpx9</link>
+      <description>We discuss relaxation solutions to the dark matter-baryon coincidence problem in the context of QCD axion dark matter. In relaxation solutions, a moduli dynamically adjusts the mass of dark matter and baryons until their energy densities are O(1) the same. Because the QCD axion is heavily connected to QCD, scanning the QCD axion mass inherently also scans the proton mass. In the context of relaxation solutions, this implies that the ratio of dark matter to baryon abundances (ΩDM/ΩB) is a ratio of beta functions showing that these models can only accommodate discrete values of ΩDM/ΩB thereby “predicting” the ratio of the dark matter to baryon abundances. The original composite axion model has only a single integer degree of freedom N, the size of the gauge group, and we show that when N=8 the observed value of ΩDM/ΩB=5.36 is reproduced to within its percent level error bars. Novel tests of this model include more precise measurements of ΩDM/ΩB, a better lattice determination of the depe</description>
+      <source url="https://doi.org/10.1103/98dc-kpx9">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/98dc-kpx9</guid>
+    </item><item>
+      <title>Probing composite structure and spin-orbit coupling with GPDs in He4</title>
+      <link>https://doi.org/10.1103/2qb8-scsf</link>
+      <description>In this work, we extend the impulse approximation for the generalized parton distributions (GPDs) of a spin-0 composite hadron with spin-12 constituents to manifestly incorporate the symmetries of the target wave function. The method utilizes a light-front Wigner function representation instead of a spectral density and a basis of Pauli matrices for the spin. It exploits the boost invariance of the light front and rotational invariance in the rest frame to parametrize the Wigner density in terms of only 3 structures. In addition to the isotropic term and a term describing L→·S→ coupling previously observed for transverse momentum dependent parton distributions (TMDs), we also identify a novel coupling ΔL→·S→ to the angular momentum transfer which is unique to the case of GPDs. We then apply the framework to a composite He4 target with simple phenomenological models to identify qualitative experimental signatures of composite-structure effects in light nuclei. The framework we have cons</description>
+      <source url="https://doi.org/10.1103/2qb8-scsf">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2qb8-scsf</guid>
+    </item><item>
       <title>Covariant conservation laws, local invariance and Noether’s second theorem</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15850-6</link>
       <description>We lay down a set of requirements for a field theory to produce a covariant conservation law out of Noether’s second theorem, and show that neither local invariance implies a covariant conservation law, nor the existence of a covariant conservation law necessarily stems from the local invariance of the theory. We illustrate our results with the examples of well-known theories.</description>
@@ -35,27 +77,12 @@
       <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)063</guid>
     </item><item>
-      <title>Observation and branching fraction measurements of χcJ→pp¯KS0KS0</title>
-      <link>https://doi.org/10.1103/kcys-whfc</link>
-      <description>Based on (2.712±0.014)×109 ψ(3686) events collected with the BESIII detector, the decays χcJ→pp¯KS0KS0 (J=0, 1, 2) are observed for the first time with statistical significances exceeding 5σ. The measured branching fractions are B(χc0→pp¯KS0KS0)=(7.25±0.28±0.35)×10−5, B(χc1→pp¯KS0KS0)=(1.33±0.12±0.07)×10−5, and B(χc2→pp¯KS0KS0)=(2.51±0.16±0.12)×10−5, where the first uncertainties are statistical and the second systematic. In addition, no significant structures are observed in the pp¯, pKS0, and p¯KS0 mass spectra.</description>
-      <source url="https://doi.org/10.1103/kcys-whfc">Physical Review D</source>
-      <author>et al.</author>
+      <title>Entire four-graviton EFT from the duality between color and kinematics</title>
+      <link>https://doi.org/10.1103/fxbh-9sgd</link>
+      <description>The Bern-Carrasco-Johansson (BCJ) double-copy construction reveals a fundamental structural connection between gauge and gravity theories. At its core, the BCJ double copy is directly due to a duality between the algebraic relations of a color root and those of a kinematic root. We generalize this principle beyond the conventional Lie algebra structure of tree-level Yang-Mills theory. By demanding color-kinematics duality for the complete basis of four-point color structures—including those involving the symmetric dabc constants—we define the universal double copy. We systematically classify the bases of all such parity-even generalized gauge-theory numerators and, independently, the space of all parity-even four-graviton higher-derivative operators. We demonstrate that our universal double-copy construction precisely spans the entire tower of parity-even four-graviton amplitudes in any dimension, except for the Lovelock R3 contribution in D&gt;6 which we can express in terms of a particu</description>
+      <source url="https://doi.org/10.1103/fxbh-9sgd">Physical Review D</source>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/kcys-whfc</guid>
-    </item><item>
-      <title>Jet quenching in out-of-equilibrium QCD matter</title>
-      <link>https://doi.org/10.1103/q8bb-qlm8</link>
-      <description>We present the first study of jet substructure modifications during the bottom-up evolution that describes the early stages of heavy-ion collisions. To this end, we study the bremsstrahlung radiation rate of soft gluons from a hard parton propagating through out-of-equilibrium QCD matter. The gluon spectrum is computed within the improved opacity expansion, which accounts for both multiple soft and single hard momentum exchanges between the hard probe and the medium. The background evolution is obtained from effective kinetic theory simulations that determine the jet quenching parameter, which in turn controls the radiation rate. We compute the radiation rate for initially underoccupied and overoccupied systems, as well as for an expanding system undergoing hydrodynamization, which typically represents the initial stages of heavy-ion collisions. The results for these dynamical backgrounds are compared to static and thermally matched scenarios, allowing to gauge the importance of bulk e</description>
-      <source url="https://doi.org/10.1103/q8bb-qlm8">Physical Review D</source>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/q8bb-qlm8</guid>
-    </item><item>
-      <title>Supersymmetric truncation of N=3 dilaton Weyl multiplet</title>
-      <link>https://doi.org/10.1103/hdns-1fmd</link>
-      <description>We perform all possible supersymmetric truncations of the four-dimensional N=3 dilaton Weyl multiplet, which realizes an R-symmetry SU(2)×U(1)×U(1), to N=2. A particular truncation procedure does not break any of the R-symmetries and leads to the known N=2 vector-dilaton Weyl multiplet and the N=2 vector multiplet. A different truncation procedure breaks the SU(2) part of the R-symmetry to U(1) and leads to a 32+32 off-shell representation of N=2 conformal supergravity with a partially broken R-symmetry. Independently, we construct another 32+32 off-shell multiplet in N=2 conformal supergravity by coupling the N=2 scalar-tensor multiplet to the N=2 standard Weyl multiplet and using the scalar fields present in the scalar-tensor multiplet to break the SU(2) R-symmetry to U(1). We then establish the equivalence between these two multiplets through a mapping. We observe that this 32+32 multiplet is gauge equivalent to a Poincaré supergravity multiplet as it has all the compensators necess</description>
-      <source url="https://doi.org/10.1103/hdns-1fmd">Physical Review D</source>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hdns-1fmd</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/fxbh-9sgd</guid>
     </item><item>
       <title>Color force acting on a quark in the pion and nucleon</title>
       <link>https://doi.org/10.1103/j3lv-wgrl</link>
@@ -123,36 +150,6 @@
       <author>et al.</author>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/hspm-dwkn</guid>
-    </item><item>
-      <title>Measurement of the ratio of the Bc+→J/ψτ+ντ and Bc+→J/ψμ+νμ branching fractions using three-prong τ lepton decays</title>
-      <link>https://doi.org/10.1103/mw5c-5rw3</link>
-      <description>The ratio between the Bc+→J/ψτ+ντ and Bc+→J/ψμ+νμ branching fractions is measured using a data sample of proton-proton collisions collected by CMS at a center-of-mass energy of 13 TeV in the years 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. The J/ψ meson is identified through its J/ψ→μ+μ− decay and the tau lepton is reconstructed in the hadronic three-prong final state. The measured ratio of branching fractions in this tau decay mode, RJ/ψhad=1.04−0.44+0.50, is combined with the previous analysis based on the τ+→μ+νμν¯τ leptonic decay channel, leading to RJ/ψ=0.49±0.26. As this result is consistent with the standard model prediction of 0.258±0.004, no evidence of lepton flavor universality violation is found.</description>
-      <source url="https://doi.org/10.1103/mw5c-5rw3">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mw5c-5rw3</guid>
-    </item><item>
-      <title>J/ψ-meson–nucleon scattering length from threshold photoproduction on light nuclei</title>
-      <link>https://doi.org/10.1103/ndmt-2brb</link>
-      <description>The quality of recent Short-Range Correlations/Color-Transparency (SRC/CT) Collaboration J/ψ photoproduction data off a He4 target from Hall D at Jefferson Laboratory, combined with the feasibility of measuring the reaction close to the free-nucleon energy threshold, opens the door to using incoherent J/ψ photoproduction to explore a variety of interesting physics aspects. An example is the estimation of the J/ψp scattering length |αJ/ψp| on the bound proton, obtained using the vector meson dominance model. The new experiment E12–25–002, conducted by the SRC/CT Collaboration, was recently approved in Hall D with the GlueX spectrometer, which will significantly enhance the number of reconstructed J/ψ mesons. Using a plane-wave theoretical model to generate quasidata, we estimated that the experiment could achieve a result of |αJ/ψp|=3.08±0.45mfm. This value can be compared to an extraction based on the free proton data from the GlueX Collaboration, |αJ/ψp|=3.08±0.55mfm. A comparison bet</description>
-      <source url="https://doi.org/10.1103/ndmt-2brb">Physical Review C</source>
-      <author>et al.</author>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ndmt-2brb</guid>
-    </item><item>
-      <title>Quark-lepton unification signatures</title>
-      <link>https://doi.org/10.1103/2ts7-tt1p</link>
-      <description>We investigate the collider signatures of the minimal framework for quark-lepton unification at a scale not far from the electroweak symmetry breaking scale. This theory predicts a rich spectrum of new fields, including one vector leptoquark, two scalar leptoquarks, a color-octet scalar, and an additional Higgs doublet. Neutrino masses are generated via the inverse seesaw mechanism, facilitating viable matter unification at the low scale. We find that this theory predicts that in many cases the dominant leptoquark decays are to the third generation Standard Model quarks and leptons. We identify key experimental signatures at the Large Hadron Collider, evaluate and discuss the limits from current measurements, and outline potential strategies for probing this theory in the near future.</description>
-      <source url="https://doi.org/10.1103/2ts7-tt1p">Physical Review D</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2ts7-tt1p</guid>
-    </item><item>
-      <title>Energy-momentum tensor in a classical model of the electron</title>
-      <link>https://doi.org/10.1103/zp92-8sd5</link>
-      <description>We show that the leading nonanalytic terms in the small-t expansion of the energy-momentum tensor form factors of an electrically charged particle in QED can be correctly derived in a classical model of the electron by Białynicki-Birula. Based on the lucidity of the employed exactly solvable model, we comment also on the recently proposed concept of a regularized proton D-term.</description>
-      <source url="https://doi.org/10.1103/zp92-8sd5">Physical Review D</source>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/zp92-8sd5</guid>
     </item>
   </channel>
 </rss>
