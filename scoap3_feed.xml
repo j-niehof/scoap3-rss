@@ -5,35 +5,14 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 18:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 17:34:46 +0000</lastBuildDate>
     <item>
-      <title>Remarks on the de Sitter double cone</title>
-      <link>https://doi.org/10.1103/jync-pmnz</link>
-      <description>We study the double cone geometry proposed by Saad-Shenker-Stanford in de Sitter space. We show that with the inclusion of static patch observers, the double cone leads to a linear ramp consistent with random matrix behavior, where the ramp comes from the relative timeshift between two clocks sitting at opposite static patches.</description>
-      <source url="https://doi.org/10.1103/jync-pmnz">Physical Review D</source>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jync-pmnz</guid>
-    </item><item>
-      <title>Rotating synchrotron radiation: Photon emission from magnetized and rotating quark-gluon plasma</title>
-      <link>https://doi.org/10.1103/5d5w-9338</link>
-      <description>This paper investigates the production of nonprompt photons originating from rotating synchrotron radiation (RoSyRa), specifically the emission of photons by a rigidly rotating quark-gluon plasma in thermal equilibrium, in the presence of an external magnetic field. We compute the nonprompt photon spectrum and its elliptic flow (v2) at midrapidity. In particular, we investigate the finite-volume effects. We find that at low transverse momentum, the magnetic field induces a significant v2, while the plasma rotation boosts the synchrotron radiation of negatively charged quarks. These findings make RoSyRa a viable candidate mechanism to resolve the “direct photon puzzle.”</description>
-      <source url="https://doi.org/10.1103/5d5w-9338">Physical Review D</source>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5d5w-9338</guid>
-    </item><item>
-      <title>Remarks on the de Sitter double cone</title>
-      <link>https://doi.org/10.1103/jync-pmnz</link>
-      <description>We study the double cone geometry proposed by Saad-Shenker-Stanford in de Sitter space. We show that with the inclusion of static patch observers, the double cone leads to a linear ramp consistent with random matrix behavior, where the ramp comes from the relative timeshift between two clocks sitting at opposite static patches.</description>
-      <source url="https://doi.org/10.1103/jync-pmnz">Physical Review D</source>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jync-pmnz</guid>
-    </item><item>
-      <title>Boomerang mechanism explaining the excess radio background</title>
-      <link>https://doi.org/10.1103/ncv3-jtnp</link>
-      <description>We propose a boomerang mechanism for the explanation of the excess radio background detected by ARCADE 2. In an early stage of the Universe, at a temperature T in the range ∼0.1 keV−1 MeV, a fraction of relic neutrinos is resonantly converted into dark neutrinos by mixing induced by a preexisting lepton asymmetry. Dark neutrinos decay much later into a dark-standard photon state and a dark fermion, with a lifetime longer than the age of the Universe, as required by a solution to the excess radio background. This scenario circumvents the upper bound on the neutrino magnetic moment but still implies a testable lower bound.</description>
-      <source url="https://doi.org/10.1103/ncv3-jtnp">Physical Review D</source>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ncv3-jtnp</guid>
+      <title>Covariant quantization of field theories on T-Minkowski noncommutative spacetimes</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)095</link>
+      <description>We develop a quantization scheme for the quantum theory of a real scalar field on a class of non-commutative spacetime models collectively known as T-Minkowski. Requiring the theory to be covariant under T-Poincaré transformations, we find that for a subclass of models the Wightmann functions are equal to their commutative counterparts, and we are able to prove a Wick theorem for Wightmann functions that is structurally equivalent to the one encountered in commutative QFT. For some of these models we further extend the result to Green functions and to N-point functions of interacting QFT, which we also find to be commutative, leaving no space for IR/UV mixing effects advocated in other approaches to noncommutative QFT.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)095">Journal of High Energy Physics</source>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)095</guid>
     </item><item>
       <title>Predicting the dark matter-baryon abundance ratio</title>
       <link>https://doi.org/10.1103/98dc-kpx9</link>
@@ -42,12 +21,47 @@
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/98dc-kpx9</guid>
     </item><item>
+      <title>Boomerang mechanism explaining the excess radio background</title>
+      <link>https://doi.org/10.1103/ncv3-jtnp</link>
+      <description>We propose a boomerang mechanism for the explanation of the excess radio background detected by ARCADE 2. In an early stage of the Universe, at a temperature T in the range ∼0.1 keV−1 MeV, a fraction of relic neutrinos is resonantly converted into dark neutrinos by mixing induced by a preexisting lepton asymmetry. Dark neutrinos decay much later into a dark-standard photon state and a dark fermion, with a lifetime longer than the age of the Universe, as required by a solution to the excess radio background. This scenario circumvents the upper bound on the neutrino magnetic moment but still implies a testable lower bound.</description>
+      <source url="https://doi.org/10.1103/ncv3-jtnp">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ncv3-jtnp</guid>
+    </item><item>
+      <title>Rotating synchrotron radiation: Photon emission from magnetized and rotating quark-gluon plasma</title>
+      <link>https://doi.org/10.1103/5d5w-9338</link>
+      <description>This paper investigates the production of nonprompt photons originating from rotating synchrotron radiation (RoSyRa), specifically the emission of photons by a rigidly rotating quark-gluon plasma in thermal equilibrium, in the presence of an external magnetic field. We compute the nonprompt photon spectrum and its elliptic flow (v2) at midrapidity. In particular, we investigate the finite-volume effects. We find that at low transverse momentum, the magnetic field induces a significant v2, while the plasma rotation boosts the synchrotron radiation of negatively charged quarks. These findings make RoSyRa a viable candidate mechanism to resolve the “direct photon puzzle.”</description>
+      <source url="https://doi.org/10.1103/5d5w-9338">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5d5w-9338</guid>
+    </item><item>
+      <title>Boomerang mechanism explaining the excess radio background</title>
+      <link>https://doi.org/10.1103/ncv3-jtnp</link>
+      <description>We propose a boomerang mechanism for the explanation of the excess radio background detected by ARCADE 2. In an early stage of the Universe, at a temperature T in the range ∼0.1 keV−1 MeV, a fraction of relic neutrinos is resonantly converted into dark neutrinos by mixing induced by a preexisting lepton asymmetry. Dark neutrinos decay much later into a dark-standard photon state and a dark fermion, with a lifetime longer than the age of the Universe, as required by a solution to the excess radio background. This scenario circumvents the upper bound on the neutrino magnetic moment but still implies a testable lower bound.</description>
+      <source url="https://doi.org/10.1103/ncv3-jtnp">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ncv3-jtnp</guid>
+    </item><item>
+      <title>Rotating synchrotron radiation: Photon emission from magnetized and rotating quark-gluon plasma</title>
+      <link>https://doi.org/10.1103/5d5w-9338</link>
+      <description>This paper investigates the production of nonprompt photons originating from rotating synchrotron radiation (RoSyRa), specifically the emission of photons by a rigidly rotating quark-gluon plasma in thermal equilibrium, in the presence of an external magnetic field. We compute the nonprompt photon spectrum and its elliptic flow (v2) at midrapidity. In particular, we investigate the finite-volume effects. We find that at low transverse momentum, the magnetic field induces a significant v2, while the plasma rotation boosts the synchrotron radiation of negatively charged quarks. These findings make RoSyRa a viable candidate mechanism to resolve the “direct photon puzzle.”</description>
+      <source url="https://doi.org/10.1103/5d5w-9338">Physical Review D</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5d5w-9338</guid>
+    </item><item>
       <title>Probing composite structure and spin-orbit coupling with GPDs in He4</title>
       <link>https://doi.org/10.1103/2qb8-scsf</link>
       <description>In this work, we extend the impulse approximation for the generalized parton distributions (GPDs) of a spin-0 composite hadron with spin-12 constituents to manifestly incorporate the symmetries of the target wave function. The method utilizes a light-front Wigner function representation instead of a spectral density and a basis of Pauli matrices for the spin. It exploits the boost invariance of the light front and rotational invariance in the rest frame to parametrize the Wigner density in terms of only 3 structures. In addition to the isotropic term and a term describing L→·S→ coupling previously observed for transverse momentum dependent parton distributions (TMDs), we also identify a novel coupling ΔL→·S→ to the angular momentum transfer which is unique to the case of GPDs. We then apply the framework to a composite He4 target with simple phenomenological models to identify qualitative experimental signatures of composite-structure effects in light nuclei. The framework we have cons</description>
       <source url="https://doi.org/10.1103/2qb8-scsf">Physical Review D</source>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/2qb8-scsf</guid>
+    </item><item>
+      <title>Non-invertible defects from the Conway SCFT to K3 sigma models. Part II. Duality and Fibonacci defects</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)078</link>
+      <description>We continue the study, initiated in [1], of topological defect lines (TDLs) in the Conway module V and K3 non-linear sigma models (NLSMs). In the case of V , we fully classify the potential mathcalN = 1 (and mathcalN = 4) — preserving duality defects for cyclic Tambara-Yamagami categories TY(ℤ ), noting a curious relation to genus zero groups of monstrous moonshine. We use the correspondence with Leech lattice endomorphisms, discovered in [1], to construct a number of non-trivial examples of TDLs in V , including examples of irrational quantum dimension. In particular, we fully classify and construct defects for the TY(ℤ ) and TY(ℤ ) cases, and provide examples of duality defects for TY(ℤ × ℤ ) and Fibonacci fusion categories as well. In the case of K3 NLSMs, we describe a duality defect of irrational quantum dimension sqrt2 for the category TY(ℤ , –1) in a particular torus orbifold, which exists on a 16-dimensional slice of the moduli space. We also provide a detailed analysis of spec</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)078">Journal of High Energy Physics</source>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)078</guid>
     </item><item>
       <title>Covariant conservation laws, local invariance and Noether’s second theorem</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15850-6</link>
@@ -91,20 +105,6 @@
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/j3lv-wgrl</guid>
     </item><item>
-      <title>Jet quenching in out-of-equilibrium QCD matter</title>
-      <link>https://doi.org/10.1103/q8bb-qlm8</link>
-      <description>We present the first study of jet substructure modifications during the bottom-up evolution that describes the early stages of heavy-ion collisions. To this end, we study the bremsstrahlung radiation rate of soft gluons from a hard parton propagating through out-of-equilibrium QCD matter. The gluon spectrum is computed within the improved opacity expansion, which accounts for both multiple soft and single hard momentum exchanges between the hard probe and the medium. The background evolution is obtained from effective kinetic theory simulations that determine the jet quenching parameter, which in turn controls the radiation rate. We compute the radiation rate for initially underoccupied and overoccupied systems, as well as for an expanding system undergoing hydrodynamization, which typically represents the initial stages of heavy-ion collisions. The results for these dynamical backgrounds are compared to static and thermally matched scenarios, allowing to gauge the importance of bulk e</description>
-      <source url="https://doi.org/10.1103/q8bb-qlm8">Physical Review D</source>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/q8bb-qlm8</guid>
-    </item><item>
-      <title>Supersymmetric truncation of N=3 dilaton Weyl multiplet</title>
-      <link>https://doi.org/10.1103/hdns-1fmd</link>
-      <description>We perform all possible supersymmetric truncations of the four-dimensional N=3 dilaton Weyl multiplet, which realizes an R-symmetry SU(2)×U(1)×U(1), to N=2. A particular truncation procedure does not break any of the R-symmetries and leads to the known N=2 vector-dilaton Weyl multiplet and the N=2 vector multiplet. A different truncation procedure breaks the SU(2) part of the R-symmetry to U(1) and leads to a 32+32 off-shell representation of N=2 conformal supergravity with a partially broken R-symmetry. Independently, we construct another 32+32 off-shell multiplet in N=2 conformal supergravity by coupling the N=2 scalar-tensor multiplet to the N=2 standard Weyl multiplet and using the scalar fields present in the scalar-tensor multiplet to break the SU(2) R-symmetry to U(1). We then establish the equivalence between these two multiplets through a mapping. We observe that this 32+32 multiplet is gauge equivalent to a Poincaré supergravity multiplet as it has all the compensators necess</description>
-      <source url="https://doi.org/10.1103/hdns-1fmd">Physical Review D</source>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hdns-1fmd</guid>
-    </item><item>
       <title>New high-statistics measurement of the π0→e+e−γ Dalitz decay at the Mainz Microtron</title>
       <link>https://doi.org/10.1103/9tk1-2dxp</link>
       <description>The Dalitz decay π0→e+e−γ has been measured with the highest statistical accuracy obtained so far in the γp→π0p reaction with the A2 tagged-photon facility at the Mainz Microtron, MAMI. The value of the slope parameter for the π0 electromagnetic transition form factor, aπ=0.0315±0.0026stat±0.0010syst, is obtained from the analysis of 2.4×106 π0→e+e−γ observed decays. Within experimental uncertainties, it is in agreement with existing measurements and theoretical calculations, with its own uncertainty being smaller than previous results based on the analysis of π0→e+e−γ decays.</description>
@@ -127,22 +127,6 @@
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/sws9-5bw3</guid>
     </item><item>
-      <title>Search for the isospin-violating decays χcJ→ΛΣ¯ 0+c.c. and ηc→ΛΣ¯ 0+c.c.</title>
-      <link>https://doi.org/10.1103/513w-6wjl</link>
-      <description>Using a sample of (2712.4±14.3)×106 ψ(3686) events collected with the BESIII detector, we perform a search for the isospin-violating decays χcJ→ΛΣ¯ 0+c.c.(J=0,1,2) and ηc→ΛΣ¯ 0+c.c. No significant signal for χcJ or ηc is observed in the ΛΣ¯ 0 invariant mass distribution. The upper limits on the branching fractions at the 90% confidence level are set to be B(χc0→ΛΣ¯ 0+c.c.)1.5×10−6, B(χc1→ΛΣ¯ 0+c.c.)1.6×10−6, B(χc2→ΛΣ¯ 0+c.c.)1.7×10−6, and B(ηc→ΛΣ¯ 0+c.c.)6.2×10−5 for the first time.</description>
-      <source url="https://doi.org/10.1103/513w-6wjl">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/513w-6wjl</guid>
-    </item><item>
-      <title>Observation and branching fraction measurements of χcJ→pp¯KS0KS0</title>
-      <link>https://doi.org/10.1103/kcys-whfc</link>
-      <description>Based on (2.712±0.014)×109 ψ(3686) events collected with the BESIII detector, the decays χcJ→pp¯KS0KS0 (J=0, 1, 2) are observed for the first time with statistical significances exceeding 5σ. The measured branching fractions are B(χc0→pp¯KS0KS0)=(7.25±0.28±0.35)×10−5, B(χc1→pp¯KS0KS0)=(1.33±0.12±0.07)×10−5, and B(χc2→pp¯KS0KS0)=(2.51±0.16±0.12)×10−5, where the first uncertainties are statistical and the second systematic. In addition, no significant structures are observed in the pp¯, pKS0, and p¯KS0 mass spectra.</description>
-      <source url="https://doi.org/10.1103/kcys-whfc">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/kcys-whfc</guid>
-    </item><item>
       <title>Ultracold Neutron Energy Spectrum and Storage Properties from Magnetically Induced Spin Depolarization</title>
       <link>https://doi.org/10.1103/hspm-dwkn</link>
       <description>We present a novel method for extracting the energy spectrum of ultracold neutrons from magnetically induced spin depolarization measurements using the n2EDM apparatus. This method is also used to exploit sensitivity to the storage properties of the materials used to trap ultracold neutrons, specifically, whether collisions are specular or diffuse. To do so, we utilize tomat simulation to map storage properties to correlation times of the ultracold neutrons to induced magnetic nonuniformities. We highlight the sensitivity of this new technique by comparing the two different storage chambers of the n2EDM experiment, which host different ultracold neutron energy spectra. This method should prove to be invaluable to assess systematic effects in experiments utilizing spin-polarized systems with precise magnetic control and long spin-spin coherence time relative to the observation time, such as neutron electric dipole moment and neutron lifetime experiments worldwide.</description>
@@ -150,6 +134,20 @@
       <author>et al.</author>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/hspm-dwkn</guid>
+    </item><item>
+      <title>Color force acting on a quark in the pion and nucleon</title>
+      <link>https://doi.org/10.1103/j3lv-wgrl</link>
+      <description>In the operator product expansion (OPE) of hard scattering amplitudes, the twist-3 operators describe local colored Lorentz forces acting on a quark, thereby providing a measure of the strength of the gluon fields. Its value is directly accessible from the nucleon twist-3 polarized g2-parton distribution function. In the semiclassical (instanton-based) QCD vacuum models, the leading nonperturbative contribution stems from correlated instanton-antiinstanton pairs, or molecules. We analyze the magnitude of the color force on a struck quark in light hadrons (pion and nucleon), in the context of the instanton liquid model (ILM). We derive explicitly the pertinent form factors associated with the color Lorentz force and show that they are intimately related to the pertinent hadronic gravitational and transversity form factors. Using the ILM enhanced by molecules, we detail the ensuing colored force distribution in the transverse plane for the luminal pions and nucleons. The results for the </description>
+      <source url="https://doi.org/10.1103/j3lv-wgrl">Physical Review D</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/j3lv-wgrl</guid>
+    </item><item>
+      <title>Entire four-graviton EFT from the duality between color and kinematics</title>
+      <link>https://doi.org/10.1103/fxbh-9sgd</link>
+      <description>The Bern-Carrasco-Johansson (BCJ) double-copy construction reveals a fundamental structural connection between gauge and gravity theories. At its core, the BCJ double copy is directly due to a duality between the algebraic relations of a color root and those of a kinematic root. We generalize this principle beyond the conventional Lie algebra structure of tree-level Yang-Mills theory. By demanding color-kinematics duality for the complete basis of four-point color structures—including those involving the symmetric dabc constants—we define the universal double copy. We systematically classify the bases of all such parity-even generalized gauge-theory numerators and, independently, the space of all parity-even four-graviton higher-derivative operators. We demonstrate that our universal double-copy construction precisely spans the entire tower of parity-even four-graviton amplitudes in any dimension, except for the Lovelock R3 contribution in D&gt;6 which we can express in terms of a particu</description>
+      <source url="https://doi.org/10.1103/fxbh-9sgd">Physical Review D</source>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/fxbh-9sgd</guid>
     </item>
   </channel>
 </rss>
