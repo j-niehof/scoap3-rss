@@ -5,8 +5,83 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 12:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 11:51:33 +0000</lastBuildDate>
     <item>
+      <title>Nonequilibrium steady states in driven holographic Weyl semi-metals</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)150</link>
+      <description>Three-dimensional Weyl materials provide a controlled setting for exploring Floquet dynamics in open quantum systems, including nonequilibrium steady states (NESS). Motivated by the desire for a strongly-coupled description, we employ holography to analyze the formation and stability of a NESS in a Weyl semi-metal induced by an external circularly polarized electric field. A time-periodic steady-state solution is constructed and its stability is determined from the spectrum of out-of-equilibrium quasinormal modes (Floquet exponents). A stable region in the drive parameter space is identified; beyond a critical curve, the Floquet exponents enter the upper half of the complex plane, leading to a superharmonic response. At sufficiently strong driving, chaotic time evolution emerges in the fully nonlinear initial-boundary value problem. The anomaly-induced response of the NESS to an external magnetic field is also computed, and the resulting behavior is related to the previously proposed c</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)150">Journal of High Energy Physics</source>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)150</guid>
+    </item><item>
+      <title>Mutual information as a measure of renormalizability</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)136</link>
+      <description>Renormalization is an essential technique in field-theoretic descriptions of natural phenomena, where the absence of a UV-complete description yields an abundance of divergent quantities. While the renormalization prescription has been thoroughly refined for equilibrium systems, consistently extending it to out-of-equilibrium systems is an active area of research. In this paper, we identify a mutual information-based measure of renormalizability that applies to quantum field theories both in and out of equilibrium. Specifically, we use mutual information to characterize correlations between infinitesimal shells in momentum space and show that the logarithmic derivative of mutual information with mode separation, at large mode separation, is a measure of renormalizability. We first consider Minkowski spacetime, where we introduce dynamics by performing an interaction quench, initializing the field in the free theory vacuum and then turning on the interaction. We show that the late-time </description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)136">Journal of High Energy Physics</source>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)136</guid>
+    </item><item>
+      <title>Sensitivity of the CUPID experiment to 0ν β β decay of 100Mo</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15296-w</link>
+      <description>CUPID is a next-generation bolometric experiment to search for neutrinoless double-beta decay ( 0ν β β ) of Mo using Li ₂ MoO _4 scintillating crystals. It will operate 1596 crystals at sim 10 mK in the CUORE cryostat at the Laboratori Nazionali del Gran Sasso in Italy. Each crystal will be facing two Ge-based bolometric light detectors for α rejection. We compute the discovery and the exclusion sensitivity of CUPID to 0ν β β in a Frequentist and a Bayesian framework. This computation is done numerically based on pseudo-experiments. For the CUPID baseline scenario, with a background and an energy resolution of 1.0 × 10^-4 counts/keV/kg/yr and 5 keV FWHM at the Q-value, respectively, this results in a Bayesian exclusion sensitivity (90% c.i.) of hatT₁/2 &gt; 1.6 × 10^27 textrmyr , corresponding to the effective Majorana neutrino mass of hatm_β β &lt; 9.6 – 28 textrmmeV . The Frequentist discovery sensitivity (3 σ ) is hatT₁/2= 1.0 × 10^27 textrmyr , corresponding to hatm_β β = 12 – 36 textrmm</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15296-w">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15296-w</guid>
+    </item><item>
+      <title>First Measurement of Time-Dependent CP Violation in the Flavor-Changing Neutral-Current Decay B0→KS0μ+μ−</title>
+      <link>https://doi.org/10.1103/nnt3-nyds</link>
+      <description>A flavor-tagged time-dependent analysis of B0→KS0μ+μ− decays is performed across the full dimuon mass range excluding the J/ψ and ψ(2S) resonance regions. The analysis uses proton-proton collision data collected by the LHCb experiment in 2011–2018 at center-of-mass energies of 7, 8, and 13 TeV, corresponding to an integrated luminosity of 9 fb−1. The CP violation parameters are determined to be C=−0.13±0.32±0.04, S=+0.82±0.29±0.05, where the first uncertainties are statistical and the second are systematic. The results are consistent with the standard model prediction. This is the first experimental study of time-dependent CP violation in b→sℓ+ℓ− processes.</description>
+      <source url="https://doi.org/10.1103/nnt3-nyds">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/nnt3-nyds</guid>
+    </item><item>
+      <title>B-jet fragmentation with B±→J/ψK± decays in s=13 TeV pp collisions at LHCb</title>
+      <link>https://doi.org/10.1103/3d7r-c3y4</link>
+      <description>The collinear and transverse-momentum-dependent jet fragmentation function and the radial profile for B± mesons in jets are measured. The B± mesons are reconstructed through the J/ψ(→μ+μ−)K± decay channel using proton-proton collision data collected during 2016–2018 with the LHCb detector at a center-of-mass (c.m.) energy of s=13 TeV, corresponding to an integrated luminosity of 5.4 fb−1. The results complement recent measurements of jet fragmentation functions for heavy-flavor hadrons and suggest a growing contribution of gluon fragmentation to B± mesons as the jet transverse momentum increases.</description>
+      <source url="https://doi.org/10.1103/3d7r-c3y4">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3d7r-c3y4</guid>
+    </item><item>
+      <title>Fine-tunings and renormalization of gluino bilinear operators in lattice SYM with stout-smeared links</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15842-6</link>
+      <description>In this paper, we compute the renormalization factors for the gluino and gluon fields, the gauge parameter, the coupling constant, as well as the scalar, pseudoscalar, and axial-vector gluino bilinear operators in mathcal N =1 supersymmetric Yang–Mills (SYM) theory, using improved lattice actions. Our lattice formulation employs clover fermions, a Symanzik-improved gauge action, and stout-smeared links, which suppress ultraviolet fluctuations and thus enable more accurate determinations of renormalization factors. Our methodology involves computing gauge-variant two-point and three-point Green’s functions at one-loop order in lattice perturbation theory, in order to extract the multiplicative renormalization factors and the critical gluino mass. By analyzing lattice discretization effects on the axial current and their dependence on the stout-smearing and clover parameters, we identify a value of the smearing parameter that ensures axial-current conservation at one loop. The results pr</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15842-6">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15842-6</guid>
+    </item><item>
+      <title>Scalar effective potentials in de Sitter spacetime</title>
+      <link>https://doi.org/10.1103/tkw7-dkq6</link>
+      <description>We investigate two different definitions of a scalar field effective potential in quantum field theory in de Sitter spacetime: the standard textbook definition, and the constraint effective potential proposed by O’Raifeartaigh et al. in 1986. While these definitions are equivalent in Minkowski spacetime, they differ significantly in de Sitter spacetime. We demonstrate this by computing them both explicitly at one-loop order in perturbation theory. It is well known that the perturbative expansion of the standard effective potential fails to converge for light fields. In contrast, the constraint effective potential does not suffer from this infrared problem, and it can therefore be computed using perturbation theory. We discuss the physical interpretation of the two effective potentials. In particular, we provide evidence supporting an earlier conjecture that the constraint effective potential is the correct one to use in the stochastic Starobinsky-Yokoyama theory.</description>
+      <source url="https://doi.org/10.1103/tkw7-dkq6">Physical Review D</source>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tkw7-dkq6</guid>
+    </item><item>
+      <title>JLab and J-PARC measurements for J/ψ production at threshold</title>
+      <link>https://doi.org/10.1103/3g18-qv5t</link>
+      <description>New threshold measurements for γp→pJ/ψ→p(μ+μ−) by 007 and γ*p→pJ/ψ→p(e+e−) by CLAS12 allow us to extend the previous phenomenological determination of the J/ψ-proton scattering length, αJ/ψp, using GlueX threshold data for γp→pJ/ψ→p(e+e−). The agreement between all three J/ψ datasets shows no indication of systematic differences between methodologies. Furthermore, perturbative QCD predictions support the phenomenological determination of heavy vector meson-nucleon scattering lengths. The role of the nucleon form factor, FN, is discussed, and a possible correction to the phenomenological scattering length for heavy vector meson photoproduction is calculated using the pole form of FN. Upcoming J-PARC threshold measurements of the reaction π− p→nJ/ψ→n(l+l−) will help to evaluate the possible role of heavy pentaquark, Pc, states in low-energy J/ψ production and the effects caused by the nucleon form factors.</description>
+      <source url="https://doi.org/10.1103/3g18-qv5t">Physical Review D</source>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3g18-qv5t</guid>
+    </item><item>
+      <title>Quantum dynamics of perfect fluids</title>
+      <link>https://doi.org/10.1103/yxpz-ymfh</link>
+      <description>We study the quantum field theory of zero-temperature perfect fluids. Such systems are defined by quantizing a classical field theory of scalar fields ϕI that act as Lagrange coordinates on an internal spatial manifold of fluid configurations. Invariance under volume-preserving diffeomorphisms acting on these scalars implies that the long-wavelength spectrum contains vortex (transverse modes) with an exact ωT=0 dispersion relation. As a consequence, physically interpreting the results obtained via perturbative quantization of this theory has proven to be challenging. In this paper, we show that correlators evaluated in a class of semiclassical (Gaussian) initial states prepared at t=0 are well defined and accessible via perturbation theory. The width of the initial state effectively acts as an infrared regulator without explicitly breaking diffeomorphism invariance of the classical action. As an application, we compute the stress tensor two-point correlators and show that vortex modes </description>
+      <source url="https://doi.org/10.1103/yxpz-ymfh">Physical Review D</source>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yxpz-ymfh</guid>
+    </item><item>
+      <title>Fine-tunings and renormalization of gluino bilinear operators in lattice SYM with stout-smeared links</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15842-6</link>
+      <description>In this paper, we compute the renormalization factors for the gluino and gluon fields, the gauge parameter, the coupling constant, as well as the scalar, pseudoscalar, and axial-vector gluino bilinear operators in mathcal N =1 supersymmetric Yang–Mills (SYM) theory, using improved lattice actions. Our lattice formulation employs clover fermions, a Symanzik-improved gauge action, and stout-smeared links, which suppress ultraviolet fluctuations and thus enable more accurate determinations of renormalization factors. Our methodology involves computing gauge-variant two-point and three-point Green’s functions at one-loop order in lattice perturbation theory, in order to extract the multiplicative renormalization factors and the critical gluino mass. By analyzing lattice discretization effects on the axial current and their dependence on the stout-smearing and clover parameters, we identify a value of the smearing parameter that ensures axial-current conservation at one loop. The results pr</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15842-6">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15842-6</guid>
+    </item><item>
       <title>Nuclear and electron scattering by neutrinos and dark matter in condensed systems</title>
       <link>https://doi.org/10.1103/plgb-cbk5</link>
       <description>Low-threshold dark matter detectors, in particular cryogenic detectors based on dielectric materials, are among the best tools for probing sub-GeV dark matter masses. In the coming years, detectors of this type will become sensitive to solar neutrino scattering. Previous work has shown that, for dark matter scattering at very low recoil energies, one must include collective excitations of the electrons in the solid. In this work, we have computed the collective excitations due to neutrino scattering on electrons and nuclei. We find the full electron-scattering response at leading order is captured by five structure factors and identify the leading component with the electron energy-loss function. Then, using silicon and germanium detectors as an example, we perform a dark matter sensitivity study and compute their respective neutrino floors—taking the electronic structure into account for all dark matter and neutrino scattering channels. Lastly, we show that these detectors are sensiti</description>
@@ -27,13 +102,6 @@
       <source url="https://doi.org/10.1007/JHEP06(2026)123">Journal of High Energy Physics</source>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)123</guid>
-    </item><item>
-      <title>From Horowitz-Polchinski to Thirring and back</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)118</link>
-      <description>We propose a new approach for studying d + 1 dimensional Euclidean Schwarzschild black holes with Hawking temperature near the Hagedorn temperature and Horowitz-Polchinski solutions. The worldsheet theory that describes some of these back-grounds is strongly coupled. We use its underlying affine SU(2) × SU(2) symmetry to continue to weak coupling, by varying the level of the current algebra from the small value relevant for black holes and HP solutions to a large value. In this limit, one can describe the dynamics by a solvable effective field theory, and the non-geometric features of the original problem are geometrized. The resulting construction is closely related to previous work on the non-abelian Thirring model, and sheds light on both problems.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)118">Journal of High Energy Physics</source>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)118</guid>
     </item><item>
       <title>Structure functions for the inclusive semileptonic b-quark decay at NNLO: a semi-analytic calculation</title>
       <link>https://doi.org/10.1007/JHEP06(2026)121</link>
@@ -71,86 +139,19 @@
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/b31h-g4jx</guid>
     </item><item>
-      <title>Nonsinglet vector current in lattice QCD: O(a)-improvement from large volumes</title>
-      <link>https://doi.org/10.1103/hpqh-tstb</link>
-      <description>In previous work, we determined the improvement coefficients cV and cV˜ required for the massless O(a)-improvement of the local and point-split discretizations of the nonsinglet vector current for Nf=3 nonperturbatively O(a)-improved Wilson fermions and the Lüscher-Weisz gauge action, using ensembles of large-volume configurations generated by the coordinated lattice simulations (CLS) initiative. A new estimate for the mass-dependent improvement coefficient b¯Aeff has recently become available, differing from the one used in our earlier study, and on which our implementation via a massive axial Ward identity relied. Here, we update our analysis of the mass-independent vector improvement coefficients based on the new axial current improvement coefficient, and analyze additional ensembles with a different chiral trajectory in order to validate our results at two values of the bare coupling. We find that using the new estimate of b¯Aeff improves the consistency between the two chiral traj</description>
-      <source url="https://doi.org/10.1103/hpqh-tstb">Physical Review D</source>
+      <title>Tensor-polarized parton density in the N→Δ transition from the large-Nc light-cone wave function</title>
+      <link>https://doi.org/10.1103/93ym-mbyj</link>
+      <description>The tensor-polarized parton density is defined by the forward matrix element of a partonic operator in the N→Δ transition. In this work, we investigate it by employing the large-Nc light-cone wave function derived from the mean-field approach. The mean-field picture is based on low-energy effective dynamics in the large-Nc limit, where the baryon wave function is formulated in the rest frame. By exploiting the covariance of the mean-field solution, we derive the corresponding large-Nc light-cone wave function—decomposed unambiguously into 3Q, 5Q, 7Q, and higher Fock components—in the infinite momentum frame. Evaluating the overlap of these wave functions, we derive an overlap representation of the tensor-polarized parton density in the N→Δ transition and find that the leading contribution arises from the 5Q Fock sector. This indicates that the tensor-polarized parton density directly probes the genuine 5Q component and is governed by chiral dynamics. Our numerical analysis shows that t</description>
+      <source url="https://doi.org/10.1103/93ym-mbyj">Physical Review D</source>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hpqh-tstb</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/93ym-mbyj</guid>
     </item><item>
-      <title>All-loop leading singularities of Wilson loops</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)113</link>
-      <description>We study correlators of null, n-sided polygonal Wilson loops with a Lagrangian insertion in the planar limit of the 𝒩 = 4 supersymmetric Yang-Mills theory. This finite observable is closely related to loop integrands of maximally-helicity-violating amplitudes in the same theory, and, conjecturally, to all-plus helicity amplitudes in pure Yang-Mills theory. The resulting function has been observed to have an expansion in terms of functions of uniform transcendental weight, multiplied by certain rational prefactors, called leading singularities. In this work we prove several conjectures about the leading singularities: we classify and compute them at any loop order and for any number of edges of the Wilson loop, and show that they have a hidden conformal symmetry. This is achieved by leveraging the geometric definition of the loop integrand via the Amplituhedron. The leading singularities can be seen as maximal codimension residues of the integrand, and the boundary structure of the Ampl</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)113">Journal of High Energy Physics</source>
+      <title>Magnetic monopoles and high frequency gravitational waves from quasistable strings</title>
+      <link>https://doi.org/10.1103/nz1z-xszk</link>
+      <description>The spontaneous breaking of SO(10) via flipped SU(5) to the Standard Model yields a novel scenario in which the superheavy topologically stable grand unified theory (GUT) monopole carrying a single unit (2π/e) of Dirac magnetic charge emerges from the merger of a confined but topologically distinct monopole-antimonopole pair that are pulled together by a string. The SO(10) breaking via the subgroup SU(4)c×SU(2)L×SU(2)R, following a similar reasoning, produces a topologically stable monopole that carries two units (4π/e) of Dirac charge. We explore the cosmological consequences of this scenario by assuming that the monopoles and strings experience a limited number of inflationary e-foldings, before reentering the horizon and ultimately forming a network of quasistable strings bounded by monopole-antimonopole pairs. We identify regions of the parameter space that yield an observable number density of the GUT monopole from the collapse of the appropriate string segments. The gravitational</description>
+      <source url="https://doi.org/10.1103/nz1z-xszk">Physical Review D</source>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)113</guid>
-    </item><item>
-      <title>Nonlocal form factor of chromomagnetic penguin in B → Kℓ + ℓ − from QCD light-cone sum rules</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)120</link>
-      <description>The branching fraction of the B → Kℓ ℓ decay has been measured recently by the LHC experiments, showing a deviation from theory predictions based on the Standard Model (SM). A major challenge in achieving a complete SM prediction and interpreting this discrepancy lies in the treatment of nonlocal hadronic effects. In B → Kℓ ℓ , these effects are cast in a single nonlocal form factor, a function of squared momentum transfer q to the lepton pair. One of the previously used methods provides this form factor in the region of spacelike momentum transfer, q &lt; 0, matching the result to the hadronic dispersion relation, which is then continued to the physical region. The calculation done so far was a combination of QCD factorisation for hard-gluon contributions with light-cone sum rules (LCSRs) for soft-gluon ones. In this work, we calculate for the first time the complete nonlocal form factor at q &lt; 0 for one of the effective operators, the chromomagnetic operator O , applying the method of L</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)120">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)120</guid>
-    </item><item>
-      <title>The cut equation</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)102</link>
-      <description>Scattering amplitudes for colored theories have recently been formulated in a new way, in terms of curves on surfaces. In this note we describe a canonical set of functions we call surface functions, associated to all orders in the topological expansion, that are naturally suggested by this point of view. Surface functions are generating functions for all inequivalent triangulations of the surface. They generalize matrix model correlators, and in the planar limit, coincide with field theoretic loop integrands. We show that surface functions satisfy a universal recursion relation, the cut equation, that can be solved without introducing spurious poles, to all orders in the genus expansion. The formalism naturally extends to include triangulations with closed curves, corresponding to theories with uncolored particles. This new recursion is quite different from the topological recursion relations satisfied by matrix models. Applied to field theory, the new recursion efficiently computes a</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)102">Journal of High Energy Physics</source>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)102</guid>
-    </item><item>
-      <title>Identification and denoising of radio signals from cosmic-ray air showers using convolutional neural networks</title>
-      <link>https://doi.org/10.1103/xw99-zq7j</link>
-      <description>Radio pulses generated by cosmic-ray air showers can be used to reconstruct key properties like the energy and depth of the electromagnetic component of cosmic-ray air showers. Radio detection threshold, influenced by natural and anthropogenic radio background, can be reduced through various techniques. In this work, we demonstrate that convolutional neural networks (CNNs) are an effective way to lower the threshold. We developed two CNNs: a classifier to distinguish radio signal waveforms from background noise and a denoiser to clean contaminated radio signals. Following the training and testing phases, we applied the networks to air-shower data triggered by scintillation detectors of the prototype station for the enhancement of IceTop, IceCube’s surface array at the South Pole. Over a four-month period, we identified 554 cosmic-ray events in coincidence with IceTop, approximately five times more compared to a reference method based on a cut on the signal-to-noise ratio. Comparisons w</description>
-      <source url="https://doi.org/10.1103/xw99-zq7j">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xw99-zq7j</guid>
-    </item><item>
-      <title>Analytical Soft Functions for Heavy-Quark Final States at Hadron Colliders</title>
-      <link>https://doi.org/10.1103/2ksm-243x</link>
-      <description>We present the first computation of the complete two-loop, fully differential soft function describing the production of a heavy-quark pair in association with a color-singlet system at hadron colliders. This result constitutes one of the most complex soft functions known to date and it is obtained in closed analytic form for generic multidimensional kinematics. This allows us to obtain novel analytic results for the transverse-momentum-dependent and threshold soft functions in this class of processes. We further obtain a decomposition of the soft function into dipole and tripole color correlators, thereby supplying essential building blocks for processes involving a heavy-quark pair produced together with additional light jets at both hadron and lepton colliders. These results represent a key ingredient for advancing precision predictions for heavy-quark physics at the LHC.</description>
-      <source url="https://doi.org/10.1103/2ksm-243x">Physical Review Letters</source>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2ksm-243x</guid>
-    </item><item>
-      <title>Quantum Ising model on (2+1)-dimensional anti–de Sitter space using tensor networks</title>
-      <link>https://doi.org/10.1103/9rtx-95s6</link>
-      <description>We study the quantum Ising model on (2+1)-dimensional anti-de Sitter space using matrix product states (MPS) and matrix product operators (MPOs). We explore the bulk phase diagram of the theory on regular tessellations of hyperbolic space with coordination number seven and find disordered and ordered phases separated by a phase transition. We find that the boundary-boundary spin correlation function exhibits power law scaling deep in the disordered phase of the Ising model consistent with holography. At the critical point, we find the boundary entanglement entropy scales logarithmically with subsystem size but away from this, we see a linear scaling. In comparison, the full system exhibits a volume law scaling, which is expected in chaotic and/or highly connected systems. We also measure out of time ordered correlators (OTOCs) to explore the scrambling behavior of the theory.</description>
-      <source url="https://doi.org/10.1103/9rtx-95s6">Physical Review D</source>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9rtx-95s6</guid>
-    </item><item>
-      <title>Pion and kaon PDFs from lattice QCD via large momentum effective theory and short-distance factorization</title>
-      <link>https://doi.org/10.1103/xz1w-8vgf</link>
-      <description>In this work, we present a first-principles lattice-QCD calculation of the unpolarized quark parton distribution functions (PDF) for the pion and the kaon. The lattice data rely on matrix elements calculated for boosted mesons coupled to nonlocal operators containing a Wilson line. The calculations on this lattice ensemble correspond to two degenerate light, a strange, and a charm quark (Nf=2+1+1), using maximally twisted mass fermions with a clover term. The lattice volume is 323×64, with a lattice spacing of 0.0934 fm, and a pion mass of 260 MeV. Matrix elements are calculated for hadron boosts of |P3|=0, 0.41, 0.83, 1.25, 1.66, and 2.07 GeV. To match lattice QCD results to their light cone counterparts, we employ two complementary frameworks: the large-momentum effective theory (LaMET) and the short-distance factorization. Using these approaches in parallel, we also test the lattice data to identify methodology-driven systematics. Results are presented for the standard quark PDFs, a</description>
-      <source url="https://doi.org/10.1103/xz1w-8vgf">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xz1w-8vgf</guid>
-    </item><item>
-      <title>W-boson helicity fractions in top decay as probes of dimension-six and dimension-eight SMEFT operators</title>
-      <link>https://doi.org/10.1103/3v41-xkzj</link>
-      <description>Precision measurements of top-quark decays provide powerful probes of physics beyond the Standard Model (SM). While the impact of dimension-six operators in the SM effective field theory (SMEFT) has been extensively studied, the role of dimension-eight contributions remains largely unexplored, despite their potential importance as experimental precision improves. In this work, we present a combined analysis of dimension-six and a representative subset of dimension-eight SMEFT effects using the W-boson helicity fractions in top-quark decays. We compute the leading-order contributions of these operators to the top-quark decay width and helicity fractions, and perform one-parameter and selected two-parameter χ2 fits to the combined ATLAS (A Toroidal LHC ApparatuS) and CMS (Compact Muon Solenoid) measurements at a reference scale Λ=1 TeV. From the fit results, we find that the inclusion of dimension-eight contributions affects the allowed parameter space of several dimension-six coefficien</description>
-      <source url="https://doi.org/10.1103/3v41-xkzj">Physical Review D</source>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3v41-xkzj</guid>
-    </item><item>
-      <title>Elastic and resonance structures of the nucleon from the hadronic tensor in lattice QCD: Implications for neutrino-nucleon scattering and hadron physics</title>
-      <link>https://doi.org/10.1103/34b4-nxcr</link>
-      <description>We compute the Euclidean hadronic tensor from charge density operators and extract elastic and resonance structures by employing exponential fits to the four-point function correlator, as well as a Bayesian reconstruction inverse algorithm to obtain the corresponding spectral density for qualitative comparison. We present the determination of the nucleon’s Sachs electric form factor using the hadronic tensor formalism and verify that it is consistent with that from the conventional three-point function calculation. Beyond the elastic peak, we observe a structure located approximately 0.5–0.7 GeV above the nucleon mass in the Bayesian reconstruction. This structure is interpreted as a mixture of the Roper resonance [N(1440)], and states with both positive and negative parities in this mass region, as well as multihadron states. Assuming the observed structure is dominated by JP=1/2± states, we extract the transition electric form factor GE*(Q2) and the corresponding longitudinal helicit</description>
-      <source url="https://doi.org/10.1103/34b4-nxcr">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/34b4-nxcr</guid>
-    </item><item>
-      <title>Simplified spin dependence in dark matter direct detection</title>
-      <link>https://doi.org/10.1103/6kyn-kqhc</link>
-      <description>The interactions of dark matter with Standard Model particles can be systematically studied in the language of effective field theories. We investigate dark matter interactions with Standard Model particles, including spin-dependent interactions, for direct detection experiments and demonstrate that, although the scattering rate generally depends on multiple types of material response functions, certain linear combinations of these material response functions vanish if the initial and final electronic states share the same Hamiltonian. We also find that several other response functions vanish in parity-symmetric materials, making these systems as simple as isotropic detectors in some respects. Finally, we present the scattering rate for an anisotropic, possibly chiral detector, for generic dark matter-electron spin interactions. These relations reduce the number of independent response functions needed, thereby simplifying the computational complexity for a broad class of dark matter m</description>
-      <source url="https://doi.org/10.1103/6kyn-kqhc">Physical Review D</source>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/6kyn-kqhc</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/nz1z-xszk</guid>
     </item>
   </channel>
 </rss>
