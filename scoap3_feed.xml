@@ -5,8 +5,24 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 11:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 11:52:41 +0000</lastBuildDate>
     <item>
+      <title>MiniFool: Physics-Constraint-Aware Minimizer-Based Adversarial Attacks in Deep Neural Networks</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15773-2</link>
+      <description>In this paper, we present a new algorithm, , that implements physics-inspired adversarial attacks for testing neural network-based classification tasks in particle and astroparticle physics. While we initially developed the algorithm for the search for astrophysical tau neutrinos with the IceCube Neutrino Observatory, we apply it to further data from other science domains, thus demonstrating its general applicability. Here, we apply the algorithm to the well-known MNIST data set and furthermore, to public data from the CMS Experiment at the Large Hadron Collider. The algorithm is based on minimizing a cost function that combines a χ ^2 based test-statistic with the deviation from the desired target score. The test statistic quantifies the probability of the perturbations applied to the data based on the experimental uncertainties. For our studied use cases, we find that the likelihood of a flipped classification differs for both the initially correctly and incorrectly classified events</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15773-2">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15773-2</guid>
+    </item><item>
+      <title>A comprehensive stress test of truncated Hilbert space bases against Green’s function Monte Carlo in U(1) lattice Gauge theory</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15753-6</link>
+      <description>A representation of Lattice Gauge Theories (LGT) suitable for simulations with tensor network state methods or with quantum computers requires a truncation of the Hilbert space to a finite dimensional approximation. In particular for U(1) LGTs, several such truncation schemes are known, which we compare with each other using tensor network states. We show that a functional basis obtained from single plaquette Hamiltonians – which we call plaquette state basis – outperforms the other schemes in two spatial dimensions for plaquette, ground state energy and mass gap, as it is delivering accurate results for a wide range of coupling strengths with a minimal number of basis states. We also show that this functional basis can be efficiently used in three spatial dimensions. Green’s function Monte Carlo appears to be a highly useful tool to verify tensor network states results, which deserves further investigation in the future.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15753-6">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15753-6</guid>
+    </item><item>
       <title>Nonequilibrium steady states in driven holographic Weyl semi-metals</title>
       <link>https://doi.org/10.1007/JHEP06(2026)150</link>
       <description>Three-dimensional Weyl materials provide a controlled setting for exploring Floquet dynamics in open quantum systems, including nonequilibrium steady states (NESS). Motivated by the desire for a strongly-coupled description, we employ holography to analyze the formation and stability of a NESS in a Weyl semi-metal induced by an external circularly polarized electric field. A time-periodic steady-state solution is constructed and its stability is determined from the spectrum of out-of-equilibrium quasinormal modes (Floquet exponents). A stable region in the drive parameter space is identified; beyond a critical curve, the Floquet exponents enter the upper half of the complex plane, leading to a superharmonic response. At sufficiently strong driving, chaotic time evolution emerges in the fully nonlinear initial-boundary value problem. The anomaly-induced response of the NESS to an external magnetic field is also computed, and the resulting behavior is related to the previously proposed c</description>
@@ -20,6 +36,13 @@
       <source url="https://doi.org/10.1007/JHEP06(2026)136">Journal of High Energy Physics</source>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)136</guid>
+    </item><item>
+      <title>Giant graviton expansion from eigenvalue instantons</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)147</link>
+      <description>Recently, S. Murthy has proposed a convergent expansion of free partition functions and superconformal indices of finite-N purely adjoint gauge theories based on a Fredholm determinant expansion. This expansion has been dubbed the giant graviton expansion and takes the form of an infinite series of corrections to the N = ∞ result, with the m correction being of order e . We show that this expansion can be reproduced using eigenvalue instantons in unitary matrix integrals. This perspective allows us to get the giant graviton expansion proposed by S. Murthy without the intermediate step of the Hubbard Stratonovich transformation.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)147">Journal of High Energy Physics</source>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)147</guid>
     </item><item>
       <title>Sensitivity of the CUPID experiment to 0ν β β decay of 100Mo</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15296-w</link>
@@ -117,27 +140,6 @@
       <author>et al.</author>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ycwh-3gy8</guid>
-    </item><item>
-      <title>Tensor-polarized parton density in the N→Δ transition from the large-Nc light-cone wave function</title>
-      <link>https://doi.org/10.1103/93ym-mbyj</link>
-      <description>The tensor-polarized parton density is defined by the forward matrix element of a partonic operator in the N→Δ transition. In this work, we investigate it by employing the large-Nc light-cone wave function derived from the mean-field approach. The mean-field picture is based on low-energy effective dynamics in the large-Nc limit, where the baryon wave function is formulated in the rest frame. By exploiting the covariance of the mean-field solution, we derive the corresponding large-Nc light-cone wave function—decomposed unambiguously into 3Q, 5Q, 7Q, and higher Fock components—in the infinite momentum frame. Evaluating the overlap of these wave functions, we derive an overlap representation of the tensor-polarized parton density in the N→Δ transition and find that the leading contribution arises from the 5Q Fock sector. This indicates that the tensor-polarized parton density directly probes the genuine 5Q component and is governed by chiral dynamics. Our numerical analysis shows that t</description>
-      <source url="https://doi.org/10.1103/93ym-mbyj">Physical Review D</source>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/93ym-mbyj</guid>
-    </item><item>
-      <title>Magnetic monopoles and high frequency gravitational waves from quasistable strings</title>
-      <link>https://doi.org/10.1103/nz1z-xszk</link>
-      <description>The spontaneous breaking of SO(10) via flipped SU(5) to the Standard Model yields a novel scenario in which the superheavy topologically stable grand unified theory (GUT) monopole carrying a single unit (2π/e) of Dirac magnetic charge emerges from the merger of a confined but topologically distinct monopole-antimonopole pair that are pulled together by a string. The SO(10) breaking via the subgroup SU(4)c×SU(2)L×SU(2)R, following a similar reasoning, produces a topologically stable monopole that carries two units (4π/e) of Dirac charge. We explore the cosmological consequences of this scenario by assuming that the monopoles and strings experience a limited number of inflationary e-foldings, before reentering the horizon and ultimately forming a network of quasistable strings bounded by monopole-antimonopole pairs. We identify regions of the parameter space that yield an observable number density of the GUT monopole from the collapse of the appropriate string segments. The gravitational</description>
-      <source url="https://doi.org/10.1103/nz1z-xszk">Physical Review D</source>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nz1z-xszk</guid>
-    </item><item>
-      <title>Reviving WIMP dark matter with temperature-dependent couplings</title>
-      <link>https://doi.org/10.1103/b31h-g4jx</link>
-      <description>The persistent null results at dark matter (DM) direct-detection experiments have pushed the popular weakly interacting massive particle (WIMP) DM to tight corners. Generic WIMP models with direct-detection rates below the current upper limits often lead to a thermally overproduced relic abundance after freeze-out. To resolve this conundrum, we propose a novel scenario where DM has temperature-dependent couplings with the standard model (SM) bath. A scalar field having a large vacuum expectation value (VEV) at high temperatures generates sizeable DM-SM interactions, leading to efficient DM annihilations responsible for generating the desired thermal relic. At lower temperatures, the scalar field VEV settles down to a small value as a result of a phase transition which can generically be of first order, effectively leading to a suppressed DM-SM interaction rate at low temperature, consistent with null results at direct-detection experiments. The upper bound on thermal DM mass forces the</description>
-      <source url="https://doi.org/10.1103/b31h-g4jx">Physical Review D</source>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/b31h-g4jx</guid>
     </item><item>
       <title>Tensor-polarized parton density in the N→Δ transition from the large-Nc light-cone wave function</title>
       <link>https://doi.org/10.1103/93ym-mbyj</link>
