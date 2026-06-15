@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 11:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 15:42:14 +0000</lastBuildDate>
     <item>
       <title>MiniFool: Physics-Constraint-Aware Minimizer-Based Adversarial Attacks in Deep Neural Networks</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15773-2</link>
@@ -37,13 +37,6 @@
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)136</guid>
     </item><item>
-      <title>Giant graviton expansion from eigenvalue instantons</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)147</link>
-      <description>Recently, S. Murthy has proposed a convergent expansion of free partition functions and superconformal indices of finite-N purely adjoint gauge theories based on a Fredholm determinant expansion. This expansion has been dubbed the giant graviton expansion and takes the form of an infinite series of corrections to the N = ∞ result, with the m correction being of order e . We show that this expansion can be reproduced using eigenvalue instantons in unitary matrix integrals. This perspective allows us to get the giant graviton expansion proposed by S. Murthy without the intermediate step of the Hubbard Stratonovich transformation.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)147">Journal of High Energy Physics</source>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)147</guid>
-    </item><item>
       <title>Sensitivity of the CUPID experiment to 0ν β β decay of 100Mo</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15296-w</link>
       <description>CUPID is a next-generation bolometric experiment to search for neutrinoless double-beta decay ( 0ν β β ) of Mo using Li ₂ MoO _4 scintillating crystals. It will operate 1596 crystals at sim 10 mK in the CUORE cryostat at the Laboratori Nazionali del Gran Sasso in Italy. Each crystal will be facing two Ge-based bolometric light detectors for α rejection. We compute the discovery and the exclusion sensitivity of CUPID to 0ν β β in a Frequentist and a Bayesian framework. This computation is done numerically based on pseudo-experiments. For the CUPID baseline scenario, with a background and an energy resolution of 1.0 × 10^-4 counts/keV/kg/yr and 5 keV FWHM at the Q-value, respectively, this results in a Bayesian exclusion sensitivity (90% c.i.) of hatT₁/2 &gt; 1.6 × 10^27 textrmyr , corresponding to the effective Majorana neutrino mass of hatm_β β &lt; 9.6 – 28 textrmmeV . The Frequentist discovery sensitivity (3 σ ) is hatT₁/2= 1.0 × 10^27 textrmyr , corresponding to hatm_β β = 12 – 36 textrmm</description>
@@ -67,14 +60,6 @@
       <author>et al.</author>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/3d7r-c3y4</guid>
-    </item><item>
-      <title>Fine-tunings and renormalization of gluino bilinear operators in lattice SYM with stout-smeared links</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15842-6</link>
-      <description>In this paper, we compute the renormalization factors for the gluino and gluon fields, the gauge parameter, the coupling constant, as well as the scalar, pseudoscalar, and axial-vector gluino bilinear operators in mathcal N =1 supersymmetric Yang–Mills (SYM) theory, using improved lattice actions. Our lattice formulation employs clover fermions, a Symanzik-improved gauge action, and stout-smeared links, which suppress ultraviolet fluctuations and thus enable more accurate determinations of renormalization factors. Our methodology involves computing gauge-variant two-point and three-point Green’s functions at one-loop order in lattice perturbation theory, in order to extract the multiplicative renormalization factors and the critical gluino mass. By analyzing lattice discretization effects on the axial current and their dependence on the stout-smearing and clover parameters, we identify a value of the smearing parameter that ensures axial-current conservation at one loop. The results pr</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15842-6">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15842-6</guid>
     </item><item>
       <title>Scalar effective potentials in de Sitter spacetime</title>
       <link>https://doi.org/10.1103/tkw7-dkq6</link>
@@ -126,13 +111,6 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)123</guid>
     </item><item>
-      <title>Structure functions for the inclusive semileptonic b-quark decay at NNLO: a semi-analytic calculation</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)121</link>
-      <description>We present a study of the inclusive charmless semileptonic b decay, b→ X_uell overlineν at next-to-next-to-leading order (NNLO) in perturbative QCD, with the primary aim of extracting the hadronic structure functions W at NNLO. The analysis is based on a numerical calculation of the relevant kinematic distributions using a phase-space slicing method to handle infrared-sensitive contributions from real gluon emissions. We use known results from Heavy Quark Effective Theory and Soft-Collinear Effective Theory to extract the singular terms and construct a model for the regular contributions to the structure functions at NNLO, then perform a fit to the numerical results. We use our approximate structure functions to compute various kinematic distributions and moments: the comparison with existing analytic and numerical results shows very good agreement, which is further improved including the available analytic results in the fit.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)121">Journal of High Energy Physics</source>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)121</guid>
-    </item><item>
       <title>Precise Measurement of the Chromoelectric Dipole Moment of the Charm Quark</title>
       <link>https://doi.org/10.1103/ycwh-3gy8</link>
       <description>The combined symmetry of charge conjugation and parity (CP) is tested in the hadronic transition ψ(3686)→π+π−J/ψ, using a dataset of (2712.4±14.3)×106 ψ(3686) events collected by the BESIII detector at the BEPCII collider. The resulting asymmetry observable is ACP=(0.6±1.8±0.1)×10−4, which is determined by combining the two channels J/ψ→e+e− and J/ψ→μ+μ−. Additionally, by considering the relationship between the chromoelectric dipole moment (CEDM) and the ACP observable derived from the quantum chromodynamics multipole expansion theory based on the Chen-Kuang model and the Cornell potential model, we obtain the results of charm quark’s CEDM with dc′=(2.6±7.8±0.4±0.6)×10−16 e cm, and dc′=(3.5±10.5±0.6±0.5)×10−16 e cm, respectively. The uncertainties are statistical, systematic, and theoretical, respectively. These results correspond to an upper limit of |dc′|2.1×10−15 e cm at 90% confidence level, representing an order of magnitude improvement in sensitivity compared to the previous dir</description>
@@ -140,6 +118,27 @@
       <author>et al.</author>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ycwh-3gy8</guid>
+    </item><item>
+      <title>Nonsinglet vector current in lattice QCD: O(a)-improvement from large volumes</title>
+      <link>https://doi.org/10.1103/hpqh-tstb</link>
+      <description>In previous work, we determined the improvement coefficients cV and cV˜ required for the massless O(a)-improvement of the local and point-split discretizations of the nonsinglet vector current for Nf=3 nonperturbatively O(a)-improved Wilson fermions and the Lüscher-Weisz gauge action, using ensembles of large-volume configurations generated by the coordinated lattice simulations (CLS) initiative. A new estimate for the mass-dependent improvement coefficient b¯Aeff has recently become available, differing from the one used in our earlier study, and on which our implementation via a massive axial Ward identity relied. Here, we update our analysis of the mass-independent vector improvement coefficients based on the new axial current improvement coefficient, and analyze additional ensembles with a different chiral trajectory in order to validate our results at two values of the bare coupling. We find that using the new estimate of b¯Aeff improves the consistency between the two chiral traj</description>
+      <source url="https://doi.org/10.1103/hpqh-tstb">Physical Review D</source>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hpqh-tstb</guid>
+    </item><item>
+      <title>Reviving WIMP dark matter with temperature-dependent couplings</title>
+      <link>https://doi.org/10.1103/b31h-g4jx</link>
+      <description>The persistent null results at dark matter (DM) direct-detection experiments have pushed the popular weakly interacting massive particle (WIMP) DM to tight corners. Generic WIMP models with direct-detection rates below the current upper limits often lead to a thermally overproduced relic abundance after freeze-out. To resolve this conundrum, we propose a novel scenario where DM has temperature-dependent couplings with the standard model (SM) bath. A scalar field having a large vacuum expectation value (VEV) at high temperatures generates sizeable DM-SM interactions, leading to efficient DM annihilations responsible for generating the desired thermal relic. At lower temperatures, the scalar field VEV settles down to a small value as a result of a phase transition which can generically be of first order, effectively leading to a suppressed DM-SM interaction rate at low temperature, consistent with null results at direct-detection experiments. The upper bound on thermal DM mass forces the</description>
+      <source url="https://doi.org/10.1103/b31h-g4jx">Physical Review D</source>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/b31h-g4jx</guid>
+    </item><item>
+      <title>Structure functions for the inclusive semileptonic b-quark decay at NNLO: a semi-analytic calculation</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)121</link>
+      <description>We present a study of the inclusive charmless semileptonic b decay, b→ X_uell overlineν at next-to-next-to-leading order (NNLO) in perturbative QCD, with the primary aim of extracting the hadronic structure functions W at NNLO. The analysis is based on a numerical calculation of the relevant kinematic distributions using a phase-space slicing method to handle infrared-sensitive contributions from real gluon emissions. We use known results from Heavy Quark Effective Theory and Soft-Collinear Effective Theory to extract the singular terms and construct a model for the regular contributions to the structure functions at NNLO, then perform a fit to the numerical results. We use our approximate structure functions to compute various kinematic distributions and moments: the comparison with existing analytic and numerical results shows very good agreement, which is further improved including the available analytic results in the fit.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)121">Journal of High Energy Physics</source>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)121</guid>
     </item><item>
       <title>Tensor-polarized parton density in the N→Δ transition from the large-Nc light-cone wave function</title>
       <link>https://doi.org/10.1103/93ym-mbyj</link>
