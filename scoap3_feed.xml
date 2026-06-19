@@ -5,14 +5,50 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 12:48:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 13:32:10 +0000</lastBuildDate>
     <item>
+      <title>Supersymmetry and trace formulas. Part III. Frenkel trace formula</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)200</link>
+      <description>By applying the new supersymmetric localization principle introduced in [5, 6], we present two complementary approaches for the path integral derivation of the ‘non-chiral’ trace formula for a semisimple compact Lie group G, which generalizes the so-called Frenkel trace formula. Corresponding physical systems for each picture are the quantum mechanical sigma model on G and the gauged sigma model on G × G, and the approaches closely follow the spirit of the Eskin trace formula [5] and the Selberg trace formula [6] respectively. These methods provide a natural conceptual bridge between two seemingly independent derivations in [5, 6].</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)200">Journal of High Energy Physics</source>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)200</guid>
+    </item><item>
+      <title>Event shapes and inclusive hadron spectra at FCC-ee energies</title>
+      <link>https://doi.org/10.1103/243z-g9x8</link>
+      <description>We analyze hadronic final states of e+e− annihilation through event shape observables, Thrust and C-parameter, and inclusive hadron spectra at the planned center-of-mass (c.m.) energies of the Future Circular Electron-Positron Collider (FCC-ee). Collision data is produced using Monte Carlo event generation in PYTHIA at 91.2, 160, 240, and 365 GeV. Distortions of event shapes due to initial-state photon radiation and background decays of Z pairs, W pairs, top-quark pairs, and Higgs bosons are investigated. An extraction of the strong coupling αs is performed by fitting event shape distributions to perturbative quantum chromodynamics (QCD) predictions at next-to-next-to-leading-order (NNLO) accuracy, and the sources of systematic uncertainties at high c.m. energies are discussed. Soft gluon dynamics is examined through charged particle multiplicities and momentum distributions, and energy evolution of mean values is compared with prior experimental results. The inferences from this pheno</description>
+      <source url="https://doi.org/10.1103/243z-g9x8">Physical Review D</source>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/243z-g9x8</guid>
+    </item><item>
+      <title>Quantum Semiconductor Heterostructures for meV Axion Dark Matter Detection</title>
+      <link>https://doi.org/10.1103/y7jl-gj2k</link>
+      <description>We propose a novel strategy and a new class of detectors for the direct detection of axion dark matter in the meV mass range, based on resonantly enhanced axion-photon conversion through the inverse Primakoff effect in engineered radiometers composed of quantum semiconductor heterostructures. Semiconductor-Quantum-Well Axion Radiometer Experiments (SQWAREs) are multiple quantum well structures forming magnetoplasmonic cavities, containing high-mobility two-dimensional electron gases, realizing tunable epsilon-near-zero resonances in the terahertz frequency range. By controlling the orientation of the cavity within a strong external magnetic field, both the resonance frequency and the axion-induced current are optimized in situ, enabling efficient scanning across a broad mass range without the need for complex mechanical adjustments. The axion-induced electromagnetic signal radiatively emitted from the cavity is then detected by a photodetector. We present the theoretical basis for reso</description>
+      <source url="https://doi.org/10.1103/y7jl-gj2k">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/y7jl-gj2k</guid>
+    </item><item>
+      <title>Higher order quantization conditions for two-body scattering with spin</title>
+      <link>https://doi.org/10.1103/527n-tjbr</link>
+      <description>We examine the Lüscher quantization condition to high order for the scattering of a spinless particle and a spin-1/2 particle in a periodic box. First, we derive the quantization conditions in a nonrelativistic framework up to total angular momentum J=11/2 in both cubic and elongated geometries, and for both rest and moving frames. Then, we introduce a method to transparently cross-check their convergence, using both quantized energy levels in the box and infinite-volume phase shifts for the same potential. We clarify how to incorporate spin-orbit coupling into the formalism and show in detail how the quantization conditions converge order by order in the various irreducible representations. In all, we validated 19 quantization conditions (12 in cubic box, 7 in elongated box). This is a necessary step in applying the method in precision studies of systems in finite volume with half-integer spin, such as meson-baryon scattering.</description>
+      <source url="https://doi.org/10.1103/527n-tjbr">Physical Review D</source>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/527n-tjbr</guid>
+    </item><item>
       <title>Global symmetry and integral constraint on superconformal lines in four dimensions</title>
       <link>https://doi.org/10.1007/JHEP06(2026)180</link>
       <description>We study properties of point-like impurities preserving flavor symmetry and supersymmetry in four-dimensional 𝒩 = 2 field theories. At large distances, such impurities are described by half-BPS superconformal line defects. By working in the AdS × S conformal frame, we develop a novel and simpler way of deriving the superconformal Ward identities relating the various two-point functions of flavor current multiplet operators in the presence of the defect. We use these relations to simplify a certain integrated two-point function of flavor current multiplet operators that, in Lagrangian theories, can be computed using supersymmetric localization. The simplification gives an integral constraint on the two-point function of the flavor current multiplet superconformal primary with trivial integration measure in the AdS × S conformal frame. We provide several consistency checks on our Ward identities.</description>
       <source url="https://doi.org/10.1007/JHEP06(2026)180">Journal of High Energy Physics</source>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)180</guid>
+    </item><item>
+      <title>Triple Higgs production at muon colliders in the Higgs triplet model</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15870-2</link>
+      <description>The production of three Higgs bosons provides a unique opportunity to probe both the trilinear and quartic Higgs couplings within the Standard Model and beyond. In this study, we investigate triple Higgs production in the Higgs Triplet Model via photon fusion, γ γ → h^0 h^0 h^0 , allowing us to explore the contributions from singly and doubly charged Higgs bosons and their couplings to CP-even scalars. We analyze the total cross sections and kinematic distributions, comparing our results with the corresponding SM predictions. Our calculations utilize an automated one-loop calculator to evaluate the numerical amplitudes for the 2 → 3 process. For the collider simulations, we developed a Monte Carlo phase-space integrator to predict outcomes for a future muon collider, covering a center-of-mass energy range from 2 TeV to 10 TeV.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15870-2">European Physical Journal C</source>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15870-2</guid>
     </item><item>
       <title>X17 with chiral couplings</title>
       <link>https://doi.org/10.1103/nnvg-5w2c</link>
@@ -43,13 +79,13 @@
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/16yd-qj5v</guid>
     </item><item>
-      <title>Sensitivity to low-mass WIMPs with an improved liquid argon ionization response model within the DarkSide program</title>
-      <link>https://doi.org/10.1103/x3vt-q676</link>
-      <description>Dark matter detection experiments using liquid argon rely on a precise characterization of the ionization response to nuclear recoils, especially in the keV energy range relevant for light dark matter interactions. In this work, we present a comprehensive analysis that combines new measurements from the ReD setup, part of the DarkSide experimental program, with calibration data from DarkSide-50, as well as results from the ARIS and SCENE experiments. These combined datasets enable improved constraints on atomic screening effects in the modeling of the ionization response of liquid argon to nuclear recoils. The analysis is performed within the Thomas-Imel recombination framework adopted in previous DarkSide studies, and is here further constrained by the inclusion of ReD data, which allow the screening function to be determined from calibration measurements. By including the updated ionization model into the DarkSide-50 analysis framework, we obtain stronger exclusion limits on low-mass</description>
-      <source url="https://doi.org/10.1103/x3vt-q676">Physical Review D</source>
+      <title>Probing Scalar-Neutrino and Scalar-Dark-Matter Interactions with PandaX-4T</title>
+      <link>https://doi.org/10.1103/pn9y-g5k7</link>
+      <description>Scalar-mediated interactions may exist among neutrinos, dark matter particles, or between the two. Double β-decay experiments provide a powerful tool to probe such exotic interactions. Using Xe136 double β-decay data from PandaX-4T, we perform the first direct spectral search in the energy range of 20 to 2800 keV, setting the most stringent limits to date on scalar-mediated neutrino self-interactions for mediator masses below 2 MeV/c2. These results place significant constraints on models invoking such interactions to alleviate the Hubble tension. Assuming the same scalar also mediates dark matter self-interactions, constraints on the dark matter-scalar interactions can be placed in conjunction with cosmological constraints.</description>
+      <source url="https://doi.org/10.1103/pn9y-g5k7">Physical Review Letters</source>
       <author>et al.</author>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/x3vt-q676</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/pn9y-g5k7</guid>
     </item><item>
       <title>Higgs inflation: particle factory</title>
       <link>https://doi.org/10.1007/JHEP06(2026)170</link>
@@ -64,13 +100,6 @@
       <source url="https://doi.org/10.1007/JHEP06(2026)168">Journal of High Energy Physics</source>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)168</guid>
-    </item><item>
-      <title>Continuous Family of Conformal Field Theories and Exactly Marginal Operators</title>
-      <link>https://doi.org/10.1103/4759-7qj2</link>
-      <description>Does a conformal manifold imply the existence of exactly marginal operators? We answer this question affirmatively under the assumption that there exists a conformal interface with certain properties connecting nearby conformal field theories. We show that the exactly marginal operator that connects the conformal field theories can be reconstructed from the interface displacement operator. Our construction is model independent and based on the general principles of conformal symmetry.</description>
-      <source url="https://doi.org/10.1103/4759-7qj2">Physical Review Letters</source>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4759-7qj2</guid>
     </item><item>
       <title>Continuous Family of Conformal Field Theories and Exactly Marginal Operators</title>
       <link>https://doi.org/10.1103/4759-7qj2</link>
@@ -115,41 +144,12 @@
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15734-9</guid>
     </item><item>
-      <title>Covariant Cherenkov radiation and its friction force</title>
-      <link>https://doi.org/10.1103/x81q-1b3v</link>
-      <description>We derive the covariant generalization of the Frank-Tamm formula describing the Cherenkov radiation by a charged particle moving uniformly with a speed faster than the local speed of light within a homogeneous dielectric medium. We use our result to derive the covariant Cherenkov radiation reaction force and obtain a 4-force explicitly orthogonal to particle 4-velocity consistent with a relativistic friction force. We present the photon emission spectrum that is dependent primarily on the dielectric properties of the medium. We hint at a possible use of this work to interpret an excess of soft photons seen in relativistic hadron collisions.</description>
-      <source url="https://doi.org/10.1103/x81q-1b3v">Physical Review D</source>
+      <title>Dispersive and nondispersive K-matrix formalisms</title>
+      <link>https://doi.org/10.1103/qcgk-rtkb</link>
+      <description>The modeling of coupled-channel effects has become increasingly important due to the availability of highly precise data for a large variety of hadronic (re)scattering processes. The K-matrix is a powerful, yet comparatively simple, method to describe scattering amplitudes, including coupled-channel effects, with the aim of interpreting experimental data. Throughout the literature, a range of dispersive and nondispersive K-matrix methods are employed. Here, we compare the dispersive and nondispersive formulations in the context of the N/D method. It is shown that the methods are equivalent in the physical region under K-matrix reparametrization. Differences away from the physical region are examined. Applications to synthetic data are used to illustrate the effects of model choices concerning form factors and the application of dispersion relations, with the goal of clarifying best practices. We find no clear preference with regard to dispersive modeling. In contrast, we find that inte</description>
+      <source url="https://doi.org/10.1103/qcgk-rtkb">Physical Review D</source>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/x81q-1b3v</guid>
-    </item><item>
-      <title>QCD vacuum energy and its implication for quark nugget stability</title>
-      <link>https://doi.org/10.1103/sp4n-twcz</link>
-      <description>In this work, we employ both theoretical and data-driven methods to derive the QCD vacuum energy, utilizing the GMOR relation, the low-energy theorem, and the equation of state from lattice QCD. The QCD vacuum energy is determined to be between around (163 MeV)4 and (190 MeV)4. With the assumptions of complete deconfinement, vanishing gluon condensate, full chiral-symmetry restoration, and the validity of perturbative QCD at baryon chemical potentials of order of the proton mass, a very specific kind of quark nugget is found to be less stable than ordinary nuclei.</description>
-      <source url="https://doi.org/10.1103/sp4n-twcz">Physical Review D</source>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/sp4n-twcz</guid>
-    </item><item>
-      <title>Enhanced cosmic-ray antinuclei fluxes with dark matter annihilation into soft unclustered energy patterns</title>
-      <link>https://doi.org/10.1103/nf7r-rf7s</link>
-      <description>Standard-Model (SM) hadronic parton showers initiated by secondary cosmic-ray production or dark matter (DM) annihilations robustly predict very low antinuclei yields and a strong additional suppression for heavier antinuclei. We show that an important exception can arise if DM annihilates into a confining dark sector that produces soft unclustered energy patterns (SUEPs). The hallmark of SUEPs is the emission of very large multiplicities of soft dark mesons (πD), which can overcome the usual phase-space suppression of antinuclei formation in parton showers, provided that the dark mesons decay promptly into SM quarks, i.e., within a SM hadronization length. We study several benchmark realizations and find that for DM masses mDM∼O(10 TeV), dark meson masses mπD∼400 GeV, πD dominantly decaying to tt¯, and a SUEP temperature TSUEP≃0.1mπD, DM annihilation into SUEPs can yield tens of antideuterons and a few antihelium-3 events at AMS-02 at kinetic energies of O(GeV/n) and a few antideutero</description>
-      <source url="https://doi.org/10.1103/nf7r-rf7s">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nf7r-rf7s</guid>
-    </item><item>
-      <title>Duality between Correlation Functions and Wilson Loops in Gauge Theory from Effective Field Theory</title>
-      <link>https://doi.org/10.1103/y5rf-ssw3</link>
-      <description>In this Letter, we initiate a systematic study of the n-point correlation functions (CFs) in gauge theories in the sequential light-cone (SLC) limit. Focusing on QCD, we formulate a factorization theorem for the CF of four vector currents in this limit using tools from soft-collinear effective field theory (SCET). This result unveils a duality between CF and Wilson loops in nonconformal field theories, according to which the singular structure of the CF is described by a null polygonal Wilson loop dressed by universal jet functions and current form factors, directly related to well-known ingredients in collider physics. We employ this new factorization theorem to obtain the singular terms of the four-point CF in QCD in the SLC limit up to three loops. This constitutes the first determination of terms beyond one loop, and in particular, determines, for the first time, conformal-symmetry-breaking terms induced by the nonvanishing β function of QCD. As a stringent check, we verify that ou</description>
-      <source url="https://doi.org/10.1103/y5rf-ssw3">Physical Review Letters</source>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/y5rf-ssw3</guid>
-    </item><item>
-      <title>Renormalization group in far-from-equilibrium states</title>
-      <link>https://doi.org/10.1103/5spw-kk76</link>
-      <description>We study renormalization group (RG) flows in far-from-equilibrium states. The study is made tractable by focusing on states that are spatially homogeneous, time independent, and scale invariant. Such states, in which mode k has occupation numbers nk∼k−γ, are well known in nonlinear physics. RG flow in such states is qualitatively different from that in the vacuum—a positive γ decreases the dimension of an operator, turning marginal interactions into relevant interactions. We compute one-loop beta functions. Depending on the sign of the beta function, backreaction may either cause a minor shift of the state in the IR or completely change the nature of the state. Focusing on nearly marginal interactions, we construct an analog of the epsilon expansion and IR fixed points, with epsilon now set by the scaling of the interaction rather than the spacetime dimension. In the language of RG flow, critical balance scaling—which has applications in fields as varied as astrophysics and ocean waves</description>
-      <source url="https://doi.org/10.1103/5spw-kk76">Physical Review D</source>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5spw-kk76</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/qcgk-rtkb</guid>
     </item>
   </channel>
 </rss>
