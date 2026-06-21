@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 11:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 12:08:19 +0000</lastBuildDate>
     <item>
+      <title>Phonon dynamics in spherically-curved analog-gravity Bose–Einstein condensates</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15884-w</link>
+      <description>We study the low energy phonon dynamics of a Bose–Einstein condensate (BEC) with a density profile that is equivalent, via a coordinate transformation, to phonons traveling in a “spherical” curved spacetime that realizes the Friedman–Lemaître–Robertson–Walker (FLRW) metric. The metric of this BEC is characterized by its curvature kappa and a time-dependent scale factor a(t), with an increase in the latter corresponding to an expansion of the analog FLRW universe. We study the propagation of classical phonons in such BECs, finding that a sudden change in the scale factor induces ripples in the wave motion. In addition, we study quantum phonon creation (or vacuum amplification) due to the scale-factor modification and quantify their entanglement.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15884-w">European Physical Journal C</source>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15884-w</guid>
+    </item><item>
       <title>Blackish holes with stringy backreaction</title>
       <link>https://doi.org/10.1007/JHEP06(2026)208</link>
       <description>Recent studies have demonstrated that an ad hoc Dirichlet boundary condition, placed outside but close to an event horizon, for probe degrees of freedom in an otherwise black hole geometry is capable of capturing non-trivial level-correlations of the corresponding spectrum of the probe sector. Much of the interesting physics stems from a hierarchy of scales that is present in the quantum spectrum, in terms of two quantum numbers that characterize it. In this work, we establish an explicit connection with the hierarchy of these scales with a radial localization or the absence of it of the probe scalar WKB-wavefunction. Subsequently, this scale separation can be traced back to the hierarchy between the local red-shift and the classical light-traversing time in a geometry that produces a Rindler-throat. The classical null ray takes a logarithmically divergent time to reach the Dirichlet wall, and interestingly, we explicitly demonstrate that the scalar quantum spectrum arising from the Ri</description>
@@ -27,6 +34,14 @@
       <source url="https://doi.org/10.1007/JHEP06(2026)200">Journal of High Energy Physics</source>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)200</guid>
+    </item><item>
+      <title>Quantum Semiconductor Heterostructures for meV Axion Dark Matter Detection</title>
+      <link>https://doi.org/10.1103/y7jl-gj2k</link>
+      <description>We propose a novel strategy and a new class of detectors for the direct detection of axion dark matter in the meV mass range, based on resonantly enhanced axion-photon conversion through the inverse Primakoff effect in engineered radiometers composed of quantum semiconductor heterostructures. Semiconductor-Quantum-Well Axion Radiometer Experiments (SQWAREs) are multiple quantum well structures forming magnetoplasmonic cavities, containing high-mobility two-dimensional electron gases, realizing tunable epsilon-near-zero resonances in the terahertz frequency range. By controlling the orientation of the cavity within a strong external magnetic field, both the resonance frequency and the axion-induced current are optimized in situ, enabling efficient scanning across a broad mass range without the need for complex mechanical adjustments. The axion-induced electromagnetic signal radiatively emitted from the cavity is then detected by a photodetector. We present the theoretical basis for reso</description>
+      <source url="https://doi.org/10.1103/y7jl-gj2k">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/y7jl-gj2k</guid>
     </item><item>
       <title>Event shapes and inclusive hadron spectra at FCC-ee energies</title>
       <link>https://doi.org/10.1103/243z-g9x8</link>
@@ -57,6 +72,13 @@
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)180</guid>
     </item><item>
+      <title>Triple Higgs production at muon colliders in the Higgs triplet model</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15870-2</link>
+      <description>The production of three Higgs bosons provides a unique opportunity to probe both the trilinear and quartic Higgs couplings within the Standard Model and beyond. In this study, we investigate triple Higgs production in the Higgs Triplet Model via photon fusion, γ γ → h^0 h^0 h^0 , allowing us to explore the contributions from singly and doubly charged Higgs bosons and their couplings to CP-even scalars. We analyze the total cross sections and kinematic distributions, comparing our results with the corresponding SM predictions. Our calculations utilize an automated one-loop calculator to evaluate the numerical amplitudes for the 2 → 3 process. For the collider simulations, we developed a Monte Carlo phase-space integrator to predict outcomes for a future muon collider, covering a center-of-mass energy range from 2 TeV to 10 TeV.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15870-2">European Physical Journal C</source>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15870-2</guid>
+    </item><item>
       <title>X17 with chiral couplings</title>
       <link>https://doi.org/10.1103/nnvg-5w2c</link>
       <description>In recent years, the ATOMKI collaboration has performed a series of measurements of excited nuclei, observing a resonant excess of electron-positron pairs at large opening angles compared to the Standard Model prediction. The excess has been hypothesized to be due to the production of a new spin-1 or spin-0 particle, X17, with a mass of about 17 MeV. Recently, the PADME experiment has reported an excess in the e+e− cross section at center-of-mass energies near 17 MeV, perhaps further hinting at the existence of a new state. Studies of the spin-1 case have hitherto focused on either vector or axial-vector couplings to quarks and leptons, whereas UV theories more naturally produce both vector and axial-vector (i.e., chiral) couplings, analogous to the Standard Model weak interactions. We consider the ATOMKI anomalies in the context of an X with chiral couplings to quarks and explore the parameter space that can explain the ATOMKI anomalies, contrasting them with experimental constraints.</description>
@@ -64,27 +86,12 @@
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/nnvg-5w2c</guid>
     </item><item>
-      <title>Constraints on millicharged particles from nuclear γ-decays</title>
-      <link>https://doi.org/10.1103/ys3l-3bcd</link>
-      <description>We consider nuclear gamma decays and γ-emitting reactions that can be an efficient source of hypothetical millicharged particles (χ). In particular, we revisit the production of millicharged particles in nuclear reactor environment, pointing out that γ cascades from U239 is an overlooked yet a powerful source of χχ¯ pairs. This leads to an increased flux compared to previous studies. We then apply new estimates of the flux to derive novel limits on the value of millicharge, ϵ=Qχ/e, from the electron recoil searched for in a variety of experiments placed in proximity to the reactor cores. The derived limits on ϵ are the strongest in the interval of masses ∼0.7–2 MeV. We also derive the millicharged particles flux from the Sun and point out potential sensitivity of the low-threshold dark matter search experiments.</description>
-      <source url="https://doi.org/10.1103/ys3l-3bcd">Physical Review D</source>
+      <title>Triple Higgs production at muon colliders in the Higgs triplet model</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15870-2</link>
+      <description>The production of three Higgs bosons provides a unique opportunity to probe both the trilinear and quartic Higgs couplings within the Standard Model and beyond. In this study, we investigate triple Higgs production in the Higgs Triplet Model via photon fusion, γ γ → h^0 h^0 h^0 , allowing us to explore the contributions from singly and doubly charged Higgs bosons and their couplings to CP-even scalars. We analyze the total cross sections and kinematic distributions, comparing our results with the corresponding SM predictions. Our calculations utilize an automated one-loop calculator to evaluate the numerical amplitudes for the 2 → 3 process. For the collider simulations, we developed a Monte Carlo phase-space integrator to predict outcomes for a future muon collider, covering a center-of-mass energy range from 2 TeV to 10 TeV.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15870-2">European Physical Journal C</source>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ys3l-3bcd</guid>
-    </item><item>
-      <title>Constraints on millicharged particles from nuclear γ-decays</title>
-      <link>https://doi.org/10.1103/ys3l-3bcd</link>
-      <description>We consider nuclear gamma decays and γ-emitting reactions that can be an efficient source of hypothetical millicharged particles (χ). In particular, we revisit the production of millicharged particles in nuclear reactor environment, pointing out that γ cascades from U239 is an overlooked yet a powerful source of χχ¯ pairs. This leads to an increased flux compared to previous studies. We then apply new estimates of the flux to derive novel limits on the value of millicharge, ϵ=Qχ/e, from the electron recoil searched for in a variety of experiments placed in proximity to the reactor cores. The derived limits on ϵ are the strongest in the interval of masses ∼0.7–2 MeV. We also derive the millicharged particles flux from the Sun and point out potential sensitivity of the low-threshold dark matter search experiments.</description>
-      <source url="https://doi.org/10.1103/ys3l-3bcd">Physical Review D</source>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ys3l-3bcd</guid>
-    </item><item>
-      <title>Probing Scalar-Neutrino and Scalar-Dark-Matter Interactions with PandaX-4T</title>
-      <link>https://doi.org/10.1103/pn9y-g5k7</link>
-      <description>Scalar-mediated interactions may exist among neutrinos, dark matter particles, or between the two. Double β-decay experiments provide a powerful tool to probe such exotic interactions. Using Xe136 double β-decay data from PandaX-4T, we perform the first direct spectral search in the energy range of 20 to 2800 keV, setting the most stringent limits to date on scalar-mediated neutrino self-interactions for mediator masses below 2 MeV/c2. These results place significant constraints on models invoking such interactions to alleviate the Hubble tension. Assuming the same scalar also mediates dark matter self-interactions, constraints on the dark matter-scalar interactions can be placed in conjunction with cosmological constraints.</description>
-      <source url="https://doi.org/10.1103/pn9y-g5k7">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pn9y-g5k7</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15870-2</guid>
     </item><item>
       <title>Optomechanical accelerometer search for ultralight dark matter</title>
       <link>https://doi.org/10.1103/16yd-qj5v</link>
@@ -121,28 +128,6 @@
       <source url="https://doi.org/10.1103/4759-7qj2">Physical Review Letters</source>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/4759-7qj2</guid>
-    </item><item>
-      <title>Measurement of π0 production in ν¯μ charged-current interactions in the NOvA near detector</title>
-      <link>https://doi.org/10.1103/t6vj-7hht</link>
-      <description>We present a high-statistics measurement of muon antineutrino-induced charged-current neutral pion production on a hydrocarbon target using the NOvA near detector. The differential cross sections as functions of the momenta and angles of the outgoing pion and muon, the squared four-momentum transfer, and the invariant mass of the hadronic system at an average neutrino energy of 2 GeV are measured and compared with predictions from various neutrino interaction models. The results agree with the GENIE prediction but suggest that other models underestimate the cross section in the Δ(1232) resonance region. These results represent the most precise measurement of antineutrino-induced neutral pion production to date.</description>
-      <source url="https://doi.org/10.1103/t6vj-7hht">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/t6vj-7hht</guid>
-    </item><item>
-      <title>Binding energy of the Tbb tetraquark from lattice QCD with relativistic and nonrelativistic heavy-quark actions</title>
-      <link>https://doi.org/10.1103/j29k-6rx5</link>
-      <description>We present a new determination of the b¯b¯ud (JP=1+, I=0) tetraquark binding energy using lattice quantum chromodynamics (QCD) with domain-wall light quarks and a nonperturbatively tuned three-parameter anisotropic-clover “relativistic” action for the b quarks. We also perform a direct comparison with a reanalysis of data generated in prior work using a lattice-nonrelativistic QCD (NRQCD) action for the b quarks and otherwise identical parameters. Using the new data with relativistic b quarks from seven different ensembles with multiple lattice spacings and pion masses, we perform combined chiral and continuum extrapolations and obtain (mTbb−mB−mB*)RHQ=(−76±23) MeV. For the NRQCD data from five ensembles, we perform chiral-only extrapolations and obtain (mTbb−mB−mB*)NRQCD=(−74±17±10) MeV. The lower magnitude of the results obtained here, compared to the original analysis in [Phys. Rev. D 100, 014503 (2019)], is due to the use of the symmetric parts of the correlation matrices with loca</description>
-      <source url="https://doi.org/10.1103/j29k-6rx5">Physical Review D</source>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/j29k-6rx5</guid>
-    </item><item>
-      <title>Dispersive and nondispersive K-matrix formalisms</title>
-      <link>https://doi.org/10.1103/qcgk-rtkb</link>
-      <description>The modeling of coupled-channel effects has become increasingly important due to the availability of highly precise data for a large variety of hadronic (re)scattering processes. The K-matrix is a powerful, yet comparatively simple, method to describe scattering amplitudes, including coupled-channel effects, with the aim of interpreting experimental data. Throughout the literature, a range of dispersive and nondispersive K-matrix methods are employed. Here, we compare the dispersive and nondispersive formulations in the context of the N/D method. It is shown that the methods are equivalent in the physical region under K-matrix reparametrization. Differences away from the physical region are examined. Applications to synthetic data are used to illustrate the effects of model choices concerning form factors and the application of dispersion relations, with the goal of clarifying best practices. We find no clear preference with regard to dispersive modeling. In contrast, we find that inte</description>
-      <source url="https://doi.org/10.1103/qcgk-rtkb">Physical Review D</source>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qcgk-rtkb</guid>
     </item>
   </channel>
 </rss>
