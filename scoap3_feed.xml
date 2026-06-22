@@ -5,14 +5,29 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 12:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:20:17 +0000</lastBuildDate>
     <item>
+      <title>The late time ramp from chord diagrams in the double-scaled SYK model</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)215</link>
+      <description>We compute the ramp of the spectral form factor analytically from chord diagrams in double scaled SYK. We map the double-trace correlator to a sum of single trace two-point functions over a basis of operators. We then reproduce the local eigenvalue correlations in random matrix theory from the chord diagrams perspective, which is the q = 0 limit of double scaled SYK, and identify the relevant operators that give rise to the late-time ramp. We then extend the computation to finite q, resulting in the late time contribution to the spectral form factor. We verify that the late time asymptotics of the finite q computation gives rise to the expected late time ramp. Our computation also provides the corresponding trumpet partition function and gluing factor for chords, which form the basis of a chord analog to topological recursion.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)215">Journal of High Energy Physics</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)215</guid>
+    </item><item>
       <title>Phonon dynamics in spherically-curved analog-gravity Bose–Einstein condensates</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15884-w</link>
       <description>We study the low energy phonon dynamics of a Bose–Einstein condensate (BEC) with a density profile that is equivalent, via a coordinate transformation, to phonons traveling in a “spherical” curved spacetime that realizes the Friedman–Lemaître–Robertson–Walker (FLRW) metric. The metric of this BEC is characterized by its curvature kappa and a time-dependent scale factor a(t), with an increase in the latter corresponding to an expansion of the analog FLRW universe. We study the propagation of classical phonons in such BECs, finding that a sudden change in the scale factor induces ripples in the wave motion. In addition, we study quantum phonon creation (or vacuum amplification) due to the scale-factor modification and quantify their entanglement.</description>
       <source url="https://doi.org/10.1140/epjc/s10052-026-15884-w">European Physical Journal C</source>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15884-w</guid>
+    </item><item>
+      <title>Optimization of the X-Arapuca photon collection efficiency for the DUNE horizontal drift far detector</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15873-z</link>
+      <description>The Deep Underground Neutrino Experiment (DUNE) Far Detector (FD) Photon Detection System (PDS) employs the X-Arapuca concept, a photon trapping system relying on reflective surfaces and dichroic filters. In this paper are reported measurements, performed at the University of Milano-Bicocca, aimed at increasing the FD Horizontal Drift (HD) PDS module efficiency. The baseline implementation of the X-Arapuca concept for the FD-HD PDS module is close to the DUNE requirements as demonstrated in the collaborations laboratory testing. However, an increased performance would provide a safety margin for a detector planned to be operated for 30 years, without possibility of performing maintenance. A higher detector performance would also benefit the DUNE low energy physics program. The already proven Milano-Bicocca setup has been utilized to test different PDS module configurations comparing them to the original baseline. Exploiting prior knowledge of the X-Arapuca components and Geant4 based o</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15873-z">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15873-z</guid>
     </item><item>
       <title>Blackish holes with stringy backreaction</title>
       <link>https://doi.org/10.1007/JHEP06(2026)208</link>
@@ -34,14 +49,6 @@
       <source url="https://doi.org/10.1007/JHEP06(2026)200">Journal of High Energy Physics</source>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)200</guid>
-    </item><item>
-      <title>Quantum Semiconductor Heterostructures for meV Axion Dark Matter Detection</title>
-      <link>https://doi.org/10.1103/y7jl-gj2k</link>
-      <description>We propose a novel strategy and a new class of detectors for the direct detection of axion dark matter in the meV mass range, based on resonantly enhanced axion-photon conversion through the inverse Primakoff effect in engineered radiometers composed of quantum semiconductor heterostructures. Semiconductor-Quantum-Well Axion Radiometer Experiments (SQWAREs) are multiple quantum well structures forming magnetoplasmonic cavities, containing high-mobility two-dimensional electron gases, realizing tunable epsilon-near-zero resonances in the terahertz frequency range. By controlling the orientation of the cavity within a strong external magnetic field, both the resonance frequency and the axion-induced current are optimized in situ, enabling efficient scanning across a broad mass range without the need for complex mechanical adjustments. The axion-induced electromagnetic signal radiatively emitted from the cavity is then detected by a photodetector. We present the theoretical basis for reso</description>
-      <source url="https://doi.org/10.1103/y7jl-gj2k">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/y7jl-gj2k</guid>
     </item><item>
       <title>Event shapes and inclusive hadron spectra at FCC-ee energies</title>
       <link>https://doi.org/10.1103/243z-g9x8</link>
@@ -86,12 +93,20 @@
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/nnvg-5w2c</guid>
     </item><item>
-      <title>Triple Higgs production at muon colliders in the Higgs triplet model</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15870-2</link>
-      <description>The production of three Higgs bosons provides a unique opportunity to probe both the trilinear and quartic Higgs couplings within the Standard Model and beyond. In this study, we investigate triple Higgs production in the Higgs Triplet Model via photon fusion, γ γ → h^0 h^0 h^0 , allowing us to explore the contributions from singly and doubly charged Higgs bosons and their couplings to CP-even scalars. We analyze the total cross sections and kinematic distributions, comparing our results with the corresponding SM predictions. Our calculations utilize an automated one-loop calculator to evaluate the numerical amplitudes for the 2 → 3 process. For the collider simulations, we developed a Monte Carlo phase-space integrator to predict outcomes for a future muon collider, covering a center-of-mass energy range from 2 TeV to 10 TeV.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15870-2">European Physical Journal C</source>
+      <title>Constraints on millicharged particles from nuclear γ-decays</title>
+      <link>https://doi.org/10.1103/ys3l-3bcd</link>
+      <description>We consider nuclear gamma decays and γ-emitting reactions that can be an efficient source of hypothetical millicharged particles (χ). In particular, we revisit the production of millicharged particles in nuclear reactor environment, pointing out that γ cascades from U239 is an overlooked yet a powerful source of χχ¯ pairs. This leads to an increased flux compared to previous studies. We then apply new estimates of the flux to derive novel limits on the value of millicharge, ϵ=Qχ/e, from the electron recoil searched for in a variety of experiments placed in proximity to the reactor cores. The derived limits on ϵ are the strongest in the interval of masses ∼0.7–2 MeV. We also derive the millicharged particles flux from the Sun and point out potential sensitivity of the low-threshold dark matter search experiments.</description>
+      <source url="https://doi.org/10.1103/ys3l-3bcd">Physical Review D</source>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15870-2</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/ys3l-3bcd</guid>
+    </item><item>
+      <title>Probing Scalar-Neutrino and Scalar-Dark-Matter Interactions with PandaX-4T</title>
+      <link>https://doi.org/10.1103/pn9y-g5k7</link>
+      <description>Scalar-mediated interactions may exist among neutrinos, dark matter particles, or between the two. Double β-decay experiments provide a powerful tool to probe such exotic interactions. Using Xe136 double β-decay data from PandaX-4T, we perform the first direct spectral search in the energy range of 20 to 2800 keV, setting the most stringent limits to date on scalar-mediated neutrino self-interactions for mediator masses below 2 MeV/c2. These results place significant constraints on models invoking such interactions to alleviate the Hubble tension. Assuming the same scalar also mediates dark matter self-interactions, constraints on the dark matter-scalar interactions can be placed in conjunction with cosmological constraints.</description>
+      <source url="https://doi.org/10.1103/pn9y-g5k7">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pn9y-g5k7</guid>
     </item><item>
       <title>Optomechanical accelerometer search for ultralight dark matter</title>
       <link>https://doi.org/10.1103/16yd-qj5v</link>
@@ -108,26 +123,13 @@
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/x3vt-q676</guid>
     </item><item>
-      <title>Higgs inflation: particle factory</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)170</link>
-      <description>We study cosmological gravitational particle production (CGPP) in Higgs inflation, wherein the inflaton is a scalar field with quartic self-coupling λ and a nonminimal coupling to gravity ξ, and which may, but need not be, the Higgs boson of the Standard Model (SM). We find an explosive particle production peaked on a characteristic comoving wavenumber k ~ ξ aH with a peak occupation number that scales with ξ. This new peak in production can easily dominate over the conventional (minimally coupled inflation) CGPP even for modest values of ξ. The results apply for a wide range of ξ, e.g., as low as ξ = 10, which can be realized for the Standard Model Higgs given suitable RG flow of the quartic coupling. We discuss implications for late time relics such as dark matter.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)170">Journal of High Energy Physics</source>
+      <title>Probing Scalar-Neutrino and Scalar-Dark-Matter Interactions with PandaX-4T</title>
+      <link>https://doi.org/10.1103/pn9y-g5k7</link>
+      <description>Scalar-mediated interactions may exist among neutrinos, dark matter particles, or between the two. Double β-decay experiments provide a powerful tool to probe such exotic interactions. Using Xe136 double β-decay data from PandaX-4T, we perform the first direct spectral search in the energy range of 20 to 2800 keV, setting the most stringent limits to date on scalar-mediated neutrino self-interactions for mediator masses below 2 MeV/c2. These results place significant constraints on models invoking such interactions to alleviate the Hubble tension. Assuming the same scalar also mediates dark matter self-interactions, constraints on the dark matter-scalar interactions can be placed in conjunction with cosmological constraints.</description>
+      <source url="https://doi.org/10.1103/pn9y-g5k7">Physical Review Letters</source>
+      <author>et al.</author>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)170</guid>
-    </item><item>
-      <title>Hadronic scattering in (1+1)D SU(2) lattice gauge theory from tensor networks</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)168</link>
-      <description>We present a first real-time study of hadronic scattering in a (1+1)-dimensional SU(2) lattice gauge theory with fundamental fermions using tensor-network techniques. Working in the gaugeless Hamiltonian formulation — where the gauge field is exactly integrated out and no truncation of the electric flux is required — we investigate scattering processes across sectors of fixed global baryon number B = 0, 1, 2. These correspond respectively to meson-meson, meson-baryon, and baryon-baryon collisions. At strong coupling, the B = 0 and B = 2 channels exhibit predominantly elastic dynamics closely resembling those of the U(1) Schwinger model. In contrast, the mixed B = 1 sector shows qualitatively new behavior: meson and baryon wavepackets become entangled during the collision, and depending on their initial kinematics, the slower state becomes spatially delocalized while the faster one propagates ballistically. We characterize these processes through local observables, entanglement entropy,</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)168">Journal of High Energy Physics</source>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)168</guid>
-    </item><item>
-      <title>Continuous Family of Conformal Field Theories and Exactly Marginal Operators</title>
-      <link>https://doi.org/10.1103/4759-7qj2</link>
-      <description>Does a conformal manifold imply the existence of exactly marginal operators? We answer this question affirmatively under the assumption that there exists a conformal interface with certain properties connecting nearby conformal field theories. We show that the exactly marginal operator that connects the conformal field theories can be reconstructed from the interface displacement operator. Our construction is model independent and based on the general principles of conformal symmetry.</description>
-      <source url="https://doi.org/10.1103/4759-7qj2">Physical Review Letters</source>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4759-7qj2</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/pn9y-g5k7</guid>
     </item>
   </channel>
 </rss>
