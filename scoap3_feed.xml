@@ -5,8 +5,78 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 15:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:29:42 +0000</lastBuildDate>
     <item>
+      <title>Collapse of Coulomb bound states of vector bosons</title>
+      <link>https://doi.org/10.1103/mmlk-cnpw</link>
+      <description>Charged spin-1 (vector) particles behave very differently from electrons or scalars in a Coulomb field. For an infinitely heavy “pointlike” nucleus, their bound-state wave functions “fall to the center,” and embedding the system in a renormalizable electroweak-type theory does not remedy this short-distance pathology. We therefore solve the pure Coulomb problem for a finite nuclear radius R and recover the point-nucleus limit by letting R→0. This approach allows us to include the crucial ϒ-term in the wave equations, which for the pointlike nucleus is proportional to δ(r) and was ignored in the previous calculations of the energy spectrum. Several unusual effects emerge: (i) The ϒ-term supports a tower of states located mainly inside the nucleus. As R→0 their number diverges, most lying in the negative-energy continuum (energy ε−mc2). They trigger vacuum breakdown—particle-antiparticle pair creation that ultimately screens the nuclear charge. (ii) Ordinary Sommerfeld-like states (with </description>
+      <source url="https://doi.org/10.1103/mmlk-cnpw">Physical Review D</source>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mmlk-cnpw</guid>
+    </item><item>
+      <title>Constraining neutrino-nucleon form factors with charged-current scattering at the Electron-Ion Collider</title>
+      <link>https://doi.org/10.1103/btj9-n88g</link>
+      <description>Next-generation neutrino oscillation experiments such as the Deep Underground Neutrino Experiment require percent-level knowledge of neutrino-nucleon interaction cross sections. The nucleon axial form factor FA(Q2), parametrized by the axial mass MA, is the dominant source of uncertainty in the quasielastic channel, and the parity-violating structure function xF3 is poorly constrained on free nucleons. We propose using charged-current (CC) electron-proton scattering at the Electron-Ion Collider (EIC) to address both problems simultaneously. The measurement exploits three key features of the EIC: (1) helicity-selective electron bunches provide in situ electromagnetic background rejection; (2) a longitudinally polarized proton target enables extraction of FA(Q2) through the target-spin asymmetry AUL; and (3) the y-distribution leverage in CC deep inelastic scattering (DIS) separates F2 and xF3 on a free proton, without nuclear corrections. Using a Fisher information analysis at s=141 GeV</description>
+      <source url="https://doi.org/10.1103/btj9-n88g">Physical Review D</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/btj9-n88g</guid>
+    </item><item>
+      <title>A compendium of cold-nuclear matter baseline predictions in light-ion collisions</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15760-7</link>
+      <description>The recent light-ion collision programme at RHIC and the LHC provides a unique opportunity to investigate the onset of quark-gluon plasma formation and parton energy loss in small systems. A quantitative interpretation of emerging jet quenching measurements requires precise control over cold nuclear matter (CNM) effects, which modify hard-process cross sections independently of any hot-medium dynamics. In this work, we present a comprehensive set of perturbative QCD baseline calculations for nuclear modification factors ( R_textrmAA ) in proton-oxygen (pO), oxygen-oxygen (OO) and neon-neon (NeNe) collisions at LHC energies. The study includes charged hadron, neutral pion, prompt photon, and electroweak-boson production computed at next-to-leading order using a broad set of recent nuclear parton distribution functions (nPDFs). We demonstrate that CNM effects alone can induce sizeable suppressions in light-ion systems, with large associated nPDF uncertainties that currently limit the qua</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15760-7">European Physical Journal C</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15760-7</guid>
+    </item><item>
+      <title>Exploring quantumness at long-baseline neutrino experiments</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)221</link>
+      <description>Violations of classicality can be probed through measurements performed on a system at different times, as proposed by Leggett and Garg. Specifically, violations of Leggett-Garg inequalities suggest the presence of quantum effects in macroscopic systems. Long-baseline neutrino experiments provide some of the longest available propagation distances over which such tests can be performed. Previous studies of Leggett-Garg tests in the neutrino sector have largely focused on showing that the oscillation probabilities can violate classical bounds for certain parameter choices. In this work, we develop a more complete and data-driven framework that treats both the distributions representing the classical and quantum behavior, as well as the experimental uncertainties. We consider MINOS, T2K, NOvA, as well as the upcoming DUNE, and present the respective statistical significance for distinguishing quantum behavior from classical scenarios at these long-baseline neutrino experiments. Among the</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)221">Journal of High Energy Physics</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)221</guid>
+    </item><item>
+      <title>Testing thermal-relic dark matter with a dark-photon mediator</title>
+      <link>https://doi.org/10.1103/sd6p-8y9p</link>
+      <description>In light of recent DAMIC-M results, we present the status of thermal-relic dark matter χ coupled to a kinetically mixed dark photon A′. In the predictive “direct annihilation” regime, mA′&gt;mχ, the relic abundance depends on the kinetic mixing parameter, and there is a minimum value compatible with thermal freeze-out. Using only electron-and nuclear-recoil direct-detection results, we find that, for complex scalar dark matter, the direct annihilation regime is now excluded for nearly all values of mχ; the only exception is the resonant annihilation regime where mA′≈2mχ. Direct annihilation relic targets for other representative models, including Majorana and pseudo-Dirac candidates, remain viable across a wide range of model parameters but will be tested with a combination of dedicated accelerator searches in the near future. In the opposite “secluded annihilation” regime, where mχ&gt;mA′, this scenario is excluded by cosmic microwave background measurements for all mχ≲30 GeV. Similar concl</description>
+      <source url="https://doi.org/10.1103/sd6p-8y9p">Physical Review D</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/sd6p-8y9p</guid>
+    </item><item>
+      <title>Asymptotic freedom and massive glueballs in a qubit-regularized SU(2) gauge theory</title>
+      <link>https://doi.org/10.1103/2cy4-cp7f</link>
+      <description>We argue that a simple qubit-regularized SU(2) lattice gauge theory on a plaquette chain serves as a pseudo–one-dimensional toy model for Yang-Mills theory in three spatial dimensions. We map the chain Hamiltonian to the transverse field Ising model in a uniform magnetic field and demonstrate that it can be tuned to a continuum limit in which the short-distance physics is governed by the asymptotically free Ising conformal field theory describing free Majorana fermions, while the long-distance regime contains massive excitations of the E8 quantum field theory that can be interpreted as one-dimensional analogs of glueballs. Furthermore, we find σ/m1=0.249(1) where σ is the string tension between two static quarks and m1 is the mass of the lightest glueball.</description>
+      <source url="https://doi.org/10.1103/2cy4-cp7f">Physical Review D</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2cy4-cp7f</guid>
+    </item><item>
+      <title>Strings from Almost Nothing</title>
+      <link>https://doi.org/10.1103/cw4p-cqh7</link>
+      <description>We argue that string theory emerges inevitably from a few simple assumptions about physical scattering. Consistency alone requires that all tree-level four-point scattering amplitudes exhibit vanishing residues at prescribed values of the momentum transfer. Assuming ultrasoft high-energy behavior, we then prove that the space of minimally consistent amplitudes, whose residues exhibit these mandated zeros and nothing more, collapses uniquely onto the celebrated Veneziano and Virasoro-Shapiro amplitudes of string theory. Similar logic also applies to five-point scattering.</description>
+      <source url="https://doi.org/10.1103/cw4p-cqh7">Physical Review Letters</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/cw4p-cqh7</guid>
+    </item><item>
+      <title>Ξb→Ξ form factors from lattice QCD and standard-model predictions for Ξb→Ξμ+μ− and Ξb→Ξγ decays</title>
+      <link>https://doi.org/10.1103/4rg4-sd18</link>
+      <description>We present the first lattice QCD determination of the Ξb→Ξ vector, axial-vector, and tensor form factors, which are relevant for the theory of rare decays including Ξb→Ξℓ+ℓ− and Ξb→Ξγ. The calculation is performed with 2+1 flavors of domain-wall fermions at three different lattice spacings and pion masses in the range from approximately 430 to 230 MeV. The bottom quark is implemented using an anisotropic clover action. Three-point functions with a wide range of source-sink separations and model averaging are used to extract the ground-state contributions. We fit the dependence of the form factors on the momentum transfer, the pion mass, and the lattice spacing using modified z expansions that account for subthreshold branch cuts, and apply dispersive bounds and asymptotic behavior constraints to achieve controlled uncertainties in the full semileptonic kinematic region. Using our form factor results, we present standard model predictions for the Ξb−→Ξ−γ and Ξb−→Ξ−μ+μ− branching fractio</description>
+      <source url="https://doi.org/10.1103/4rg4-sd18">Physical Review D</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4rg4-sd18</guid>
+    </item><item>
+      <title>Dipole radiation and kinetic mixing from dark photon solitons</title>
+      <link>https://doi.org/10.1103/mhkg-qr6r</link>
+      <description>Wavelike dark matter composed of spin-1 particles, known as dark photons, is theorized to form clumps called “vector solitons.” These solitons are compact astrophysical objects that exhibit coherent oscillations and a high concentration relative to the local dark matter density. A significant portion of dark matter in galactic halos today may consist of these solitons. This study explores how photons can be produced from these vector solitons by the influence of external electromagnetic fields or charge densities, via a dimension-6 dark photon-photon coupling and a kinetic mixing, respectively. We further explore the astrophysical implications of these phenomena, highlighting a novel avenue for dark matter discovery that our research provides.</description>
+      <source url="https://doi.org/10.1103/mhkg-qr6r">Physical Review D</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mhkg-qr6r</guid>
+    </item><item>
+      <title>Dipole radiation and kinetic mixing from dark photon solitons</title>
+      <link>https://doi.org/10.1103/mhkg-qr6r</link>
+      <description>Wavelike dark matter composed of spin-1 particles, known as dark photons, is theorized to form clumps called “vector solitons.” These solitons are compact astrophysical objects that exhibit coherent oscillations and a high concentration relative to the local dark matter density. A significant portion of dark matter in galactic halos today may consist of these solitons. This study explores how photons can be produced from these vector solitons by the influence of external electromagnetic fields or charge densities, via a dimension-6 dark photon-photon coupling and a kinetic mixing, respectively. We further explore the astrophysical implications of these phenomena, highlighting a novel avenue for dark matter discovery that our research provides.</description>
+      <source url="https://doi.org/10.1103/mhkg-qr6r">Physical Review D</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mhkg-qr6r</guid>
+    </item><item>
       <title>The late time ramp from chord diagrams in the double-scaled SYK model</title>
       <link>https://doi.org/10.1007/JHEP06(2026)215</link>
       <description>We compute the ramp of the spectral form factor analytically from chord diagrams in double scaled SYK. We map the double-trace correlator to a sum of single trace two-point functions over a basis of operators. We then reproduce the local eigenvalue correlations in random matrix theory from the chord diagrams perspective, which is the q = 0 limit of double scaled SYK, and identify the relevant operators that give rise to the late-time ramp. We then extend the computation to finite q, resulting in the late time contribution to the spectral form factor. We verify that the late time asymptotics of the finite q computation gives rise to the expected late time ramp. Our computation also provides the corresponding trumpet partition function and gluing factor for chords, which form the basis of a chord analog to topological recursion.</description>
@@ -42,94 +112,6 @@
       <source url="https://doi.org/10.1007/JHEP06(2026)210">Journal of High Energy Physics</source>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)210</guid>
-    </item><item>
-      <title>Supersymmetry and trace formulas. Part III. Frenkel trace formula</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)200</link>
-      <description>By applying the new supersymmetric localization principle introduced in [5, 6], we present two complementary approaches for the path integral derivation of the ‘non-chiral’ trace formula for a semisimple compact Lie group G, which generalizes the so-called Frenkel trace formula. Corresponding physical systems for each picture are the quantum mechanical sigma model on G and the gauged sigma model on G × G, and the approaches closely follow the spirit of the Eskin trace formula [5] and the Selberg trace formula [6] respectively. These methods provide a natural conceptual bridge between two seemingly independent derivations in [5, 6].</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)200">Journal of High Energy Physics</source>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)200</guid>
-    </item><item>
-      <title>Event shapes and inclusive hadron spectra at FCC-ee energies</title>
-      <link>https://doi.org/10.1103/243z-g9x8</link>
-      <description>We analyze hadronic final states of e+e− annihilation through event shape observables, Thrust and C-parameter, and inclusive hadron spectra at the planned center-of-mass (c.m.) energies of the Future Circular Electron-Positron Collider (FCC-ee). Collision data is produced using Monte Carlo event generation in PYTHIA at 91.2, 160, 240, and 365 GeV. Distortions of event shapes due to initial-state photon radiation and background decays of Z pairs, W pairs, top-quark pairs, and Higgs bosons are investigated. An extraction of the strong coupling αs is performed by fitting event shape distributions to perturbative quantum chromodynamics (QCD) predictions at next-to-next-to-leading-order (NNLO) accuracy, and the sources of systematic uncertainties at high c.m. energies are discussed. Soft gluon dynamics is examined through charged particle multiplicities and momentum distributions, and energy evolution of mean values is compared with prior experimental results. The inferences from this pheno</description>
-      <source url="https://doi.org/10.1103/243z-g9x8">Physical Review D</source>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/243z-g9x8</guid>
-    </item><item>
-      <title>Quantum Semiconductor Heterostructures for meV Axion Dark Matter Detection</title>
-      <link>https://doi.org/10.1103/y7jl-gj2k</link>
-      <description>We propose a novel strategy and a new class of detectors for the direct detection of axion dark matter in the meV mass range, based on resonantly enhanced axion-photon conversion through the inverse Primakoff effect in engineered radiometers composed of quantum semiconductor heterostructures. Semiconductor-Quantum-Well Axion Radiometer Experiments (SQWAREs) are multiple quantum well structures forming magnetoplasmonic cavities, containing high-mobility two-dimensional electron gases, realizing tunable epsilon-near-zero resonances in the terahertz frequency range. By controlling the orientation of the cavity within a strong external magnetic field, both the resonance frequency and the axion-induced current are optimized in situ, enabling efficient scanning across a broad mass range without the need for complex mechanical adjustments. The axion-induced electromagnetic signal radiatively emitted from the cavity is then detected by a photodetector. We present the theoretical basis for reso</description>
-      <source url="https://doi.org/10.1103/y7jl-gj2k">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/y7jl-gj2k</guid>
-    </item><item>
-      <title>Higher order quantization conditions for two-body scattering with spin</title>
-      <link>https://doi.org/10.1103/527n-tjbr</link>
-      <description>We examine the Lüscher quantization condition to high order for the scattering of a spinless particle and a spin-1/2 particle in a periodic box. First, we derive the quantization conditions in a nonrelativistic framework up to total angular momentum J=11/2 in both cubic and elongated geometries, and for both rest and moving frames. Then, we introduce a method to transparently cross-check their convergence, using both quantized energy levels in the box and infinite-volume phase shifts for the same potential. We clarify how to incorporate spin-orbit coupling into the formalism and show in detail how the quantization conditions converge order by order in the various irreducible representations. In all, we validated 19 quantization conditions (12 in cubic box, 7 in elongated box). This is a necessary step in applying the method in precision studies of systems in finite volume with half-integer spin, such as meson-baryon scattering.</description>
-      <source url="https://doi.org/10.1103/527n-tjbr">Physical Review D</source>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/527n-tjbr</guid>
-    </item><item>
-      <title>Global symmetry and integral constraint on superconformal lines in four dimensions</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)180</link>
-      <description>We study properties of point-like impurities preserving flavor symmetry and supersymmetry in four-dimensional 𝒩 = 2 field theories. At large distances, such impurities are described by half-BPS superconformal line defects. By working in the AdS × S conformal frame, we develop a novel and simpler way of deriving the superconformal Ward identities relating the various two-point functions of flavor current multiplet operators in the presence of the defect. We use these relations to simplify a certain integrated two-point function of flavor current multiplet operators that, in Lagrangian theories, can be computed using supersymmetric localization. The simplification gives an integral constraint on the two-point function of the flavor current multiplet superconformal primary with trivial integration measure in the AdS × S conformal frame. We provide several consistency checks on our Ward identities.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)180">Journal of High Energy Physics</source>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)180</guid>
-    </item><item>
-      <title>Triple Higgs production at muon colliders in the Higgs triplet model</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15870-2</link>
-      <description>The production of three Higgs bosons provides a unique opportunity to probe both the trilinear and quartic Higgs couplings within the Standard Model and beyond. In this study, we investigate triple Higgs production in the Higgs Triplet Model via photon fusion, γ γ → h^0 h^0 h^0 , allowing us to explore the contributions from singly and doubly charged Higgs bosons and their couplings to CP-even scalars. We analyze the total cross sections and kinematic distributions, comparing our results with the corresponding SM predictions. Our calculations utilize an automated one-loop calculator to evaluate the numerical amplitudes for the 2 → 3 process. For the collider simulations, we developed a Monte Carlo phase-space integrator to predict outcomes for a future muon collider, covering a center-of-mass energy range from 2 TeV to 10 TeV.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15870-2">European Physical Journal C</source>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15870-2</guid>
-    </item><item>
-      <title>X17 with chiral couplings</title>
-      <link>https://doi.org/10.1103/nnvg-5w2c</link>
-      <description>In recent years, the ATOMKI collaboration has performed a series of measurements of excited nuclei, observing a resonant excess of electron-positron pairs at large opening angles compared to the Standard Model prediction. The excess has been hypothesized to be due to the production of a new spin-1 or spin-0 particle, X17, with a mass of about 17 MeV. Recently, the PADME experiment has reported an excess in the e+e− cross section at center-of-mass energies near 17 MeV, perhaps further hinting at the existence of a new state. Studies of the spin-1 case have hitherto focused on either vector or axial-vector couplings to quarks and leptons, whereas UV theories more naturally produce both vector and axial-vector (i.e., chiral) couplings, analogous to the Standard Model weak interactions. We consider the ATOMKI anomalies in the context of an X with chiral couplings to quarks and explore the parameter space that can explain the ATOMKI anomalies, contrasting them with experimental constraints.</description>
-      <source url="https://doi.org/10.1103/nnvg-5w2c">Physical Review D</source>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nnvg-5w2c</guid>
-    </item><item>
-      <title>Constraints on millicharged particles from nuclear γ-decays</title>
-      <link>https://doi.org/10.1103/ys3l-3bcd</link>
-      <description>We consider nuclear gamma decays and γ-emitting reactions that can be an efficient source of hypothetical millicharged particles (χ). In particular, we revisit the production of millicharged particles in nuclear reactor environment, pointing out that γ cascades from U239 is an overlooked yet a powerful source of χχ¯ pairs. This leads to an increased flux compared to previous studies. We then apply new estimates of the flux to derive novel limits on the value of millicharge, ϵ=Qχ/e, from the electron recoil searched for in a variety of experiments placed in proximity to the reactor cores. The derived limits on ϵ are the strongest in the interval of masses ∼0.7–2 MeV. We also derive the millicharged particles flux from the Sun and point out potential sensitivity of the low-threshold dark matter search experiments.</description>
-      <source url="https://doi.org/10.1103/ys3l-3bcd">Physical Review D</source>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ys3l-3bcd</guid>
-    </item><item>
-      <title>Probing Scalar-Neutrino and Scalar-Dark-Matter Interactions with PandaX-4T</title>
-      <link>https://doi.org/10.1103/pn9y-g5k7</link>
-      <description>Scalar-mediated interactions may exist among neutrinos, dark matter particles, or between the two. Double β-decay experiments provide a powerful tool to probe such exotic interactions. Using Xe136 double β-decay data from PandaX-4T, we perform the first direct spectral search in the energy range of 20 to 2800 keV, setting the most stringent limits to date on scalar-mediated neutrino self-interactions for mediator masses below 2 MeV/c2. These results place significant constraints on models invoking such interactions to alleviate the Hubble tension. Assuming the same scalar also mediates dark matter self-interactions, constraints on the dark matter-scalar interactions can be placed in conjunction with cosmological constraints.</description>
-      <source url="https://doi.org/10.1103/pn9y-g5k7">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pn9y-g5k7</guid>
-    </item><item>
-      <title>Optomechanical accelerometer search for ultralight dark matter</title>
-      <link>https://doi.org/10.1103/16yd-qj5v</link>
-      <description>Cavity optomechanical systems have recently been proposed as detectors for ultralight dark matter, leveraging their ability to cool and probe mechanical oscillators at the quantum limit. Here we present a resonant search for ultralight dark matter using a cavity optomechanical accelerometer. The detector consists of a cryogenic Si3N4-membrane cavity mounted to a 4 K copper plate, with photothermal tuning used to scan its 39 kHz mechanical resonance. Shot-noise-limited displacement readout and radiation-pressure feedback cooling yield an acceleration sensitivity of 10 ng0/Hz over 30 Hz near resonance. The detector’s material inhomogeneity gives access to direct vector coupling to the dark-matter field. We conduct a resonant search based on matched-filter statistics, yielding upper bounds consistent with thermal noise and above those set by equivalence principle tests. No signal is observed, but the experiment demonstrates stable, quantum-limited operation and validates a scalable approa</description>
-      <source url="https://doi.org/10.1103/16yd-qj5v">Physical Review D</source>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/16yd-qj5v</guid>
-    </item><item>
-      <title>Sensitivity to low-mass WIMPs with an improved liquid argon ionization response model within the DarkSide program</title>
-      <link>https://doi.org/10.1103/x3vt-q676</link>
-      <description>Dark matter detection experiments using liquid argon rely on a precise characterization of the ionization response to nuclear recoils, especially in the keV energy range relevant for light dark matter interactions. In this work, we present a comprehensive analysis that combines new measurements from the ReD setup, part of the DarkSide experimental program, with calibration data from DarkSide-50, as well as results from the ARIS and SCENE experiments. These combined datasets enable improved constraints on atomic screening effects in the modeling of the ionization response of liquid argon to nuclear recoils. The analysis is performed within the Thomas-Imel recombination framework adopted in previous DarkSide studies, and is here further constrained by the inclusion of ReD data, which allow the screening function to be determined from calibration measurements. By including the updated ionization model into the DarkSide-50 analysis framework, we obtain stronger exclusion limits on low-mass</description>
-      <source url="https://doi.org/10.1103/x3vt-q676">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/x3vt-q676</guid>
-    </item><item>
-      <title>Probing Scalar-Neutrino and Scalar-Dark-Matter Interactions with PandaX-4T</title>
-      <link>https://doi.org/10.1103/pn9y-g5k7</link>
-      <description>Scalar-mediated interactions may exist among neutrinos, dark matter particles, or between the two. Double β-decay experiments provide a powerful tool to probe such exotic interactions. Using Xe136 double β-decay data from PandaX-4T, we perform the first direct spectral search in the energy range of 20 to 2800 keV, setting the most stringent limits to date on scalar-mediated neutrino self-interactions for mediator masses below 2 MeV/c2. These results place significant constraints on models invoking such interactions to alleviate the Hubble tension. Assuming the same scalar also mediates dark matter self-interactions, constraints on the dark matter-scalar interactions can be placed in conjunction with cosmological constraints.</description>
-      <source url="https://doi.org/10.1103/pn9y-g5k7">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pn9y-g5k7</guid>
     </item>
   </channel>
 </rss>
