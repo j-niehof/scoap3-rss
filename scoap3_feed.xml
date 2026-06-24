@@ -5,14 +5,89 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 12:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:16:11 +0000</lastBuildDate>
     <item>
+      <title>Resummed distribution functions: making perturbation theory positive and normalized</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)243</link>
+      <description>Fixed-order perturbative calculations for differential cross sections can suffer from non-physical artifacts: they can be non-positive, non-normalizable, and non-finite, none of which occur in experimental measurements. We propose a framework, the Resummed Distribution Function (RDF), that, given a perturbative calculation for an observable to some finite order in α , will “resum” the expression in a way that is guaranteed to match the original expression order-by-order and be positive, normalized, and finite. Moreover, our ansatz parameterizes all possible finite, positive, and normalized completions consistent with the original fixed-order expression, which can include N LL resummed expressions. The RDF also enables a more direct notion of perturbative uncertainties, as we can directly vary higher-order parameters and treat them as nuisance parameters. We demonstrate the power of the RDF ansatz by matching to thrust to mathcalO(α_s^3) and extracting α with perturbative uncertainties </description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)243">Journal of High Energy Physics</source>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)243</guid>
+    </item><item>
+      <title>Precise QCD Predictions for Hadron-in-Jet Production in e+e− Collisions</title>
+      <link>https://doi.org/10.1103/l14v-1r2c</link>
+      <description>The production of identified hadrons inside jets in e+e− annihilation allows for detailed studies of parton-to-hadron fragmentation functions in a clean environment. We compute hadron-in-jets production cross sections for e+e−→2 jets and e+e−→3 jets to next-to-next-to-leading order (NNLO) in perturbative QCD. By comparing with data from the ALEPH experiment, we demonstrate the implications of the newly computed theory predictions for precision phenomenology.</description>
+      <source url="https://doi.org/10.1103/l14v-1r2c">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/l14v-1r2c</guid>
+    </item><item>
+      <title>Impact of new physics on the JUNO-long-baseline synergy in the neutrino mass ordering determination</title>
+      <link>https://doi.org/10.1103/jttg-dj4g</link>
+      <description>The determination of the neutrino mass ordering is one of the flagship goals in particle physics. A well-known and powerful synergy emerges when combining high-precision measurements of the effective atmospheric mass-squared splitting from electron antineutrino disappearance in reactor experiments with that from muon (anti)neutrino disappearance in accelerator-based long-baseline experiments. To fully exploit this synergy, percent-level precision in the atmospheric mass splitting is required—a target that JUNO is expected to achieve within a few months of data taking. This motivated the formulation of a mass ordering sum rule for neutrino disappearance channels, which shows that by combining data from T2K and NOvA with JUNO after one year of operation, the neutrino mass ordering can be determined at the 3σ confidence level. Since JUNO has recently started taking data, it is timely to ask whether this sum rule remains robust in the presence of new physics. We identify the necessary cond</description>
+      <source url="https://doi.org/10.1103/jttg-dj4g">Physical Review D</source>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jttg-dj4g</guid>
+    </item><item>
+      <title>Four-Jet Rate in Electron-Positron Annihilation at Order αs4</title>
+      <link>https://doi.org/10.1103/xxg6-yd47</link>
+      <description>We compute for the first time the production rate for four jets in electron-positron annihilation at next-to-next-to-leading order. Our calculation exhibits the highest final-state jet multiplicity considered at this perturbative accuracy to date. The cancellation of infrared singularities is achieved in the antenna subtraction scheme, relying particularly on generalized antenna functions. The evaluation of the two-loop virtual corrections is enabled by the construction of a new basis of transcendental special functions tailored to four-particle decay kinematics. Our results are compared with LEP data, finding improved agreement with respect to the next-to-leading order calculation. In the region where perturbative predictions are most reliable, we observe a significant reduction of theory uncertainties, which now fall below the experimental ones.</description>
+      <source url="https://doi.org/10.1103/xxg6-yd47">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xxg6-yd47</guid>
+    </item><item>
+      <title>Proposal for Direct Detection of Ultralight Dark Matter via Charged Lepton Flavor Violation</title>
+      <link>https://doi.org/10.1103/gvf4-d2b9</link>
+      <description>We propose a dark matter direct-detection strategy using charged particle decays at accelerator-based experiments. If ultralight (mϕ≪eV) dark matter has a misalignment abundance, its local field oscillates in time at a frequency set by its mass. If it also couples to flavor-changing neutral currents, rare exotic decays such as μ→eϕ′ and τ→e(μ)ϕ′ inherit this modulation. Focusing on such charged lepton flavor-violating decays, we show that sufficient event samples can enable detection of ultralight dark matter candidates at Mu3e, Belle-II, and FCC-ee.</description>
+      <source url="https://doi.org/10.1103/gvf4-d2b9">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/gvf4-d2b9</guid>
+    </item><item>
+      <title>Resolving the gallium anomaly using an opaque liquid scintillator detector</title>
+      <link>https://doi.org/10.1103/hlrw-rby4</link>
+      <description>The gallium anomaly has a global significance of greater than 5σ. While SM solutions are not strongly favored, most viable BSM solutions likewise run into strong tensions with reactor and solar neutrino data. In this work, we first emphasize that elastic scattering alone is insufficient to test and resolve the GA. Therefore, we require a detector with a calibrated neutrino source to precisely determine the incoming neutrino energy, avoid radiochemical extraction biases, and isolate oscillation-based effects. We propose to use charged-current neutrino capture on indium (In115) as a target as it offers a low threshold (114 keV) and reasonably high cross section. The triple coincidence provided by In115 neutrino capture can be fully exploited by an opaque scintillation detector that also provides energy and position information. Recent successful research and development by the LiquidO Collaboration makes our proposal realistic and timely. We show that a 100 ton indium target combined wit</description>
+      <source url="https://doi.org/10.1103/hlrw-rby4">Physical Review D</source>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hlrw-rby4</guid>
+    </item><item>
+      <title>Photon emission from weakly magnetized neutral pions</title>
+      <link>https://doi.org/10.1103/b9k3-tqyd</link>
+      <description>Using a hadronic framework, we derive an explicit expression for photon production from neutral pions in a weak background magnetic field. Our calculation is built on the proton triangle diagram with an effective Yukawa π0-proton coupling, offering an alternative to quark-level descriptions that is advantageous when the magnetic length greatly exceeds the proton size. Corrections to the pion decay constant are computed up to second order in the magnetic-field strength, revealing that the field generally suppresses the decay rate. Quantitatively, however, the effect remains modest even for fields as strong as |eB|≃mπ2. The differential photon emission rate exhibits anisotropy, with the strongest suppression occurring when the pion momentum is perpendicular to the magnetic field. Overall, the modification of the π0→γγ rate is parametrically small, scaling as |eB|2/mP4, where mP is the proton mass. While the magnetic-field-induced anisotropy is conceptually interesting in principle, it is</description>
+      <source url="https://doi.org/10.1103/b9k3-tqyd">Physical Review D</source>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/b9k3-tqyd</guid>
+    </item><item>
+      <title>Search for the Y(2175) in the Photoproduction Cross Section Measurement of γp→ϕπ+π−p at GlueX</title>
+      <link>https://doi.org/10.1103/jsfs-nq46</link>
+      <description>Based on 334 pb−1 of photoproduction data collected with the GlueX detector at Jefferson Lab, we have measured for the first time the cross section of the exclusive reaction γ+p→ϕ(1020)π+π−p by reconstructing the final state K+K−π+π−p produced with a photon beam of energies between 8.0 and 11.6 GeV. Based on the measured differential cross section, we have performed a search for the strangeoniumlike exotic candidate Y(2175), recently renamed to ϕ(2170). This state has been reported by different e+e− annihilation experiments and it is addressed here for the first time in a photoproduction experiment. We do not find evidence for this state when using the resonance parameters quoted by the Particle Data Group and provide upper limits on the photoproduction cross section. Instead, we find a structure at a mass of m(ϕπ+π−)=2.24 GeV/c2 with a statistical significance of about 5σ. The parameters of this structure differ from those quoted by the Particle Data Group for the ϕ(2170) and are cons</description>
+      <source url="https://doi.org/10.1103/jsfs-nq46">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jsfs-nq46</guid>
+    </item><item>
+      <title>Test of CP Symmetry in the Neutral Decays of Λ via J/ψ→ΛΛ¯</title>
+      <link>https://doi.org/10.1103/5x9g-82jg</link>
+      <description>Using (10 087±44)×106 J/ψ events collected with the BESIII detector, a full angular analysis is carried out on the process J/ψ→ΛΛ¯→nπ0p¯π++c.c. The decay parameters α0 for Λ→nπ0 and α¯0 for Λ¯→n¯π0 are measured to be 0.668±0.007±0.002 and −0.677±0.007±0.003, respectively, yielding the most precise test for CP symmetry of neutral decays of Λ, ACP0=(α0+α¯0)/(α0−α¯0), to be −0.006±0.007±0.002. The ratios α0/α− and α¯0/α+ are determined to be 0.884±0.013±0.006 and 0.885±0.013±0.004, where α− and α+ are the decay parameters of Λ→pπ− and Λ¯→p¯π+, respectively. The ratios, found to be smaller than unity by more than 5σ, confirm the presence of the ΔI=3/2 transition in the Λ and Λ¯ decays, which is expected to improve the theoretical calculations for isospin amplitudes, and ACP, in hyperon decays. In all results, the first and second uncertainties are statistical and systematic, respectively.</description>
+      <source url="https://doi.org/10.1103/5x9g-82jg">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5x9g-82jg</guid>
+    </item><item>
       <title>Collapse of Coulomb bound states of vector bosons</title>
       <link>https://doi.org/10.1103/mmlk-cnpw</link>
       <description>Charged spin-1 (vector) particles behave very differently from electrons or scalars in a Coulomb field. For an infinitely heavy “pointlike” nucleus, their bound-state wave functions “fall to the center,” and embedding the system in a renormalizable electroweak-type theory does not remedy this short-distance pathology. We therefore solve the pure Coulomb problem for a finite nuclear radius R and recover the point-nucleus limit by letting R→0. This approach allows us to include the crucial ϒ-term in the wave equations, which for the pointlike nucleus is proportional to δ(r) and was ignored in the previous calculations of the energy spectrum. Several unusual effects emerge: (i) The ϒ-term supports a tower of states located mainly inside the nucleus. As R→0 their number diverges, most lying in the negative-energy continuum (energy ε−mc2). They trigger vacuum breakdown—particle-antiparticle pair creation that ultimately screens the nuclear charge. (ii) Ordinary Sommerfeld-like states (with </description>
       <source url="https://doi.org/10.1103/mmlk-cnpw">Physical Review D</source>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/mmlk-cnpw</guid>
+    </item><item>
+      <title>The unitary architecture of renormalization</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)230</link>
+      <description>We set up a bootstrap problem for renormalization. Working in the massless four-dimensional O(N) model and the λϕ theory, we prove that unitarity leads to all-loop recursion relations between coefficients of scattering amplitudes with different multiplicities. These turn out to be equivalent to the identities imposed by renormalization of the coupling and the wavefunction through subleading logarithmic order, except with different initial conditions. Matching the initial conditions thus fixes the beta function and wavefunction anomalous dimension to these orders. We explain how to connect this new on-shell renormalization picture with the standard renormalized perturbation theory, highlighting a rich interplay between finiteness, dimensional regularization, and unitarity cuts.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)230">Journal of High Energy Physics</source>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)230</guid>
     </item><item>
       <title>Constraining neutrino-nucleon form factors with charged-current scattering at the Electron-Ion Collider</title>
       <link>https://doi.org/10.1103/btj9-n88g</link>
@@ -34,13 +109,6 @@
       <source url="https://doi.org/10.1007/JHEP06(2026)221">Journal of High Energy Physics</source>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)221</guid>
-    </item><item>
-      <title>Testing thermal-relic dark matter with a dark-photon mediator</title>
-      <link>https://doi.org/10.1103/sd6p-8y9p</link>
-      <description>In light of recent DAMIC-M results, we present the status of thermal-relic dark matter χ coupled to a kinetically mixed dark photon A′. In the predictive “direct annihilation” regime, mA′&gt;mχ, the relic abundance depends on the kinetic mixing parameter, and there is a minimum value compatible with thermal freeze-out. Using only electron-and nuclear-recoil direct-detection results, we find that, for complex scalar dark matter, the direct annihilation regime is now excluded for nearly all values of mχ; the only exception is the resonant annihilation regime where mA′≈2mχ. Direct annihilation relic targets for other representative models, including Majorana and pseudo-Dirac candidates, remain viable across a wide range of model parameters but will be tested with a combination of dedicated accelerator searches in the near future. In the opposite “secluded annihilation” regime, where mχ&gt;mA′, this scenario is excluded by cosmic microwave background measurements for all mχ≲30 GeV. Similar concl</description>
-      <source url="https://doi.org/10.1103/sd6p-8y9p">Physical Review D</source>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/sd6p-8y9p</guid>
     </item><item>
       <title>Asymptotic freedom and massive glueballs in a qubit-regularized SU(2) gauge theory</title>
       <link>https://doi.org/10.1103/2cy4-cp7f</link>
@@ -70,26 +138,12 @@
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/mhkg-qr6r</guid>
     </item><item>
-      <title>Dipole radiation and kinetic mixing from dark photon solitons</title>
-      <link>https://doi.org/10.1103/mhkg-qr6r</link>
-      <description>Wavelike dark matter composed of spin-1 particles, known as dark photons, is theorized to form clumps called “vector solitons.” These solitons are compact astrophysical objects that exhibit coherent oscillations and a high concentration relative to the local dark matter density. A significant portion of dark matter in galactic halos today may consist of these solitons. This study explores how photons can be produced from these vector solitons by the influence of external electromagnetic fields or charge densities, via a dimension-6 dark photon-photon coupling and a kinetic mixing, respectively. We further explore the astrophysical implications of these phenomena, highlighting a novel avenue for dark matter discovery that our research provides.</description>
-      <source url="https://doi.org/10.1103/mhkg-qr6r">Physical Review D</source>
+      <title>Quantum orientation entanglement analysis of the interpolating helicity states between the instant form dynamics and the light-front dynamics</title>
+      <link>https://doi.org/10.1103/3t9t-9v5g</link>
+      <description>The interplay between quantum orientation entanglement and Wigner rotation plays a fundamental role in understanding the behavior of spin angular momentum in quantum states. To analyze the quantum orientation entanglement of the relativistic helicity states interpolating between the Jacob-Wick helicity and the light-front helicity, we examine the relative angle between the particle’s momentum direction and the spin orientation for the interpolating helicity states. For this analysis, we introduce a novel method for expanding the interpolating helicity states in terms of the Jacob-Wick helicity. The corresponding probabilistic coefficients follow the structure of the Wigner d-matrix elements, which we use for the interpretation of the quantum orientation entanglement manifested in the angular distributions of the interpolating scattering helicity amplitudes. As an explicit demonstration, we compute the interpolating helicity amplitudes for the pair production of spin-1 (vector) particle</description>
+      <source url="https://doi.org/10.1103/3t9t-9v5g">Physical Review D</source>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mhkg-qr6r</guid>
-    </item><item>
-      <title>The late time ramp from chord diagrams in the double-scaled SYK model</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)215</link>
-      <description>We compute the ramp of the spectral form factor analytically from chord diagrams in double scaled SYK. We map the double-trace correlator to a sum of single trace two-point functions over a basis of operators. We then reproduce the local eigenvalue correlations in random matrix theory from the chord diagrams perspective, which is the q = 0 limit of double scaled SYK, and identify the relevant operators that give rise to the late-time ramp. We then extend the computation to finite q, resulting in the late time contribution to the spectral form factor. We verify that the late time asymptotics of the finite q computation gives rise to the expected late time ramp. Our computation also provides the corresponding trumpet partition function and gluing factor for chords, which form the basis of a chord analog to topological recursion.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)215">Journal of High Energy Physics</source>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)215</guid>
-    </item><item>
-      <title>Phonon dynamics in spherically-curved analog-gravity Bose–Einstein condensates</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15884-w</link>
-      <description>We study the low energy phonon dynamics of a Bose–Einstein condensate (BEC) with a density profile that is equivalent, via a coordinate transformation, to phonons traveling in a “spherical” curved spacetime that realizes the Friedman–Lemaître–Robertson–Walker (FLRW) metric. The metric of this BEC is characterized by its curvature kappa and a time-dependent scale factor a(t), with an increase in the latter corresponding to an expansion of the analog FLRW universe. We study the propagation of classical phonons in such BECs, finding that a sudden change in the scale factor induces ripples in the wave motion. In addition, we study quantum phonon creation (or vacuum amplification) due to the scale-factor modification and quantify their entanglement.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15884-w">European Physical Journal C</source>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15884-w</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/3t9t-9v5g</guid>
     </item><item>
       <title>Optimization of the X-Arapuca photon collection efficiency for the DUNE horizontal drift far detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15873-z</link>
@@ -98,20 +152,6 @@
       <author>et al.</author>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15873-z</guid>
-    </item><item>
-      <title>Blackish holes with stringy backreaction</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)208</link>
-      <description>Recent studies have demonstrated that an ad hoc Dirichlet boundary condition, placed outside but close to an event horizon, for probe degrees of freedom in an otherwise black hole geometry is capable of capturing non-trivial level-correlations of the corresponding spectrum of the probe sector. Much of the interesting physics stems from a hierarchy of scales that is present in the quantum spectrum, in terms of two quantum numbers that characterize it. In this work, we establish an explicit connection with the hierarchy of these scales with a radial localization or the absence of it of the probe scalar WKB-wavefunction. Subsequently, this scale separation can be traced back to the hierarchy between the local red-shift and the classical light-traversing time in a geometry that produces a Rindler-throat. The classical null ray takes a logarithmically divergent time to reach the Dirichlet wall, and interestingly, we explicitly demonstrate that the scalar quantum spectrum arising from the Ri</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)208">Journal of High Energy Physics</source>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)208</guid>
-    </item><item>
-      <title>Entanglement, Yang-Mills, and the scattering matrix as an SU(N)-equivariant kernel</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)210</link>
-      <description>We study two-body scattering as an SU(N)-equivariant map acting on tensor-product representation spaces and analyze the entanglement generated by the S-matrix. This representation-theoretic perspective separates group structure from dynamics: the decomposition of R⊗R′ fixes the invariant operator algebra and therefore the qualitative entangling power of the process. For particles in the fundamental representation, End (N⊗N) = Span𝕀, 𝕊, so only the identity and swap directions preserve separability, whereas generic combinations generate entanglement. Adjoint-adjoint scattering involves a larger invariant algebra involving d-tensors and is intrinsically entangling. In Yang-Mills theory one can use color-kinematics duality to show that the color kernel lies on a fixed ray of this operator space, yielding a universal maximum of the outgoing entanglement for scattering at right angles, E_star^(2)=frac34 for SU(2) and E_star^(3)simeq 0.91 , independent of kinematics. Dimension-six operators </description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)210">Journal of High Energy Physics</source>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)210</guid>
     </item>
   </channel>
 </rss>
