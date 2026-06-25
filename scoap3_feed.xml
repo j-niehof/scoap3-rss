@@ -5,14 +5,36 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 12:13:47 +0000</lastBuildDate>
     <item>
+      <title>Observation of structures in the J/ψ+ψ(2S) mass spectrum with the ATLAS detector</title>
+      <link>https://doi.org/10.1103/zhkx-k9zl</link>
+      <description>A search for resonant structures in the J/ψ+ψ(2S) mass spectrum is performed using proton-proton collision data at s=13 TeV, corresponding to an integrated luminosity of 140 fb−1, recorded by the ATLAS experiment at the LHC. The decay channels of J/ψ+ψ(2S)→4μ and J/ψ+ψ(2S)→4μ+2π are analyzed. An excess near 6.9 GeV is observed in both channels with a combined significance of 8.9σ. No significant signal is observed near 7.2 GeV, and an upper limit on its yield relative to X(6900) is provided. A simultaneous fit with the di-J/ψ channel is carried out under assumptions regarding the resonance interferences, yielding a ratio of the partial decay widths between the J/ψ+ψ(2S) and di-J/ψ channels of 1.08±0.20−0.17+0.40 for the resonance near 6.9 GeV.</description>
+      <source url="https://doi.org/10.1103/zhkx-k9zl">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/zhkx-k9zl</guid>
+    </item><item>
       <title>Resummed distribution functions: making perturbation theory positive and normalized</title>
       <link>https://doi.org/10.1007/JHEP06(2026)243</link>
       <description>Fixed-order perturbative calculations for differential cross sections can suffer from non-physical artifacts: they can be non-positive, non-normalizable, and non-finite, none of which occur in experimental measurements. We propose a framework, the Resummed Distribution Function (RDF), that, given a perturbative calculation for an observable to some finite order in α , will “resum” the expression in a way that is guaranteed to match the original expression order-by-order and be positive, normalized, and finite. Moreover, our ansatz parameterizes all possible finite, positive, and normalized completions consistent with the original fixed-order expression, which can include N LL resummed expressions. The RDF also enables a more direct notion of perturbative uncertainties, as we can directly vary higher-order parameters and treat them as nuisance parameters. We demonstrate the power of the RDF ansatz by matching to thrust to mathcalO(α_s^3) and extracting α with perturbative uncertainties </description>
       <source url="https://doi.org/10.1007/JHEP06(2026)243">Journal of High Energy Physics</source>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)243</guid>
+    </item><item>
+      <title>Erratum: New avenues for |∆B| = 2 processes beyond neutron-antineutron oscillations</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)242</link>
+      <description />
+      <source url="https://doi.org/10.1007/JHEP06(2026)242">Journal of High Energy Physics</source>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)242</guid>
+    </item><item>
+      <title>A spin on Hagedorn temperatures and string stars</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)245</link>
+      <description>We discuss the correspondence between highly excited strings and black holes in the presence of angular momentum. At fixed imaginary angular velocity ν, we show that free strings exhibit a Hagedorn instability due to a thermal-winding mode turning tachyonic. This allows us to determine the exact Hagedorn temperature β (ν) for bosonic, type II, and heterotic strings. Using the effective field theory for the thermal-winding mode around the ν-dependent background, we find a novel ‘rotating string star’ saddle (perturbatively in the angular velocity) and study its properties. This configuration describes a self-gravitating bound state of highly excited rotating strings. As in the non-rotating case, the saddle is qualitatively shown to interpolate between the rotating strings phase and a rotating black hole. We also comment on the implications of these results for anti-de Sitter space.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)245">Journal of High Energy Physics</source>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)245</guid>
     </item><item>
       <title>Precise QCD Predictions for Hadron-in-Jet Production in e+e− Collisions</title>
       <link>https://doi.org/10.1103/l14v-1r2c</link>
@@ -52,13 +74,6 @@
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/hlrw-rby4</guid>
     </item><item>
-      <title>Photon emission from weakly magnetized neutral pions</title>
-      <link>https://doi.org/10.1103/b9k3-tqyd</link>
-      <description>Using a hadronic framework, we derive an explicit expression for photon production from neutral pions in a weak background magnetic field. Our calculation is built on the proton triangle diagram with an effective Yukawa π0-proton coupling, offering an alternative to quark-level descriptions that is advantageous when the magnetic length greatly exceeds the proton size. Corrections to the pion decay constant are computed up to second order in the magnetic-field strength, revealing that the field generally suppresses the decay rate. Quantitatively, however, the effect remains modest even for fields as strong as |eB|≃mπ2. The differential photon emission rate exhibits anisotropy, with the strongest suppression occurring when the pion momentum is perpendicular to the magnetic field. Overall, the modification of the π0→γγ rate is parametrically small, scaling as |eB|2/mP4, where mP is the proton mass. While the magnetic-field-induced anisotropy is conceptually interesting in principle, it is</description>
-      <source url="https://doi.org/10.1103/b9k3-tqyd">Physical Review D</source>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/b9k3-tqyd</guid>
-    </item><item>
       <title>Search for the Y(2175) in the Photoproduction Cross Section Measurement of γp→ϕπ+π−p at GlueX</title>
       <link>https://doi.org/10.1103/jsfs-nq46</link>
       <description>Based on 334 pb−1 of photoproduction data collected with the GlueX detector at Jefferson Lab, we have measured for the first time the cross section of the exclusive reaction γ+p→ϕ(1020)π+π−p by reconstructing the final state K+K−π+π−p produced with a photon beam of energies between 8.0 and 11.6 GeV. Based on the measured differential cross section, we have performed a search for the strangeoniumlike exotic candidate Y(2175), recently renamed to ϕ(2170). This state has been reported by different e+e− annihilation experiments and it is addressed here for the first time in a photoproduction experiment. We do not find evidence for this state when using the resonance parameters quoted by the Particle Data Group and provide upper limits on the photoproduction cross section. Instead, we find a structure at a mass of m(ϕπ+π−)=2.24 GeV/c2 with a statistical significance of about 5σ. The parameters of this structure differ from those quoted by the Particle Data Group for the ϕ(2170) and are cons</description>
@@ -75,26 +90,12 @@
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/5x9g-82jg</guid>
     </item><item>
-      <title>Collapse of Coulomb bound states of vector bosons</title>
-      <link>https://doi.org/10.1103/mmlk-cnpw</link>
-      <description>Charged spin-1 (vector) particles behave very differently from electrons or scalars in a Coulomb field. For an infinitely heavy “pointlike” nucleus, their bound-state wave functions “fall to the center,” and embedding the system in a renormalizable electroweak-type theory does not remedy this short-distance pathology. We therefore solve the pure Coulomb problem for a finite nuclear radius R and recover the point-nucleus limit by letting R→0. This approach allows us to include the crucial ϒ-term in the wave equations, which for the pointlike nucleus is proportional to δ(r) and was ignored in the previous calculations of the energy spectrum. Several unusual effects emerge: (i) The ϒ-term supports a tower of states located mainly inside the nucleus. As R→0 their number diverges, most lying in the negative-energy continuum (energy ε−mc2). They trigger vacuum breakdown—particle-antiparticle pair creation that ultimately screens the nuclear charge. (ii) Ordinary Sommerfeld-like states (with </description>
-      <source url="https://doi.org/10.1103/mmlk-cnpw">Physical Review D</source>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mmlk-cnpw</guid>
-    </item><item>
-      <title>The unitary architecture of renormalization</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)230</link>
-      <description>We set up a bootstrap problem for renormalization. Working in the massless four-dimensional O(N) model and the λϕ theory, we prove that unitarity leads to all-loop recursion relations between coefficients of scattering amplitudes with different multiplicities. These turn out to be equivalent to the identities imposed by renormalization of the coupling and the wavefunction through subleading logarithmic order, except with different initial conditions. Matching the initial conditions thus fixes the beta function and wavefunction anomalous dimension to these orders. We explain how to connect this new on-shell renormalization picture with the standard renormalized perturbation theory, highlighting a rich interplay between finiteness, dimensional regularization, and unitarity cuts.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)230">Journal of High Energy Physics</source>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)230</guid>
-    </item><item>
-      <title>Constraining neutrino-nucleon form factors with charged-current scattering at the Electron-Ion Collider</title>
-      <link>https://doi.org/10.1103/btj9-n88g</link>
-      <description>Next-generation neutrino oscillation experiments such as the Deep Underground Neutrino Experiment require percent-level knowledge of neutrino-nucleon interaction cross sections. The nucleon axial form factor FA(Q2), parametrized by the axial mass MA, is the dominant source of uncertainty in the quasielastic channel, and the parity-violating structure function xF3 is poorly constrained on free nucleons. We propose using charged-current (CC) electron-proton scattering at the Electron-Ion Collider (EIC) to address both problems simultaneously. The measurement exploits three key features of the EIC: (1) helicity-selective electron bunches provide in situ electromagnetic background rejection; (2) a longitudinally polarized proton target enables extraction of FA(Q2) through the target-spin asymmetry AUL; and (3) the y-distribution leverage in CC deep inelastic scattering (DIS) separates F2 and xF3 on a free proton, without nuclear corrections. Using a Fisher information analysis at s=141 GeV</description>
-      <source url="https://doi.org/10.1103/btj9-n88g">Physical Review D</source>
+      <title>A compendium of cold-nuclear matter baseline predictions in light-ion collisions</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15760-7</link>
+      <description>The recent light-ion collision programme at RHIC and the LHC provides a unique opportunity to investigate the onset of quark-gluon plasma formation and parton energy loss in small systems. A quantitative interpretation of emerging jet quenching measurements requires precise control over cold nuclear matter (CNM) effects, which modify hard-process cross sections independently of any hot-medium dynamics. In this work, we present a comprehensive set of perturbative QCD baseline calculations for nuclear modification factors ( R_textrmAA ) in proton-oxygen (pO), oxygen-oxygen (OO) and neon-neon (NeNe) collisions at LHC energies. The study includes charged hadron, neutral pion, prompt photon, and electroweak-boson production computed at next-to-leading order using a broad set of recent nuclear parton distribution functions (nPDFs). We demonstrate that CNM effects alone can induce sizeable suppressions in light-ion systems, with large associated nPDF uncertainties that currently limit the qua</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15760-7">European Physical Journal C</source>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/btj9-n88g</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15760-7</guid>
     </item><item>
       <title>A compendium of cold-nuclear matter baseline predictions in light-ion collisions</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15760-7</link>
@@ -131,13 +132,6 @@
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/4rg4-sd18</guid>
     </item><item>
-      <title>Dipole radiation and kinetic mixing from dark photon solitons</title>
-      <link>https://doi.org/10.1103/mhkg-qr6r</link>
-      <description>Wavelike dark matter composed of spin-1 particles, known as dark photons, is theorized to form clumps called “vector solitons.” These solitons are compact astrophysical objects that exhibit coherent oscillations and a high concentration relative to the local dark matter density. A significant portion of dark matter in galactic halos today may consist of these solitons. This study explores how photons can be produced from these vector solitons by the influence of external electromagnetic fields or charge densities, via a dimension-6 dark photon-photon coupling and a kinetic mixing, respectively. We further explore the astrophysical implications of these phenomena, highlighting a novel avenue for dark matter discovery that our research provides.</description>
-      <source url="https://doi.org/10.1103/mhkg-qr6r">Physical Review D</source>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mhkg-qr6r</guid>
-    </item><item>
       <title>Quantum orientation entanglement analysis of the interpolating helicity states between the instant form dynamics and the light-front dynamics</title>
       <link>https://doi.org/10.1103/3t9t-9v5g</link>
       <description>The interplay between quantum orientation entanglement and Wigner rotation plays a fundamental role in understanding the behavior of spin angular momentum in quantum states. To analyze the quantum orientation entanglement of the relativistic helicity states interpolating between the Jacob-Wick helicity and the light-front helicity, we examine the relative angle between the particle’s momentum direction and the spin orientation for the interpolating helicity states. For this analysis, we introduce a novel method for expanding the interpolating helicity states in terms of the Jacob-Wick helicity. The corresponding probabilistic coefficients follow the structure of the Wigner d-matrix elements, which we use for the interpretation of the quantum orientation entanglement manifested in the angular distributions of the interpolating scattering helicity amplitudes. As an explicit demonstration, we compute the interpolating helicity amplitudes for the pair production of spin-1 (vector) particle</description>
@@ -145,13 +139,12 @@
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/3t9t-9v5g</guid>
     </item><item>
-      <title>Optimization of the X-Arapuca photon collection efficiency for the DUNE horizontal drift far detector</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15873-z</link>
-      <description>The Deep Underground Neutrino Experiment (DUNE) Far Detector (FD) Photon Detection System (PDS) employs the X-Arapuca concept, a photon trapping system relying on reflective surfaces and dichroic filters. In this paper are reported measurements, performed at the University of Milano-Bicocca, aimed at increasing the FD Horizontal Drift (HD) PDS module efficiency. The baseline implementation of the X-Arapuca concept for the FD-HD PDS module is close to the DUNE requirements as demonstrated in the collaborations laboratory testing. However, an increased performance would provide a safety margin for a detector planned to be operated for 30 years, without possibility of performing maintenance. A higher detector performance would also benefit the DUNE low energy physics program. The already proven Milano-Bicocca setup has been utilized to test different PDS module configurations comparing them to the original baseline. Exploiting prior knowledge of the X-Arapuca components and Geant4 based o</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15873-z">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15873-z</guid>
+      <title>Dipole radiation and kinetic mixing from dark photon solitons</title>
+      <link>https://doi.org/10.1103/mhkg-qr6r</link>
+      <description>Wavelike dark matter composed of spin-1 particles, known as dark photons, is theorized to form clumps called “vector solitons.” These solitons are compact astrophysical objects that exhibit coherent oscillations and a high concentration relative to the local dark matter density. A significant portion of dark matter in galactic halos today may consist of these solitons. This study explores how photons can be produced from these vector solitons by the influence of external electromagnetic fields or charge densities, via a dimension-6 dark photon-photon coupling and a kinetic mixing, respectively. We further explore the astrophysical implications of these phenomena, highlighting a novel avenue for dark matter discovery that our research provides.</description>
+      <source url="https://doi.org/10.1103/mhkg-qr6r">Physical Review D</source>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mhkg-qr6r</guid>
     </item>
   </channel>
 </rss>
