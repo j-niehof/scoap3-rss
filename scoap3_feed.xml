@@ -5,8 +5,16 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 11:24:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 11:44:30 +0000</lastBuildDate>
     <item>
+      <title>Joint LHCb–Belle II prospects to constrain new physics in B→ D^(*)τ ν</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15908-5</link>
+      <description>Semileptonic b→ cτ barν _τ decays are powerful probes of non-Standard-Model effects within an effective-field-theory (EFT) framework, but fully exploiting them in current and future data demands combinations that maximise sensitivity while controlling biases from Standard-Model-based modelling and from theory inputs that are shared, and therefore correlated, across analyses in different experiments. We present a first sensitivity study of a combined extraction of Wilson coefficients in barB→ D^(*)τ barν _τ decays using LHCb-and Belle II-like analysis configurations. Detector simulations for signal and backgrounds are typically generated under Standard Model assumptions; if non-SM contributions are present, this can bias the fitted Wilson coefficients. In addition, hadronic inputs such as form-factor parameters of signal and background components are common across analyses, requiring a consistent treatment of fully correlated effects in combinations. To avoid repeating large-scale detec</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15908-5">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15908-5</guid>
+    </item><item>
       <title>Fast scrambling in the Hyperbolic Ising model</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15988-3</link>
       <description>We investigate many-body chaos and scrambling in the Hyperbolic Ising model, a mixed-field Ising model living in the background of AdS₂ . The effect of the curvature is captured by site-dependent couplings obtained from the AdS₂ metric applied to a flat nearest-neighbor spin chain. Using a combination of out-of-time-ordered correlators (OTOCs), Krylov complexity, and spectral statistics, we present consistent evidence that this model exhibits faster scrambling behavior relative to its flat counterpart. In particular, we observe signatures consistent with fast scrambling dynamics emerging from purely local interactions. At the system sizes accessible to tensor network simulations, the OTOCs display short-lived exponential growth regimes, from which we extract effective Lyapunov exponents. These effective finite-size exponents exhibit a temperature dependence broadly compatible with the Maldacena-Shenker-Stanford (MSS) bound within numerical uncertainty. Our results indicate that increas</description>
@@ -57,13 +65,13 @@
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15900-z</guid>
     </item><item>
-      <title>Cross section measurement of e+e−→π0π0ψ(3686) from s=4.008 GeV to 4.951 GeV</title>
-      <link>https://doi.org/10.1103/98g1-t98b</link>
-      <description>Using data samples with a total integrated luminosity of 22.1 fb−1 at center-of-mass energies between 4.008 and 4.951 GeV collected with the BESIII detector, the cross sections of e+e−→π0π0ψ(3686) process are measured. The obtained cross sections are found to be approximately one-half of those of e+e−→π+π−ψ(3686), consistent with the isospin symmetry expectation. A coherent fit to the dressed cross sections is performed, with the Y(4230) parameters fixed at the values measured in e+e−→π+π−ψ(3686). The significances of the Y(4390) and Y(4660) are both larger than 5σ, and their masses and widths are consistent with the previous measurement in the e+e−→π+π−ψ(3686) process.</description>
-      <source url="https://doi.org/10.1103/98g1-t98b">Physical Review D</source>
+      <title>Relativistic corrections to exclusive photoproduction of Quarkonia near-threshold</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)250</link>
+      <description>Non-relativistic QCD (NRQCD) is used to calculate the relativistic correction to the amplitude for exclusive photoproduction of vector Quarkonia in the near-threshold region within the generalized parton distribution (GPD) framework. The relativistic corrections are found to be large for J/ψ, and lead to a breakdown of the GPD moment expansion near threshold. Cross-sections for both J/ψ and Υ are calculated with the former being compared to the data. We also demonstrate the presence of endpoint divergences for the relativistic correction away from the near-threshold regime.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)250">Journal of High Energy Physics</source>
       <author>et al.</author>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/98g1-t98b</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)250</guid>
     </item><item>
       <title>Investigation of the diurnal variation of cosmic rays at large latitudes by the detectors of the Extreme Energy Events Project</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15901-y</link>
@@ -72,13 +80,6 @@
       <author>et al.</author>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15901-y</guid>
-    </item><item>
-      <title>Complementary planetary spectroscopy probes of dark matter</title>
-      <link>https://doi.org/10.1103/9md1-wtnb</link>
-      <description>We investigate dark matter (DM) interactions via spectroscopic signatures of energy injection in planetary environments. We develop a general framework to account for how DM energy injection signals depend on the DM spatial distribution, planetary structure, and DM energy deposition profile. We combine UV airglow data on the Solar System’s gas giants from the Voyager and New Horizons flybys and ionospheric measurements from AMS-02 and ELFIN CubeSat on Earth, with internal heat flow data from Cassini, Voyager, and terrestrial boreholes, to constrain DM-nucleon scattering across both heavy and light mediator scenarios. We show that Earth, gas giants, and ice giants probe complementary DM masses and mediator properties and forecast the reach of a free-floating Super-Jupiter. These results establish planetary spectroscopy as a powerful and versatile probe of the dark sector, complementary to direct detection, cosmology, and collider searches.</description>
-      <source url="https://doi.org/10.1103/9md1-wtnb">Physical Review D</source>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9md1-wtnb</guid>
     </item><item>
       <title>JIMWLK on a quantum computer</title>
       <link>https://doi.org/10.1103/d8tc-jkmk</link>
@@ -101,13 +102,6 @@
       <source url="https://doi.org/10.1007/JHEP06(2026)258">Journal of High Energy Physics</source>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)258</guid>
-    </item><item>
-      <title>Euclidean coordinate-space perturbation theory with a single mass scale</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)255</link>
-      <description>We develop elements of coordinate-space perturbation theory for massive quantum field theories in general d-dimensional Euclidean space. Using the expansion in Gegenbauer polynomials, we provide analytic expressions for several correlation functions in theories with one massive and one massless field. To this end, a class of antiderivatives of products of two Bessel functions multiplied by a power of their common argument are studied systematically. We expect these results to be useful in perturbative calculations at finite temperature and/or in finite volume, in quantum-field theories with high-degree vertices, as well as in auxiliary perturbative computations for a lattice QCD treatment of hadronic effects in precision observables. As an illustration, we compute the one-loop coordinate-space propagator of a massive particle coupled to a massless one, both in the vacuum and at finite temperature. We also provide a master formula for computing the electroweak triangle-diagram contribut</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)255">Journal of High Energy Physics</source>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)255</guid>
     </item><item>
       <title>Enhanced active-sterile neutrino polarizability at the intensity frontier</title>
       <link>https://doi.org/10.1103/psm8-dypl</link>
@@ -153,6 +147,14 @@
       <source url="https://doi.org/10.1103/jttg-dj4g">Physical Review D</source>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/jttg-dj4g</guid>
+    </item><item>
+      <title>Four-Jet Rate in Electron-Positron Annihilation at Order αs4</title>
+      <link>https://doi.org/10.1103/xxg6-yd47</link>
+      <description>We compute for the first time the production rate for four jets in electron-positron annihilation at next-to-next-to-leading order. Our calculation exhibits the highest final-state jet multiplicity considered at this perturbative accuracy to date. The cancellation of infrared singularities is achieved in the antenna subtraction scheme, relying particularly on generalized antenna functions. The evaluation of the two-loop virtual corrections is enabled by the construction of a new basis of transcendental special functions tailored to four-particle decay kinematics. Our results are compared with LEP data, finding improved agreement with respect to the next-to-leading order calculation. In the region where perturbative predictions are most reliable, we observe a significant reduction of theory uncertainties, which now fall below the experimental ones.</description>
+      <source url="https://doi.org/10.1103/xxg6-yd47">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xxg6-yd47</guid>
     </item>
   </channel>
 </rss>
