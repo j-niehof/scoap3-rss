@@ -5,8 +5,31 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 14:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:05:47 +0000</lastBuildDate>
     <item>
+      <title>Observation of Ξ(1530)0 Polarization and Determination of Its Electric and Magnetic Moments in ψ(3686)→Ξ(1530)0Ξ¯(1530)0</title>
+      <link>https://doi.org/10.1103/mbrf-3ly5</link>
+      <description>Using the data sample of 2.7×109 ψ(3686) events collected with the BESIII detector at the BEPCII collider, we present an observation of the Ξ(1530)0 polarization in the decay ψ(3686)→Ξ(1530)0Ξ¯(1530)0 with a significance larger than 20σ compared with all other tested hypotheses. The helicity amplitudes for the process ψ(3686)→Ξ(1530)0Ξ¯(1530)0 and the moduli of form factors including electric charge, magnetic dipole, electric quadrupole, and magnetic octupole are measured for the first time by performing an angular distribution analysis. Additionally, the polarization correlations between Ξ(1530)0 and Ξ¯(1530)0 are measured.</description>
+      <source url="https://doi.org/10.1103/mbrf-3ly5">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mbrf-3ly5</guid>
+    </item><item>
+      <title>First measurement of B(E3;31−→01+) in 90Zr through Coulomb excitation: Revisiting octupole collectivity in the Zr chain</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.140670</link>
+      <description>The 31− state at an excitation energy of 2748 keV in the N=50 semi-magic 90Zr nucleus was investigated via safe Coulomb excitation in the 32S+ 90Zr system. The octupole transition strength, B(E3;31−→01+), was extracted by fitting the measured γ-ray intensities using the semiclassical least-squares search codes gosia and gosia2. A pronounced E3 strength of 19.6−1.6+1.7 W.u. was obtained, indicating a collective octupole character for this state. State-of-the-art shell model calculations reproduce this result by describing the excitation as emergent collectivity rooted in microscopic configuration mixing, whereas pure harmonic vibrational models tend to overestimate the strength. In addition, the spectroscopic quadrupole moment of the 21+ state in 90Zr was determined to be +0.09(10) eb, by normalizing the target excitation to the Coulomb-excitation intensities of the 32S projectile in a simultaneous analysis. This value is consistent with the near-spherical structure expected for a semi-</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.140670">Physics Letters B</source>
+      <author>et al.</author>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140670</guid>
+    </item><item>
+      <title>Towards W3 classical blocks with semi-degenerate operators</title>
+      <link>https://doi.org/10.1016/j.nuclphysb.2026.117568</link>
+      <description>We consider 4-point W3 classical blocks focusing on the blocks level-1 and level-2 semi-degenerate operators. We derive BPZ-type equations for the auxiliary 5-point blocks with one additional fully degenerate operator. The monodromy properties of these equations are encoded by the accessory parameters, related to the 4-point W3 classical blocks. We solve the BPZ-type equations via heavy-light perturbation theory and find the accessory parameters, which allows us to obtain the explicit expressions for the considered class of classical blocks.</description>
+      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117568">Nuclear Physics B</source>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117568</guid>
+    </item><item>
       <title>Correction: Reach and complementarity of μ → e searches</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15953-0</link>
       <description />
@@ -22,6 +45,38 @@
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15966-9</guid>
     </item><item>
+      <title>Study of the Run-3 muon flux at the SND@LHC experiment</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15875-x</link>
+      <description>Long-range muons produced in proton–proton collisions at the ATLAS interaction point constitute the primary background for neutrino interaction searches at the SND@LHC experiment. This work presents a comprehensive characterization of the muon flux throughout LHC Run-3, benchmarking Monte Carlo simulations against experimental measurements. Measured and simulated muon rates agree within 10–15% across all Run-3 configurations. Following the substantial background increase in 2024 as a result of a beam optics change, the reversion to nominal optics in 2025 did not restore the 2022–2023 levels due to the unprecedented adoption of horizontal crossing in ATLAS. As indicated by simulation results, horizontal crossing enhanced the contribution of high-angle muons originating from diffractive proton losses in the LHC Dispersion Suppressor region. Their identification enabled the design of mitigation strategies that were experimentally validated. The simulation framework was also applied to the</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15875-x">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15875-x</guid>
+    </item><item>
+      <title>Experimental study of the reaction Ξ0n→ΛΛX using Ξ0-nucleus scattering</title>
+      <link>https://doi.org/10.1103/yl6l-ldhn</link>
+      <description>Using (10087±44)×106J/ψ events collected with the BESIII detector operating at the BEPCII storage ring in 2009, 2012, 2018, and 2019, we perform a search for the reaction Ξ0n→ΛΛX, where X denotes any additional final particles. Given the highly suppressed phase space for producing extra pions, the X consists of either nothing or a photon, corresponding to the processes Ξ0n→ΛΛ and Ξ0n→ΛΣ0→ΛΛγ. The Ξ0 comes from the decay of J/ψ→Ξ0Ξ¯0, while the neutron originates from material of the beam pipe. A signal is observed for the first time with a statistical significance of 6.4σ. The cross section for the reaction Ξ0+Be9→Λ+Λ+X is measured to be (43.6±10.5stat±11.1syst)mb at PΞ0≈0.818GeV/c, where the first uncertainty is statistical and the second systematic. No significant H-dibaryon signal is observed in the ΛΛ final state.</description>
+      <source url="https://doi.org/10.1103/yl6l-ldhn">Physical Review C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yl6l-ldhn</guid>
+    </item><item>
+      <title>Ionization-based search for magnetic monopoles using the NOvA Far Detector</title>
+      <link>https://doi.org/10.1103/spfn-hnhv</link>
+      <description>We report a search for highly ionizing magnetic monopoles in the cosmic-ray flux using a 2713-day dataset collected during 2015–2025 with the NOvA Far Detector, a 14-kt segmented detector located on Earth’s surface in Minnesota, United States. The search is sensitive to monopoles across a wide range of speeds, 7×10−4β0.995, and is sensitive to masses as low as 2×105 GeV for the fastest monopoles. No signal was observed. With the detector’s large surface area and minimal overburden, we achieve the strongest flux limits reported to date in several regions of speed and mass. For heavy monopoles with masses above 1013 GeV that are able to reach the detector from above or—crossing Earth—from below, we find a flux limit ϕ90%2×10−16 cm−2 s−1 sr−1 (90% confidence level) for monopoles with 0.005β0.8. Across the same range of speeds, we report a limit ϕ90%8×10−16 cm−2 s−1 sr−1 for light monopoles with masses above 108 GeV that can reach the detector from above.</description>
+      <source url="https://doi.org/10.1103/spfn-hnhv">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/spfn-hnhv</guid>
+    </item><item>
+      <title>Experimental study of the reaction Ξ0n→ΛΛX using Ξ0-nucleus scattering</title>
+      <link>https://doi.org/10.1103/yl6l-ldhn</link>
+      <description>Using (10087±44)×106J/ψ events collected with the BESIII detector operating at the BEPCII storage ring in 2009, 2012, 2018, and 2019, we perform a search for the reaction Ξ0n→ΛΛX, where X denotes any additional final particles. Given the highly suppressed phase space for producing extra pions, the X consists of either nothing or a photon, corresponding to the processes Ξ0n→ΛΛ and Ξ0n→ΛΣ0→ΛΛγ. The Ξ0 comes from the decay of J/ψ→Ξ0Ξ¯0, while the neutron originates from material of the beam pipe. A signal is observed for the first time with a statistical significance of 6.4σ. The cross section for the reaction Ξ0+Be9→Λ+Λ+X is measured to be (43.6±10.5stat±11.1syst)mb at PΞ0≈0.818GeV/c, where the first uncertainty is statistical and the second systematic. No significant H-dibaryon signal is observed in the ΛΛ final state.</description>
+      <source url="https://doi.org/10.1103/yl6l-ldhn">Physical Review C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yl6l-ldhn</guid>
+    </item><item>
       <title>Probing Unruh effect from enhanced decoherence</title>
       <link>https://doi.org/10.1007/JHEP06(2026)279</link>
       <description>We investigate the decoherence of an Unruh-DeWitt detector coupled to scalar, electromagnetic, and spinor fields in four-dimensional Minkowski spacetime. By employing the Schwinger-Keldysh influence functional formalism, we derive a universal scaling law relating the decoherence rate to the proper acceleration a and the scaling dimension ∆ of the environmental field operator. By analyzing both sharp (top-hat) and smooth Gaussian switching functions, it is shown that the decoherence rate in the asymptotic long-time limit scales as a . This scaling indicates that increasing scaling dimension of the coupling field operators can significantly enhance the decoherence, thereby providing a more sensitive probe of the Unruh effect.</description>
@@ -36,14 +91,6 @@
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)272</guid>
     </item><item>
-      <title>Measurements of the absolute branching fractions of the Lambda_c^+ hadronic decays</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)269</link>
-      <description>Based on 4.5 fb of e e collision data collected at center-of-mass energies between 4599.53 MeV and 4698.82 MeV with the BESIII detector, the absolute branching fractions of twelve Lambda_c^+ hadronic decay modes are measured with a double-tag technique. A global least-square fit is implemented simultaneously among different decay modes at different energy points. This paper gives the most precise results on the branching fractions of different decay modes to date, with precision improved by a factor of 2 to 3. Among them, the branching fraction of Lambda_c^+→ pK^-π^+ is determined to be (6.61 ± 0.11 ± 0.12)%, where the first uncertainty is statistical and the second is systematic. In addition, the e^+e^-→ Lambda_c^+overlineLambda_c^-Born cross sections and the effective form factors (|G |) at different energy points have been determined with the highest precision to date.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)269">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)269</guid>
-    </item><item>
       <title>Erratum: Measurement of CP asymmetry in D^0→ K_textrmS^0K_textrmS^0 decays with the LHCb Run 3 detector</title>
       <link>https://doi.org/10.1007/JHEP06(2026)282</link>
       <description />
@@ -51,6 +98,14 @@
       <author>et al.</author>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)282</guid>
+    </item><item>
+      <title>Measurements of the absolute branching fractions of the Lambda_c^+ hadronic decays</title>
+      <link>https://doi.org/10.1007/JHEP06(2026)269</link>
+      <description>Based on 4.5 fb of e e collision data collected at center-of-mass energies between 4599.53 MeV and 4698.82 MeV with the BESIII detector, the absolute branching fractions of twelve Lambda_c^+ hadronic decay modes are measured with a double-tag technique. A global least-square fit is implemented simultaneously among different decay modes at different energy points. This paper gives the most precise results on the branching fractions of different decay modes to date, with precision improved by a factor of 2 to 3. Among them, the branching fraction of Lambda_c^+→ pK^-π^+ is determined to be (6.61 ± 0.11 ± 0.12)%, where the first uncertainty is statistical and the second is systematic. In addition, the e^+e^-→ Lambda_c^+overlineLambda_c^-Born cross sections and the effective form factors (|G |) at different energy points have been determined with the highest precision to date.</description>
+      <source url="https://doi.org/10.1007/JHEP06(2026)269">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)269</guid>
     </item><item>
       <title>Joint LHCb–Belle II prospects to constrain new physics in B→ D^(*)τ ν</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15908-5</link>
@@ -74,6 +129,13 @@
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/pydp-ghp4</guid>
     </item><item>
+      <title>Neutrino-induced charged-current coherent pion production for constraining the muon neutrino flux at DUNE</title>
+      <link>https://doi.org/10.1103/pydp-ghp4</link>
+      <description>We study neutrino-induced charged-current coherent pion production (νμCC−Cohπ) as a tool for constraining the neutrino flux at the Deep Underground Neutrino Experiment (DUNE). The neutrino energy and flavor in the process can be directly reconstructed from the outgoing particles, making it especially useful to specifically constrain the muon neutrino component of the total flux. The cross section of this process can be obtained using the Adler relation with the π-Ar elastic scattering cross section taken either from external data or, as we explore, from a simultaneous measurement in the DUNE near detector. We develop a procedure that leverages νμCC−Cohπ events to fit for the neutrino flux while simultaneously accounting for relevant effects in the cross section. We project that this method has the statistical power to constrain the uncertainty on the normalization of the flux at its peak to a few percent. This study demonstrates the potential utility of a νμCC−Cohπ flux constraint, tho</description>
+      <source url="https://doi.org/10.1103/pydp-ghp4">Physical Review D</source>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pydp-ghp4</guid>
+    </item><item>
       <title>High-quality axion from exact SUSY chiral dynamics</title>
       <link>https://doi.org/10.1103/npzk-4b8w</link>
       <description>We use supersymmetric chiral dynamics perturbed by anomaly-mediated supersymmetry breaking to obtain a high-quality, composite axion that solves the strong CP problem. The strong dynamics arises from a supersymmetric SU(10) chiral gauge theory with massless matter chiral superfields. This leads to a stable, nonsupersymmetric vacuum, calculated exactly, where a spontaneously broken U(1) global symmetry, identified with the Peccei-Quinn (PQ) symmetry, gives rise to a composite QCD axion. The chiral gauge theory also admits a discrete Z4 (or Z8,16) gauge symmetry that forbids PQ-violating operators up to dimension eight. An extension to an SU(14)×Z12 chiral gauge theory incorporates SO(10) grand unification where the unification scale is identified with the PQ-breaking scale and PQ-violating operators are forbidden up to dimension 20. The supersymmetry breaking scale, near 100 TeV, ameliorates the Higgs hierarchy problem, while colored Nambu–Goldstone bosons may be detected at future coll</description>
@@ -81,20 +143,6 @@
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/npzk-4b8w</guid>
     </item><item>
-      <title>Exploring the holographic entropy cone via reinforcement learning</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)267</link>
-      <description>We develop a reinforcement learning algorithm to study the holographic entropy cone. Given a target entropy vector, our algorithm searches for a graph realization whose min-cut entropies match the target vector. If the target vector does not admit such a graph realization, it must lie outside the cone, in which case the algorithm finds a graph whose corresponding entropy vector most nearly approximates the target and allows us to probe the location of the facets. For the N = 3 cone, we confirm that our algorithm successfully rediscovers monogamy of mutual information beginning with a target vector outside the holographic entropy cone. We then apply the algorithm to the N = 6 cone, analyzing the 6 mystery extreme rays of the subadditivity cone from [1] that satisfy all known holographic entropy inequalities yet lacked graph realizations. We found realizations for 3 of them, proving they are genuine extreme rays of the holographic entropy cone, while providing evidence that the remaining</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)267">Journal of High Energy Physics</source>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)267</guid>
-    </item><item>
-      <title>The radial mode of composite Higgs theories at the LHC</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)261</link>
-      <description>We examine the potential of the LHC to observe the scalar radial excitation present in extensions of the standard model where the Higgs boson is a pseudo Nambu Golstone boson. These include composite Higgs models as well as the twin Higgs model. These states can be light enough to be seen at the LHC, potentially resulting in additional clues about the nature of the Higgs sector. We present the current status of LHC bounds as well as the future prospects for the high luminosity LHC (HL-LHC). We identify the most sensitive channels as those where the radial state decays to a pair of Higgs bosons, especially at the high luminosity stage. For the minimal composite Higgs models we study, we make use of the LHC Run 2 data with mathcalL = 138 fb to extract the 2σ mass bounds m ≥ (0.93−1.13) TeV, where the values on the interval depend on the parameters of the model. We show that the reach of the HL-LHC for these cases is m ≥ (1.8–2.2) TeV, with mathcalL = 3000 fb . For the twin Higgs model ra</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)261">Journal of High Energy Physics</source>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)261</guid>
-    </item><item>
       <title>Relativistic corrections to exclusive photoproduction of Quarkonia near-threshold</title>
       <link>https://doi.org/10.1007/JHEP06(2026)250</link>
       <description>Non-relativistic QCD (NRQCD) is used to calculate the relativistic correction to the amplitude for exclusive photoproduction of vector Quarkonia in the near-threshold region within the generalized parton distribution (GPD) framework. The relativistic corrections are found to be large for J/ψ, and lead to a breakdown of the GPD moment expansion near threshold. Cross-sections for both J/ψ and Υ are calculated with the former being compared to the data. We also demonstrate the presence of endpoint divergences for the relativistic correction away from the near-threshold regime.</description>
@@ -109,53 +157,6 @@
       <source url="https://doi.org/10.1140/epjc/s10052-026-15900-z">European Physical Journal C</source>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15900-z</guid>
-    </item><item>
-      <title>Cross section measurement of e+e−→π0π0ψ(3686) from s=4.008 GeV to 4.951 GeV</title>
-      <link>https://doi.org/10.1103/98g1-t98b</link>
-      <description>Using data samples with a total integrated luminosity of 22.1 fb−1 at center-of-mass energies between 4.008 and 4.951 GeV collected with the BESIII detector, the cross sections of e+e−→π0π0ψ(3686) process are measured. The obtained cross sections are found to be approximately one-half of those of e+e−→π+π−ψ(3686), consistent with the isospin symmetry expectation. A coherent fit to the dressed cross sections is performed, with the Y(4230) parameters fixed at the values measured in e+e−→π+π−ψ(3686). The significances of the Y(4390) and Y(4660) are both larger than 5σ, and their masses and widths are consistent with the previous measurement in the e+e−→π+π−ψ(3686) process.</description>
-      <source url="https://doi.org/10.1103/98g1-t98b">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/98g1-t98b</guid>
-    </item><item>
-      <title>Investigation of the diurnal variation of cosmic rays at large latitudes by the detectors of the Extreme Energy Events Project</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15901-y</link>
-      <description>The diurnal modulation in galactic cosmic ray flux observed on the Earth is a widely studied phenomenon. Most of the analyses of this effect have been undertaken with data obtained by neutron monitor stations distributed over the world. The effect may also be seen in muon detectors, although muons are affected in a different way than neutrons. Particularly interesting is a comparison between the data obtained from neutron stations and muon telescopes located in the same region. In this paper we report an investigation of the diurnal modulation of cosmic rays at large latitudes, based on the data collected by three scintillator telescopes of the EEE (Extreme Energy Events) Project, installed at Ny-Ålesund, in the Svalbard archipelago, at 79^circ N, during the period 2019–2025. Amplitudes and phases of the observed diurnal maximum in the cosmic ray flux were extracted in various periods by a harmonic fit of the averaged daily trend. Muon results were also compared to data collected in th</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15901-y">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15901-y</guid>
-    </item><item>
-      <title>Coherence obstructions and family triplication: a categorical mechanism for three fermion generations</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15900-z</link>
-      <description>Why does the Standard Model contain three fermion families? We develop a categorical mechanism in which family number is fixed by a coherence obstruction. In a rigid braided monoidal setting, Yukawa couplings are natural transformations between functors that assign Hilbert spaces to chiral representations. We prove in the pointed fusion case that if the associator of the relevant flavor fiber is governed by a 3-cocycle of finite order N, then strict naturality on the interaction fiber is possible only after stacking N identical copies of the sector; the minimal replication equals N. Under mild hypotheses, we identify a mathbb Z₃ pointed fusion subcategory with [ω ] of order 3, thereby enforcing triplication. The induced mathbb Z₃ grading yields block-circulant Yukawa textures that are diagonalized by the discrete Fourier transform F₃ and naturally accommodate hierarchies after small symmetry breaking. A toy model illustrates how triple stacking cancels the pentagon phase and produces a</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15900-z">European Physical Journal C</source>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15900-z</guid>
-    </item><item>
-      <title>Relativistic corrections to exclusive photoproduction of Quarkonia near-threshold</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)250</link>
-      <description>Non-relativistic QCD (NRQCD) is used to calculate the relativistic correction to the amplitude for exclusive photoproduction of vector Quarkonia in the near-threshold region within the generalized parton distribution (GPD) framework. The relativistic corrections are found to be large for J/ψ, and lead to a breakdown of the GPD moment expansion near threshold. Cross-sections for both J/ψ and Υ are calculated with the former being compared to the data. We also demonstrate the presence of endpoint divergences for the relativistic correction away from the near-threshold regime.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)250">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)250</guid>
-    </item><item>
-      <title>Investigation of the diurnal variation of cosmic rays at large latitudes by the detectors of the Extreme Energy Events Project</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15901-y</link>
-      <description>The diurnal modulation in galactic cosmic ray flux observed on the Earth is a widely studied phenomenon. Most of the analyses of this effect have been undertaken with data obtained by neutron monitor stations distributed over the world. The effect may also be seen in muon detectors, although muons are affected in a different way than neutrons. Particularly interesting is a comparison between the data obtained from neutron stations and muon telescopes located in the same region. In this paper we report an investigation of the diurnal modulation of cosmic rays at large latitudes, based on the data collected by three scintillator telescopes of the EEE (Extreme Energy Events) Project, installed at Ny-Ålesund, in the Svalbard archipelago, at 79^circ N, during the period 2019–2025. Amplitudes and phases of the observed diurnal maximum in the cosmic ray flux were extracted in various periods by a harmonic fit of the averaged daily trend. Muon results were also compared to data collected in th</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15901-y">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15901-y</guid>
-    </item><item>
-      <title>JIMWLK on a quantum computer</title>
-      <link>https://doi.org/10.1103/d8tc-jkmk</link>
-      <description>We propose a method for solving the Jalilian-Marian-Iancu-McLerran-Weigert-Leonidov-Kovner (JIMWLK) evolution equation on quantum computers. Our approach exploits the reformulation of the JIMWLK equation as a Lindblad master equation governing the rapidity evolution of the hadronic density matrix, as established in prior work. To render the problem tractable for quantum simulation, we introduce several approximations: the two-dimensional transverse plane is reduced to a one-dimensional radial lattice by assuming azimuthal symmetry of the jump operators; the gauge group is restricted to SU(2); and the infinite Wilson lines of the JIMWLK equation are replaced by finite Wilson links along the light-cone direction. The resulting bosonic Hilbert space is truncated using the electric field basis familiar from Hamiltonian lattice gauge theory, with states restricted to angular momenta j≤jmax. We derive the matrix elements of the JIMWLK Lindblad jump operators in this basis. As a benchmark, we</description>
-      <source url="https://doi.org/10.1103/d8tc-jkmk">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/d8tc-jkmk</guid>
     </item>
   </channel>
 </rss>
