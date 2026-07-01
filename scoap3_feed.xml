@@ -5,8 +5,44 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:31:09 +0000</lastBuildDate>
     <item>
+      <title>New limits on the Pauli forbidden transitions in ^12textrmC nuclei obtained with the complete Borexino dataset</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15912-9</link>
+      <description>The Pauli exclusion principle (PEP) was tested for nucleons in ^12C nuclei using the Borexino dataset from 2007 to 2021. The approach consists of searching for γ-quanta, neutrons, protons, as well as electrons and positrons emitted in non-Paulian transitions of nucleons from the 1P₃/2 shell to the filled 1S₁/2 shell. Due to the uniquely low background level, the large mass, and long measurement time of the Borexino detector, the most stringent experimental constraints to date on the lifetime of the mathrm ^12C nucleus with respect to PEP-forbidden transitions were obtained: τ (^12textrmC→ ^12widetildetextrmC+γ ) ge 1.1× 10^32 y, τ (^12textrmC→ ^11widetildetextrmB+ p) ge 1.0× 10^31 y, τ (^12textrmC→ ^11widetildetextrmC+ n) ge 2.0 × 10^31 y, τ (^12textrmC→ ^12widetildetextrmN+ e^-+ overlineν _e) ge 6.4 × 10^30 y and τ (^12textrmC→ ^12widetildetextrmB+ e^+ + ν _e) ge 6.6 × 10^30 y (90% C.L.). The upper limits on the relative strengths for the non-Paulian electromagnetic, strong, and weak </description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15912-9">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15912-9</guid>
+    </item><item>
+      <title>Next-to-minimal freeze-in dark matter</title>
+      <link>https://doi.org/10.1103/bw63-h2y4</link>
+      <description>If the dark matter mass exceeds the highest temperature of the thermal bath, then dark matter production is Boltzmann suppressed. This opens new possibilities for dark matter model building. In particular, weakly interacting massive particle models that are experimentally excluded can be revived in this setting; conversely, freeze-in models, which would typically be beyond experimental reach, are potentially discoverable in the Boltzmann suppressed regime. In a recent letter, we highlighted these aspects for the case of electroweak doublet fermion dark matter assuming instantaneous inflationary reheating. Due to its elegance and simplicity, we coin this minimal freeze-in (MFI) dark matter. Here we consider next-to-minimal extensions of MFI dark matter. We present the implications for noninstantaneous reheating, including scenarios beyond the standard picture in which the Universe is initially matter dominated prior to reheating. Furthermore, we explore model variations within the elect</description>
+      <source url="https://doi.org/10.1103/bw63-h2y4">Physical Review D</source>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/bw63-h2y4</guid>
+    </item><item>
+      <title>Global Λ hyperon polarization in low-energy heavy ion collisions: A scenario without vorticity</title>
+      <link>https://doi.org/10.1103/c4nr-7qj4</link>
+      <description>Since its discovery, global polarization of the Λ hyperon in heavy-ion collisions has been firmly established and is widely attributed to the large vorticity generated in the rotating quark-gluon plasma. In contrast, nearly fifty years after the first observation of unexpectedly large transverse Λ polarization in unpolarized hadron collisions, its underlying mechanism remains an open and long-standing puzzle, despite being observed across a broad range of collision systems. Although these two phenomena exhibit notable similarities, they are generally regarded as arising from distinct physical origins. In this work, we propose a direct connection between Λ global polarization in heavy-ion collisions and the long-standing transverse polarization observed in unpolarized collision systems. We demonstrate that the alignment between the Λ production plane and the reaction plane, driven by directed flow, can transfer transverse polarization into the measured global polarization signal. Realis</description>
+      <source url="https://doi.org/10.1103/c4nr-7qj4">Physical Review D</source>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/c4nr-7qj4</guid>
+    </item><item>
+      <title>Dark Secrets of Baryons: Illuminating Dark Matter-Baryon Interactions with JWST</title>
+      <link>https://doi.org/10.1103/44nx-sgk4</link>
+      <description>The James Webb Space Telescope (JWST) has discovered bright galaxies at high redshifts (z≈10–14) and various galaxy candidates extending to even higher redshifts (z≈15–30). Many astrophysical and beyond the Standard Model physics scenarios have been proposed to explain these observations. We investigate, for the first time, the implications of dark matter (DM) scattering with baryons (protons and electrons) in light of the JWST UV luminosity function (UVLF) observations. These interactions suppress structure formation on galactic scales, which may have an observable effect on the UVLF measurements at high redshifts. Using a recent galaxy formation model designed to explain high-redshift observations, we obtain strong upper limits on DM-baryon scattering cross sections and explore new regions of the parameter space. For DM-proton scattering with cross section ∝v−2 velocity dependence, we obtain the strongest limit for DM masses of ∼1–500 MeV. For other cases that we study (DM-proton sca</description>
+      <source url="https://doi.org/10.1103/44nx-sgk4">Physical Review Letters</source>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/44nx-sgk4</guid>
+    </item><item>
+      <title>Minimal freeze-in dark matter: Reviving electroweak doublet dark matter with Boltzmann suppressed freeze-in</title>
+      <link>https://doi.org/10.1103/1sts-sydk</link>
+      <description>Dark matter communicating with the Standard Model solely via electroweak interactions provides a compelling picture. However, thermal freeze-out of electroweak doublet dark matter is generically strongly excluded by direct detection. We show that SU(2)L doublet fermion dark matter evades direct detection if its mass exceeds 1010 GeV. If the neutral Dirac fermion is split into a pseudo-Dirac pair (via high dimension operator), this limit can be relaxed to 300 GeV. Provided the dark matter mass is above the reheat temperature of the Universe, the production rate never exceeds the Hubble rate in cases of interest; thus, the dark matter never thermalizes. We apply constraints from direct detection (e.g., LZ) and consider the discovery potential of Darwin. This scenario presents the most minimal model of freeze-in dark matter and is both elegant and highly predictive.</description>
+      <source url="https://doi.org/10.1103/1sts-sydk">Physical Review D</source>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1sts-sydk</guid>
+    </item><item>
       <title>Observation of Ξ(1530)0 Polarization and Determination of Its Electric and Magnetic Moments in ψ(3686)→Ξ(1530)0Ξ¯(1530)0</title>
       <link>https://doi.org/10.1103/mbrf-3ly5</link>
       <description>Using the data sample of 2.7×109 ψ(3686) events collected with the BESIII detector at the BEPCII collider, we present an observation of the Ξ(1530)0 polarization in the decay ψ(3686)→Ξ(1530)0Ξ¯(1530)0 with a significance larger than 20σ compared with all other tested hypotheses. The helicity amplitudes for the process ψ(3686)→Ξ(1530)0Ξ¯(1530)0 and the moduli of form factors including electric charge, magnetic dipole, electric quadrupole, and magnetic octupole are measured for the first time by performing an angular distribution analysis. Additionally, the polarization correlations between Ξ(1530)0 and Ξ¯(1530)0 are measured.</description>
@@ -52,14 +88,6 @@
       <author>et al.</author>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15875-x</guid>
-    </item><item>
-      <title>Experimental study of the reaction Ξ0n→ΛΛX using Ξ0-nucleus scattering</title>
-      <link>https://doi.org/10.1103/yl6l-ldhn</link>
-      <description>Using (10087±44)×106J/ψ events collected with the BESIII detector operating at the BEPCII storage ring in 2009, 2012, 2018, and 2019, we perform a search for the reaction Ξ0n→ΛΛX, where X denotes any additional final particles. Given the highly suppressed phase space for producing extra pions, the X consists of either nothing or a photon, corresponding to the processes Ξ0n→ΛΛ and Ξ0n→ΛΣ0→ΛΛγ. The Ξ0 comes from the decay of J/ψ→Ξ0Ξ¯0, while the neutron originates from material of the beam pipe. A signal is observed for the first time with a statistical significance of 6.4σ. The cross section for the reaction Ξ0+Be9→Λ+Λ+X is measured to be (43.6±10.5stat±11.1syst)mb at PΞ0≈0.818GeV/c, where the first uncertainty is statistical and the second systematic. No significant H-dibaryon signal is observed in the ΛΛ final state.</description>
-      <source url="https://doi.org/10.1103/yl6l-ldhn">Physical Review C</source>
-      <author>et al.</author>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yl6l-ldhn</guid>
     </item><item>
       <title>Ionization-based search for magnetic monopoles using the NOvA Far Detector</title>
       <link>https://doi.org/10.1103/spfn-hnhv</link>
@@ -128,35 +156,6 @@
       <source url="https://doi.org/10.1103/pydp-ghp4">Physical Review D</source>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/pydp-ghp4</guid>
-    </item><item>
-      <title>Neutrino-induced charged-current coherent pion production for constraining the muon neutrino flux at DUNE</title>
-      <link>https://doi.org/10.1103/pydp-ghp4</link>
-      <description>We study neutrino-induced charged-current coherent pion production (νμCC−Cohπ) as a tool for constraining the neutrino flux at the Deep Underground Neutrino Experiment (DUNE). The neutrino energy and flavor in the process can be directly reconstructed from the outgoing particles, making it especially useful to specifically constrain the muon neutrino component of the total flux. The cross section of this process can be obtained using the Adler relation with the π-Ar elastic scattering cross section taken either from external data or, as we explore, from a simultaneous measurement in the DUNE near detector. We develop a procedure that leverages νμCC−Cohπ events to fit for the neutrino flux while simultaneously accounting for relevant effects in the cross section. We project that this method has the statistical power to constrain the uncertainty on the normalization of the flux at its peak to a few percent. This study demonstrates the potential utility of a νμCC−Cohπ flux constraint, tho</description>
-      <source url="https://doi.org/10.1103/pydp-ghp4">Physical Review D</source>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pydp-ghp4</guid>
-    </item><item>
-      <title>High-quality axion from exact SUSY chiral dynamics</title>
-      <link>https://doi.org/10.1103/npzk-4b8w</link>
-      <description>We use supersymmetric chiral dynamics perturbed by anomaly-mediated supersymmetry breaking to obtain a high-quality, composite axion that solves the strong CP problem. The strong dynamics arises from a supersymmetric SU(10) chiral gauge theory with massless matter chiral superfields. This leads to a stable, nonsupersymmetric vacuum, calculated exactly, where a spontaneously broken U(1) global symmetry, identified with the Peccei-Quinn (PQ) symmetry, gives rise to a composite QCD axion. The chiral gauge theory also admits a discrete Z4 (or Z8,16) gauge symmetry that forbids PQ-violating operators up to dimension eight. An extension to an SU(14)×Z12 chiral gauge theory incorporates SO(10) grand unification where the unification scale is identified with the PQ-breaking scale and PQ-violating operators are forbidden up to dimension 20. The supersymmetry breaking scale, near 100 TeV, ameliorates the Higgs hierarchy problem, while colored Nambu–Goldstone bosons may be detected at future coll</description>
-      <source url="https://doi.org/10.1103/npzk-4b8w">Physical Review D</source>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/npzk-4b8w</guid>
-    </item><item>
-      <title>Relativistic corrections to exclusive photoproduction of Quarkonia near-threshold</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)250</link>
-      <description>Non-relativistic QCD (NRQCD) is used to calculate the relativistic correction to the amplitude for exclusive photoproduction of vector Quarkonia in the near-threshold region within the generalized parton distribution (GPD) framework. The relativistic corrections are found to be large for J/ψ, and lead to a breakdown of the GPD moment expansion near threshold. Cross-sections for both J/ψ and Υ are calculated with the former being compared to the data. We also demonstrate the presence of endpoint divergences for the relativistic correction away from the near-threshold regime.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)250">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)250</guid>
-    </item><item>
-      <title>Coherence obstructions and family triplication: a categorical mechanism for three fermion generations</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15900-z</link>
-      <description>Why does the Standard Model contain three fermion families? We develop a categorical mechanism in which family number is fixed by a coherence obstruction. In a rigid braided monoidal setting, Yukawa couplings are natural transformations between functors that assign Hilbert spaces to chiral representations. We prove in the pointed fusion case that if the associator of the relevant flavor fiber is governed by a 3-cocycle of finite order N, then strict naturality on the interaction fiber is possible only after stacking N identical copies of the sector; the minimal replication equals N. Under mild hypotheses, we identify a mathbb Z₃ pointed fusion subcategory with [ω ] of order 3, thereby enforcing triplication. The induced mathbb Z₃ grading yields block-circulant Yukawa textures that are diagonalized by the discrete Fourier transform F₃ and naturally accommodate hierarchies after small symmetry breaking. A toy model illustrates how triple stacking cancels the pentagon phase and produces a</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15900-z">European Physical Journal C</source>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15900-z</guid>
     </item>
   </channel>
 </rss>
