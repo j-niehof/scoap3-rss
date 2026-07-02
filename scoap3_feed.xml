@@ -5,8 +5,67 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 12:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:05:53 +0000</lastBuildDate>
     <item>
+      <title>Search for electroweak tt¯Wj production in multileptonic final states at s=13 TeV with the ATLAS detector and bounds on effective field theory operators</title>
+      <link>https://doi.org/10.1103/p5nz-95m3</link>
+      <description>A search is presented for the electroweak production of a top-quark pair in association with a W boson and at least one additional jet known as the tt¯WjEW process. This process has embedded within it a tW-scattering vertex, which is probed directly for the first time. The collision data were collected with the ATLAS detector during Run 2 of the LHC and correspond to an integrated luminosity of 140 fb−1 at s=13 TeV. The search uses same-charge pairs of electrons and muons together with jets, of which at least one is b-tagged. The properties of the most forward jet relative to the rest of the event are used to discriminate the electroweak tt¯WjEW production process from its strong tt¯W production counterpart. A measured (expected) 95% CL upper limit on the cross section is set at σtt¯WjEW251 fb (230 fb), to be compared with the expected Standard Model (SM) cross section of 47.7 fb. Limits are set on the SM effective field theory (EFT) operators OHt and OHQ(1), which modify the electrowe</description>
+      <source url="https://doi.org/10.1103/p5nz-95m3">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/p5nz-95m3</guid>
+    </item><item>
+      <title>Search for electroweak tt¯Wj production in multileptonic final states at s=13 TeV with the ATLAS detector and bounds on effective field theory operators</title>
+      <link>https://doi.org/10.1103/p5nz-95m3</link>
+      <description>A search is presented for the electroweak production of a top-quark pair in association with a W boson and at least one additional jet known as the tt¯WjEW process. This process has embedded within it a tW-scattering vertex, which is probed directly for the first time. The collision data were collected with the ATLAS detector during Run 2 of the LHC and correspond to an integrated luminosity of 140 fb−1 at s=13 TeV. The search uses same-charge pairs of electrons and muons together with jets, of which at least one is b-tagged. The properties of the most forward jet relative to the rest of the event are used to discriminate the electroweak tt¯WjEW production process from its strong tt¯W production counterpart. A measured (expected) 95% CL upper limit on the cross section is set at σtt¯WjEW251 fb (230 fb), to be compared with the expected Standard Model (SM) cross section of 47.7 fb. Limits are set on the SM effective field theory (EFT) operators OHt and OHQ(1), which modify the electrowe</description>
+      <source url="https://doi.org/10.1103/p5nz-95m3">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/p5nz-95m3</guid>
+    </item><item>
+      <title>On entropy bounds for irrelevant operators</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)014</link>
+      <description>Consistency constraints for low-energy theories, especially those lacking Lorentz invariance, have recently garnered attention. Building on results from black hole thermodynamics, we investigate the conjecture that leading symmetry-preserving irrelevant deformations of a conformal field theory (CFT) in the infrared must increase the system’s entropy. We show that this entropy-positivity conjecture is equivalent to a decrease in the thermal grand potential at a fixed temperature. We then evaluate this proposal against various known positivity bounds and other physical constraints on effective theories: for U(1) Goldstone bosons with a quartic self-interaction at (non-)zero chemical potential, for the Euler-Heisenberg model, for the O(N) nonlinear sigma model in (2 + 1)D, and for ToverlineT deformations of the 2D Ising CFT. We find broad agreement with the entropy-positivity conjecture and we discuss test cases where the conjecture is not expected to apply, such as deformations that brea</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)014">Journal of High Energy Physics</source>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)014</guid>
+    </item><item>
+      <title>4D de Sitter from 6D gauged supergravity with Green-Schwarz counterterm</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)006</link>
+      <description>Taking into account the Green-Schwarz anomaly counterterm in R-symmetry gauged N = (1, 0) supergravity in six dimensions, and the associated modification in the Maxwell kinetic term and potential, the theory admits half-supersymmetric Mink × S and non-supersymmetric dS × S solutions with or without a monopole on S . The monopole charge and the anomaly coefficients play key roles in the vacuum structure and a diagonal gauging in which an admixture of an external U(1) with the R-symmetry U(1) is needed for the de Sitter solutions to exist. We determine the full Kaluza-Klein spectrum for both vacua. The spectrum is unitary in the Minkowski case but in the case of de Sitter vacuum, the dilaton and the breathing mode are tachyonic. We show that turning on small perturbations of the tachyonic modes around dS × S with a monopole on S triggers a flow evolving towards Mink × S with the minimal potential energy. The diagonally gauged model also supports dS × S solution which avoids tachyons for </description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)006">Journal of High Energy Physics</source>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)006</guid>
+    </item><item>
+      <title>Does cosmology require Hermiticity in quantum mechanics?</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.140691</link>
+      <description>We explore the consequences of allowing non-Hermitian structures in quantum cosmology by extending the Wheeler–DeWitt framework beyond strictly Hermitian dynamics. Using a controlled semiclassical reduction, we show how anti-Hermitian contributions propagate into both early universe primordial fluctuations and late-time structure growth as effective damping or gain terms. Confronting this framework with inflationary observables, growth of structure and the observed near flatness of the universe, we derive strong infrared constraints that suppress non-Hermiticity across cosmic history. We demonstrate that these bounds are mutually consistent between early and late-time probes and can be partially relaxed in theories beyond General Relativity. Our results establish cosmology as a novel arena for testing foundational aspects of quantum mechanics and suggest that Hermiticity may emerge dynamically along the semiclassical branch describing our universe.</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.140691">Physics Letters B</source>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140691</guid>
+    </item><item>
+      <title>First results of the NEXT-100 detector using 83mKr decays</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15736-7</link>
+      <description>The NEXT collaboration is investigating the double beta decay of ^136mathrm Xe using high-pressure gas electroluminescent time projection chambers, which provide excellent energy resolution together with a robust topological signature. Operating at the Laboratorio Subterráneo de Canfranc (LSC) and building on the success of the NEXT-White detector, the NEXT-100 apparatus began commissioning in May 2024 and started operation with xenon at a pressure of 4 bar in October 2024. We report here the first results obtained with NEXT-100 using low-energy calibration data from ^83text mtextrmKr decays, which allow mapping of the detector response in the active volume and monitoring of its stability over time. After homogenizing the light response, we achieve an energy resolution of 4.37% FWHM at 41.5 keV for ^83text mtextrmKr point-like energy deposits contained in a radius of 425 mm. In a fiducial region representing the operating conditions of NEXT-100 at 10 bar we obtain an improved energy re</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15736-7">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15736-7</guid>
+    </item><item>
+      <title>Quark and gluon production in the presence of the time-varying chiral magnetic current</title>
+      <link>https://doi.org/10.1103/v3sl-gxb3</link>
+      <description>The chiral magnetic effect consists in the induction of the electric current along the direction of the magnetic field. The corresponding transport coefficient b0, known as the chiral magnetic conductivity, is proportional to the chiral imbalance in the medium. In many systems, such as quark-gluon plasma, b0 is time dependent. This paper studies the effect of the time variation of b0 on the particle spectra and energy loss produced through the chiral Cherenkov and associated processes in Abelian and non-Abelian systems. The rates of all processes are derived in the ultra-relativistic approximation. The results are applied to the relativistic heavy-ion collisions utilizing a specific model describing the relaxation of the initial P-odd domain within the quark-gluon plasma. The corresponding energy loss is computed. The results suggest strong polarization of jets in quark-gluon plasma.</description>
+      <source url="https://doi.org/10.1103/v3sl-gxb3">Physical Review D</source>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/v3sl-gxb3</guid>
+    </item><item>
+      <title>Higher-spin and higher-point constraints on stringy amplitudes</title>
+      <link>https://doi.org/10.1103/nstw-p1p5</link>
+      <description>We employ multiparticle factorization to constrain deformations of tree-level open string amplitudes. Assuming minimal degeneracy among intermediate states of the same spin up through the second excited level, we find that the Regge intercept among all amplitudes of the Koba-Nielsen type can be uniquely fixed using seven-point factorization, precisely matching the bosonic string. Moreover, we produce novel constraints on deformations of the worldsheet integrand. We then turn to deformations of superstrings, with massless external states and arbitrary spectral degeneracy, using soft kinematics. Accounting for the infinite tower of higher-spin resonances, we obtain novel multipositivity bounds to leading and subleading order in the large-level limit. We apply these bounds to the simplest factorizable satellite deformation in the family of amplitudes found by Gross, showing that any deformation of four-point string amplitudes of this type is forbidden by unitarity. Our results reinforce t</description>
+      <source url="https://doi.org/10.1103/nstw-p1p5">Physical Review D</source>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/nstw-p1p5</guid>
+    </item><item>
       <title>New limits on the Pauli forbidden transitions in ^12textrmC nuclei obtained with the complete Borexino dataset</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15912-9</link>
       <description>The Pauli exclusion principle (PEP) was tested for nucleons in ^12C nuclei using the Borexino dataset from 2007 to 2021. The approach consists of searching for γ-quanta, neutrons, protons, as well as electrons and positrons emitted in non-Paulian transitions of nucleons from the 1P₃/2 shell to the filled 1S₁/2 shell. Due to the uniquely low background level, the large mass, and long measurement time of the Borexino detector, the most stringent experimental constraints to date on the lifetime of the mathrm ^12C nucleus with respect to PEP-forbidden transitions were obtained: τ (^12textrmC→ ^12widetildetextrmC+γ ) ge 1.1× 10^32 y, τ (^12textrmC→ ^11widetildetextrmB+ p) ge 1.0× 10^31 y, τ (^12textrmC→ ^11widetildetextrmC+ n) ge 2.0 × 10^31 y, τ (^12textrmC→ ^12widetildetextrmN+ e^-+ overlineν _e) ge 6.4 × 10^30 y and τ (^12textrmC→ ^12widetildetextrmB+ e^+ + ν _e) ge 6.6 × 10^30 y (90% C.L.). The upper limits on the relative strengths for the non-Paulian electromagnetic, strong, and weak </description>
@@ -29,19 +88,19 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/c4nr-7qj4</guid>
     </item><item>
-      <title>Dark Secrets of Baryons: Illuminating Dark Matter-Baryon Interactions with JWST</title>
-      <link>https://doi.org/10.1103/44nx-sgk4</link>
-      <description>The James Webb Space Telescope (JWST) has discovered bright galaxies at high redshifts (z≈10–14) and various galaxy candidates extending to even higher redshifts (z≈15–30). Many astrophysical and beyond the Standard Model physics scenarios have been proposed to explain these observations. We investigate, for the first time, the implications of dark matter (DM) scattering with baryons (protons and electrons) in light of the JWST UV luminosity function (UVLF) observations. These interactions suppress structure formation on galactic scales, which may have an observable effect on the UVLF measurements at high redshifts. Using a recent galaxy formation model designed to explain high-redshift observations, we obtain strong upper limits on DM-baryon scattering cross sections and explore new regions of the parameter space. For DM-proton scattering with cross section ∝v−2 velocity dependence, we obtain the strongest limit for DM masses of ∼1–500 MeV. For other cases that we study (DM-proton sca</description>
-      <source url="https://doi.org/10.1103/44nx-sgk4">Physical Review Letters</source>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/44nx-sgk4</guid>
-    </item><item>
       <title>Minimal freeze-in dark matter: Reviving electroweak doublet dark matter with Boltzmann suppressed freeze-in</title>
       <link>https://doi.org/10.1103/1sts-sydk</link>
       <description>Dark matter communicating with the Standard Model solely via electroweak interactions provides a compelling picture. However, thermal freeze-out of electroweak doublet dark matter is generically strongly excluded by direct detection. We show that SU(2)L doublet fermion dark matter evades direct detection if its mass exceeds 1010 GeV. If the neutral Dirac fermion is split into a pseudo-Dirac pair (via high dimension operator), this limit can be relaxed to 300 GeV. Provided the dark matter mass is above the reheat temperature of the Universe, the production rate never exceeds the Hubble rate in cases of interest; thus, the dark matter never thermalizes. We apply constraints from direct detection (e.g., LZ) and consider the discovery potential of Darwin. This scenario presents the most minimal model of freeze-in dark matter and is both elegant and highly predictive.</description>
       <source url="https://doi.org/10.1103/1sts-sydk">Physical Review D</source>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/1sts-sydk</guid>
+    </item><item>
+      <title>Dark Secrets of Baryons: Illuminating Dark Matter–Baryon Interactions with JWST</title>
+      <link>https://doi.org/10.1103/44nx-sgk4</link>
+      <description>The James Webb Space Telescope (JWST) has discovered bright galaxies at high redshifts (z≈10–14) and various galaxy candidates extending to even higher redshifts (z≈15–30). Many astrophysical and beyond the Standard Model physics scenarios have been proposed to explain these observations. We investigate, for the first time, the implications of dark matter (DM) scattering with baryons (protons and electrons) in light of the JWST UV luminosity function (UVLF) observations. These interactions suppress structure formation on galactic scales, which may have an observable effect on the UVLF measurements at high redshifts. Using a recent galaxy formation model designed to explain high-redshift observations, we obtain strong upper limits on DM-baryon scattering cross sections and explore new regions of the parameter space. For DM-proton scattering with cross section ∝v−2 velocity dependence, we obtain the strongest limit for DM masses of ∼1–500 MeV. For other cases that we study (DM-proton sca</description>
+      <source url="https://doi.org/10.1103/44nx-sgk4">Physical Review Letters</source>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/44nx-sgk4</guid>
     </item><item>
       <title>Observation of Ξ(1530)0 Polarization and Determination of Its Electric and Magnetic Moments in ψ(3686)→Ξ(1530)0Ξ¯(1530)0</title>
       <link>https://doi.org/10.1103/mbrf-3ly5</link>
@@ -58,20 +117,6 @@
       <author>et al.</author>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140670</guid>
-    </item><item>
-      <title>Towards W3 classical blocks with semi-degenerate operators</title>
-      <link>https://doi.org/10.1016/j.nuclphysb.2026.117568</link>
-      <description>We consider 4-point W3 classical blocks focusing on the blocks level-1 and level-2 semi-degenerate operators. We derive BPZ-type equations for the auxiliary 5-point blocks with one additional fully degenerate operator. The monodromy properties of these equations are encoded by the accessory parameters, related to the 4-point W3 classical blocks. We solve the BPZ-type equations via heavy-light perturbation theory and find the accessory parameters, which allows us to obtain the explicit expressions for the considered class of classical blocks.</description>
-      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117568">Nuclear Physics B</source>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117568</guid>
-    </item><item>
-      <title>Correction: Reach and complementarity of μ → e searches</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15953-0</link>
-      <description />
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15953-0">European Physical Journal C</source>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15953-0</guid>
     </item><item>
       <title>A framework and implementation for data-driven trigger efficiency estimation at LHCb</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15966-9</link>
@@ -105,36 +150,6 @@
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/yl6l-ldhn</guid>
     </item><item>
-      <title>Probing Unruh effect from enhanced decoherence</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)279</link>
-      <description>We investigate the decoherence of an Unruh-DeWitt detector coupled to scalar, electromagnetic, and spinor fields in four-dimensional Minkowski spacetime. By employing the Schwinger-Keldysh influence functional formalism, we derive a universal scaling law relating the decoherence rate to the proper acceleration a and the scaling dimension ∆ of the environmental field operator. By analyzing both sharp (top-hat) and smooth Gaussian switching functions, it is shown that the decoherence rate in the asymptotic long-time limit scales as a . This scaling indicates that increasing scaling dimension of the coupling field operators can significantly enhance the decoherence, thereby providing a more sensitive probe of the Unruh effect.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)279">Journal of High Energy Physics</source>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)279</guid>
-    </item><item>
-      <title>A compact story of positivity in de Sitter</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)272</link>
-      <description>Recent developments have yielded significant progress towards systematically understanding loop corrections to de Sitter (dS) correlators. In close analogy with physics in Anti-de Sitter (AdS), large logarithms can result from loops that can be interpreted as corrections to the dimensions of operators. In contrast with AdS, these dimensions are not manifestly real. This implies that the theoretical constraints on the associated correlators are less transparent, particularly in the presence of light scalars. In this paper, we revisit these issues by performing and comparing calculations using the spectral representation approach and the Soft de Sitter Effective Theory (SdSET). We review the general arguments that yield positivity constraints on dS correlators from both perspectives. Our particular focus will be on vertex operators for compact scalar fields, since this case introduces novel complications. We will explain how to resolve apparent disagreements between different techniques </description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)272">Journal of High Energy Physics</source>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)272</guid>
-    </item><item>
-      <title>Erratum: Measurement of CP asymmetry in D^0→ K_textrmS^0K_textrmS^0 decays with the LHCb Run 3 detector</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)282</link>
-      <description />
-      <source url="https://doi.org/10.1007/JHEP06(2026)282">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)282</guid>
-    </item><item>
-      <title>Measurements of the absolute branching fractions of the Lambda_c^+ hadronic decays</title>
-      <link>https://doi.org/10.1007/JHEP06(2026)269</link>
-      <description>Based on 4.5 fb of e e collision data collected at center-of-mass energies between 4599.53 MeV and 4698.82 MeV with the BESIII detector, the absolute branching fractions of twelve Lambda_c^+ hadronic decay modes are measured with a double-tag technique. A global least-square fit is implemented simultaneously among different decay modes at different energy points. This paper gives the most precise results on the branching fractions of different decay modes to date, with precision improved by a factor of 2 to 3. Among them, the branching fraction of Lambda_c^+→ pK^-π^+ is determined to be (6.61 ± 0.11 ± 0.12)%, where the first uncertainty is statistical and the second is systematic. In addition, the e^+e^-→ Lambda_c^+overlineLambda_c^-Born cross sections and the effective form factors (|G |) at different energy points have been determined with the highest precision to date.</description>
-      <source url="https://doi.org/10.1007/JHEP06(2026)269">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP06(2026)269</guid>
-    </item><item>
       <title>Joint LHCb–Belle II prospects to constrain new physics in B→ D^(*)τ ν</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15908-5</link>
       <description>Semileptonic b→ cτ barν _τ decays are powerful probes of non-Standard-Model effects within an effective-field-theory (EFT) framework, but fully exploiting them in current and future data demands combinations that maximise sensitivity while controlling biases from Standard-Model-based modelling and from theory inputs that are shared, and therefore correlated, across analyses in different experiments. We present a first sensitivity study of a combined extraction of Wilson coefficients in barB→ D^(*)τ barν _τ decays using LHCb-and Belle II-like analysis configurations. Detector simulations for signal and backgrounds are typically generated under Standard Model assumptions; if non-SM contributions are present, this can bias the fitted Wilson coefficients. In addition, hadronic inputs such as form-factor parameters of signal and background components are common across analyses, requiring a consistent treatment of fully correlated effects in combinations. To avoid repeating large-scale detec</description>
@@ -142,20 +157,6 @@
       <author>et al.</author>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15908-5</guid>
-    </item><item>
-      <title>Fast scrambling in the Hyperbolic Ising model</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15988-3</link>
-      <description>We investigate many-body chaos and scrambling in the Hyperbolic Ising model, a mixed-field Ising model living in the background of AdS₂ . The effect of the curvature is captured by site-dependent couplings obtained from the AdS₂ metric applied to a flat nearest-neighbor spin chain. Using a combination of out-of-time-ordered correlators (OTOCs), Krylov complexity, and spectral statistics, we present consistent evidence that this model exhibits faster scrambling behavior relative to its flat counterpart. In particular, we observe signatures consistent with fast scrambling dynamics emerging from purely local interactions. At the system sizes accessible to tensor network simulations, the OTOCs display short-lived exponential growth regimes, from which we extract effective Lyapunov exponents. These effective finite-size exponents exhibit a temperature dependence broadly compatible with the Maldacena-Shenker-Stanford (MSS) bound within numerical uncertainty. Our results indicate that increas</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15988-3">European Physical Journal C</source>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15988-3</guid>
-    </item><item>
-      <title>Neutrino-induced charged-current coherent pion production for constraining the muon neutrino flux at DUNE</title>
-      <link>https://doi.org/10.1103/pydp-ghp4</link>
-      <description>We study neutrino-induced charged-current coherent pion production (νμCC−Cohπ) as a tool for constraining the neutrino flux at the Deep Underground Neutrino Experiment (DUNE). The neutrino energy and flavor in the process can be directly reconstructed from the outgoing particles, making it especially useful to specifically constrain the muon neutrino component of the total flux. The cross section of this process can be obtained using the Adler relation with the π-Ar elastic scattering cross section taken either from external data or, as we explore, from a simultaneous measurement in the DUNE near detector. We develop a procedure that leverages νμCC−Cohπ events to fit for the neutrino flux while simultaneously accounting for relevant effects in the cross section. We project that this method has the statistical power to constrain the uncertainty on the normalization of the flux at its peak to a few percent. This study demonstrates the potential utility of a νμCC−Cohπ flux constraint, tho</description>
-      <source url="https://doi.org/10.1103/pydp-ghp4">Physical Review D</source>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pydp-ghp4</guid>
     </item>
   </channel>
 </rss>
