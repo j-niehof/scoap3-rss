@@ -5,16 +5,8 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 12:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 12:05:48 +0000</lastBuildDate>
     <item>
-      <title>Search for electroweak tt¯Wj production in multileptonic final states at s=13 TeV with the ATLAS detector and bounds on effective field theory operators</title>
-      <link>https://doi.org/10.1103/p5nz-95m3</link>
-      <description>A search is presented for the electroweak production of a top-quark pair in association with a W boson and at least one additional jet known as the tt¯WjEW process. This process has embedded within it a tW-scattering vertex, which is probed directly for the first time. The collision data were collected with the ATLAS detector during Run 2 of the LHC and correspond to an integrated luminosity of 140 fb−1 at s=13 TeV. The search uses same-charge pairs of electrons and muons together with jets, of which at least one is b-tagged. The properties of the most forward jet relative to the rest of the event are used to discriminate the electroweak tt¯WjEW production process from its strong tt¯W production counterpart. A measured (expected) 95% CL upper limit on the cross section is set at σtt¯WjEW251 fb (230 fb), to be compared with the expected Standard Model (SM) cross section of 47.7 fb. Limits are set on the SM effective field theory (EFT) operators OHt and OHQ(1), which modify the electrowe</description>
-      <source url="https://doi.org/10.1103/p5nz-95m3">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p5nz-95m3</guid>
-    </item><item>
       <title>Search for electroweak tt¯Wj production in multileptonic final states at s=13 TeV with the ATLAS detector and bounds on effective field theory operators</title>
       <link>https://doi.org/10.1103/p5nz-95m3</link>
       <description>A search is presented for the electroweak production of a top-quark pair in association with a W boson and at least one additional jet known as the tt¯WjEW process. This process has embedded within it a tW-scattering vertex, which is probed directly for the first time. The collision data were collected with the ATLAS detector during Run 2 of the LHC and correspond to an integrated luminosity of 140 fb−1 at s=13 TeV. The search uses same-charge pairs of electrons and muons together with jets, of which at least one is b-tagged. The properties of the most forward jet relative to the rest of the event are used to discriminate the electroweak tt¯WjEW production process from its strong tt¯W production counterpart. A measured (expected) 95% CL upper limit on the cross section is set at σtt¯WjEW251 fb (230 fb), to be compared with the expected Standard Model (SM) cross section of 47.7 fb. Limits are set on the SM effective field theory (EFT) operators OHt and OHQ(1), which modify the electrowe</description>
@@ -36,6 +28,27 @@
       <source url="https://doi.org/10.1007/JHEP07(2026)006">Journal of High Energy Physics</source>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)006</guid>
+    </item><item>
+      <title>Machine learning the conformal manifold of holographic CFT2’s</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)016</link>
+      <description>We investigate the structure of conformal manifolds around AdS × S which lift from continuous flat directions in the scalar potential of gauged supergravity resulting from six-dimensional 𝒩 = (1, 1) supergravity. Our approach combines numerical exploration and symbolic inference. For the latter, we develop a symbolic regression algorithm based on Annealed Sequential Monte Carlo samplers, a combination of Annealed Importance Sampling and Sequential Monte Carlo samplers, well-suited to uncovering polynomial constraints in high-dimensional parameter spaces. The algorithm reconstructs a set of polynomial relations that provides an explicit analytic parametrization of a new family of solutions.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)016">Journal of High Energy Physics</source>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)016</guid>
+    </item><item>
+      <title>Kaluza-Klein trombone mass matrices and universal class ℛ operator spectra</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)019</link>
+      <description>We determine universal sectors of the light operator spectrum that are present in all A superconformal field theories T [Σ ] of class ℛ, with Σ a compact hyperbolic three-manifold. We do this at large N by holographically mapping the problem to a Kaluza-Klein spectral analysis over previously known dual anti-de Sitter backgrounds related to wrapped M5-brane configurations. Associated to these, D = 4 𝒩 = 8 supergravities have been recently constructed that allow for the application of spectral techniques based on exceptional generalised geometry/field theory. We derive the Kaluza-Klein mass matrices that arise when the seed lower-dimensional maximal supergravity involves gaugings of the trombone scaling symmetry, as pertains to the case at hand, and diagonalise them to find the universal Kaluza-Klein states. In general, these universal spectra are only defined locally, and we give a prescription to isolate globally-defined sectors therein.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)019">Journal of High Energy Physics</source>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)019</guid>
+    </item><item>
+      <title>Conformal Killing tensors, Noether currents and higher-spin shift symmetries in (A)dS space</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)015</link>
+      <description>For certain mass values, shift symmetries appear among massive higher spin fields propagating on (anti-) de Sitter spacetime. On the one hand, Noether’s theorem assigns a set of conserved currents for each shift symmetric field, one current for each of the independent shift symmetries. On the other hand, each shift symmetric field comes with a higher-rank conserved field strength that can be contracted with a conformal Killing tensor (CKT) to form another set of conserved currents, one for each independent CKT. This second set is naively much larger than the first. We conjecture, and prove in the first few cases, that these two sets are the same once we account for the redundancy due to trivial currents that is implicit in Noether’s theorem. For each field, only one branch of the CKTs is non-trivial. As we range over all the mass values and spins of the shift symmetric fields, each kind of CKT gets used exactly once in a non-trivial current.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)015">Journal of High Energy Physics</source>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)015</guid>
     </item><item>
       <title>Does cosmology require Hermiticity in quantum mechanics?</title>
       <link>https://doi.org/10.1016/j.physletb.2026.140691</link>
@@ -118,6 +131,13 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140670</guid>
     </item><item>
+      <title>Correction: Reach and complementarity of μ → e searches</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15953-0</link>
+      <description />
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15953-0">European Physical Journal C</source>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15953-0</guid>
+    </item><item>
       <title>A framework and implementation for data-driven trigger efficiency estimation at LHCb</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15966-9</link>
       <description>Estimations of trigger efficiencies are essential to modern particle physics analyses. A data-driven method provides a framework in which to estimate these efficiencies from the properties of reconstructed candidates, described in this paper. This paper also presents the design, implementation and performance of a software package, TriggerCalib, which provides a first centralised implementation of these calculations and can be seamlessly employed in physics analyses. Additionally, the estimation of statistical and systematic uncertainties is discussed.</description>
@@ -133,30 +153,6 @@
       <author>et al.</author>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15875-x</guid>
-    </item><item>
-      <title>Ionization-based search for magnetic monopoles using the NOvA Far Detector</title>
-      <link>https://doi.org/10.1103/spfn-hnhv</link>
-      <description>We report a search for highly ionizing magnetic monopoles in the cosmic-ray flux using a 2713-day dataset collected during 2015–2025 with the NOvA Far Detector, a 14-kt segmented detector located on Earth’s surface in Minnesota, United States. The search is sensitive to monopoles across a wide range of speeds, 7×10−4β0.995, and is sensitive to masses as low as 2×105 GeV for the fastest monopoles. No signal was observed. With the detector’s large surface area and minimal overburden, we achieve the strongest flux limits reported to date in several regions of speed and mass. For heavy monopoles with masses above 1013 GeV that are able to reach the detector from above or—crossing Earth—from below, we find a flux limit ϕ90%2×10−16 cm−2 s−1 sr−1 (90% confidence level) for monopoles with 0.005β0.8. Across the same range of speeds, we report a limit ϕ90%8×10−16 cm−2 s−1 sr−1 for light monopoles with masses above 108 GeV that can reach the detector from above.</description>
-      <source url="https://doi.org/10.1103/spfn-hnhv">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/spfn-hnhv</guid>
-    </item><item>
-      <title>Experimental study of the reaction Ξ0n→ΛΛX using Ξ0-nucleus scattering</title>
-      <link>https://doi.org/10.1103/yl6l-ldhn</link>
-      <description>Using (10087±44)×106J/ψ events collected with the BESIII detector operating at the BEPCII storage ring in 2009, 2012, 2018, and 2019, we perform a search for the reaction Ξ0n→ΛΛX, where X denotes any additional final particles. Given the highly suppressed phase space for producing extra pions, the X consists of either nothing or a photon, corresponding to the processes Ξ0n→ΛΛ and Ξ0n→ΛΣ0→ΛΛγ. The Ξ0 comes from the decay of J/ψ→Ξ0Ξ¯0, while the neutron originates from material of the beam pipe. A signal is observed for the first time with a statistical significance of 6.4σ. The cross section for the reaction Ξ0+Be9→Λ+Λ+X is measured to be (43.6±10.5stat±11.1syst)mb at PΞ0≈0.818GeV/c, where the first uncertainty is statistical and the second systematic. No significant H-dibaryon signal is observed in the ΛΛ final state.</description>
-      <source url="https://doi.org/10.1103/yl6l-ldhn">Physical Review C</source>
-      <author>et al.</author>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yl6l-ldhn</guid>
-    </item><item>
-      <title>Joint LHCb–Belle II prospects to constrain new physics in B→ D^(*)τ ν</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15908-5</link>
-      <description>Semileptonic b→ cτ barν _τ decays are powerful probes of non-Standard-Model effects within an effective-field-theory (EFT) framework, but fully exploiting them in current and future data demands combinations that maximise sensitivity while controlling biases from Standard-Model-based modelling and from theory inputs that are shared, and therefore correlated, across analyses in different experiments. We present a first sensitivity study of a combined extraction of Wilson coefficients in barB→ D^(*)τ barν _τ decays using LHCb-and Belle II-like analysis configurations. Detector simulations for signal and backgrounds are typically generated under Standard Model assumptions; if non-SM contributions are present, this can bias the fitted Wilson coefficients. In addition, hadronic inputs such as form-factor parameters of signal and background components are common across analyses, requiring a consistent treatment of fully correlated effects in combinations. To avoid repeating large-scale detec</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15908-5">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15908-5</guid>
     </item>
   </channel>
 </rss>
