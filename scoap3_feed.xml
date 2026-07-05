@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 11:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 11:27:08 +0000</lastBuildDate>
     <item>
       <title>Reconstruction of cosmic-ray muon events with CUORE</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15737-6</link>
@@ -87,13 +87,6 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)006</guid>
     </item><item>
-      <title>Conformal Killing tensors, Noether currents and higher-spin shift symmetries in (A)dS space</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)015</link>
-      <description>For certain mass values, shift symmetries appear among massive higher spin fields propagating on (anti-) de Sitter spacetime. On the one hand, Noether’s theorem assigns a set of conserved currents for each shift symmetric field, one current for each of the independent shift symmetries. On the other hand, each shift symmetric field comes with a higher-rank conserved field strength that can be contracted with a conformal Killing tensor (CKT) to form another set of conserved currents, one for each independent CKT. This second set is naively much larger than the first. We conjecture, and prove in the first few cases, that these two sets are the same once we account for the redundancy due to trivial currents that is implicit in Noether’s theorem. For each field, only one branch of the CKTs is non-trivial. As we range over all the mass values and spins of the shift symmetric fields, each kind of CKT gets used exactly once in a non-trivial current.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)015">Journal of High Energy Physics</source>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)015</guid>
-    </item><item>
       <title>Machine learning the conformal manifold of holographic CFT2’s</title>
       <link>https://doi.org/10.1007/JHEP07(2026)016</link>
       <description>We investigate the structure of conformal manifolds around AdS × S which lift from continuous flat directions in the scalar potential of gauged supergravity resulting from six-dimensional 𝒩 = (1, 1) supergravity. Our approach combines numerical exploration and symbolic inference. For the latter, we develop a symbolic regression algorithm based on Annealed Sequential Monte Carlo samplers, a combination of Annealed Importance Sampling and Sequential Monte Carlo samplers, well-suited to uncovering polynomial constraints in high-dimensional parameter spaces. The algorithm reconstructs a set of polynomial relations that provides an explicit analytic parametrization of a new family of solutions.</description>
@@ -107,6 +100,13 @@
       <source url="https://doi.org/10.1007/JHEP07(2026)019">Journal of High Energy Physics</source>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)019</guid>
+    </item><item>
+      <title>Conformal Killing tensors, Noether currents and higher-spin shift symmetries in (A)dS space</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)015</link>
+      <description>For certain mass values, shift symmetries appear among massive higher spin fields propagating on (anti-) de Sitter spacetime. On the one hand, Noether’s theorem assigns a set of conserved currents for each shift symmetric field, one current for each of the independent shift symmetries. On the other hand, each shift symmetric field comes with a higher-rank conserved field strength that can be contracted with a conformal Killing tensor (CKT) to form another set of conserved currents, one for each independent CKT. This second set is naively much larger than the first. We conjecture, and prove in the first few cases, that these two sets are the same once we account for the redundancy due to trivial currents that is implicit in Noether’s theorem. For each field, only one branch of the CKTs is non-trivial. As we range over all the mass values and spins of the shift symmetric fields, each kind of CKT gets used exactly once in a non-trivial current.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)015">Journal of High Energy Physics</source>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)015</guid>
     </item><item>
       <title>First results of the NEXT-100 detector using 83mKr decays</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15736-7</link>
@@ -123,27 +123,12 @@
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/v3sl-gxb3</guid>
     </item><item>
-      <title>Quark and gluon production in the presence of the time-varying chiral magnetic current</title>
-      <link>https://doi.org/10.1103/v3sl-gxb3</link>
-      <description>The chiral magnetic effect consists in the induction of the electric current along the direction of the magnetic field. The corresponding transport coefficient b0, known as the chiral magnetic conductivity, is proportional to the chiral imbalance in the medium. In many systems, such as quark-gluon plasma, b0 is time dependent. This paper studies the effect of the time variation of b0 on the particle spectra and energy loss produced through the chiral Cherenkov and associated processes in Abelian and non-Abelian systems. The rates of all processes are derived in the ultra-relativistic approximation. The results are applied to the relativistic heavy-ion collisions utilizing a specific model describing the relaxation of the initial P-odd domain within the quark-gluon plasma. The corresponding energy loss is computed. The results suggest strong polarization of jets in quark-gluon plasma.</description>
-      <source url="https://doi.org/10.1103/v3sl-gxb3">Physical Review D</source>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/v3sl-gxb3</guid>
-    </item><item>
       <title>Higher-spin and higher-point constraints on stringy amplitudes</title>
       <link>https://doi.org/10.1103/nstw-p1p5</link>
       <description>We employ multiparticle factorization to constrain deformations of tree-level open string amplitudes. Assuming minimal degeneracy among intermediate states of the same spin up through the second excited level, we find that the Regge intercept among all amplitudes of the Koba-Nielsen type can be uniquely fixed using seven-point factorization, precisely matching the bosonic string. Moreover, we produce novel constraints on deformations of the worldsheet integrand. We then turn to deformations of superstrings, with massless external states and arbitrary spectral degeneracy, using soft kinematics. Accounting for the infinite tower of higher-spin resonances, we obtain novel multipositivity bounds to leading and subleading order in the large-level limit. We apply these bounds to the simplest factorizable satellite deformation in the family of amplitudes found by Gross, showing that any deformation of four-point string amplitudes of this type is forbidden by unitarity. Our results reinforce t</description>
       <source url="https://doi.org/10.1103/nstw-p1p5">Physical Review D</source>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/nstw-p1p5</guid>
-    </item><item>
-      <title>New limits on the Pauli forbidden transitions in ^12textrmC nuclei obtained with the complete Borexino dataset</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15912-9</link>
-      <description>The Pauli exclusion principle (PEP) was tested for nucleons in ^12C nuclei using the Borexino dataset from 2007 to 2021. The approach consists of searching for γ-quanta, neutrons, protons, as well as electrons and positrons emitted in non-Paulian transitions of nucleons from the 1P₃/2 shell to the filled 1S₁/2 shell. Due to the uniquely low background level, the large mass, and long measurement time of the Borexino detector, the most stringent experimental constraints to date on the lifetime of the mathrm ^12C nucleus with respect to PEP-forbidden transitions were obtained: τ (^12textrmC→ ^12widetildetextrmC+γ ) ge 1.1× 10^32 y, τ (^12textrmC→ ^11widetildetextrmB+ p) ge 1.0× 10^31 y, τ (^12textrmC→ ^11widetildetextrmC+ n) ge 2.0 × 10^31 y, τ (^12textrmC→ ^12widetildetextrmN+ e^-+ overlineν _e) ge 6.4 × 10^30 y and τ (^12textrmC→ ^12widetildetextrmB+ e^+ + ν _e) ge 6.6 × 10^30 y (90% C.L.). The upper limits on the relative strengths for the non-Paulian electromagnetic, strong, and weak </description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15912-9">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15912-9</guid>
     </item>
   </channel>
 </rss>
