@@ -5,8 +5,128 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 13:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:24:14 +0000</lastBuildDate>
     <item>
+      <title>Graviton photoproduction by a Kerr-Newman black hole with worldline EFT</title>
+      <link>https://doi.org/10.1103/12ds-mwmj</link>
+      <description>We present the first computation of the gauge-invariant, long-wavelength scattering amplitude for the graviton photoproduction by a Kerr-Newman black hole through O((ωm)2), or correspondingly O(S2), and to linear order in G, using the worldline effective field theory. We show that electromagnetic interactions can be introduced consistently into the spinning worldline theory while preserving spin gauge invariance. We also derive the full angular dependence of the conversion cross section through O(S2), and demonstrate that the relevant Wilson coefficients at this order are fixed entirely by matching the electromagnetic and gravitational multipole moments to the Kerr-Newman solution. This result provides a benchmark for future analyses of coupled gravitoelectromagnetic scattering in spinning, charged compact-object backgrounds.</description>
+      <source url="https://doi.org/10.1103/12ds-mwmj">Physical Review D</source>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/12ds-mwmj</guid>
+    </item><item>
+      <title>Measurement of the absolute branching fraction of Ξ(1530)−→(Ξπ)− and updated measurement of the branching fraction of ψ(3686)→Ξ¯+Ξ(1530)−+c.c.</title>
+      <link>https://doi.org/10.1103/fs15-qkw2</link>
+      <description>Based on (2712.4±14.3)×106 ψ(3686) events collected with the BESIII detector, the decays Ξ(1530)−→Ξ0π− and Ξ(1530)−→Ξ−π0 are investigated jointly via the process ψ(3686)→Ξ¯+Ξ(1530)−+c.c. Under the assumption of isospin symmetry, the two decay modes are treated as fully correlated, and we report the first measurement of their absolute branching fractions. The results are B(Ξ(1530)−→Ξ0π−)=(61.4±4.5±4.6)% and B(Ξ(1530)−→Ξ−π0)=(29.7±2.2±2.2)%. The combined branching fraction of the two decays is B(Ξ(1530)−→(Ξπ)−)=(91.1±6.7±6.8)%, with uncertainties accounting for the correlations between the two modes. Here, the first uncertainties are statistical, while the second are systematic. Additionally, we update the branching fraction of the decay ψ(3686)→Ξ¯+Ξ(1530)−+c.c. The updated measurement is B(ψ(3686)→Ξ¯+Ξ(1530)−+c.c.)=(8.67±0.52±0.58±0.57)×10−6, where the first uncertainty is statistical, the second is systematic related to event selection and the fit model, and the third is associated wit</description>
+      <source url="https://doi.org/10.1103/fs15-qkw2">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/fs15-qkw2</guid>
+    </item><item>
+      <title>Measurement of the absolute branching fraction of Ξ(1530)−→(Ξπ)− and updated measurement of the branching fraction of ψ(3686)→Ξ¯+Ξ(1530)−+c.c.</title>
+      <link>https://doi.org/10.1103/fs15-qkw2</link>
+      <description>Based on (2712.4±14.3)×106 ψ(3686) events collected with the BESIII detector, the decays Ξ(1530)−→Ξ0π− and Ξ(1530)−→Ξ−π0 are investigated jointly via the process ψ(3686)→Ξ¯+Ξ(1530)−+c.c. Under the assumption of isospin symmetry, the two decay modes are treated as fully correlated, and we report the first measurement of their absolute branching fractions. The results are B(Ξ(1530)−→Ξ0π−)=(61.4±4.5±4.6)% and B(Ξ(1530)−→Ξ−π0)=(29.7±2.2±2.2)%. The combined branching fraction of the two decays is B(Ξ(1530)−→(Ξπ)−)=(91.1±6.7±6.8)%, with uncertainties accounting for the correlations between the two modes. Here, the first uncertainties are statistical, while the second are systematic. Additionally, we update the branching fraction of the decay ψ(3686)→Ξ¯+Ξ(1530)−+c.c. The updated measurement is B(ψ(3686)→Ξ¯+Ξ(1530)−+c.c.)=(8.67±0.52±0.58±0.57)×10−6, where the first uncertainty is statistical, the second is systematic related to event selection and the fit model, and the third is associated wit</description>
+      <source url="https://doi.org/10.1103/fs15-qkw2">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/fs15-qkw2</guid>
+    </item><item>
+      <title>Weakly supervised anomaly detection in events with a Higgs boson and exotic physics</title>
+      <link>https://doi.org/10.1103/7582-jt9n</link>
+      <description>We present a machine-learning-based anomaly detection strategy designed to identify anomalous physics in events containing resonant Standard Model physics and demonstrate this method on the final state of a Higgs boson decaying to two photons. The demonstration targets high-dimensional deviations in the region of phase space containing the Higgs mass peak in a fully signal-agnostic manner. A latent-space embedding, learned from event kinematics, enables the use of a large set of potentially sensitive features. Backgrounds are estimated using a hybrid approach that combines machine-learning-based generative modeling with traditional simulation, and a discriminator is trained in the latent space to distinguish data from background estimates. After applying a selection on the classifier output, the invariant mass distribution of the diphoton system is examined for localized excesses above the simulated Higgs peak. We benchmark the sensitivity of this strategy using simplified simulated pr</description>
+      <source url="https://doi.org/10.1103/7582-jt9n">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7582-jt9n</guid>
+    </item><item>
+      <title>Deep neural network driven simulation based inference method for pole position estimation under model misspecification</title>
+      <link>https://doi.org/10.1103/ncqd-f1g2</link>
+      <description>The method of simulation based inference is shown to lead to a more accurate resonance parameter estimation than traditional χ2 minimization in certain cases of model misspecification in a case-study of ππ scattering and the ρ(770)-resonance. Models fit to certain datasets using χ2 minimization can make inaccurate predictions for the pole position of the ρ(770). Simulation based inference (SBI) is shown to make a more robust predictions for the pole positions. This is significant, both as a proof of concept that the SBI method can be used in cases of model misspecification, and because models of ππ scattering are a crucial part to many physical systems of contemporary interest [a1(1260), ω(782) etc.].</description>
+      <source url="https://doi.org/10.1103/ncqd-f1g2">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ncqd-f1g2</guid>
+    </item><item>
+      <title>Oscillation-independent probes of nonstandard neutrino interactions from supernovae</title>
+      <link>https://doi.org/10.1103/9hgz-2d7d</link>
+      <description>Extreme astrophysical environments provide unique laboratories for testing fundamental neutrino interactions. We present the first oscillation-independent astrophysical probe of nonstandard neutrino interactions (NSI), using coincident neutral-current signals across diverse detectors to break degeneracies that have long limited sensitivity reach. Using self-consistent NSI supernova simulations and flavor-independent neutral-current scattering we show that anticorrelated signatures between JUNO liquid scintillator and dark matter detectors such as DARWIN/XLZD, ARGO, or RES-NOVA enable clear discrimination between NSI and flavor-conversion effects. For a Galactic supernova at Betelgeuse distance our approach enables an independent probe of neutrino-quark NSI couplings in parameter space that can reach and extend beyond current terrestrial limits. This multidetector approach enables breaking degeneracies in terrestrial searches and is broadly applicable to a wide range of upcoming experim</description>
+      <source url="https://doi.org/10.1103/9hgz-2d7d">Physical Review D</source>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9hgz-2d7d</guid>
+    </item><item>
+      <title>Deep neural network driven simulation based inference method for pole position estimation under model misspecification</title>
+      <link>https://doi.org/10.1103/ncqd-f1g2</link>
+      <description>The method of simulation based inference is shown to lead to a more accurate resonance parameter estimation than traditional χ2 minimization in certain cases of model misspecification in a case-study of ππ scattering and the ρ(770)-resonance. Models fit to certain datasets using χ2 minimization can make inaccurate predictions for the pole position of the ρ(770). Simulation based inference (SBI) is shown to make a more robust predictions for the pole positions. This is significant, both as a proof of concept that the SBI method can be used in cases of model misspecification, and because models of ππ scattering are a crucial part to many physical systems of contemporary interest [a1(1260), ω(782) etc.].</description>
+      <source url="https://doi.org/10.1103/ncqd-f1g2">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ncqd-f1g2</guid>
+    </item><item>
+      <title>Oscillation-independent probes of nonstandard neutrino interactions from supernovae</title>
+      <link>https://doi.org/10.1103/9hgz-2d7d</link>
+      <description>Extreme astrophysical environments provide unique laboratories for testing fundamental neutrino interactions. We present the first oscillation-independent astrophysical probe of nonstandard neutrino interactions (NSI), using coincident neutral-current signals across diverse detectors to break degeneracies that have long limited sensitivity reach. Using self-consistent NSI supernova simulations and flavor-independent neutral-current scattering we show that anticorrelated signatures between JUNO liquid scintillator and dark matter detectors such as DARWIN/XLZD, ARGO, or RES-NOVA enable clear discrimination between NSI and flavor-conversion effects. For a Galactic supernova at Betelgeuse distance our approach enables an independent probe of neutrino-quark NSI couplings in parameter space that can reach and extend beyond current terrestrial limits. This multidetector approach enables breaking degeneracies in terrestrial searches and is broadly applicable to a wide range of upcoming experim</description>
+      <source url="https://doi.org/10.1103/9hgz-2d7d">Physical Review D</source>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9hgz-2d7d</guid>
+    </item><item>
+      <title>Imprint of the black hole singularity on thermal two-point functions</title>
+      <link>https://doi.org/10.1103/1j3s-fzjl</link>
+      <description>We consider two-point functions of light fields at finite temperature and large real frequencies in holographic theories. The thermal system is dual to a single-sided anti–de Sitter black hole. We show that the high-frequency expansion obtained from the operator product expansion receives exponentially small nonperturbative corrections, which are controlled by null geodesics bouncing off the black hole singularity in the two-sided eternal black hole geometry. We develop a bulk WKB description of these bouncing geodesics and explain how to calculate reflection coefficients at the singularity.</description>
+      <source url="https://doi.org/10.1103/1j3s-fzjl">Physical Review D</source>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1j3s-fzjl</guid>
+    </item><item>
+      <title>New source of millicharged particles: Secondary showers in the LHC forward absorber</title>
+      <link>https://doi.org/10.1103/5s3t-x8l1</link>
+      <description>Millicharged particles are a well-motivated target for far-forward searches at the Large Hadron Collider. We identify and quantify a significant new source of these particles: secondary production in hadronic and electromagnetic showers initiated by energetic neutral particles striking the target neutral beam absorber. By combining Monte Carlo simulations with geant4-based modeling, we show that these secondary cascades yield a substantial millicharged particle flux that complements the primary production from the interaction point. For the proposed FORMOSA detector, this contribution can enhance the expected signal yield by approximately 50% for mχ≲0.1 GeV. Our results demonstrate that secondary production in downstream infrastructure is an essential ingredient for realistic sensitivity projections and new-physics searches at the High-Luminosity LHC. The simulated secondary spectra are made publicly available to facilitate future forward physics studies.</description>
+      <source url="https://doi.org/10.1103/5s3t-x8l1">Physical Review D</source>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5s3t-x8l1</guid>
+    </item><item>
+      <title>Neutrino nonstandard interactions from LLE-type R-parity violation</title>
+      <link>https://doi.org/10.1103/l9gm-6g2y</link>
+      <description>We study neutrino nonstandard interactions (NSI) induced by the trilinear LiLjEkc (LLE) couplings in R-parity-violating supersymmetry in a split-family spectrum where third-generation sleptons can be comparatively light. We systematically classify the relevant coupling patterns, derive the corresponding effective interactions and NSI parameters, and confront the resulting parameter space with a broad set of experimental constraints. We find that percent-level NSI can be realized in selected channels, with the largest magnitudes reaching ϵee≃8% and ϵμμ≃3.8%, while other entries are typically restricted to the subpercent level (including ϵμτ≃−0.3% in the viable off-diagonal case). We also highlight the structural origin of the different constraint patterns between τ˜R-and τ˜L-mediated scenarios and comment on the relation to the Zee model.</description>
+      <source url="https://doi.org/10.1103/l9gm-6g2y">Physical Review D</source>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/l9gm-6g2y</guid>
+    </item><item>
+      <title>Path-integral predictions for preasymptotic quantum tunneling</title>
+      <link>https://doi.org/10.1103/vlvy-3xgq</link>
+      <description>When tunneling occurs out of generic initial states, a significant fraction of probability is lost at early times, during which the dynamics is governed by excited resonance states. However, first-principles analyses based on path-integrals have only captured the leading asymptotic behavior, during which the tunneling rate is dominated by the false vacuum contribution. In this work, we discuss the behavior in the preasymptotic regime from a first-principles path-integral perspective. We demonstrate how the relevant expressions can be evaluated systematically through semiclassical methods in the recently developed steadyon picture. This approach allows one to trace the role of the relevant physical scales, making transparent the underlying assumptions and approximations, and offering a clear path to establishing a systematically improvable framework to evaluate tunneling rates nonperturbatively.</description>
+      <source url="https://doi.org/10.1103/vlvy-3xgq">Physical Review D</source>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vlvy-3xgq</guid>
+    </item><item>
+      <title>Learning to reconstruct quirky tracks</title>
+      <link>https://doi.org/10.1103/dvzc-lgj1</link>
+      <description>Analysis of data from particle physics experiments traditionally sacrifices some sensitivity to new particles for the sake of practical computability, effectively ignoring some potentially striking signatures. However, recent advances in machine learning (ML)–based tracking allow for new inroads into previously inaccessible territory, such as reconstruction of tracks that do not follow helical trajectories. This paper presents a demonstration of the capacity of ML-based tracking to reconstruct the oscillating trajectories of quirks, particles charged under an unbroken QCD-like gauge symmetry. The technique used is not specific to quirks, and opens the door to a program of searching for many kinds of nonstandard tracks.</description>
+      <source url="https://doi.org/10.1103/dvzc-lgj1">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/dvzc-lgj1</guid>
+    </item><item>
+      <title>Path-integral predictions for preasymptotic quantum tunneling</title>
+      <link>https://doi.org/10.1103/vlvy-3xgq</link>
+      <description>When tunneling occurs out of generic initial states, a significant fraction of probability is lost at early times, during which the dynamics is governed by excited resonance states. However, first-principles analyses based on path-integrals have only captured the leading asymptotic behavior, during which the tunneling rate is dominated by the false vacuum contribution. In this work, we discuss the behavior in the preasymptotic regime from a first-principles path-integral perspective. We demonstrate how the relevant expressions can be evaluated systematically through semiclassical methods in the recently developed steadyon picture. This approach allows one to trace the role of the relevant physical scales, making transparent the underlying assumptions and approximations, and offering a clear path to establishing a systematically improvable framework to evaluate tunneling rates nonperturbatively.</description>
+      <source url="https://doi.org/10.1103/vlvy-3xgq">Physical Review D</source>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vlvy-3xgq</guid>
+    </item><item>
+      <title>Learning to reconstruct quirky tracks</title>
+      <link>https://doi.org/10.1103/dvzc-lgj1</link>
+      <description>Analysis of data from particle physics experiments traditionally sacrifices some sensitivity to new particles for the sake of practical computability, effectively ignoring some potentially striking signatures. However, recent advances in machine learning (ML)–based tracking allow for new inroads into previously inaccessible territory, such as reconstruction of tracks that do not follow helical trajectories. This paper presents a demonstration of the capacity of ML-based tracking to reconstruct the oscillating trajectories of quirks, particles charged under an unbroken QCD-like gauge symmetry. The technique used is not specific to quirks, and opens the door to a program of searching for many kinds of nonstandard tracks.</description>
+      <source url="https://doi.org/10.1103/dvzc-lgj1">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/dvzc-lgj1</guid>
+    </item><item>
+      <title>Combination of Measurements of CP Properties of Higgs Boson Interactions with Vector Bosons Using Proton-Proton Collisions at s=13 TeV with the ATLAS Detector</title>
+      <link>https://doi.org/10.1103/54vv-lgc7</link>
+      <description>A combination of measurements of the CP properties of Higgs boson interactions with electroweak gauge bosons is presented, using 140 fb−1 of proton-proton collisions at s=13 TeV recorded by the ATLAS detector. Results from vector boson fusion H→ττ/WW*/γγ, inclusive H→ZZ*, and WH,H→bb¯ channels are combined. No evidence of CP violation is observed, and constrains on the CP-violating operators in the Standard Model effective field theory framework (SMEFT) are set in the Warsaw basis. The results from the combination improve by over 40% on previous individual limits on cHW˜ and, for the first time, simultaneous constraints on three coefficients cHW˜, cHB˜, and cHW˜B are set. These limits are the most stringent constraints to date on the relevant Wilson coefficients in the SMEFT framework with minimum model dependence.</description>
+      <source url="https://doi.org/10.1103/54vv-lgc7">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/54vv-lgc7</guid>
+    </item><item>
       <title>Reconstruction of cosmic-ray muon events with CUORE</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15737-6</link>
       <description>We report the in-situ 3D reconstruction of through-going muons in the CUORE experiment, a cryogenic calorimeter array searching for neutrinoless double beta ( 0ν β β ) decay, leveraging the segmentation of the detector. Due to the slow time response of the detector, time-of-flight estimation is not feasible. Therefore, the track reconstruction is performed using a multi-objective optimization algorithm that relies on geometrical information from the detector as a whole. We measure the integral flux of cosmic-ray muons underground at the Laboratori Nazionali del Gran Sasso, and find our value to be in good agreement with other experiments that have performed a similar measurement. To our knowledge, this work represents the first demonstration of 3D particle tracking and reconstruction of through-going muons with per-event angular determination in a millikelvin cryogenic detector array. The analysis performed for this work will be critical for validating the muon-related background in CU</description>
@@ -36,86 +156,6 @@
       <author>et al.</author>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15447-z</guid>
-    </item><item>
-      <title>Multiplicity dependence of two-particle angular correlations of identified particles in pp collisions at mathbf sqrts = 13 TeV</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15447-z</link>
-      <description>Two-particle angular correlations probe particle production mechanisms and the underlying event-wide phenomena present in hadronic collisions. The correlations are examined as a function of rapidity and azimuthal-angle differences ( Delta y, Delta varphi ) for pairs of like-and unlike-sign pions, kaons, and (anti-)protons produced in pp collisions at sqrts = 13 TeV, measured by the ALICE experiment. Two-particle correlation functions are provided together with Delta y and Delta varphi projections and compared to Monte Carlo (MC) model predictions. For the first time, the measurement is performed as a function of the event’s charged-particle density. Previous studies conducted for pp collisions at sqrts = 7 TeV at ALICE revealed a near-side anticorrelation for baryon–baryon and antibaryon–antibaryon pairs, whose origin remains unresolved. Here, an additional approach is introduced to study the multiplicity dependence and the expected inverse multiplicity scaling of the correlation funct</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15447-z">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15447-z</guid>
-    </item><item>
-      <title>Gravitational Hilbert spaces: invariant and co-invariant states, inner products, gauge-fixing, and BRST</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)021</link>
-      <description>Hilbert spaces in theories of gravity are notoriously subtle due to the Hamiltonian constraints, particularly regarding the inner product. To demystify this subject, we review and extend a collection of ideas in canonical gravity, and connect to the sum-over-histories approach by clarifying the Hilbert space interpretation of various gravitational path integrals. We use one-dimensional (or mini-superspace) models as the simplest context to exemplify the conceptual ideas. We emphasise that a physical Hilbert space can be defined either by requiring states to be annihilated by constraint operators (e.g., the Wheeler-DeWitt equation) or by equivalence relations between wavefunctions, and explain that these two approaches are related by an inner product. We advocate that the group averaging procedure constructs the correct physical inner product. The Klein-Gordon inner product is not positive-definite, which we explain as arising from a bad gauge choice; nonetheless, it agrees with group a</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)021">Journal of High Energy Physics</source>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)021</guid>
-    </item><item>
-      <title>Electroweak corrections to gg → γγ</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)023</link>
-      <description>We present the electroweak corrections for the production of a photon pair through gluon fusion, focusing on the contribution from the first two generations of quarks. The two-loop amplitude is calculated using a series of projection operators which define scalar form factors. In order to evaluate the Master Integrals which appear in this process we employ both generalized polylogarithms and Chen-iterated integrals. In order to perform a phenomenological study we develop a semi-numerical evaluation of the Master Integrals employing a fitting procedure to speed up the evaluation of burdensome higher weight contributions. We present results for the LHC, finding corrections of around a couple of percent to the leading order gg → γγ process. Our results are implemented into the parton-level Monte Carlo code MCFM.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)023">Journal of High Energy Physics</source>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)023</guid>
-    </item><item>
-      <title>Residual symmetries and scalar multiplet vacuum alignment in non-Abelian flavour models</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)022</link>
-      <description>We demonstrate that, upon minimizing a renormalizable, single-scalar potential invariant under a non-Abelian symmetry, special orientations in the associated vacuum alignment of the scalar multiplet correspond to the preservation of a discrete residual flavour symmetry in the broken phase of the theory. Conversely, we show that these special scalar alignments are perturbed when additional Lagrangian operators (e.g. renormalizable, multi-flavon operators and/or effective, higher-dimensional operators) are present that break said residual symmetry, leading to a vacuum reorientation and phenomenological consequences. We therefore construct a one-to-one correspondence principle between broken residual symmetries and vacuum alignment corrections, providing a mechanism to identify (and correct) a subtle but persistent form of phenomenologically relevant fine-tuning embedded in — but often ignored by — most successful non-Abelian flavour models. We first establish this correspondence in a set</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)022">Journal of High Energy Physics</source>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)022</guid>
-    </item><item>
-      <title>Search for electroweak tt¯Wj production in multileptonic final states at s=13 TeV with the ATLAS detector and bounds on effective field theory operators</title>
-      <link>https://doi.org/10.1103/p5nz-95m3</link>
-      <description>A search is presented for the electroweak production of a top-quark pair in association with a W boson and at least one additional jet known as the tt¯WjEW process. This process has embedded within it a tW-scattering vertex, which is probed directly for the first time. The collision data were collected with the ATLAS detector during Run 2 of the LHC and correspond to an integrated luminosity of 140 fb−1 at s=13 TeV. The search uses same-charge pairs of electrons and muons together with jets, of which at least one is b-tagged. The properties of the most forward jet relative to the rest of the event are used to discriminate the electroweak tt¯WjEW production process from its strong tt¯W production counterpart. A measured (expected) 95% CL upper limit on the cross section is set at σtt¯WjEW251 fb (230 fb), to be compared with the expected Standard Model (SM) cross section of 47.7 fb. Limits are set on the SM effective field theory (EFT) operators OHt and OHQ(1), which modify the electrowe</description>
-      <source url="https://doi.org/10.1103/p5nz-95m3">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p5nz-95m3</guid>
-    </item><item>
-      <title>Search for electroweak tt¯Wj production in multileptonic final states at s=13 TeV with the ATLAS detector and bounds on effective field theory operators</title>
-      <link>https://doi.org/10.1103/p5nz-95m3</link>
-      <description>A search is presented for the electroweak production of a top-quark pair in association with a W boson and at least one additional jet known as the tt¯WjEW process. This process has embedded within it a tW-scattering vertex, which is probed directly for the first time. The collision data were collected with the ATLAS detector during Run 2 of the LHC and correspond to an integrated luminosity of 140 fb−1 at s=13 TeV. The search uses same-charge pairs of electrons and muons together with jets, of which at least one is b-tagged. The properties of the most forward jet relative to the rest of the event are used to discriminate the electroweak tt¯WjEW production process from its strong tt¯W production counterpart. A measured (expected) 95% CL upper limit on the cross section is set at σtt¯WjEW251 fb (230 fb), to be compared with the expected Standard Model (SM) cross section of 47.7 fb. Limits are set on the SM effective field theory (EFT) operators OHt and OHQ(1), which modify the electrowe</description>
-      <source url="https://doi.org/10.1103/p5nz-95m3">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p5nz-95m3</guid>
-    </item><item>
-      <title>On entropy bounds for irrelevant operators</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)014</link>
-      <description>Consistency constraints for low-energy theories, especially those lacking Lorentz invariance, have recently garnered attention. Building on results from black hole thermodynamics, we investigate the conjecture that leading symmetry-preserving irrelevant deformations of a conformal field theory (CFT) in the infrared must increase the system’s entropy. We show that this entropy-positivity conjecture is equivalent to a decrease in the thermal grand potential at a fixed temperature. We then evaluate this proposal against various known positivity bounds and other physical constraints on effective theories: for U(1) Goldstone bosons with a quartic self-interaction at (non-)zero chemical potential, for the Euler-Heisenberg model, for the O(N) nonlinear sigma model in (2 + 1)D, and for ToverlineT deformations of the 2D Ising CFT. We find broad agreement with the entropy-positivity conjecture and we discuss test cases where the conjecture is not expected to apply, such as deformations that brea</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)014">Journal of High Energy Physics</source>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)014</guid>
-    </item><item>
-      <title>4D de Sitter from 6D gauged supergravity with Green-Schwarz counterterm</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)006</link>
-      <description>Taking into account the Green-Schwarz anomaly counterterm in R-symmetry gauged N = (1, 0) supergravity in six dimensions, and the associated modification in the Maxwell kinetic term and potential, the theory admits half-supersymmetric Mink × S and non-supersymmetric dS × S solutions with or without a monopole on S . The monopole charge and the anomaly coefficients play key roles in the vacuum structure and a diagonal gauging in which an admixture of an external U(1) with the R-symmetry U(1) is needed for the de Sitter solutions to exist. We determine the full Kaluza-Klein spectrum for both vacua. The spectrum is unitary in the Minkowski case but in the case of de Sitter vacuum, the dilaton and the breathing mode are tachyonic. We show that turning on small perturbations of the tachyonic modes around dS × S with a monopole on S triggers a flow evolving towards Mink × S with the minimal potential energy. The diagonally gauged model also supports dS × S solution which avoids tachyons for </description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)006">Journal of High Energy Physics</source>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)006</guid>
-    </item><item>
-      <title>Machine learning the conformal manifold of holographic CFT2’s</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)016</link>
-      <description>We investigate the structure of conformal manifolds around AdS × S which lift from continuous flat directions in the scalar potential of gauged supergravity resulting from six-dimensional 𝒩 = (1, 1) supergravity. Our approach combines numerical exploration and symbolic inference. For the latter, we develop a symbolic regression algorithm based on Annealed Sequential Monte Carlo samplers, a combination of Annealed Importance Sampling and Sequential Monte Carlo samplers, well-suited to uncovering polynomial constraints in high-dimensional parameter spaces. The algorithm reconstructs a set of polynomial relations that provides an explicit analytic parametrization of a new family of solutions.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)016">Journal of High Energy Physics</source>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)016</guid>
-    </item><item>
-      <title>Kaluza-Klein trombone mass matrices and universal class ℛ operator spectra</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)019</link>
-      <description>We determine universal sectors of the light operator spectrum that are present in all A superconformal field theories T [Σ ] of class ℛ, with Σ a compact hyperbolic three-manifold. We do this at large N by holographically mapping the problem to a Kaluza-Klein spectral analysis over previously known dual anti-de Sitter backgrounds related to wrapped M5-brane configurations. Associated to these, D = 4 𝒩 = 8 supergravities have been recently constructed that allow for the application of spectral techniques based on exceptional generalised geometry/field theory. We derive the Kaluza-Klein mass matrices that arise when the seed lower-dimensional maximal supergravity involves gaugings of the trombone scaling symmetry, as pertains to the case at hand, and diagonalise them to find the universal Kaluza-Klein states. In general, these universal spectra are only defined locally, and we give a prescription to isolate globally-defined sectors therein.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)019">Journal of High Energy Physics</source>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)019</guid>
-    </item><item>
-      <title>Quark and gluon production in the presence of the time-varying chiral magnetic current</title>
-      <link>https://doi.org/10.1103/v3sl-gxb3</link>
-      <description>The chiral magnetic effect consists in the induction of the electric current along the direction of the magnetic field. The corresponding transport coefficient b0, known as the chiral magnetic conductivity, is proportional to the chiral imbalance in the medium. In many systems, such as quark-gluon plasma, b0 is time dependent. This paper studies the effect of the time variation of b0 on the particle spectra and energy loss produced through the chiral Cherenkov and associated processes in Abelian and non-Abelian systems. The rates of all processes are derived in the ultra-relativistic approximation. The results are applied to the relativistic heavy-ion collisions utilizing a specific model describing the relaxation of the initial P-odd domain within the quark-gluon plasma. The corresponding energy loss is computed. The results suggest strong polarization of jets in quark-gluon plasma.</description>
-      <source url="https://doi.org/10.1103/v3sl-gxb3">Physical Review D</source>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/v3sl-gxb3</guid>
     </item>
   </channel>
 </rss>
