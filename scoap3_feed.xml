@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 10:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 11:07:13 +0000</lastBuildDate>
     <item>
+      <title>How gluon leading singularities discover curves on surfaces</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)101</link>
+      <description>We study the leading singularities for pure gluon amplitudes obtained by on-shell gluing of three-particle amplitudes for an arbitrary graph in any number of dimensions. By encoding the polarization vector contractions in a graphical way, on-shell gluing “discovers” curves on surfaces, and we find that the leading singularity is determined by a simple combinatorial question: what are all ways of covering the graph with non-overlapping curves such that each edge is covered exactly once? This precisely matches the formula from the surfaceology formulation of gluons, where the leading singularities are given by maximal residues, with the combinatorial problem arising from the linearized form of the u variables. At loop-level we describe how the novelties associated with spin sums (related with the need for ghosts when working off-shell using Lagrangians) can be easily encoded in this combinatorial picture. Matching the leading singularities also lets us settle an open question in the surf</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)101">Journal of High Energy Physics</source>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)101</guid>
+    </item><item>
       <title>Quantum properties of heavy-fermion pairs at a lepton collider with polarised beams</title>
       <link>https://doi.org/10.1007/JHEP07(2026)091</link>
       <description>We investigate the quantum properties of heavy-fermion pairs, such as toverlinet or τ τ , produced in lepton-lepton collisions with polarised beams. Focusing on spin correlations, entanglement, Bell-inequality violation, and quantum-information-theoretic measures such as purity and magic, we analyse how beam polarisation shapes the structure of the spin-density matrix. We derive analytic expressions for a wide range of helicity configurations, including both Standard Model contributions and generic new physics effects parametrised by scalar, vector, and tensor four-fermion operators within an effective field theory framework. We show that beam polarisation unlocks a substantially richer set of spin configurations and significantly enhances sensitivity to non-standard interactions. As a phenomenological application, we study toverlinet production at a future linear collider and demonstrate that quantum observables provide a comprehensive and complementary probe of top-quark interactions</description>
@@ -14,19 +21,26 @@
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)091</guid>
     </item><item>
+      <title>Neural-network-enhanced Bayesian global analysis of relativistic heavy-ion collisions</title>
+      <link>https://doi.org/10.1103/13dy-4g64</link>
+      <description>We introduce a novel deep convolutional neural-network-(NN) enhanced Bayesian global analysis of bulk observables in highest-energy heavy-ion collisions using relativistic 2+1D second-order viscous hydrodynamics with a dynamical freeze-out and with perturbative quantum chromodynamics (QCD) and saturation-based initial conditions from the event-by-event EKRT model. Our analysis has 13+2 free parameters for the QCD-matter properties + initial state, which are constrained by the experimental data from sNN=200 GeV Au+Au collisions at Relativistic Heavy Ion Collider and 2.76 TeV Pb+Pb, 5.02 TeV Pb+Pb, and 5.44 TeV Xe+Xe collisions at the Large Hadron Collider. We replace the computationally demanding hydrodynamical simulations by NNs, which predict bulk observables directly from the initial energy density profiles, event by event, and account for the QCD-matter properties. With the NN output, we train the Gaussian process emulators for obtaining centrality-class averaged observables and the</description>
+      <source url="https://doi.org/10.1103/13dy-4g64">Physical Review C</source>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/13dy-4g64</guid>
+    </item><item>
+      <title>Cavendish Tests of Millicharged Particles</title>
+      <link>https://doi.org/10.1103/83fd-mnpk</link>
+      <description>A terrestrial population of room-temperature millicharged particles can arise if they make up a dark matter subcomponent or if they are light enough to be produced in cosmic ray air showers. In a companion paper, we showed that a simple electrified shell acts as an efficient accumulator for such particles, parametrically enhancing their local density by many orders of magnitude. Here we demonstrate that Cavendish tests of Coulomb’s Law, performed since the late 18th century, function as both quasistatic accumulators and detectors for this overdensity. Reinterpretations of these past Cavendish tests thus provide some of the strongest bounds on a terrestrial millicharge population. We also propose surrounding a Cavendish test with an additional charged shell, which significantly improves the sensitivity and can even enable detection of the irreducible density of millicharged particles generated from cosmic rays. Using decades-old technology, this can outperform future accelerator searche</description>
+      <source url="https://doi.org/10.1103/83fd-mnpk">Physical Review Letters</source>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/83fd-mnpk</guid>
+    </item><item>
       <title>Electric accumulation of millicharged particles</title>
       <link>https://doi.org/10.1103/gj7k-9wkr</link>
       <description>A terrestrial population of millicharged particles that interact significantly with normal matter can arise if they make up a dark matter subcomponent or if they are light enough to be produced in cosmic-ray air showers. Such particles thermalize to terrestrial temperatures through repeated scatters with normal matter in Earth’s environment. We show that a simple electrified shell (for example, a Van de Graaff generator) functions as an efficient accumulator of such room-temperature millicharged particles, parametrically enhancing their local density by as much as 12 orders of magnitude. This can be used to boost the sensitivity of any detector housed in the shell’s interior, such as ion traps and tests of Coulomb’s law. In a companion paper, we apply this specifically to Cavendish tests of Coulomb’s law, and we show that a well-established setup can probe a large region of unexplored parameter space, with sensitivity to the irreducible density of millicharged particles generated from </description>
       <source url="https://doi.org/10.1103/gj7k-9wkr">Physical Review D</source>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/gj7k-9wkr</guid>
-    </item><item>
-      <title>Composite AdS geodesics for CFT correlators and timelike entanglement entropy</title>
-      <link>https://doi.org/10.1103/4crg-9y1b</link>
-      <description>We study how to recover timelike worldlines in AdS from CFT data as a toy model for holographically reconstructing realistic observers. We give a bulk extremization procedure that determines composite timelike-spacelike geodesics that connect timelike-separated boundary points. The total geodesic length matches the length extracted from CFT correlators at the timelike-separated points. We show agreement in Poincaré AdS, for generic boundary points in global AdS, and also for the Bañados-Teitelboim-Zanelli solution, in which the timelike segment probes behind the horizon. We refine related methods to compute timelike entanglement entropy in AdS3/CFT2 and recover known results.</description>
-      <source url="https://doi.org/10.1103/4crg-9y1b">Physical Review D</source>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4crg-9y1b</guid>
     </item><item>
       <title>Optimal transport event representation for anomaly detection</title>
       <link>https://doi.org/10.1103/wwzk-25sy</link>
@@ -122,34 +136,19 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)064</guid>
     </item><item>
-      <title>Universal seesaw Pati-Salam model with P for strong CP</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)062</link>
-      <description>We develop a universal seesaw version of the Pati-Salam model wherein quarks and leptons of each family are unified into common multiplets transforming as ψ (2, 1, 4) + ψ (1, 2, 4) under the SU(2) × SU(2) × SU(4) gauge symmetry. Parity symmetry is spontaneously broken in the model, which helps in solving the strong CP problem without the axion. The Higgs sector of the model is very simple, consisting of a single pair of H (2, 1, 4) + H (1, 2, 4) fields. Fermion masses arise through mixing of the chiral fermions with vector-like quarks and leptons contained in (1, 1, 15) as well as (1, 1, 10) + (1, 1, 10) multiplets via a universal seesaw mechanism. Consistency of such a spectrum with the observed quark and lepton masses is established. The parity solution to the strong CP problem is shown to be effective in this framework, although there are new loop contributions to overlinetheta , compared to the analogous left-right symmetric model, arising from color sextet and octet fermions, as w</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)062">Journal of High Energy Physics</source>
+      <title>Cosmic structure formation in massive conformal gravity</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16062-8</link>
+      <description>We study the evolution of cosmological density perturbations in massive conformal gravity (MCG). We show that conformal fermionic matter alone does not generate growing density perturbations in the subhorizon regime. By introducing a conformally coupled scalar field, however, an effective cold dark matter component emerges at the effective level. The resulting coupled perturbation equations admit growing solutions with a stronger effective gravitational interaction, allowing cosmic structure formation in MCG and potentially favoring earlier structure formation at high redshifts.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16062-8">European Physical Journal C</source>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)062</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16062-8</guid>
     </item><item>
-      <title>Electromagnetic couplings of dark domain walls</title>
-      <link>https://doi.org/10.1103/d6vs-4wb6</link>
-      <description>We extend Maxwell electrodynamics with a Chern-Simons coupling to a dark-sector top form sourced by domain walls. Cosmic birefringence can arise from a distinct mechanism in which photon polarization is rotated when crossing vacuum interfaces rather than through adiabatic propagation in a background field. Ultrathin walls induce a finite, frequency-independent polarization rotation generated by an electromagnetic Chern-Simons term localized at the interface. The effect persists even in the absence of ultralight axions or other propagating scalar degrees of freedom. For phenomenologically viable parameters, such walls can generate cosmic microwave background polarization rotation at the level Δϑ∼10−3 rad, providing a signature of the topological structure of the dark-sector vacuum.</description>
-      <source url="https://doi.org/10.1103/d6vs-4wb6">Physical Review D</source>
+      <title>New F 4 invariants in five-dimensional supergravity</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)065</link>
+      <description>We consider four-derivative superinvariants of five-dimensional mathcalN = 2 supergravity coupled to n ≤ 2 vector multiplets, which we obtain from both the superconformal tensor calculus approach and dimensional reduction. For the minimal case, with no vector multiplets, it is known that there is a unique four-derivative superinvariant. However, for the case of one vector multiplet, after field redefinitions, we find that there are three independent superinvariants, one of which is a vector superinvariant that does not contain any curvatures and takes the form of a supersymmetrization of F . Similarly, for the two vector multiplet case, corresponding to the STU model, we find three gravitational superinvariants and two F-type vector superinvariants. Moreover, we find that these vector superinvariants do not affect the two-and three-charge static BPS black hole solutions. We further consider the rigid limit to mathcalN = 2 super-Yang-Mills and use this to conjecture a family of vector s</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)065">Journal of High Energy Physics</source>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/d6vs-4wb6</guid>
-    </item><item>
-      <title>Regge Trajectories from the Adjoint Sector of Matrix Quantum Mechanics</title>
-      <link>https://doi.org/10.1103/mnwt-svrf</link>
-      <description>We reexamine the large N limit of SU(N) symmetric quantum mechanics of a Hermitian matrix whose singlet sector is well known to be exactly solvable via free fermions. When the Fermi level approaches a maximum of the potential, there is critical behavior corresponding to string theory in two dimensions. We uncover new phenomena in the adjoint sector by solving the Marchesini-Onofri equation both numerically and analytically using semiclassical approximations: at criticality, the spectrum is governed by Regge trajectories with energy eigenvalues growing according to Δ2∼n/α′. In the dual 2D string theory, we interpret these states as oscillatory excitations of a “short” folded open string. Up to subleading corrections, this Regge behavior is essentially universal and is insensitive to the particular potential we choose to approach criticality. Slightly away from criticality, the highly excited states transition into “long strings” that extend far into the Liouville direction.</description>
-      <source url="https://doi.org/10.1103/mnwt-svrf">Physical Review Letters</source>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mnwt-svrf</guid>
-    </item><item>
-      <title>Comprehensive Analysis of the B0→K*0μ+μ− Decay</title>
-      <link>https://doi.org/10.1103/24g9-yn9d</link>
-      <description>An analysis of the B0→K*0(→K+π−)μ+μ− decay is presented using proton-proton collision data collected by the LHCb experiment, corresponding to an integrated luminosity of 8.4 fb−1. The full set of CP-averaged and CP-asymmetric angular observables is determined in bins of the invariant mass squared of the dimuon system, as well as the branching fraction relative to the B0→J/ψ(→μ+μ−)K+π− decay. For the first time, the full set of observables pertaining to the K+π− S-wave contribution to the final state are presented and consideration is given to effects arising from the mass of the muons. The extracted CP-asymmetry observables show no significant deviations from zero. The measurements of the CP-averaged observables and the branching fractions continue to exhibit the pattern of tensions with the standard model predictions that have been seen in previous analyses that use part of the dataset considered in this Letter.</description>
-      <source url="https://doi.org/10.1103/24g9-yn9d">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/24g9-yn9d</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)065</guid>
     </item>
   </channel>
 </rss>
