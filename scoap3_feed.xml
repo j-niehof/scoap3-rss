@@ -5,8 +5,88 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 12:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:22:17 +0000</lastBuildDate>
     <item>
+      <title>Seeing double: shock waves and the de Sitter horizon</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)114</link>
+      <description>We consider a de Sitter observer in his rest frame at late times who observes a particle slightly displaced from unstable equilibrium. Initially, the observer notices an axisymmetric and parity-violating deformation along the trajectory of the displaced particle of his cosmological horizon. On a time scale of order ℓ, the de Sitter radius, the particle is nearly absorbed by the cosmological horizon and has been accelerated to an ultra-relativistic speed and thus is well approximated as a shock wave. In the shock wave limit, the observer sees an axisymmetric deformation of his horizon with parity restored, which we interpret as arising due to a particle from the complementary static patch. We comment on the holographic implications of this result and note that there is no need to extend the holographic screen of de Sitter spacetime beyond the empty static patch to account for this signal.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)114">Journal of High Energy Physics</source>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)114</guid>
+    </item><item>
+      <title>Quasielastic 3He→(e→,e′) asymmetry in the threshold region with a longitudinally polarized target</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.140742</link>
+      <description>We report on the measurements of the double-spin asymmetry from electron-3He scattering in the threshold region of two-and three-body breakup of 3He for 4-momentum transfer values of 0.1 and 0.2 (GeV/ c) 2. The measurement was done at Jefferson Lab using a polarized 3He target with its spin aligned parallel to the beam direction. This asymmetry is sensitive to a combination of spin-dependent response functions not previously measured and may highlight differences in two body forces, meson-exchange currents and final-state interactions. The results of this measurement serve as a test of our understanding of few-body systems. When compared with calculations from plane wave impulse approximation and Faddeev calculations, we found that the latter, which use modern nuclear potentials and prescriptions for meson-exchange currents, demonstrate an overall good agreement with data.</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.140742">Physics Letters B</source>
+      <author>et al.</author>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140742</guid>
+    </item><item>
+      <title>Exploring ultra-slow-roll inflation in composite pseudo-Nambu–Goldstone boson models: implications for primordial black holes and gravitational waves</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16040-0</link>
+      <description>We study inflation driven by a scalar potential arising from composite-sector dynamics, inspired by generalized composite Higgs models. The introduction of a non-minimal coupling, possessing the same functional form as the potential, induces a flattening at large field values that enables successful inflation. We analyze the conditions for ultra-slow-roll inflation, which leads to enhanced curvature perturbations, by combining analytical criteria near the inflection point with comprehensive numerical scans of the parameter space. The region consistent with cosmic microwave background constraints and yielding approximately N_e approx 55-60 e-folds also predicts primordial black holes with masses in the range 10^3-10^5,textrmg . Although such ultra-light primordial black holes are typically expected to have evaporated, recent proposals invoking evaporation suppression via memory-burden effects could allow their survival as viable dark matter candidates. Under this assumption, the predict</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16040-0">European Physical Journal C</source>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16040-0</guid>
+    </item><item>
+      <title>Four-loop QCD mixing of current–current operators</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16004-4</link>
+      <description>We calculate the anomalous dimension of the |Delta S| = 1 current-current operators of the weak effective Lagrangian at next-to-next-to-next-to-leading order (NNNLO) in QCD. This constitutes the first step towards a full four-loop calculation of the QCD correction to ε _K , the measure for indirect CP violation in the neutral kaon system. We present fully analytic results, together with the expressions necessary to transform our results to a basis with an arbitrary different definition of evanescent operators. As an application, we calculate the corresponding results in the “standard” operator basis used in B-physics.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16004-4">European Physical Journal C</source>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16004-4</guid>
+    </item><item>
+      <title>Benchmarking neutrino-nucleus quasielastic scattering model predictions against a missing energy profile obtained using a monoenergetic neutrino beam</title>
+      <link>https://doi.org/10.1103/bt2f-15dr</link>
+      <description>We examine three exclusive nuclear ground state shell models implemented in the NEUT neutrino event generator and benchmark them against the recent JSNS2 measurement of missing energy using a monoenergetic neutrino source. The nature of the measurement allows a detailed investigation of nuclear ground-state modeling using a neutrino source, and gives access to a direct measurement of the neutron spectral function in a C12 nucleus. The NEUT intranuclear cascade and nuclear deexcitation nucdeex are used to simulate inelastic final-state interactions and nuclear deexcitations respectively. We find that the spectral function models perform better than relativistic mean field models in modeling both the ground state and the tail of the missing energy distribution when the NEUT cascade and nuclear excitation channels are turned on. We also find that taking into account the missing energy threshold for single nucleon knockout interactions results in all nuclear models being accepted based on </description>
+      <source url="https://doi.org/10.1103/bt2f-15dr">Physical Review D</source>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/bt2f-15dr</guid>
+    </item><item>
+      <title>Cosmology of gravitational axions</title>
+      <link>https://doi.org/10.1103/yst4-cr4c</link>
+      <description>We show how a mass term for gravitational axions (“gravi-axions”) with a Chern-Simons coupling to gravity can naturally arise due to nonperturbative contributions from Euclidean wormholes, breaking the continuous shift symmetry of the standard theory. The induced mass can be generated in a cosmologically relevant range to be the dark matter or dark energy of the universe for a reasonable and well-motivated range of the symmetry breaking scale. Upon generating the gravi-axion mass term, we discuss the cosmology of the theory. We find that the gravi-axion can be produced to be the dominant dark matter component via misalignment or gravitational particle production, and that in a different regime, the gravi-axion can act as dynamical dark energy. We discuss gravi-axion decay into gravitons as a potential observational window for this theory. Finally, we find that, for late-time, astrophysical compact objects, cosmologically relevant gravi-axions behave as minimally coupled, massive scalar</description>
+      <source url="https://doi.org/10.1103/yst4-cr4c">Physical Review D</source>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yst4-cr4c</guid>
+    </item><item>
+      <title>Communicating likelihoods with normalising flows</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16045-9</link>
+      <description>We present a machine-learning-based workflow to model an unbinned likelihood from its samples. A key advancement over existing approaches is the validation of the learned likelihood using rigorous statistical tests, such as the Kolmogorov–Smirnov test of the joint distribution. Our method enables the reliable communication of experimental and phenomenological likelihoods for subsequent analyses. We demonstrate its effectiveness through three case studies in high-energy physics. To support broader adoption, we provide an open-source reference implementation, .</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16045-9">European Physical Journal C</source>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16045-9</guid>
+    </item><item>
+      <title>Edge of Safety: Charge-Charge Correlation in the Back-to-Back Limit</title>
+      <link>https://doi.org/10.1103/3pqk-qr64</link>
+      <description>We investigate the charge-charge correlation (QQC) in electron-positron annihilation as a probe of charge dynamics in quantum chromodynamics. While generally divergent beyond leading order, we show that the QQC is infrared and collinear safe in the back-to-back limit, a property that we dub leading-power safety. This enables an analytic perturbative treatment that bypasses the reliance on nonperturbative track or fragmentation functions. Using soft-collinear effective field theory, we derive a factorization theorem and determine its logarithmic behavior analytically up to four loops in QCD, uncovering remarkable connections with the energy-energy correlation (EEC). Prior to this Letter, the behavior of the QQC beyond leading order was entirely unknown; we now establish its resummation to next-to-next-to-next-to-next-to-leading logarithmic (N4LL) accuracy, placing it among the observables with the highest perturbative precision alongside the EEC. Our results are validated through a nume</description>
+      <source url="https://doi.org/10.1103/3pqk-qr64">Physical Review Letters</source>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3pqk-qr64</guid>
+    </item><item>
+      <title>Hydrogenated carbon structures as directional sub-GeV dark matter detectors</title>
+      <link>https://doi.org/10.1103/ym4j-8zlp</link>
+      <description>We propose hydrogenated carbon structures as targets with a remarkable sensitivity to dark matter–nucleon interactions, in the mass range between 1 MeV and 100 MeV. The ejection of a proton following the interaction with a dark matter particle is a quasielastic process, with an extremely small energy threshold and a clear experimental signature. The proposed detectors are simple, technologically ready, and inexpensive. Yet, they can be considerably more sensitive than current experiments. They also allow strong directionality to be used toward efficient background rejection.</description>
+      <source url="https://doi.org/10.1103/ym4j-8zlp">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ym4j-8zlp</guid>
+    </item><item>
+      <title>Machine learning invariants of tensors</title>
+      <link>https://doi.org/10.1103/ny3m-drnj</link>
+      <description>We propose a data-driven approach to identifying the functionally independent invariants that can be constructed from a tensor with a given symmetry structure. Our algorithm proceeds by first enumerating graphs, or tensor networks, that represent inequivalent contractions of a product of tensors, computing instances of these scalars using randomly generated data, and then seeking linear relations between invariants using numerical linear algebra. Such relations yield syzygies, or functional dependencies relating different invariants. We apply this approach in an extended case study of the independent invariants that can be constructed from an antisymmetric 3-form Hμνρ in six dimensions, finding five independent invariants. This result confirms that the most general Lagrangian for such a 3-form, which depends on Hμνρ but not its derivatives, is an arbitrary function of five variables, and we give explicit formulas relating other invariants to the five independent scalars in this generat</description>
+      <source url="https://doi.org/10.1103/ny3m-drnj">Physical Review D</source>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ny3m-drnj</guid>
+    </item><item>
+      <title>Study of the B0→Λc+Λ¯c−KS0 decay</title>
+      <link>https://doi.org/10.1103/jrkb-q3w6</link>
+      <description>The decay B0→Λc+Λ¯c−KS0 is studied at LHCb for the first time using proton-proton collision data recorded by the LHCb experiment at a center-of-mass energy of s=13 TeV, corresponding to an integrated luminosity of 5.4 fb−1. The branching ratio relative to the decay B+→Λc+Λ¯c−K+ is measured to be [B(B0→Λc+Λ¯c−KS0)]/[B(B+→Λc+Λ¯c−K+)]=0.53±0.05±0.05 where the first uncertainty is statistical and the second is systematic. Evidence is found for contributions from two resonant states, Ξc(2923)+ and Ξc(2939)+, in the Λc+KS0 system. The two states show a significance of 3.9σ relative to the nonresonant hypothesis. These two Ξc+ states are consistent with being the isospin partners of the states observed in the Λc+K− system.</description>
+      <source url="https://doi.org/10.1103/jrkb-q3w6">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jrkb-q3w6</guid>
+    </item><item>
       <title>String theory from maximal supersymmetry</title>
       <link>https://doi.org/10.1007/JHEP07(2026)105</link>
       <description>We explore the space of non-gravitational, maximally supersymmetric, planar 4d effective field theories (EFTs) that have 𝒩 = 4 super Yang-Mills (SYM) at leading order. In the weakly-coupled regime, we examine the combined constraints of 𝒩 = 4 supersymmetry and SU(4) R-symmetry together with the requirement of standard tree-level factorization on the massless poles of the 4-, 5-, and 6-point EFT scattering amplitudes. When imposing a parity condition on the 6-scalar amplitudes, we find highly nontrivial nonlinear constraints on the 4-point Wilson coefficients. When these novel constraints are combined with positivity, the resulting bounds on the 4-point Wilson coefficients converge to the values of the open string Veneziano amplitude. Our results strongly suggest that supersymmetry, R-symmetry, the parity requirement on the 6-scalar amplitudes, and positivity are sufficient to single out this unique UV completion at tree level. Our findings, moreover, highlight the power of higher-point</description>
@@ -27,13 +107,6 @@
       <source url="https://doi.org/10.1007/JHEP07(2026)101">Journal of High Energy Physics</source>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)101</guid>
-    </item><item>
-      <title>Quantum properties of heavy-fermion pairs at a lepton collider with polarised beams</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)091</link>
-      <description>We investigate the quantum properties of heavy-fermion pairs, such as toverlinet or τ τ , produced in lepton-lepton collisions with polarised beams. Focusing on spin correlations, entanglement, Bell-inequality violation, and quantum-information-theoretic measures such as purity and magic, we analyse how beam polarisation shapes the structure of the spin-density matrix. We derive analytic expressions for a wide range of helicity configurations, including both Standard Model contributions and generic new physics effects parametrised by scalar, vector, and tensor four-fermion operators within an effective field theory framework. We show that beam polarisation unlocks a substantially richer set of spin configurations and significantly enhances sensitivity to non-standard interactions. As a phenomenological application, we study toverlinet production at a future linear collider and demonstrate that quantum observables provide a comprehensive and complementary probe of top-quark interactions</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)091">Journal of High Energy Physics</source>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)091</guid>
     </item><item>
       <title>Electric accumulation of millicharged particles</title>
       <link>https://doi.org/10.1103/gj7k-9wkr</link>
@@ -77,78 +150,6 @@
       <author>et al.</author>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16023-1</guid>
-    </item><item>
-      <title>Evidence for a K¯NN quasi-bound state in the γd → K 0Λ p reaction</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.140719</link>
-      <description>The γd → K 0Λ p reaction has been studied to search for a K¯NN quasi-bound state using the LEPS2 solenoid spectrometer at SPring-8. A localized enhancement concentrated at low q is observed in the ( M Λp, q) distribution below the K−pp mass threshold, where M Λp is the Λ p invariant mass and q≡|p→γ−p→K0|=|p→Λp| is the momentum transfer. A two-dimensional ( M Λp, q) fit demonstrates that the enhancement near the threshold is statistically significant, yielding a local significance of 7.3 σ. The enhancement is characterized by effective shape parameters including the Breit–Wigner mass M and width Γ, and a Gaussian form-factor momentum scale Q: M=2.354±0.011(stat.)−0.005+0.009(syst.)GeV/c2, Γ=0.055±0.023(stat.)−0.009+0.031(syst.)GeV/c2, and Q=0.350±0.041(stat.)−0.010+0.035(syst.)GeV/c. The obtained results support the existence of a K¯NN quasi-bound state in photoproduction.</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.140719">Physics Letters B</source>
-      <author>et al.</author>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140719</guid>
-    </item><item>
-      <title>Modern jet flavour tagging in hadronic Z decays with archived ALEPH data</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)096</link>
-      <description>We present a reanalysis of archived data from the ALEPH experiment at LEP in the Z→ qoverlineq final state. We apply modern jet flavour tagging techniques to improve the separation between the different hadronic decay channels of the Z boson, achieving up to one order of magnitude improvement in misidentification rate for b-and c-quark jets compared to the legacy algorithms used for the most recent ALEPH results, for the same identification efficiency. We also present the first implementation of strange quark jet tagging with LEP data, which allows for the selection of a Z→ soverlines enriched event sample. These improvements in the flavour tagging performance are achieved by leveraging the lifetime, particle identification, and secondary vertex information, as well as modern classifiers based on a deep learning approach. We also demonstrate the calibration of the tagger in data using a tag-and-probe method, obtaining good data to simulation agreement for all quark flavours. These resu</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)096">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)096</guid>
-    </item><item>
-      <title>Are S 1 × S 2 wormholes generic with large sources?</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)089</link>
-      <description>Euclidean path integrals can be used to prepare states of a Lorentzian QFT. So long as any sources are turned off on the t = 0 surface, the resulting Lorentzian states all belong to the same Hilbert space. Constructing more states than allowed by the Lorentzian density of states means that the resulting states must be linearly dependent. For large amplitude sources and a fixed cutoff on energy, the AdS bulk dual of this effect has been conjectured to be captured by spacetime wormholes. Wormholes should then be generic in the presence of large such Euclidean sources; i.e., at large source amplitude one should find wormholes unless the source is fine-tuned in some way.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)089">Journal of High Energy Physics</source>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)089</guid>
-    </item><item>
-      <title>Direct detection of electromagnetically interacting ultraheavy dark matter</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)082</link>
-      <description>At a level too faint for astronomy, particle dark matter may interact with Standard Model states via the photon. We derive limits from direct detection experiments on photon-mediated nuclear interactions up to operator dimension-6, viz., via a millicharge, charge radius, electric and magnetic dipole moment, and anapole moment, up to dark matter masses ≲ 10 GeV, where detectors become flux-limited. We derive constraints for XENON1T, XENONnT, LZ, PANDAX-II, PANDAX-4T, DarkSide-50, DEAP-3600, PICO-60, and CDMS-II, and estimate future sensitivities for the multi-deca-tonne scale experiments DarkSide-20k, DARWIN/XLZD, PANDAX-xT, and Argo. Special attention is paid to millicharged dark matter, for which we constrain new parameter space by deriving the ceiling on sensitivity to its electric charge, arising from the nuclear-vs-electron recoil discriminants used in liquid argon and bubble chamber detectors. This result goes beyond ceilings previously identified in liquid xenon and semiconductor</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)082">Journal of High Energy Physics</source>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)082</guid>
-    </item><item>
-      <title>Finite N Hilbert spaces of bilocal holography</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)084</link>
-      <description>For vector/AdS and dS holography we establish the structure of the emergent Hilbert space. This is done through implementation of finite N trace relations on the infinite collective space. For fermionic theories a finite Hilbert space is established, while for bosonic theories a space of freely acting primaries multiplied by a finite set of secondaries emerges. The Hilbert space of states obey finite N cut off bounds, implying finiteness of traces and entropy.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)084">Journal of High Energy Physics</source>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)084</guid>
-    </item><item>
-      <title>Three-body decay ϕ→π+π−π0 with Omnès-type final-state interactions</title>
-      <link>https://doi.org/10.1103/b56t-npm7</link>
-      <description>We investigate the decay ϕ→π+π−π0 in an effective-Lagrangian framework that keeps the dominant ρπ mechanism, the direct three-pion term, and a real constant background contribution explicitly separated at the amplitude level. The resonant contribution is described with the Gounaris-Sakurai propagator, the neutral channel includes ρ0−ω mixing, and the leading elastic I=1, P-wave ππ final-state interaction is incorporated through the complex, s-dependent Omnès function Ω1(s+i0). The Omnès factor is applied channel by channel to the three two-pion subsystems, while the direct amplitude is dressed by the averaged factor Ωdir=(Ω0+Ω++Ω−)/3. To avoid double counting the elastic rescattering already contained in the physical ρ→ππ coupling, we introduce gρππbare=gρππphys/|Ω1(mρ2)| in the Omnès-dressed ρ-exchange amplitude. With the final parameter set used in this work, we obtain Γth=0.6915 MeV, slightly above the empirical estimate Γexp≈0.660±0.020 MeV, while the direct integrated weight is re</description>
-      <source url="https://doi.org/10.1103/b56t-npm7">Physical Review D</source>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/b56t-npm7</guid>
-    </item><item>
-      <title>mathcalN = 1 super complex Liouville string</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)069</link>
-      <description>We study the (type 0B) mathcalN = 1 supersymmetric complex Liouville string (SℂLS), a supersymmetric extension of the bosonic complex Liouville string (ℂLS). We compute the sphere three-point amplitudes (including NS-NS-NS and NS-R-R types) and find they share the same form as the sphere three-point amplitude of the bosonic ℂLS. Analysis of the analytic structure of the NS-NS-NS-NS four-point amplitude and the higher equations of motion also yields results identical to the bosonic case. Based on these findings, we propose that the dual matrix model for the SℂLS is the same as that for the bosonic ℂLS. We also investigate a related theory hatSmathbbCLS , which differs in the gauged worldsheet supersymmetry. A parallel analysis is performed for hatSmathbbCLS , and a candidate for its dual matrix model is proposed. We then carry out a partial numerical evaluation of the moduli space integral, which provides further evidence for both the proposals of the dual matrix model regarding SℂLS an</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)069">Journal of High Energy Physics</source>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)069</guid>
-    </item><item>
-      <title>Nil-equivariant tropological sigma models on filtered geometries</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)064</link>
-      <description>We investigate the behavior of tropological (tropical topological) sigma models on higher dimensional target spaces and show that higher dimensional spaces explicitly admit nested Maslov dequantizations which lead to nontrivial anisotropic filtration structures. We provide a classification of all inequivalent tropological sigma models that can be constructed for the case of 4D targets and show that, generically, the corresponding sigma-models are not defined on foliated geometries like in the 2D case but instead are defined on filtered manifolds. We find that the nontrivial filtration structures lead to enhanced global symmetries characterized by noncompact nilpotent Lie algebras given by the 4 dimensional step 3 Engel algebra on the space of fields. We provide a Nilmanifold lattice regularization of the noncompact symmetry group and use this Nilmanifold symmetry to construct a natural equivariant extension of the tropological sigma model. We conjecture that these equivariant tropologi</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)064">Journal of High Energy Physics</source>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)064</guid>
-    </item><item>
-      <title>Nil-equivariant tropological sigma models on filtered geometries</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)064</link>
-      <description>We investigate the behavior of tropological (tropical topological) sigma models on higher dimensional target spaces and show that higher dimensional spaces explicitly admit nested Maslov dequantizations which lead to nontrivial anisotropic filtration structures. We provide a classification of all inequivalent tropological sigma models that can be constructed for the case of 4D targets and show that, generically, the corresponding sigma-models are not defined on foliated geometries like in the 2D case but instead are defined on filtered manifolds. We find that the nontrivial filtration structures lead to enhanced global symmetries characterized by noncompact nilpotent Lie algebras given by the 4 dimensional step 3 Engel algebra on the space of fields. We provide a Nilmanifold lattice regularization of the noncompact symmetry group and use this Nilmanifold symmetry to construct a natural equivariant extension of the tropological sigma model. We conjecture that these equivariant tropologi</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)064">Journal of High Energy Physics</source>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)064</guid>
-    </item><item>
-      <title>Cosmic structure formation in massive conformal gravity</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16062-8</link>
-      <description>We study the evolution of cosmological density perturbations in massive conformal gravity (MCG). We show that conformal fermionic matter alone does not generate growing density perturbations in the subhorizon regime. By introducing a conformally coupled scalar field, however, an effective cold dark matter component emerges at the effective level. The resulting coupled perturbation equations admit growing solutions with a stronger effective gravitational interaction, allowing cosmic structure formation in MCG and potentially favoring earlier structure formation at high redshifts.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16062-8">European Physical Journal C</source>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16062-8</guid>
     </item>
   </channel>
 </rss>
