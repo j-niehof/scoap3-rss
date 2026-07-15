@@ -5,8 +5,32 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:22:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:25:56 +0000</lastBuildDate>
     <item>
+      <title>Search for emerging jets in pp collisions at sqrts = 13~textrmTeV with the ATLAS experiment</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15693-1</link>
+      <description>A search is presented for emerging jets using 140~textrmfb^-1 of proton–proton collision data at sqrts = 13~textrmTeV , collected by the ATLAS experiment between 2015 and 2018. The search looks for the existence of a dark sector with symmetries similar to those in quantum chromodynamics. This dark sector is populated with dark quarks, which undergo showering similar to quarks in the Standard Model, leading to a high multiplicity of long-lived dark hadrons within a dark jet. These dark hadrons subsequently decay to Standard Model particles via a new heavy scalar mediating particle φ . This results in jets which contain multiple displaced vertices, known as emerging jets. This analysis targets four-jet topologies, with two emerging jets and two Standard Model jets, resulting from the decay of pair-produced scalar mediators. No significant excess above the Standard Model background is observed. For dark pion proper decay lengths of 20~textrmmm , mediator masses are excluded between 1 and </description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15693-1">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15693-1</guid>
+    </item><item>
+      <title>Constraining the Prompt Atmospheric Neutrino Flux combining IceCube’s Cascade and Track samples</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15632-0</link>
+      <description>The IceCube Neutrino Observatory has observed a diffuse flux of high-energy astrophysical neutrinos for more than a decade. A relevant background to the astrophysical flux is prompt atmospheric neutrinos, originating from the decay of charmed mesons produced in cosmic-ray-induced air showers. The production rate of charmed mesons in the very forward phase space of hadronic interactions, and consequently, the prompt neutrino flux, remains uncertain and has not yet been observed by neutrino detectors. An accurate measurement of this flux would enhance our understanding of fundamental particle physics such as hadronic interactions in high-energy cosmic-ray-induced air showers and the nucleon structure. Furthermore, an experimental characterization of this background flux will improve the precision of astrophysical neutrino flux spectral measurements. In this work, we perform a combined fit of cascade-like and track-like neutrino events in IceCube to constrain the prompt atmospheric neutri</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15632-0">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15632-0</guid>
+    </item><item>
+      <title>Study of the Reactions n¯p→2π+π−, 2π+π−π0, and 2π+π−2π0 Using J/ψ→pπ−n¯</title>
+      <link>https://doi.org/10.1103/nm5t-qk3h</link>
+      <description>We report an experimental investigation of the reactions n¯p→2π+π−, n¯p→2π+π−π0, and n¯p→2π+π−2π0 using (10.087±0.044)×109 J/ψ events collected with the BESIII detector at the BEPCII storage ring. The antineutron (n¯) is produced in the decay J/ψ→pπ−n¯ with studied momentum from 200 to 1174 MeV/c, while the target proton originates from the hydrogen nuclei in the cooling oil of the beam pipe. This novel method pioneers the study of n¯-nucleon interactions at an e+e− collider, providing the first experimental data for n¯ momenta exceeding 800 MeV/c.</description>
+      <source url="https://doi.org/10.1103/nm5t-qk3h">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/nm5t-qk3h</guid>
+    </item><item>
       <title>Seeing double: shock waves and the de Sitter horizon</title>
       <link>https://doi.org/10.1007/JHEP07(2026)114</link>
       <description>We consider a de Sitter observer in his rest frame at late times who observes a particle slightly displaced from unstable equilibrium. Initially, the observer notices an axisymmetric and parity-violating deformation along the trajectory of the displaced particle of his cosmological horizon. On a time scale of order ℓ, the de Sitter radius, the particle is nearly absorbed by the cosmological horizon and has been accelerated to an ultra-relativistic speed and thus is well approximated as a shock wave. In the shock wave limit, the observer sees an axisymmetric deformation of his horizon with parity restored, which we interpret as arising due to a particle from the complementary static patch. We comment on the holographic implications of this result and note that there is no need to extend the holographic screen of de Sitter spacetime beyond the empty static patch to account for this signal.</description>
@@ -14,13 +38,12 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)114</guid>
     </item><item>
-      <title>Quasielastic 3He→(e→,e′) asymmetry in the threshold region with a longitudinally polarized target</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.140742</link>
-      <description>We report on the measurements of the double-spin asymmetry from electron-3He scattering in the threshold region of two-and three-body breakup of 3He for 4-momentum transfer values of 0.1 and 0.2 (GeV/ c) 2. The measurement was done at Jefferson Lab using a polarized 3He target with its spin aligned parallel to the beam direction. This asymmetry is sensitive to a combination of spin-dependent response functions not previously measured and may highlight differences in two body forces, meson-exchange currents and final-state interactions. The results of this measurement serve as a test of our understanding of few-body systems. When compared with calculations from plane wave impulse approximation and Faddeev calculations, we found that the latter, which use modern nuclear potentials and prescriptions for meson-exchange currents, demonstrate an overall good agreement with data.</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.140742">Physics Letters B</source>
-      <author>et al.</author>
+      <title>Prospects for exploring non-standard neutrino properties with argon-based CEvNS experiments</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)113</link>
+      <description>Coherent elastic neutrino-nucleus scattering (CEvNS) provides a powerful frame-work for testing the Standard Model (SM) and searching for new physics at low energies. In this work, we examine the prospects for argon-based CEvNS experiments at stopped-pion sources to perform precision measurements of weak interactions and probe non-standard neutrino properties. Our study focused on the CENNS-10 and CENNS-750 detectors at the Spallation Neutron Source at Oak Ridge National Laboratory, the Coherent Captain Mills (CCM) detector at Los Alamos National Laboratory, and the proposed PIP2-BD detector at Fermilab’s Facility for Dark Matter Discovery (F2D2). Using realistic neutrino fluxes and detector configurations corresponding to these facilities, we evaluate event rates and sensitivities to a range of observables. Within the SM, argon-based CEvNS detectors enable precision tests of electroweak parameters, including the weak mixing angle, at momentum transfers well below the electroweak scale</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)113">Journal of High Energy Physics</source>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140742</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)113</guid>
     </item><item>
       <title>Exploring ultra-slow-roll inflation in composite pseudo-Nambu–Goldstone boson models: implications for primordial black holes and gravitational waves</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16040-0</link>
@@ -43,34 +66,19 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/bt2f-15dr</guid>
     </item><item>
+      <title>Benchmarking neutrino-nucleus quasielastic scattering model predictions against a missing energy profile obtained using a monoenergetic neutrino beam</title>
+      <link>https://doi.org/10.1103/bt2f-15dr</link>
+      <description>We examine three exclusive nuclear ground state shell models implemented in the NEUT neutrino event generator and benchmark them against the recent JSNS2 measurement of missing energy using a monoenergetic neutrino source. The nature of the measurement allows a detailed investigation of nuclear ground-state modeling using a neutrino source, and gives access to a direct measurement of the neutron spectral function in a C12 nucleus. The NEUT intranuclear cascade and nuclear deexcitation nucdeex are used to simulate inelastic final-state interactions and nuclear deexcitations respectively. We find that the spectral function models perform better than relativistic mean field models in modeling both the ground state and the tail of the missing energy distribution when the NEUT cascade and nuclear excitation channels are turned on. We also find that taking into account the missing energy threshold for single nucleon knockout interactions results in all nuclear models being accepted based on </description>
+      <source url="https://doi.org/10.1103/bt2f-15dr">Physical Review D</source>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/bt2f-15dr</guid>
+    </item><item>
       <title>Cosmology of gravitational axions</title>
       <link>https://doi.org/10.1103/yst4-cr4c</link>
       <description>We show how a mass term for gravitational axions (“gravi-axions”) with a Chern-Simons coupling to gravity can naturally arise due to nonperturbative contributions from Euclidean wormholes, breaking the continuous shift symmetry of the standard theory. The induced mass can be generated in a cosmologically relevant range to be the dark matter or dark energy of the universe for a reasonable and well-motivated range of the symmetry breaking scale. Upon generating the gravi-axion mass term, we discuss the cosmology of the theory. We find that the gravi-axion can be produced to be the dominant dark matter component via misalignment or gravitational particle production, and that in a different regime, the gravi-axion can act as dynamical dark energy. We discuss gravi-axion decay into gravitons as a potential observational window for this theory. Finally, we find that, for late-time, astrophysical compact objects, cosmologically relevant gravi-axions behave as minimally coupled, massive scalar</description>
       <source url="https://doi.org/10.1103/yst4-cr4c">Physical Review D</source>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/yst4-cr4c</guid>
-    </item><item>
-      <title>Communicating likelihoods with normalising flows</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16045-9</link>
-      <description>We present a machine-learning-based workflow to model an unbinned likelihood from its samples. A key advancement over existing approaches is the validation of the learned likelihood using rigorous statistical tests, such as the Kolmogorov–Smirnov test of the joint distribution. Our method enables the reliable communication of experimental and phenomenological likelihoods for subsequent analyses. We demonstrate its effectiveness through three case studies in high-energy physics. To support broader adoption, we provide an open-source reference implementation, .</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16045-9">European Physical Journal C</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16045-9</guid>
-    </item><item>
-      <title>Edge of Safety: Charge-Charge Correlation in the Back-to-Back Limit</title>
-      <link>https://doi.org/10.1103/3pqk-qr64</link>
-      <description>We investigate the charge-charge correlation (QQC) in electron-positron annihilation as a probe of charge dynamics in quantum chromodynamics. While generally divergent beyond leading order, we show that the QQC is infrared and collinear safe in the back-to-back limit, a property that we dub leading-power safety. This enables an analytic perturbative treatment that bypasses the reliance on nonperturbative track or fragmentation functions. Using soft-collinear effective field theory, we derive a factorization theorem and determine its logarithmic behavior analytically up to four loops in QCD, uncovering remarkable connections with the energy-energy correlation (EEC). Prior to this Letter, the behavior of the QQC beyond leading order was entirely unknown; we now establish its resummation to next-to-next-to-next-to-next-to-leading logarithmic (N4LL) accuracy, placing it among the observables with the highest perturbative precision alongside the EEC. Our results are validated through a nume</description>
-      <source url="https://doi.org/10.1103/3pqk-qr64">Physical Review Letters</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3pqk-qr64</guid>
-    </item><item>
-      <title>Hydrogenated carbon structures as directional sub-GeV dark matter detectors</title>
-      <link>https://doi.org/10.1103/ym4j-8zlp</link>
-      <description>We propose hydrogenated carbon structures as targets with a remarkable sensitivity to dark matter–nucleon interactions, in the mass range between 1 MeV and 100 MeV. The ejection of a proton following the interaction with a dark matter particle is a quasielastic process, with an extremely small energy threshold and a clear experimental signature. The proposed detectors are simple, technologically ready, and inexpensive. Yet, they can be considerably more sensitive than current experiments. They also allow strong directionality to be used toward efficient background rejection.</description>
-      <source url="https://doi.org/10.1103/ym4j-8zlp">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ym4j-8zlp</guid>
     </item><item>
       <title>Machine learning invariants of tensors</title>
       <link>https://doi.org/10.1103/ny3m-drnj</link>
@@ -79,13 +87,12 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ny3m-drnj</guid>
     </item><item>
-      <title>Study of the B0→Λc+Λ¯c−KS0 decay</title>
-      <link>https://doi.org/10.1103/jrkb-q3w6</link>
-      <description>The decay B0→Λc+Λ¯c−KS0 is studied at LHCb for the first time using proton-proton collision data recorded by the LHCb experiment at a center-of-mass energy of s=13 TeV, corresponding to an integrated luminosity of 5.4 fb−1. The branching ratio relative to the decay B+→Λc+Λ¯c−K+ is measured to be [B(B0→Λc+Λ¯c−KS0)]/[B(B+→Λc+Λ¯c−K+)]=0.53±0.05±0.05 where the first uncertainty is statistical and the second is systematic. Evidence is found for contributions from two resonant states, Ξc(2923)+ and Ξc(2939)+, in the Λc+KS0 system. The two states show a significance of 3.9σ relative to the nonresonant hypothesis. These two Ξc+ states are consistent with being the isospin partners of the states observed in the Λc+K− system.</description>
-      <source url="https://doi.org/10.1103/jrkb-q3w6">Physical Review D</source>
-      <author>et al.</author>
+      <title>Communicating likelihoods with normalising flows</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16045-9</link>
+      <description>We present a machine-learning-based workflow to model an unbinned likelihood from its samples. A key advancement over existing approaches is the validation of the learned likelihood using rigorous statistical tests, such as the Kolmogorov–Smirnov test of the joint distribution. Our method enables the reliable communication of experimental and phenomenological likelihoods for subsequent analyses. We demonstrate its effectiveness through three case studies in high-energy physics. To support broader adoption, we provide an open-source reference implementation, .</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16045-9">European Physical Journal C</source>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jrkb-q3w6</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16045-9</guid>
     </item><item>
       <title>String theory from maximal supersymmetry</title>
       <link>https://doi.org/10.1007/JHEP07(2026)105</link>
@@ -94,19 +101,19 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)105</guid>
     </item><item>
-      <title>Single-sided black holes in double-scaled SYK model and no man’s island</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)104</link>
-      <description>We study a single-sided black hole with an end-of-the-world (EoW) brane behind the horizon in the double-scaled SYK (DSSYK). The new Hamiltonian is a deformation of the original DSSYK Hamiltonian with an extra exponential wormhole length operator, which leads to a new chord diagram rule. The boundary algebra is defined as generated by the new Hamiltonian and boundary matter. There is an alternative but equivalent definition with a q-coherent state due to a nontrivial isomorphism of the vN algebra of DSSYK. This isomorphism induces a unitary equivalence, which yields a surprising result that the boundary algebra of a single-sided black hole in DSSYK has a non-trivial commutant and is a type II vN factor. It follows that the full bulk reconstruction from the boundary is impossible, and there is a “no man’s island” behind the horizon in the semiclassical JT limit. Inspired by the EoW brane, we construct a family of matter-brane states with an arbitrary number of matter chords and behaving</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)104">Journal of High Energy Physics</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)104</guid>
-    </item><item>
       <title>How gluon leading singularities discover curves on surfaces</title>
       <link>https://doi.org/10.1007/JHEP07(2026)101</link>
       <description>We study the leading singularities for pure gluon amplitudes obtained by on-shell gluing of three-particle amplitudes for an arbitrary graph in any number of dimensions. By encoding the polarization vector contractions in a graphical way, on-shell gluing “discovers” curves on surfaces, and we find that the leading singularity is determined by a simple combinatorial question: what are all ways of covering the graph with non-overlapping curves such that each edge is covered exactly once? This precisely matches the formula from the surfaceology formulation of gluons, where the leading singularities are given by maximal residues, with the combinatorial problem arising from the linearized form of the u variables. At loop-level we describe how the novelties associated with spin sums (related with the need for ghosts when working off-shell using Lagrangians) can be easily encoded in this combinatorial picture. Matching the leading singularities also lets us settle an open question in the surf</description>
       <source url="https://doi.org/10.1007/JHEP07(2026)101">Journal of High Energy Physics</source>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)101</guid>
+    </item><item>
+      <title>Neural-network-enhanced Bayesian global analysis of relativistic heavy-ion collisions</title>
+      <link>https://doi.org/10.1103/13dy-4g64</link>
+      <description>We introduce a novel deep convolutional neural-network-(NN) enhanced Bayesian global analysis of bulk observables in highest-energy heavy-ion collisions using relativistic 2+1D second-order viscous hydrodynamics with a dynamical freeze-out and with perturbative quantum chromodynamics (QCD) and saturation-based initial conditions from the event-by-event EKRT model. Our analysis has 13+2 free parameters for the QCD-matter properties + initial state, which are constrained by the experimental data from sNN=200 GeV Au+Au collisions at Relativistic Heavy Ion Collider and 2.76 TeV Pb+Pb, 5.02 TeV Pb+Pb, and 5.44 TeV Xe+Xe collisions at the Large Hadron Collider. We replace the computationally demanding hydrodynamical simulations by NNs, which predict bulk observables directly from the initial energy density profiles, event by event, and account for the QCD-matter properties. With the NN output, we train the Gaussian process emulators for obtaining centrality-class averaged observables and the</description>
+      <source url="https://doi.org/10.1103/13dy-4g64">Physical Review C</source>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/13dy-4g64</guid>
     </item><item>
       <title>Electric accumulation of millicharged particles</title>
       <link>https://doi.org/10.1103/gj7k-9wkr</link>
@@ -142,14 +149,6 @@
       <source url="https://doi.org/10.1103/13dy-4g64">Physical Review C</source>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/13dy-4g64</guid>
-    </item><item>
-      <title>On focusing statistical power for searches and measurements in particle physics</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16023-1</link>
-      <description>Particle physics experiments rely on the (generalised) likelihood ratio test (LRT) for searches and measurements, which consist of composite hypothesis tests. However, this test is not guaranteed to be optimal, as the Neyman–Pearson lemma pertains only to simple hypothesis tests. Any choice of test statistic thus implicitly determines how statistical power varies across the parameter space. An improvement in the core statistical testing methodology for general settings with composite tests would have widespread ramifications across experiments. We discuss an alternate test statistic that provides the data analyzer an ability to focus the power of the test on physics-motivated regions of the parameter space. We demonstrate the improvement from this technique compared to the LRT on a Higgs → τ τ dataset simulated by the ATLAS experiment and a dark matter dataset inspired by the LZ experiment. We also employ machine learning to efficiently calibrate critical values for a family of tests, </description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16023-1">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16023-1</guid>
     </item>
   </channel>
 </rss>
