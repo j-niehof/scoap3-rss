@@ -5,8 +5,66 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 11:18:24 +0000</lastBuildDate>
     <item>
+      <title>Search for Sub-GeV Dark Particles in η→π0+Invisible Decay</title>
+      <link>https://doi.org/10.1103/lbj8-qqm6</link>
+      <description>Using (10087±44)×106 J/ψ events collected with the BESIII detector at the BEPCII collider at the center-of-mass energy of s=3.097 GeV, we report the first search for η→π0S→π0χχ¯ with S denoting an on-shell dark scalar boson and χ an invisible dark matter particle. No significant signals are observed with S mass ranging from 0 to 400 MeV/c2. The upper limits on the branching fractions and the new physics coupling strengths between S and quarks are set to be (1.8–5.5)×10−5 and (1.3–3.2)×10−5 at the 90% confidence level, respectively. The constraints on the dark-matter-nucleon scattering cross section is improved by approximately five orders of magnitude over previous dark-matter-nucleon scattering experiments, providing unique insights into sub-GeV dark matter.</description>
+      <source url="https://doi.org/10.1103/lbj8-qqm6">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/lbj8-qqm6</guid>
+    </item><item>
+      <title>Moduli space curvature and the weak gravity conjecture</title>
+      <link>https://doi.org/10.1103/4tf1-c9l7</link>
+      <description>We unveil a remarkable interplay between rigid field theories (RFTs), charge-to-mass ratios γ, and scalar curvature divergences Rdiv in the vector multiplet moduli space of 4D N=2 supergravities, obtained upon compactifying type II string theory on Calabi–Yau threefolds. We show that the condition to obtain an RFT that decouples from gravity implies a divergence in the γ of (would-be) BPS particles charged under the rigid theory and vice-versa. For weak coupling limits, where the scalar curvature diverges, we argue that such BPS particles exist and that Rdiv≲γ2, implying that all these divergences are a consequence of RFT limits. More precisely, along geodesics we find that Rdiv∼(Λwgc/Λg)2, where Λwgc≡grigidMPl is the RFT cutoff estimate of the weak gravity conjecture and Λg=grigid−2ΛRFT the electrostatic energy integrated up to its actual cutoff ΛRFT.</description>
+      <source url="https://doi.org/10.1103/4tf1-c9l7">Physical Review D</source>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4tf1-c9l7</guid>
+    </item><item>
+      <title>Neutron reconstruction via blips in liquid argon time projection chambers</title>
+      <link>https://doi.org/10.1103/dkbs-j6g5</link>
+      <description>Neutrons are important final-state particles in neutrino interactions, yet they are not considered or reconstructed in most current neutrino liquid argon time projection chamber (LArTPC) physics analyses. In this paper, we present a simulation-based proof-of-concept study of neutron reconstruction in a generic LArTPC detector. Leveraging isolated, MeV-scale energy deposits, or blips, from neutron inelastic scattering, and using realistic blip response from published experimental results, we demonstrate the capability to identify neutrons and to reconstruct the direction and energy of the final-state neutron system in sub-GeV neutrino interactions. We then explore how neutron-related blip attributes can be used to improve physics studies of neutrino interactions, such as enhancing neutrino-antineutrino separation in atmospheric neutrinos and reverse-horn-current beam neutrinos. This study provides an initial quantification of LArTPC neutron reconstruction capabilities, which we expect t</description>
+      <source url="https://doi.org/10.1103/dkbs-j6g5">Physical Review D</source>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/dkbs-j6g5</guid>
+    </item><item>
+      <title>Nuclear interferometer for ultralight dark matter detection</title>
+      <link>https://doi.org/10.1103/ntb7-6w5g</link>
+      <description>We propose the nuclear interferometer—a single-photon interferometry experiment based upon the thorium-229 nuclear clock transition—as a novel detector for ultralight dark matter. Thanks to the enhanced sensitivity of this transition to the variation of fundamental constants, we find that possible realizations of such an experiment deploying either single ions or clouds of atoms have the potential to complement advanced very-long-baseline terrestrial clock atom interferometers in the search for ultralight dark matter with scalar couplings to photons in the future. Nuclear interferometry may also offer an unparalleled window to new physics coupling to the QCD sector via quarks or gluons, with a discovery reach that could enhance existing and proposed experiments over a range of frequencies in the direction of well-motivated parameter space.</description>
+      <source url="https://doi.org/10.1103/ntb7-6w5g">Physical Review D</source>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ntb7-6w5g</guid>
+    </item><item>
+      <title>Universe originating from an empty Planck-size torus</title>
+      <link>https://doi.org/10.1103/x381-qbm1</link>
+      <description>We consider a Universe with a three-torus topology, which before inflation is devoid of any matter or radiation. Its preinflationary evolution is driven solely by Casimir energies of the existing fields, with a radiationlike equation of state. We show that, under natural assumptions and with the appropriate number of fermions and bosons in the theory, such a Universe can start its evolution from a Planck size at the Planck time. Moreover, assuming typical parameters for inflation and reheating, the three-torus Universe can be several Hubble radii across at present time, which is precisely the size hinted by the anomaly in the cosmic microwave background observed at low multipole moments. We derive a relation between the size of the Universe, the number of e-folds of inflation, and the energy density decrease during reheating, which we then use to determine the parameter values consistent with the anomaly and the lower bound on the size of the Universe from the Planck satellite.</description>
+      <source url="https://doi.org/10.1103/x381-qbm1">Physical Review D</source>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/x381-qbm1</guid>
+    </item><item>
+      <title>How to pick the best anomaly detector?</title>
+      <link>https://doi.org/10.1103/9kcn-slvt</link>
+      <description>Anomaly detection has the potential to discover new physics in unexplored regions of the data. However, choosing the best anomaly detector for a given dataset in a model-agnostic way is an important challenge which has hitherto largely been neglected. In this paper, we introduce the data-driven ARGOS metric, which has a sound theoretical foundation and is empirically shown to robustly select the most sensitive anomaly detection model given the data. Focusing on weakly supervised, classifier-based anomaly detection methods, we show that the ARGOS metric outperforms other model selection metrics previously used in the literature, in particular the binary cross-entropy loss. We explore several realistic applications, including hyperparameter tuning as well as architecture and feature selection. In all cases, we demonstrate that ARGOS is highly sensitive to the small amounts of signal present in anomaly detection analyses while at the same time being robust to background overfitting and ba</description>
+      <source url="https://doi.org/10.1103/9kcn-slvt">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9kcn-slvt</guid>
+    </item><item>
+      <title>Regulated chiral gauge theory and the strong CP problem</title>
+      <link>https://doi.org/10.1103/wld4-f12c</link>
+      <description>Four-dimensional chiral gauge theory can be formulated as the boundary theory on a five-dimensional manifold in a manner that may be realized on a finite lattice. There are interesting features of these theories that defy a purely four-dimensional conception of universality. We find that QCD when embedded in a chiral gauge theory (the Standard Model) and regulated this way can simultaneously avoid both the U(1)A problem and the strong CP problem, with a central role played by fermion zero modes localized far away in the fifth dimension. In this way it differs from conventional lattice QCD formulated as a stand-alone theory, universality being violated by inaccessible light modes in the five-dimensional bulk. Our analysis builds on recent work by others that highlights the role of global U(1) symmetries in five-dimensional formulations of four-dimensional chiral gauge theories, and the generic appearance of fermion zero modes in the bulk.</description>
+      <source url="https://doi.org/10.1103/wld4-f12c">Physical Review D</source>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/wld4-f12c</guid>
+    </item><item>
+      <title>Low-lying Λ and Σ resonances studied with the forward K* productions off the proton induced by a high-momentum π beam</title>
+      <link>https://doi.org/10.1103/7ffl-qytm</link>
+      <description>We develop a novel model utilizing the forward K* production reaction off the nucleon, πN→K*MB, induced by a high-momentum π beam, as a tool to study low-lying Y* resonances below and just above the K¯N threshold. Because conventional K−p scattering experiments face difficulties in directly accessing this kinematic region, the proposed reaction offers a valuable complementary approach for Y* spectroscopy. The constructed model is based on the one-meson exchange mechanism, which is known to dominate forward-angle production at high energies, and the half-off-shell scattering amplitudes from the ANL-Osaka dynamical coupled-channels models (Model A and Model B). We predict various observables, including differential cross sections and angular distributions. Our results demonstrate significant enhancements in the sub-threshold region of the invariant mass spectra. Notably, we show that overlapping resonances, such as a potential new 3/2+ Σ state and the well-established Σ(1385)3/2+, can co</description>
+      <source url="https://doi.org/10.1103/7ffl-qytm">Physical Review C</source>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7ffl-qytm</guid>
+    </item><item>
       <title>Complex geodesics in the Nariai geometry</title>
       <link>https://doi.org/10.1007/JHEP07(2026)140</link>
       <description>We study two-point correlation functions of heavy scalar fields in the Nariai geometry. Utilizing the heat kernel formalism, we obtain this result from a geodesic approximation to the two-point function on a product of spheres. By analytically continuing one of the spheres, we obtain the correlation function in the Nariai geometry. This result involves a sum over complex geodesics, extending previous results in pure de Sitter space. We emphasize the important role of the phase of each geodesic contribution, which needs to be taken into account to avoid spurious singularities in the correlator.</description>
@@ -20,6 +78,20 @@
       <source url="https://doi.org/10.1007/JHEP07(2026)127">Journal of High Energy Physics</source>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)127</guid>
+    </item><item>
+      <title>Complex geodesics in the Nariai geometry</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)140</link>
+      <description>We study two-point correlation functions of heavy scalar fields in the Nariai geometry. Utilizing the heat kernel formalism, we obtain this result from a geodesic approximation to the two-point function on a product of spheres. By analytically continuing one of the spheres, we obtain the correlation function in the Nariai geometry. This result involves a sum over complex geodesics, extending previous results in pure de Sitter space. We emphasize the important role of the phase of each geodesic contribution, which needs to be taken into account to avoid spurious singularities in the correlator.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)140">Journal of High Energy Physics</source>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)140</guid>
+    </item><item>
+      <title>Sphere amplitudes and observing the universe’s size</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)136</link>
+      <description>Sine dilaton gravity is holographically related to DSSYK. We explain how to interpret sine dilaton as 2d quantum cosmology. This paves the way for using two copies of DSSYK as hologram for Big-Bang cosmologies. We study the most basic cosmological observable: the sphere amplitude. Via canonical quantization we find a finite answer that matches the on-shell action of a dual matrix integral.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)136">Journal of High Energy Physics</source>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)136</guid>
     </item><item>
       <title>Observation of CP Violation in B0→J/ψρ(770)0 Decays</title>
       <link>https://doi.org/10.1103/6f6r-51br</link>
@@ -45,14 +117,6 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15693-1</guid>
     </item><item>
-      <title>Study of the Reactions n¯p→2π+π−, 2π+π−π0, and 2π+π−2π0 Using J/ψ→pπ−n¯</title>
-      <link>https://doi.org/10.1103/nm5t-qk3h</link>
-      <description>We report an experimental investigation of the reactions n¯p→2π+π−, n¯p→2π+π−π0, and n¯p→2π+π−2π0 using (10.087±0.044)×109 J/ψ events collected with the BESIII detector at the BEPCII storage ring. The antineutron (n¯) is produced in the decay J/ψ→pπ−n¯ with studied momentum from 200 to 1174 MeV/c, while the target proton originates from the hydrogen nuclei in the cooling oil of the beam pipe. This novel method pioneers the study of n¯-nucleon interactions at an e+e− collider, providing the first experimental data for n¯ momenta exceeding 800 MeV/c.</description>
-      <source url="https://doi.org/10.1103/nm5t-qk3h">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nm5t-qk3h</guid>
-    </item><item>
       <title>Constraining the Prompt Atmospheric Neutrino Flux combining IceCube’s Cascade and Track samples</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15632-0</link>
       <description>The IceCube Neutrino Observatory has observed a diffuse flux of high-energy astrophysical neutrinos for more than a decade. A relevant background to the astrophysical flux is prompt atmospheric neutrinos, originating from the decay of charmed mesons produced in cosmic-ray-induced air showers. The production rate of charmed mesons in the very forward phase space of hadronic interactions, and consequently, the prompt neutrino flux, remains uncertain and has not yet been observed by neutrino detectors. An accurate measurement of this flux would enhance our understanding of fundamental particle physics such as hadronic interactions in high-energy cosmic-ray-induced air showers and the nucleon structure. Furthermore, an experimental characterization of this background flux will improve the precision of astrophysical neutrino flux spectral measurements. In this work, we perform a combined fit of cascade-like and track-like neutrino events in IceCube to constrain the prompt atmospheric neutri</description>
@@ -61,19 +125,13 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15632-0</guid>
     </item><item>
-      <title>Seeing double: shock waves and the de Sitter horizon</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)114</link>
-      <description>We consider a de Sitter observer in his rest frame at late times who observes a particle slightly displaced from unstable equilibrium. Initially, the observer notices an axisymmetric and parity-violating deformation along the trajectory of the displaced particle of his cosmological horizon. On a time scale of order ℓ, the de Sitter radius, the particle is nearly absorbed by the cosmological horizon and has been accelerated to an ultra-relativistic speed and thus is well approximated as a shock wave. In the shock wave limit, the observer sees an axisymmetric deformation of his horizon with parity restored, which we interpret as arising due to a particle from the complementary static patch. We comment on the holographic implications of this result and note that there is no need to extend the holographic screen of de Sitter spacetime beyond the empty static patch to account for this signal.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)114">Journal of High Energy Physics</source>
+      <title>Study of the Reactions n¯p→2π+π−, 2π+π−π0, and 2π+π−2π0 Using J/ψ→pπ−n¯</title>
+      <link>https://doi.org/10.1103/nm5t-qk3h</link>
+      <description>We report an experimental investigation of the reactions n¯p→2π+π−, n¯p→2π+π−π0, and n¯p→2π+π−2π0 using (10.087±0.044)×109 J/ψ events collected with the BESIII detector at the BEPCII storage ring. The antineutron (n¯) is produced in the decay J/ψ→pπ−n¯ with studied momentum from 200 to 1174 MeV/c, while the target proton originates from the hydrogen nuclei in the cooling oil of the beam pipe. This novel method pioneers the study of n¯-nucleon interactions at an e+e− collider, providing the first experimental data for n¯ momenta exceeding 800 MeV/c.</description>
+      <source url="https://doi.org/10.1103/nm5t-qk3h">Physical Review Letters</source>
+      <author>et al.</author>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)114</guid>
-    </item><item>
-      <title>Prospects for exploring non-standard neutrino properties with argon-based CEvNS experiments</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)113</link>
-      <description>Coherent elastic neutrino-nucleus scattering (CEvNS) provides a powerful frame-work for testing the Standard Model (SM) and searching for new physics at low energies. In this work, we examine the prospects for argon-based CEvNS experiments at stopped-pion sources to perform precision measurements of weak interactions and probe non-standard neutrino properties. Our study focused on the CENNS-10 and CENNS-750 detectors at the Spallation Neutron Source at Oak Ridge National Laboratory, the Coherent Captain Mills (CCM) detector at Los Alamos National Laboratory, and the proposed PIP2-BD detector at Fermilab’s Facility for Dark Matter Discovery (F2D2). Using realistic neutrino fluxes and detector configurations corresponding to these facilities, we evaluate event rates and sensitivities to a range of observables. Within the SM, argon-based CEvNS detectors enable precision tests of electroweak parameters, including the weak mixing angle, at momentum transfers well below the electroweak scale</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)113">Journal of High Energy Physics</source>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)113</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/nm5t-qk3h</guid>
     </item><item>
       <title>Exploring ultra-slow-roll inflation in composite pseudo-Nambu–Goldstone boson models: implications for primordial black holes and gravitational waves</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16040-0</link>
@@ -89,63 +147,12 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16004-4</guid>
     </item><item>
-      <title>Study of the B0→Λc+Λ¯c−KS0 decay</title>
-      <link>https://doi.org/10.1103/jrkb-q3w6</link>
-      <description>The decay B0→Λc+Λ¯c−KS0 is studied at LHCb for the first time using proton-proton collision data recorded by the LHCb experiment at a center-of-mass energy of s=13 TeV, corresponding to an integrated luminosity of 5.4 fb−1. The branching ratio relative to the decay B+→Λc+Λ¯c−K+ is measured to be [B(B0→Λc+Λ¯c−KS0)]/[B(B+→Λc+Λ¯c−K+)]=0.53±0.05±0.05 where the first uncertainty is statistical and the second is systematic. Evidence is found for contributions from two resonant states, Ξc(2923)+ and Ξc(2939)+, in the Λc+KS0 system. The two states show a significance of 3.9σ relative to the nonresonant hypothesis. These two Ξc+ states are consistent with being the isospin partners of the states observed in the Λc+K− system.</description>
-      <source url="https://doi.org/10.1103/jrkb-q3w6">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jrkb-q3w6</guid>
-    </item><item>
       <title>Edge of Safety: Charge-Charge Correlation in the Back-to-Back Limit</title>
       <link>https://doi.org/10.1103/3pqk-qr64</link>
       <description>We investigate the charge-charge correlation (QQC) in electron-positron annihilation as a probe of charge dynamics in quantum chromodynamics. While generally divergent beyond leading order, we show that the QQC is infrared and collinear safe in the back-to-back limit, a property that we dub leading-power safety. This enables an analytic perturbative treatment that bypasses the reliance on nonperturbative track or fragmentation functions. Using soft-collinear effective field theory, we derive a factorization theorem and determine its logarithmic behavior analytically up to four loops in QCD, uncovering remarkable connections with the energy-energy correlation (EEC). Prior to this Letter, the behavior of the QQC beyond leading order was entirely unknown; we now establish its resummation to next-to-next-to-next-to-next-to-leading logarithmic (N4LL) accuracy, placing it among the observables with the highest perturbative precision alongside the EEC. Our results are validated through a nume</description>
       <source url="https://doi.org/10.1103/3pqk-qr64">Physical Review Letters</source>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/3pqk-qr64</guid>
-    </item><item>
-      <title>Hydrogenated carbon structures as directional sub-GeV dark matter detectors</title>
-      <link>https://doi.org/10.1103/ym4j-8zlp</link>
-      <description>We propose hydrogenated carbon structures as targets with a remarkable sensitivity to dark matter–nucleon interactions, in the mass range between 1 MeV and 100 MeV. The ejection of a proton following the interaction with a dark matter particle is a quasielastic process, with an extremely small energy threshold and a clear experimental signature. The proposed detectors are simple, technologically ready, and inexpensive. Yet, they can be considerably more sensitive than current experiments. They also allow strong directionality to be used toward efficient background rejection.</description>
-      <source url="https://doi.org/10.1103/ym4j-8zlp">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ym4j-8zlp</guid>
-    </item><item>
-      <title>Benchmarking neutrino-nucleus quasielastic scattering model predictions against a missing energy profile obtained using a monoenergetic neutrino beam</title>
-      <link>https://doi.org/10.1103/bt2f-15dr</link>
-      <description>We examine three exclusive nuclear ground state shell models implemented in the NEUT neutrino event generator and benchmark them against the recent JSNS2 measurement of missing energy using a monoenergetic neutrino source. The nature of the measurement allows a detailed investigation of nuclear ground-state modeling using a neutrino source, and gives access to a direct measurement of the neutron spectral function in a C12 nucleus. The NEUT intranuclear cascade and nuclear deexcitation nucdeex are used to simulate inelastic final-state interactions and nuclear deexcitations respectively. We find that the spectral function models perform better than relativistic mean field models in modeling both the ground state and the tail of the missing energy distribution when the NEUT cascade and nuclear excitation channels are turned on. We also find that taking into account the missing energy threshold for single nucleon knockout interactions results in all nuclear models being accepted based on </description>
-      <source url="https://doi.org/10.1103/bt2f-15dr">Physical Review D</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/bt2f-15dr</guid>
-    </item><item>
-      <title>Cosmology of gravitational axions</title>
-      <link>https://doi.org/10.1103/yst4-cr4c</link>
-      <description>We show how a mass term for gravitational axions (“gravi-axions”) with a Chern-Simons coupling to gravity can naturally arise due to nonperturbative contributions from Euclidean wormholes, breaking the continuous shift symmetry of the standard theory. The induced mass can be generated in a cosmologically relevant range to be the dark matter or dark energy of the universe for a reasonable and well-motivated range of the symmetry breaking scale. Upon generating the gravi-axion mass term, we discuss the cosmology of the theory. We find that the gravi-axion can be produced to be the dominant dark matter component via misalignment or gravitational particle production, and that in a different regime, the gravi-axion can act as dynamical dark energy. We discuss gravi-axion decay into gravitons as a potential observational window for this theory. Finally, we find that, for late-time, astrophysical compact objects, cosmologically relevant gravi-axions behave as minimally coupled, massive scalar</description>
-      <source url="https://doi.org/10.1103/yst4-cr4c">Physical Review D</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yst4-cr4c</guid>
-    </item><item>
-      <title>Machine learning invariants of tensors</title>
-      <link>https://doi.org/10.1103/ny3m-drnj</link>
-      <description>We propose a data-driven approach to identifying the functionally independent invariants that can be constructed from a tensor with a given symmetry structure. Our algorithm proceeds by first enumerating graphs, or tensor networks, that represent inequivalent contractions of a product of tensors, computing instances of these scalars using randomly generated data, and then seeking linear relations between invariants using numerical linear algebra. Such relations yield syzygies, or functional dependencies relating different invariants. We apply this approach in an extended case study of the independent invariants that can be constructed from an antisymmetric 3-form Hμνρ in six dimensions, finding five independent invariants. This result confirms that the most general Lagrangian for such a 3-form, which depends on Hμνρ but not its derivatives, is an arbitrary function of five variables, and we give explicit formulas relating other invariants to the five independent scalars in this generat</description>
-      <source url="https://doi.org/10.1103/ny3m-drnj">Physical Review D</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ny3m-drnj</guid>
-    </item><item>
-      <title>Communicating likelihoods with normalising flows</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16045-9</link>
-      <description>We present a machine-learning-based workflow to model an unbinned likelihood from its samples. A key advancement over existing approaches is the validation of the learned likelihood using rigorous statistical tests, such as the Kolmogorov–Smirnov test of the joint distribution. Our method enables the reliable communication of experimental and phenomenological likelihoods for subsequent analyses. We demonstrate its effectiveness through three case studies in high-energy physics. To support broader adoption, we provide an open-source reference implementation, .</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16045-9">European Physical Journal C</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16045-9</guid>
-    </item><item>
-      <title>Neural-network-enhanced Bayesian global analysis of relativistic heavy-ion collisions</title>
-      <link>https://doi.org/10.1103/13dy-4g64</link>
-      <description>We introduce a novel deep convolutional neural-network-(NN) enhanced Bayesian global analysis of bulk observables in highest-energy heavy-ion collisions using relativistic 2+1D second-order viscous hydrodynamics with a dynamical freeze-out and with perturbative quantum chromodynamics (QCD) and saturation-based initial conditions from the event-by-event EKRT model. Our analysis has 13+2 free parameters for the QCD-matter properties + initial state, which are constrained by the experimental data from sNN=200 GeV Au+Au collisions at Relativistic Heavy Ion Collider and 2.76 TeV Pb+Pb, 5.02 TeV Pb+Pb, and 5.44 TeV Xe+Xe collisions at the Large Hadron Collider. We replace the computationally demanding hydrodynamical simulations by NNs, which predict bulk observables directly from the initial energy density profiles, event by event, and account for the QCD-matter properties. With the NN output, we train the Gaussian process emulators for obtaining centrality-class averaged observables and the</description>
-      <source url="https://doi.org/10.1103/13dy-4g64">Physical Review C</source>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/13dy-4g64</guid>
     </item>
   </channel>
 </rss>
