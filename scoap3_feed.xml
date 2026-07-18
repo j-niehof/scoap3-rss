@@ -5,8 +5,99 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 11:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:57:50 +0000</lastBuildDate>
     <item>
+      <title>Bouncing singularities and thermal correlators on line defects</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)170</link>
+      <description>Thermal correlators in holographic conformal field theories are known to exhibit singularities in complex time, sometimes referred to as “bouncing singularities”, which are believed to be related to bulk geodesics probing the black hole interior. These singularities correspond to exponentially suppressed contributions in the high-frequency limit of the thermal correlators. We revisit in detail the calculation of retarded two-point functions of local operators dual to bulk scalar fields in the planar AdS black hole background. We confirm that these correlators develop bouncing singularities, and highlight the agreement of two independent methods: a large frequency WKB analysis with infalling boundary conditions at the horizon; and an asymptotic OPE analysis that relies only on the near-boundary expansion, without any direct input from the black hole interior. We then extend these calculations to the case of the retarded two-point function of displacement operators on a Wilson line in th</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)170">Journal of High Energy Physics</source>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)170</guid>
+    </item><item>
+      <title>Bouncing off a stringy singularity</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)161</link>
+      <description>A sharp signature of the black hole singularity in holography is a divergence in the boundary thermal two-point function at a specific point in the complex time plane. This divergence arises from a null geodesic that bounces off the black hole singularity. At finite ’t Hooft coupling, stringy corrections to the bulk dynamics cannot be neglected, and the fate of the bouncing geodesic is an open question. We propose a simple scenario in which the singularity in the two-point function is shifted slightly into the complex plane, thereby smoothing it out into a finite-size bump. We demonstrate this smoothing explicitly in a microscopic example, namely the Sachdev-Ye-Kitaev model at infinite temperature, where the correlator is under analytic control. Our result suggests a bulk description of planar theories at finite coupling as stringy black holes.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)161">Journal of High Energy Physics</source>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)161</guid>
+    </item><item>
+      <title>Phases of supersymmetric ground states in AdS 4</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)174</link>
+      <description>We construct the phase diagram of supersymmetric ground states in AdS × S supergravity. BPS black holes exist only when the conserved charges satisfy a certain non-linear constraint. For other charge sectors, we propose two component configurations comprised of a core black hole that carries macroscopic entropy, and a “gas” that carries a macroscopic fraction of the charge.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)174">Journal of High Energy Physics</source>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)174</guid>
+    </item><item>
+      <title>Collider probes of baryogenesis with maximal CP asymmetry</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)164</link>
+      <description>We propose a novel collider probe of baryogenesis at TeV scale by measuring decay asymmetries into particle and anti-particle final states. Motivated by the idea of Dirac leptogenesis, we consider an extension of the standard model with new colored and SU(2) singlet particles in such a way that the out-of-equilibrium decay of heavy colored fermions creates equal and opposite CP asymmetries in two sectors, prevented from equilibrating with each other. While the TeV scale viability of this mechanism requires a resonantly enhanced CP asymmetry, the latter also plays a crucial role leading to observable decay asymmetries in colliders. In addition to discussing conventional signatures of such heavy colored particles, namely, mono-jet plus missing transverse energy, displaced vertex, colored track at hadron colliders, we also show the unique possibility of measuring decay asymmetries via forward-backward and charge asymmetries at future muon colliders. In addition to being a verifiable TeV-s</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)164">Journal of High Energy Physics</source>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)164</guid>
+    </item><item>
+      <title>Non-Abelian Casimir effect for plates, symmetrical tube, and box on the lattice</title>
+      <link>https://doi.org/10.1103/22p4-bxhs</link>
+      <description>We present nonperturbative results of the Casimir potential in non-Abelian SU(3) gauge theory in (2+1)D and (3+1)D in the confined and deconfined phase. For the first time, geometries beyond parallel plates in (3+1)D are explored and we show that the Casimir effect for the symmetrical tube and symmetrical box is attractive. The Casimir potential for the tube differs from the massless noninteracting scalar field theory prediction, where a repulsive Casimir potential is expected. Unlike the parallel plate geometry where the plate size is fixed, in the case of the tube and box, the sizes of the faces forming the walls of the geometries changes with separation distance. We propose various methods that can be used to account for the energy contributions from creating the boundaries. We show that increasing the temperature from a confined to a deconfined phase does not alter the Casimir potential. This observation is consistent with prior work suggesting that the region inside the walls is a</description>
+      <source url="https://doi.org/10.1103/22p4-bxhs">Physical Review D</source>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/22p4-bxhs</guid>
+    </item><item>
+      <title>Opening up new parameter space for sterile neutrino dark matter</title>
+      <link>https://doi.org/10.1103/pg4f-lml1</link>
+      <description>Sterile neutrinos are compelling dark matter (DM) candidates, yet the minimal production mechanism solely based on active-sterile (νa−νs) oscillations is robustly excluded by astrophysical observations. Nonstandard self-interactions in either the active (νa−νa) or sterile (νs−νs) sector are known to alter the sterile neutrino DM production in the early Universe, which could alleviate the tension with astrophysical constraints. Here, we propose a new solution where scalar-mediated nonstandard interactions between active and sterile neutrinos (νa−νs) lead to new production channels for sterile neutrino DM, independent of the active-sterile mixing and without the need for any fine-tuned resonance or primordial lepton asymmetries. This framework enables efficient sterile neutrino DM production even at vanishingly small mixing angles and opens up new viable regions of parameter space that can be tested with future x-ray and gamma-ray observations. It also provides a new mechanism for observ</description>
+      <source url="https://doi.org/10.1103/pg4f-lml1">Physical Review D</source>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pg4f-lml1</guid>
+    </item><item>
+      <title>Non-Abelian Casimir effect for plates, symmetrical tube, and box on the lattice</title>
+      <link>https://doi.org/10.1103/22p4-bxhs</link>
+      <description>We present nonperturbative results of the Casimir potential in non-Abelian SU(3) gauge theory in (2+1)D and (3+1)D in the confined and deconfined phase. For the first time, geometries beyond parallel plates in (3+1)D are explored and we show that the Casimir effect for the symmetrical tube and symmetrical box is attractive. The Casimir potential for the tube differs from the massless noninteracting scalar field theory prediction, where a repulsive Casimir potential is expected. Unlike the parallel plate geometry where the plate size is fixed, in the case of the tube and box, the sizes of the faces forming the walls of the geometries changes with separation distance. We propose various methods that can be used to account for the energy contributions from creating the boundaries. We show that increasing the temperature from a confined to a deconfined phase does not alter the Casimir potential. This observation is consistent with prior work suggesting that the region inside the walls is a</description>
+      <source url="https://doi.org/10.1103/22p4-bxhs">Physical Review D</source>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/22p4-bxhs</guid>
+    </item><item>
+      <title>Opening up new parameter space for sterile neutrino dark matter</title>
+      <link>https://doi.org/10.1103/pg4f-lml1</link>
+      <description>Sterile neutrinos are compelling dark matter (DM) candidates, yet the minimal production mechanism solely based on active-sterile (νa−νs) oscillations is robustly excluded by astrophysical observations. Nonstandard self-interactions in either the active (νa−νa) or sterile (νs−νs) sector are known to alter the sterile neutrino DM production in the early Universe, which could alleviate the tension with astrophysical constraints. Here, we propose a new solution where scalar-mediated nonstandard interactions between active and sterile neutrinos (νa−νs) lead to new production channels for sterile neutrino DM, independent of the active-sterile mixing and without the need for any fine-tuned resonance or primordial lepton asymmetries. This framework enables efficient sterile neutrino DM production even at vanishingly small mixing angles and opens up new viable regions of parameter space that can be tested with future x-ray and gamma-ray observations. It also provides a new mechanism for observ</description>
+      <source url="https://doi.org/10.1103/pg4f-lml1">Physical Review D</source>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pg4f-lml1</guid>
+    </item><item>
+      <title>The disk 1-point function in timelike Liouville theory</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)158</link>
+      <description>We compute the disk 1-point function in timelike Liouville theory. Using the Coulomb gas formalism and analytically continuing in the number of screening operators, we derive an explicit formula, which is shown to satisfy the correct reflection symmetry, to have the expected self-dual properties, to fulfill the bootstrap shift-equations, and to reduce to previous known results in the appropriate limits. In the limit of zero cosmological constant, our result reproduces the one recently obtained in [1].</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)158">Journal of High Energy Physics</source>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)158</guid>
+    </item><item>
+      <title>Exact solutions to complex Type IIB supergravity for complex superalgebra F (4) and its real forms</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)148</link>
+      <description>We construct the general local solutions to complexified Type IIB supergravity which are invariant under the complexified Lie superalgebra F (4). The geometry is a product of complexified maximally symmetric spaces mathcalM_6mathbbC and mathcalM₂mathbbC warped over a complexified surface Σ . We classify the reality conditions that may be imposed consistently to obtain real form solutions within real forms of complex Type IIB supergravity. The latter comprise standard Type IIB, Type IIB and IIB , as well as theories with 3, 5, 7 and 9 time-like directions. Our classification of real solutions is consistent with and exhausts the real forms of F (4), whose classification we confirm by elementary methods. The geometry of each real form solution is a product of real maximally symmetric spaces mathcalM_6 and mathcalM₂ warped over a Riemann surface Σ, with various signatures. The real solutions include, among others, known AdS × S × Σ and AdS × S × Σ solutions to standard Type IIB as well as </description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)148">Journal of High Energy Physics</source>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)148</guid>
+    </item><item>
+      <title>QFT as a set of ODEs</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)153</link>
+      <description>Correlation functions of local operators in Quantum Field Theory (QFT) on hyperbolic space can be fully characterized by the set of QFT data ∆ , C , b_j^hatmathcalO . These are the scaling dimensions of boundary operators ∆ , the boundary Operator Product Expansion (OPE) coefficients C and the Boundary Operator Expansion (BOE) coefficients b_j^hatmathcalO that characterize how each bulk operator hatmathcalO can be expanded in terms of boundary operators mathcalO_j . For simplicity, we focus on two dimensional QFTs and derive a universal set of first order Ordinary Differential Equations (ODEs) that encode the variation of the QFT data under an infinitesimal change of a bulk relevant coupling. In principle, our ODEs can be used to follow a Renormalization Group (RG) flow starting from a solvable QFT into a strongly coupled phase and to the flat space limit.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)153">Journal of High Energy Physics</source>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)153</guid>
+    </item><item>
+      <title>gg → ZH at NLO matched to parton showers with ggxy and POWHEG</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)146</link>
+      <description>We implement the recently-calculated analytic expressions for the next-to-leading order QCD corrections to gg → ZH in ggxy. This provides a flexible framework for investigating partonic and hadronic cross sections for various top quark mass renormalization schemes. We augment the Z boson with leptonic decays, including spin correlations and off-shell effects, and furthermore provide an interface to POWHEG. This enables simulations with parton showers, performed using Pythia.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)146">Journal of High Energy Physics</source>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)146</guid>
+    </item><item>
+      <title>Exact solutions to complex Type IIB supergravity for complex superalgebra F (4) and its real forms</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)148</link>
+      <description>We construct the general local solutions to complexified Type IIB supergravity which are invariant under the complexified Lie superalgebra F (4). The geometry is a product of complexified maximally symmetric spaces mathcalM_6mathbbC and mathcalM₂mathbbC warped over a complexified surface Σ . We classify the reality conditions that may be imposed consistently to obtain real form solutions within real forms of complex Type IIB supergravity. The latter comprise standard Type IIB, Type IIB and IIB , as well as theories with 3, 5, 7 and 9 time-like directions. Our classification of real solutions is consistent with and exhausts the real forms of F (4), whose classification we confirm by elementary methods. The geometry of each real form solution is a product of real maximally symmetric spaces mathcalM_6 and mathcalM₂ warped over a Riemann surface Σ, with various signatures. The real solutions include, among others, known AdS × S × Σ and AdS × S × Σ solutions to standard Type IIB as well as </description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)148">Journal of High Energy Physics</source>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)148</guid>
+    </item><item>
       <title>Search for Sub-GeV Dark Particles in η→π0+Invisible Decay</title>
       <link>https://doi.org/10.1103/lbj8-qqm6</link>
       <description>Using (10087±44)×106 J/ψ events collected with the BESIII detector at the BEPCII collider at the center-of-mass energy of s=3.097 GeV, we report the first search for η→π0S→π0χχ¯ with S denoting an on-shell dark scalar boson and χ an invisible dark matter particle. No significant signals are observed with S mass ranging from 0 to 400 MeV/c2. The upper limits on the branching fractions and the new physics coupling strengths between S and quarks are set to be (1.8–5.5)×10−5 and (1.3–3.2)×10−5 at the 90% confidence level, respectively. The constraints on the dark-matter-nucleon scattering cross section is improved by approximately five orders of magnitude over previous dark-matter-nucleon scattering experiments, providing unique insights into sub-GeV dark matter.</description>
@@ -51,108 +142,13 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/9kcn-slvt</guid>
     </item><item>
-      <title>Regulated chiral gauge theory and the strong CP problem</title>
-      <link>https://doi.org/10.1103/wld4-f12c</link>
-      <description>Four-dimensional chiral gauge theory can be formulated as the boundary theory on a five-dimensional manifold in a manner that may be realized on a finite lattice. There are interesting features of these theories that defy a purely four-dimensional conception of universality. We find that QCD when embedded in a chiral gauge theory (the Standard Model) and regulated this way can simultaneously avoid both the U(1)A problem and the strong CP problem, with a central role played by fermion zero modes localized far away in the fifth dimension. In this way it differs from conventional lattice QCD formulated as a stand-alone theory, universality being violated by inaccessible light modes in the five-dimensional bulk. Our analysis builds on recent work by others that highlights the role of global U(1) symmetries in five-dimensional formulations of four-dimensional chiral gauge theories, and the generic appearance of fermion zero modes in the bulk.</description>
-      <source url="https://doi.org/10.1103/wld4-f12c">Physical Review D</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wld4-f12c</guid>
-    </item><item>
-      <title>Low-lying Λ and Σ resonances studied with the forward K* productions off the proton induced by a high-momentum π beam</title>
-      <link>https://doi.org/10.1103/7ffl-qytm</link>
-      <description>We develop a novel model utilizing the forward K* production reaction off the nucleon, πN→K*MB, induced by a high-momentum π beam, as a tool to study low-lying Y* resonances below and just above the K¯N threshold. Because conventional K−p scattering experiments face difficulties in directly accessing this kinematic region, the proposed reaction offers a valuable complementary approach for Y* spectroscopy. The constructed model is based on the one-meson exchange mechanism, which is known to dominate forward-angle production at high energies, and the half-off-shell scattering amplitudes from the ANL-Osaka dynamical coupled-channels models (Model A and Model B). We predict various observables, including differential cross sections and angular distributions. Our results demonstrate significant enhancements in the sub-threshold region of the invariant mass spectra. Notably, we show that overlapping resonances, such as a potential new 3/2+ Σ state and the well-established Σ(1385)3/2+, can co</description>
-      <source url="https://doi.org/10.1103/7ffl-qytm">Physical Review C</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7ffl-qytm</guid>
-    </item><item>
-      <title>Complex geodesics in the Nariai geometry</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)140</link>
-      <description>We study two-point correlation functions of heavy scalar fields in the Nariai geometry. Utilizing the heat kernel formalism, we obtain this result from a geodesic approximation to the two-point function on a product of spheres. By analytically continuing one of the spheres, we obtain the correlation function in the Nariai geometry. This result involves a sum over complex geodesics, extending previous results in pure de Sitter space. We emphasize the important role of the phase of each geodesic contribution, which needs to be taken into account to avoid spurious singularities in the correlator.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)140">Journal of High Energy Physics</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)140</guid>
-    </item><item>
-      <title>Gauged Courant sigma models</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)127</link>
-      <description>We propose a new class of sigma models based on Courant sigma models. We refer to these models as gauged Courant sigma models (GCSMs). By introducing additional gauge symmetries, such as those associated with a Lie group, a Lie groupoid (or Lie algebroid), and a Courant algebroid on the target space, Courant sigma models are extended to gauged sigma models of AKSZ type. The consistency of the theory is ensured by identities among geometric quantities on Lie algebroids and Courant algebroids, such as curvatures and torsions, which can be interpreted as flatness conditions on the target space. We also analyze geometric structures of GCSMs in the presence of fluxes and boundaries.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)127">Journal of High Energy Physics</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)127</guid>
-    </item><item>
-      <title>Complex geodesics in the Nariai geometry</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)140</link>
-      <description>We study two-point correlation functions of heavy scalar fields in the Nariai geometry. Utilizing the heat kernel formalism, we obtain this result from a geodesic approximation to the two-point function on a product of spheres. By analytically continuing one of the spheres, we obtain the correlation function in the Nariai geometry. This result involves a sum over complex geodesics, extending previous results in pure de Sitter space. We emphasize the important role of the phase of each geodesic contribution, which needs to be taken into account to avoid spurious singularities in the correlator.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)140">Journal of High Energy Physics</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)140</guid>
-    </item><item>
-      <title>Sphere amplitudes and observing the universe’s size</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)136</link>
-      <description>Sine dilaton gravity is holographically related to DSSYK. We explain how to interpret sine dilaton as 2d quantum cosmology. This paves the way for using two copies of DSSYK as hologram for Big-Bang cosmologies. We study the most basic cosmological observable: the sphere amplitude. Via canonical quantization we find a finite answer that matches the on-shell action of a dual matrix integral.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)136">Journal of High Energy Physics</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)136</guid>
-    </item><item>
-      <title>Observation of CP Violation in B0→J/ψρ(770)0 Decays</title>
-      <link>https://doi.org/10.1103/6f6r-51br</link>
-      <description>The time-dependent CP asymmetry in B0→J/ψρ(770)0 decays is measured using proton-proton collision data corresponding to an integrated luminosity of 6 fb−1, collected with the LHCb detector at a center-of-mass energy of 13 TeV during the years 2015–2018. The CP-violation parameters for this process are determined to be 2βcc¯deff=0.710±0.084±0.051 rad and |λ|=1.019±0.034±0.024, where the first uncertainty is statistical and the second systematic. This constitutes the first observation of time-dependent CP violation in B0→J/ψρ(770)0 decays. Assuming approximate SU(3) flavor symmetry, these results are combined with the previous consistent LHCb measurement to set the most stringent constraint on the penguin contribution, Δϕs, to the CP-violating phase ϕs in Bs0→J/ψϕ(1020) decays, yielding Δϕs=5.0±4.6 mrad.</description>
-      <source url="https://doi.org/10.1103/6f6r-51br">Physical Review Letters</source>
+      <title>Search for Sub-GeV Dark Particles in η→π0+Invisible Decay</title>
+      <link>https://doi.org/10.1103/lbj8-qqm6</link>
+      <description>Using (10087±44)×106 J/ψ events collected with the BESIII detector at the BEPCII collider at the center-of-mass energy of s=3.097 GeV, we report the first search for η→π0S→π0χχ¯ with S denoting an on-shell dark scalar boson and χ an invisible dark matter particle. No significant signals are observed with S mass ranging from 0 to 400 MeV/c2. The upper limits on the branching fractions and the new physics coupling strengths between S and quarks are set to be (1.8–5.5)×10−5 and (1.3–3.2)×10−5 at the 90% confidence level, respectively. The constraints on the dark-matter-nucleon scattering cross section is improved by approximately five orders of magnitude over previous dark-matter-nucleon scattering experiments, providing unique insights into sub-GeV dark matter.</description>
+      <source url="https://doi.org/10.1103/lbj8-qqm6">Physical Review Letters</source>
       <author>et al.</author>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/6f6r-51br</guid>
-    </item><item>
-      <title>Measurement of the double Dalitz decay η→e+e−e+e−</title>
-      <link>https://doi.org/10.1103/xby6-41bh</link>
-      <description>Using a data sample of (1.0087±0.0044)×1010 J/ψ events collected with the BESIII detector, we study the rare double Dalitz decay of η→e+e−e+e− through the processes J/ψ→γη and J/ψ→γη′,η′→π+π−η. Clear η signals are observed in the e+e−e+e− invariant mass spectrum, with statistical significances of 5.9σ and 7.8σ for the two channels, respectively. By combining both modes, we determine the branching fraction of η→e+e−e+e− to be (2.63±0.34stat±0.16syst)×10−5. The result is consistent with the previous measurements within uncertainties and further constrains physics beyond the standard model.</description>
-      <source url="https://doi.org/10.1103/xby6-41bh">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xby6-41bh</guid>
-    </item><item>
-      <title>Search for emerging jets in pp collisions at sqrts = 13~textrmTeV with the ATLAS experiment</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15693-1</link>
-      <description>A search is presented for emerging jets using 140~textrmfb^-1 of proton–proton collision data at sqrts = 13~textrmTeV , collected by the ATLAS experiment between 2015 and 2018. The search looks for the existence of a dark sector with symmetries similar to those in quantum chromodynamics. This dark sector is populated with dark quarks, which undergo showering similar to quarks in the Standard Model, leading to a high multiplicity of long-lived dark hadrons within a dark jet. These dark hadrons subsequently decay to Standard Model particles via a new heavy scalar mediating particle φ . This results in jets which contain multiple displaced vertices, known as emerging jets. This analysis targets four-jet topologies, with two emerging jets and two Standard Model jets, resulting from the decay of pair-produced scalar mediators. No significant excess above the Standard Model background is observed. For dark pion proper decay lengths of 20~textrmmm , mediator masses are excluded between 1 and </description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15693-1">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15693-1</guid>
-    </item><item>
-      <title>Constraining the Prompt Atmospheric Neutrino Flux combining IceCube’s Cascade and Track samples</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15632-0</link>
-      <description>The IceCube Neutrino Observatory has observed a diffuse flux of high-energy astrophysical neutrinos for more than a decade. A relevant background to the astrophysical flux is prompt atmospheric neutrinos, originating from the decay of charmed mesons produced in cosmic-ray-induced air showers. The production rate of charmed mesons in the very forward phase space of hadronic interactions, and consequently, the prompt neutrino flux, remains uncertain and has not yet been observed by neutrino detectors. An accurate measurement of this flux would enhance our understanding of fundamental particle physics such as hadronic interactions in high-energy cosmic-ray-induced air showers and the nucleon structure. Furthermore, an experimental characterization of this background flux will improve the precision of astrophysical neutrino flux spectral measurements. In this work, we perform a combined fit of cascade-like and track-like neutrino events in IceCube to constrain the prompt atmospheric neutri</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15632-0">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15632-0</guid>
-    </item><item>
-      <title>Study of the Reactions n¯p→2π+π−, 2π+π−π0, and 2π+π−2π0 Using J/ψ→pπ−n¯</title>
-      <link>https://doi.org/10.1103/nm5t-qk3h</link>
-      <description>We report an experimental investigation of the reactions n¯p→2π+π−, n¯p→2π+π−π0, and n¯p→2π+π−2π0 using (10.087±0.044)×109 J/ψ events collected with the BESIII detector at the BEPCII storage ring. The antineutron (n¯) is produced in the decay J/ψ→pπ−n¯ with studied momentum from 200 to 1174 MeV/c, while the target proton originates from the hydrogen nuclei in the cooling oil of the beam pipe. This novel method pioneers the study of n¯-nucleon interactions at an e+e− collider, providing the first experimental data for n¯ momenta exceeding 800 MeV/c.</description>
-      <source url="https://doi.org/10.1103/nm5t-qk3h">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nm5t-qk3h</guid>
-    </item><item>
-      <title>Exploring ultra-slow-roll inflation in composite pseudo-Nambu–Goldstone boson models: implications for primordial black holes and gravitational waves</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16040-0</link>
-      <description>We study inflation driven by a scalar potential arising from composite-sector dynamics, inspired by generalized composite Higgs models. The introduction of a non-minimal coupling, possessing the same functional form as the potential, induces a flattening at large field values that enables successful inflation. We analyze the conditions for ultra-slow-roll inflation, which leads to enhanced curvature perturbations, by combining analytical criteria near the inflection point with comprehensive numerical scans of the parameter space. The region consistent with cosmic microwave background constraints and yielding approximately N_e approx 55-60 e-folds also predicts primordial black holes with masses in the range 10^3-10^5,textrmg . Although such ultra-light primordial black holes are typically expected to have evaporated, recent proposals invoking evaporation suppression via memory-burden effects could allow their survival as viable dark matter candidates. Under this assumption, the predict</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16040-0">European Physical Journal C</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16040-0</guid>
-    </item><item>
-      <title>Four-loop QCD mixing of current–current operators</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16004-4</link>
-      <description>We calculate the anomalous dimension of the |Delta S| = 1 current-current operators of the weak effective Lagrangian at next-to-next-to-next-to-leading order (NNNLO) in QCD. This constitutes the first step towards a full four-loop calculation of the QCD correction to ε _K , the measure for indirect CP violation in the neutral kaon system. We present fully analytic results, together with the expressions necessary to transform our results to a basis with an arbitrary different definition of evanescent operators. As an application, we calculate the corresponding results in the “standard” operator basis used in B-physics.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16004-4">European Physical Journal C</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16004-4</guid>
-    </item><item>
-      <title>Edge of Safety: Charge-Charge Correlation in the Back-to-Back Limit</title>
-      <link>https://doi.org/10.1103/3pqk-qr64</link>
-      <description>We investigate the charge-charge correlation (QQC) in electron-positron annihilation as a probe of charge dynamics in quantum chromodynamics. While generally divergent beyond leading order, we show that the QQC is infrared and collinear safe in the back-to-back limit, a property that we dub leading-power safety. This enables an analytic perturbative treatment that bypasses the reliance on nonperturbative track or fragmentation functions. Using soft-collinear effective field theory, we derive a factorization theorem and determine its logarithmic behavior analytically up to four loops in QCD, uncovering remarkable connections with the energy-energy correlation (EEC). Prior to this Letter, the behavior of the QQC beyond leading order was entirely unknown; we now establish its resummation to next-to-next-to-next-to-next-to-leading logarithmic (N4LL) accuracy, placing it among the observables with the highest perturbative precision alongside the EEC. Our results are validated through a nume</description>
-      <source url="https://doi.org/10.1103/3pqk-qr64">Physical Review Letters</source>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3pqk-qr64</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/lbj8-qqm6</guid>
     </item>
   </channel>
 </rss>
