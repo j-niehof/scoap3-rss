@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 10:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 11:06:34 +0000</lastBuildDate>
     <item>
       <title>Bouncing singularities and thermal correlators on line defects</title>
       <link>https://doi.org/10.1007/JHEP07(2026)170</link>
@@ -35,19 +35,13 @@
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)164</guid>
     </item><item>
-      <title>Non-Abelian Casimir effect for plates, symmetrical tube, and box on the lattice</title>
-      <link>https://doi.org/10.1103/22p4-bxhs</link>
-      <description>We present nonperturbative results of the Casimir potential in non-Abelian SU(3) gauge theory in (2+1)D and (3+1)D in the confined and deconfined phase. For the first time, geometries beyond parallel plates in (3+1)D are explored and we show that the Casimir effect for the symmetrical tube and symmetrical box is attractive. The Casimir potential for the tube differs from the massless noninteracting scalar field theory prediction, where a repulsive Casimir potential is expected. Unlike the parallel plate geometry where the plate size is fixed, in the case of the tube and box, the sizes of the faces forming the walls of the geometries changes with separation distance. We propose various methods that can be used to account for the energy contributions from creating the boundaries. We show that increasing the temperature from a confined to a deconfined phase does not alter the Casimir potential. This observation is consistent with prior work suggesting that the region inside the walls is a</description>
-      <source url="https://doi.org/10.1103/22p4-bxhs">Physical Review D</source>
+      <title>Particle detection using magnetic avalanches in single-molecule magnet crystals</title>
+      <link>https://doi.org/10.1103/r1x8-qc2f</link>
+      <description>The detection of a single quantum of energy with high efficiency and a low false positive rate is of considerable scientific interest, from serving as single quantum sensors of optical and infrared photons to enabling the direct detection of low-mass dark matter. We confirm our initial experimental demonstration of magnetic avalanches induced by scattering of quanta in single-molecule magnet (SMM) crystals made of Mn12 acetate, establishing the use of SMMs as particle detectors for the first time. Although the current setup has an energy threshold in the MeV regime, our results motivate the exploration of a wide variety of SMMs whose properties could allow for detection of sub-eV energy depositions.</description>
+      <source url="https://doi.org/10.1103/r1x8-qc2f">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/22p4-bxhs</guid>
-    </item><item>
-      <title>Opening up new parameter space for sterile neutrino dark matter</title>
-      <link>https://doi.org/10.1103/pg4f-lml1</link>
-      <description>Sterile neutrinos are compelling dark matter (DM) candidates, yet the minimal production mechanism solely based on active-sterile (νa−νs) oscillations is robustly excluded by astrophysical observations. Nonstandard self-interactions in either the active (νa−νa) or sterile (νs−νs) sector are known to alter the sterile neutrino DM production in the early Universe, which could alleviate the tension with astrophysical constraints. Here, we propose a new solution where scalar-mediated nonstandard interactions between active and sterile neutrinos (νa−νs) lead to new production channels for sterile neutrino DM, independent of the active-sterile mixing and without the need for any fine-tuned resonance or primordial lepton asymmetries. This framework enables efficient sterile neutrino DM production even at vanishingly small mixing angles and opens up new viable regions of parameter space that can be tested with future x-ray and gamma-ray observations. It also provides a new mechanism for observ</description>
-      <source url="https://doi.org/10.1103/pg4f-lml1">Physical Review D</source>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pg4f-lml1</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/r1x8-qc2f</guid>
     </item><item>
       <title>Non-Abelian Casimir effect for plates, symmetrical tube, and box on the lattice</title>
       <link>https://doi.org/10.1103/22p4-bxhs</link>
@@ -69,13 +63,6 @@
       <source url="https://doi.org/10.1007/JHEP07(2026)158">Journal of High Energy Physics</source>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)158</guid>
-    </item><item>
-      <title>Exact solutions to complex Type IIB supergravity for complex superalgebra F (4) and its real forms</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)148</link>
-      <description>We construct the general local solutions to complexified Type IIB supergravity which are invariant under the complexified Lie superalgebra F (4). The geometry is a product of complexified maximally symmetric spaces mathcalM_6mathbbC and mathcalM₂mathbbC warped over a complexified surface Σ . We classify the reality conditions that may be imposed consistently to obtain real form solutions within real forms of complex Type IIB supergravity. The latter comprise standard Type IIB, Type IIB and IIB , as well as theories with 3, 5, 7 and 9 time-like directions. Our classification of real solutions is consistent with and exhausts the real forms of F (4), whose classification we confirm by elementary methods. The geometry of each real form solution is a product of real maximally symmetric spaces mathcalM_6 and mathcalM₂ warped over a Riemann surface Σ, with various signatures. The real solutions include, among others, known AdS × S × Σ and AdS × S × Σ solutions to standard Type IIB as well as </description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)148">Journal of High Energy Physics</source>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)148</guid>
     </item><item>
       <title>QFT as a set of ODEs</title>
       <link>https://doi.org/10.1007/JHEP07(2026)153</link>
@@ -142,13 +129,27 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/9kcn-slvt</guid>
     </item><item>
-      <title>Search for Sub-GeV Dark Particles in η→π0+Invisible Decay</title>
-      <link>https://doi.org/10.1103/lbj8-qqm6</link>
-      <description>Using (10087±44)×106 J/ψ events collected with the BESIII detector at the BEPCII collider at the center-of-mass energy of s=3.097 GeV, we report the first search for η→π0S→π0χχ¯ with S denoting an on-shell dark scalar boson and χ an invisible dark matter particle. No significant signals are observed with S mass ranging from 0 to 400 MeV/c2. The upper limits on the branching fractions and the new physics coupling strengths between S and quarks are set to be (1.8–5.5)×10−5 and (1.3–3.2)×10−5 at the 90% confidence level, respectively. The constraints on the dark-matter-nucleon scattering cross section is improved by approximately five orders of magnitude over previous dark-matter-nucleon scattering experiments, providing unique insights into sub-GeV dark matter.</description>
-      <source url="https://doi.org/10.1103/lbj8-qqm6">Physical Review Letters</source>
-      <author>et al.</author>
+      <title>Regulated chiral gauge theory and the strong CP problem</title>
+      <link>https://doi.org/10.1103/wld4-f12c</link>
+      <description>Four-dimensional chiral gauge theory can be formulated as the boundary theory on a five-dimensional manifold in a manner that may be realized on a finite lattice. There are interesting features of these theories that defy a purely four-dimensional conception of universality. We find that QCD when embedded in a chiral gauge theory (the Standard Model) and regulated this way can simultaneously avoid both the U(1)A problem and the strong CP problem, with a central role played by fermion zero modes localized far away in the fifth dimension. In this way it differs from conventional lattice QCD formulated as a stand-alone theory, universality being violated by inaccessible light modes in the five-dimensional bulk. Our analysis builds on recent work by others that highlights the role of global U(1) symmetries in five-dimensional formulations of four-dimensional chiral gauge theories, and the generic appearance of fermion zero modes in the bulk.</description>
+      <source url="https://doi.org/10.1103/wld4-f12c">Physical Review D</source>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/lbj8-qqm6</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/wld4-f12c</guid>
+    </item><item>
+      <title>Low-lying Λ and Σ resonances studied with the forward K* productions off the proton induced by a high-momentum π beam</title>
+      <link>https://doi.org/10.1103/7ffl-qytm</link>
+      <description>We develop a novel model utilizing the forward K* production reaction off the nucleon, πN→K*MB, induced by a high-momentum π beam, as a tool to study low-lying Y* resonances below and just above the K¯N threshold. Because conventional K−p scattering experiments face difficulties in directly accessing this kinematic region, the proposed reaction offers a valuable complementary approach for Y* spectroscopy. The constructed model is based on the one-meson exchange mechanism, which is known to dominate forward-angle production at high energies, and the half-off-shell scattering amplitudes from the ANL-Osaka dynamical coupled-channels models (Model A and Model B). We predict various observables, including differential cross sections and angular distributions. Our results demonstrate significant enhancements in the sub-threshold region of the invariant mass spectra. Notably, we show that overlapping resonances, such as a potential new 3/2+ Σ state and the well-established Σ(1385)3/2+, can co</description>
+      <source url="https://doi.org/10.1103/7ffl-qytm">Physical Review C</source>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7ffl-qytm</guid>
+    </item><item>
+      <title>Observation of CP Violation in B0→J/ψρ(770)0 Decays</title>
+      <link>https://doi.org/10.1103/6f6r-51br</link>
+      <description>The time-dependent CP asymmetry in B0→J/ψρ(770)0 decays is measured using proton-proton collision data corresponding to an integrated luminosity of 6 fb−1, collected with the LHCb detector at a center-of-mass energy of 13 TeV during the years 2015–2018. The CP-violation parameters for this process are determined to be 2βcc¯deff=0.710±0.084±0.051 rad and |λ|=1.019±0.034±0.024, where the first uncertainty is statistical and the second systematic. This constitutes the first observation of time-dependent CP violation in B0→J/ψρ(770)0 decays. Assuming approximate SU(3) flavor symmetry, these results are combined with the previous consistent LHCb measurement to set the most stringent constraint on the penguin contribution, Δϕs, to the CP-violating phase ϕs in Bs0→J/ψϕ(1020) decays, yielding Δϕs=5.0±4.6 mrad.</description>
+      <source url="https://doi.org/10.1103/6f6r-51br">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/6f6r-51br</guid>
     </item>
   </channel>
 </rss>
