@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 11:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 12:12:48 +0000</lastBuildDate>
     <item>
       <title>Bouncing singularities and thermal correlators on line defects</title>
       <link>https://doi.org/10.1007/JHEP07(2026)170</link>
@@ -50,12 +50,13 @@
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/22p4-bxhs</guid>
     </item><item>
-      <title>Opening up new parameter space for sterile neutrino dark matter</title>
-      <link>https://doi.org/10.1103/pg4f-lml1</link>
-      <description>Sterile neutrinos are compelling dark matter (DM) candidates, yet the minimal production mechanism solely based on active-sterile (νa−νs) oscillations is robustly excluded by astrophysical observations. Nonstandard self-interactions in either the active (νa−νa) or sterile (νs−νs) sector are known to alter the sterile neutrino DM production in the early Universe, which could alleviate the tension with astrophysical constraints. Here, we propose a new solution where scalar-mediated nonstandard interactions between active and sterile neutrinos (νa−νs) lead to new production channels for sterile neutrino DM, independent of the active-sterile mixing and without the need for any fine-tuned resonance or primordial lepton asymmetries. This framework enables efficient sterile neutrino DM production even at vanishingly small mixing angles and opens up new viable regions of parameter space that can be tested with future x-ray and gamma-ray observations. It also provides a new mechanism for observ</description>
-      <source url="https://doi.org/10.1103/pg4f-lml1">Physical Review D</source>
+      <title>Particle detection using magnetic avalanches in single-molecule magnet crystals</title>
+      <link>https://doi.org/10.1103/r1x8-qc2f</link>
+      <description>The detection of a single quantum of energy with high efficiency and a low false positive rate is of considerable scientific interest, from serving as single quantum sensors of optical and infrared photons to enabling the direct detection of low-mass dark matter. We confirm our initial experimental demonstration of magnetic avalanches induced by scattering of quanta in single-molecule magnet (SMM) crystals made of Mn12 acetate, establishing the use of SMMs as particle detectors for the first time. Although the current setup has an energy threshold in the MeV regime, our results motivate the exploration of a wide variety of SMMs whose properties could allow for detection of sub-eV energy depositions.</description>
+      <source url="https://doi.org/10.1103/r1x8-qc2f">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pg4f-lml1</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/r1x8-qc2f</guid>
     </item><item>
       <title>The disk 1-point function in timelike Liouville theory</title>
       <link>https://doi.org/10.1007/JHEP07(2026)158</link>
