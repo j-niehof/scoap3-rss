@@ -5,8 +5,38 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:44:27 +0000</lastBuildDate>
     <item>
+      <title>Erratum to: Future Circular Collider Feasibility Study Report</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15493-7</link>
+      <description />
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15493-7">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15493-7</guid>
+    </item><item>
+      <title>Variance reduction in lattice QCD observables via normalizing flows</title>
+      <link>https://doi.org/10.1103/5xns-7qmj</link>
+      <description>Normalizing flows can be used to construct unbiased, reduced-variance estimators for lattice field theory observables that are defined by a derivative with respect to action parameters. This work implements the approach for observables involving gluonic operator insertions in the SU(3) Yang-Mills theory and two-flavor QCD in four space-time dimensions. Variance reduction by factors of 10–60 is achieved in glueball correlation functions and in gluonic matrix elements related to hadron structure, with demonstrated computational advantages. The observed variance reduction is found to be approximately independent of the lattice volume, so volume transfer can be utilized to minimize training costs.</description>
+      <source url="https://doi.org/10.1103/5xns-7qmj">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5xns-7qmj</guid>
+    </item><item>
+      <title>Primordial magnetic field from chiral plasma instability with sourcing</title>
+      <link>https://doi.org/10.1103/7lpb-9yvw</link>
+      <description>In an electron-positron plasma, an imbalance in the number of right-and left-chiral particles can lead to the growth of a helical magnetic field through a phenomenon called the chiral plasma instability (CPI). In the early Universe, scattering reactions that violate chirality come into thermal equilibrium when the plasma cools below a temperature of approximately 80 TeV. Since these reactions tend to relax any preexisting chiral asymmetry to zero as the system approaches equilibrium, the standard lore is that primordial magnetogenesis via the CPI is not viable below 80 TeV. In this work, we propose that the presence of a source for chirality can allow the CPI to operate even below 80 TeV, we explore the implications of this scenario, and we derive predictions for the resultant magnetic field helicity using a combination of analytical methods and direct numerical simulation.</description>
+      <source url="https://doi.org/10.1103/7lpb-9yvw">Physical Review D</source>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7lpb-9yvw</guid>
+    </item><item>
+      <title>Renormalisation and matching of massless scalar correlation functions in Soft de Sitter Effective Theory</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)177</link>
+      <description>For light and massless scalar fields, cosmological correlation functions suffer from infrared divergences and secular logarithms. Soft de Sitter Effective Theory (SdSET) has been proposed by Cohen and Green as the effective description of the non-trivial dynamics of long-wavelength modes k &lt; H in de Sitter space, which is responsible for the infrared and late-time logarithms, and as a systematic extension of the stochastic approach. In this article, we construct SdSET in dimensional regularisation, including an initial-condition functional. We demonstrate by examples that renormalisation and matching works as for flat-space effective field theories. Adopting massless κϕ theory as the UV theory, we match the tree-level trispectrum and six-point function, and the one-loop power spectrum to SdSET, verifying explicitly that SdSET is the appropriate effective field theory for the quantum dynamics of superhorizon modes.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)177">Journal of High Energy Physics</source>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)177</guid>
+    </item><item>
       <title>Baby Universes from Thermal Pure States in the Sachdev-Ye-Kitaev Model</title>
       <link>https://doi.org/10.1103/8p6x-w737</link>
       <description>We construct a simple two-dimensional holographic model of a closed “baby” universe. The baby universe spacetime originates from the black hole interior in Jackiw-Teitelboim gravity. The holographic description is a low-temperature thermal pure state of two Sachdev-Ye-Kitaev (SYK) models. The construction of the state relies on the insertion of a heavy matter operator, which supports the baby universe, together with a first-order thermal phase transition between a black hole phase and an empty anti–de Sitter phase. For the transition, we employ a version of the Maldacena-Qi phase transition of two coupled SYK systems. The bulk entanglement between the anti–de Sitter region and the baby universe remains O(N) below the transition, owing to the large number of light bulk fields. This entanglement admits a definition through coarse-graining over SYK couplings.</description>
@@ -29,21 +59,6 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/6399-gw3k</guid>
     </item><item>
-      <title>Efficient computation of the N-th rank QED polarization tensor: Universal worldline structure of form factors</title>
-      <link>https://doi.org/10.1103/s6zt-srrr</link>
-      <description>We derived in [Phys. Rev. D 106, 056009 (2022), Phys. Rev. D 107, 096021 (2023)] a compact expression for the Nth rank QED polarization tensor Πμ1⋯μN(k1,…,kN) in a (0+1)-dimensional worldline framework. This fully off-shell object, a function of N external photon 4-momenta, is a key ingredient in high-order computations of cusp anomalous dimensions and lepton anomalous magnetic moments. We demonstrate here that Πμ1⋯μN can further be expressed simply in terms of a small number of independent “head” form factors [each representing (N−1)!/2 Feynman diagrams] which have a universal structure in terms of sums over fermion Green’s functions and (proper time derivative of) their boson worldline superpartners. This worldline representation bypasses explicit Wick contractions and avoids tensor reductions to scalar loop integrals à la Passarino and Veltman, order by order in perturbation theory. We give explicit expressions for the fourth and sixth rank head form factors and provide a computer s</description>
-      <source url="https://doi.org/10.1103/s6zt-srrr">Physical Review D</source>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/s6zt-srrr</guid>
-    </item><item>
-      <title>Boosted decision tree reweighting of simulated neutrino interactions for O(1) GeV neutrino cross-section measurements</title>
-      <link>https://doi.org/10.1103/7zty-f2qj</link>
-      <description>This paper illustrates a generic method for multidimensional reweighting of O(1) GeV neutrino interaction Monte Carlo samples. The reweighting is based on a boosted decision tree algorithm trained on high-dimensional space in detector final-state observables. This enables one generator’s events to be reweighted so that its reconstructed particle content and kinematics distributions, as well as detector efficiency, match those of a target model. The approach establishes an efficient way to reuse legacy Monte Carlo data, avoiding regeneration. As an example, we test its use in a measurement of transverse kinematic imbalance of the μ− and proton in charged-current quasielastic like νμ events from the MINERvA experiment.</description>
-      <source url="https://doi.org/10.1103/7zty-f2qj">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7zty-f2qj</guid>
-    </item><item>
       <title>Bouncing singularities and thermal correlators on line defects</title>
       <link>https://doi.org/10.1007/JHEP07(2026)170</link>
       <description>Thermal correlators in holographic conformal field theories are known to exhibit singularities in complex time, sometimes referred to as “bouncing singularities”, which are believed to be related to bulk geodesics probing the black hole interior. These singularities correspond to exponentially suppressed contributions in the high-frequency limit of the thermal correlators. We revisit in detail the calculation of retarded two-point functions of local operators dual to bulk scalar fields in the planar AdS black hole background. We confirm that these correlators develop bouncing singularities, and highlight the agreement of two independent methods: a large frequency WKB analysis with infalling boundary conditions at the horizon; and an asymptotic OPE analysis that relies only on the near-boundary expansion, without any direct input from the black hole interior. We then extend these calculations to the case of the retarded two-point function of displacement operators on a Wilson line in th</description>
@@ -64,13 +79,6 @@
       <source url="https://doi.org/10.1007/JHEP07(2026)174">Journal of High Energy Physics</source>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)174</guid>
-    </item><item>
-      <title>Collider probes of baryogenesis with maximal CP asymmetry</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)164</link>
-      <description>We propose a novel collider probe of baryogenesis at TeV scale by measuring decay asymmetries into particle and anti-particle final states. Motivated by the idea of Dirac leptogenesis, we consider an extension of the standard model with new colored and SU(2) singlet particles in such a way that the out-of-equilibrium decay of heavy colored fermions creates equal and opposite CP asymmetries in two sectors, prevented from equilibrating with each other. While the TeV scale viability of this mechanism requires a resonantly enhanced CP asymmetry, the latter also plays a crucial role leading to observable decay asymmetries in colliders. In addition to discussing conventional signatures of such heavy colored particles, namely, mono-jet plus missing transverse energy, displaced vertex, colored track at hadron colliders, we also show the unique possibility of measuring decay asymmetries via forward-backward and charge asymmetries at future muon colliders. In addition to being a verifiable TeV-s</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)164">Journal of High Energy Physics</source>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)164</guid>
     </item><item>
       <title>Particle detection using magnetic avalanches in single-molecule magnet crystals</title>
       <link>https://doi.org/10.1103/r1x8-qc2f</link>
@@ -93,50 +101,6 @@
       <source url="https://doi.org/10.1103/pg4f-lml1">Physical Review D</source>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/pg4f-lml1</guid>
-    </item><item>
-      <title>Search for Sub-GeV Dark Particles in η→π0+Invisible Decay</title>
-      <link>https://doi.org/10.1103/lbj8-qqm6</link>
-      <description>Using (10087±44)×106 J/ψ events collected with the BESIII detector at the BEPCII collider at the center-of-mass energy of s=3.097 GeV, we report the first search for η→π0S→π0χχ¯ with S denoting an on-shell dark scalar boson and χ an invisible dark matter particle. No significant signals are observed with S mass ranging from 0 to 400 MeV/c2. The upper limits on the branching fractions and the new physics coupling strengths between S and quarks are set to be (1.8–5.5)×10−5 and (1.3–3.2)×10−5 at the 90% confidence level, respectively. The constraints on the dark-matter-nucleon scattering cross section is improved by approximately five orders of magnitude over previous dark-matter-nucleon scattering experiments, providing unique insights into sub-GeV dark matter.</description>
-      <source url="https://doi.org/10.1103/lbj8-qqm6">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/lbj8-qqm6</guid>
-    </item><item>
-      <title>Moduli space curvature and the weak gravity conjecture</title>
-      <link>https://doi.org/10.1103/4tf1-c9l7</link>
-      <description>We unveil a remarkable interplay between rigid field theories (RFTs), charge-to-mass ratios γ, and scalar curvature divergences Rdiv in the vector multiplet moduli space of 4D N=2 supergravities, obtained upon compactifying type II string theory on Calabi–Yau threefolds. We show that the condition to obtain an RFT that decouples from gravity implies a divergence in the γ of (would-be) BPS particles charged under the rigid theory and vice-versa. For weak coupling limits, where the scalar curvature diverges, we argue that such BPS particles exist and that Rdiv≲γ2, implying that all these divergences are a consequence of RFT limits. More precisely, along geodesics we find that Rdiv∼(Λwgc/Λg)2, where Λwgc≡grigidMPl is the RFT cutoff estimate of the weak gravity conjecture and Λg=grigid−2ΛRFT the electrostatic energy integrated up to its actual cutoff ΛRFT.</description>
-      <source url="https://doi.org/10.1103/4tf1-c9l7">Physical Review D</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4tf1-c9l7</guid>
-    </item><item>
-      <title>Neutron reconstruction via blips in liquid argon time projection chambers</title>
-      <link>https://doi.org/10.1103/dkbs-j6g5</link>
-      <description>Neutrons are important final-state particles in neutrino interactions, yet they are not considered or reconstructed in most current neutrino liquid argon time projection chamber (LArTPC) physics analyses. In this paper, we present a simulation-based proof-of-concept study of neutron reconstruction in a generic LArTPC detector. Leveraging isolated, MeV-scale energy deposits, or blips, from neutron inelastic scattering, and using realistic blip response from published experimental results, we demonstrate the capability to identify neutrons and to reconstruct the direction and energy of the final-state neutron system in sub-GeV neutrino interactions. We then explore how neutron-related blip attributes can be used to improve physics studies of neutrino interactions, such as enhancing neutrino-antineutrino separation in atmospheric neutrinos and reverse-horn-current beam neutrinos. This study provides an initial quantification of LArTPC neutron reconstruction capabilities, which we expect t</description>
-      <source url="https://doi.org/10.1103/dkbs-j6g5">Physical Review D</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dkbs-j6g5</guid>
-    </item><item>
-      <title>Universe originating from an empty Planck-size torus</title>
-      <link>https://doi.org/10.1103/x381-qbm1</link>
-      <description>We consider a Universe with a three-torus topology, which before inflation is devoid of any matter or radiation. Its preinflationary evolution is driven solely by Casimir energies of the existing fields, with a radiationlike equation of state. We show that, under natural assumptions and with the appropriate number of fermions and bosons in the theory, such a Universe can start its evolution from a Planck size at the Planck time. Moreover, assuming typical parameters for inflation and reheating, the three-torus Universe can be several Hubble radii across at present time, which is precisely the size hinted by the anomaly in the cosmic microwave background observed at low multipole moments. We derive a relation between the size of the Universe, the number of e-folds of inflation, and the energy density decrease during reheating, which we then use to determine the parameter values consistent with the anomaly and the lower bound on the size of the Universe from the Planck satellite.</description>
-      <source url="https://doi.org/10.1103/x381-qbm1">Physical Review D</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/x381-qbm1</guid>
-    </item><item>
-      <title>How to pick the best anomaly detector?</title>
-      <link>https://doi.org/10.1103/9kcn-slvt</link>
-      <description>Anomaly detection has the potential to discover new physics in unexplored regions of the data. However, choosing the best anomaly detector for a given dataset in a model-agnostic way is an important challenge which has hitherto largely been neglected. In this paper, we introduce the data-driven ARGOS metric, which has a sound theoretical foundation and is empirically shown to robustly select the most sensitive anomaly detection model given the data. Focusing on weakly supervised, classifier-based anomaly detection methods, we show that the ARGOS metric outperforms other model selection metrics previously used in the literature, in particular the binary cross-entropy loss. We explore several realistic applications, including hyperparameter tuning as well as architecture and feature selection. In all cases, we demonstrate that ARGOS is highly sensitive to the small amounts of signal present in anomaly detection analyses while at the same time being robust to background overfitting and ba</description>
-      <source url="https://doi.org/10.1103/9kcn-slvt">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9kcn-slvt</guid>
-    </item><item>
-      <title>Low-lying Λ and Σ resonances studied with the forward K* productions off the proton induced by a high-momentum π beam</title>
-      <link>https://doi.org/10.1103/7ffl-qytm</link>
-      <description>We develop a novel model utilizing the forward K* production reaction off the nucleon, πN→K*MB, induced by a high-momentum π beam, as a tool to study low-lying Y* resonances below and just above the K¯N threshold. Because conventional K−p scattering experiments face difficulties in directly accessing this kinematic region, the proposed reaction offers a valuable complementary approach for Y* spectroscopy. The constructed model is based on the one-meson exchange mechanism, which is known to dominate forward-angle production at high energies, and the half-off-shell scattering amplitudes from the ANL-Osaka dynamical coupled-channels models (Model A and Model B). We predict various observables, including differential cross sections and angular distributions. Our results demonstrate significant enhancements in the sub-threshold region of the invariant mass spectra. Notably, we show that overlapping resonances, such as a potential new 3/2+ Σ state and the well-established Σ(1385)3/2+, can co</description>
-      <source url="https://doi.org/10.1103/7ffl-qytm">Physical Review C</source>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7ffl-qytm</guid>
     </item>
   </channel>
 </rss>
