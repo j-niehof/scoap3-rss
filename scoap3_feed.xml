@@ -5,8 +5,29 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 11:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 11:05:38 +0000</lastBuildDate>
     <item>
+      <title>Phases of giant magnetic vortex strings</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)233</link>
+      <description>We consider Abrikosov-Nielsen-Olesen magnetic vortex strings in 3+1 dimensional Abelian Higgs models. We systematically analyze the giant vortex regime using a combination of analytic and numerical methods. In this regime the strings are infinitely long, axially symmetric, and support a large magnetic flux n along the symmetry axis in their core that causes them to spread out in the transverse directions. Extending previous observations, we show that the non-linear equations governing giant vortices can essentially be solved exactly. The solutions fall into different universality classes, reflecting the properties of the Higgs potential, that become sharply distinct phases in the large-n limit. We use this understanding to shed light on the binding energies and stability of vortex strings in each universality class.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)233">Journal of High Energy Physics</source>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)233</guid>
+    </item><item>
+      <title>Breakdown of semiclassical gravity in four-dimensional black hole evaporation</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)226</link>
+      <description>We study black hole formation and evaporation in a four-dimensional semiclassical model that preserves diffeomorphism invariance and reproduces the one-loop trace anomaly. Solving the quantum-corrected Einstein equations for the collapse of a spherically symmetric null shell, we follow the formation and evaporation of a black hole with back-reaction included. The semiclassical solutions develop a spacelike “thunderbolt” singularity that emerges after the apparent horizon has receded and extends far from the black hole where the semiclassical curvature is a priori expected to be parametrically small. This behavior arises from a nonlinear instability of the higher-derivative semiclassical equations and is generic in models with anomaly-induced quantum corrections. The thunderbolt signals a breakdown of semiclassical effective field theory over macroscopic distances and undermines the standard formulation of the black hole information paradox.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)226">Journal of High Energy Physics</source>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)226</guid>
+    </item><item>
+      <title>Hiding a light vector boson from terrestrial experiments: A chargephobic dark photon</title>
+      <link>https://doi.org/10.1103/718s-7k7v</link>
+      <description>We calculate the terrestrial, astrophysical, and cosmological constraints on a light vector boson that couples to an arbitrary combination of the electromagnetic and B−L currents of the Standard Model. The dark photon and a vector boson coupling to B−L are special cases of our generalized flavor-universal anomaly-free vector boson, requiring just one additional parameter (the “dark mixing angle” corresponding to the linear combination of the electromagnetic and B−L currents) beyond that of the overall coupling strength and the vector boson mass, where we focus on the range 1 MeV to 60 GeV We perform a detailed investigation of a unique combination where the vector boson couplings to electrically charged leptons and protons are highly suppressed: the “chargephobic dark photon.” A chargephobic vector boson is very weakly constrained by current terrestrial experiments including beam dumps and collider experiments, since they rely on couplings to electrons and protons. Instead, neutrino sc</description>
+      <source url="https://doi.org/10.1103/718s-7k7v">Physical Review D</source>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/718s-7k7v</guid>
+    </item><item>
       <title>Lorentzian path integrals and Jackiw-Teitelboim wormholes with imaginary scalars</title>
       <link>https://doi.org/10.1007/JHEP07(2026)215</link>
       <description>The Lorentzian path integral was recently used to argue that standard Euclidean axion wormholes do not dominate computations of connected AdS/CFT partition functions. We now apply similar methods to study the seemingly-analogous Jackiw-Teitelboim wormholes constructed by Garcia-Garcia and Godet using Jackiw-Teitelboim gravity with an imaginary-valued minimally-coupled massless scalar field. However, this time we find that these wormholes do dominate our path integral for the relevant connected partition function. This supports the suggestion by Garcia-Garcia and Godet that contributions from such wormholes parallel the physics of the Sachdev-Ye-Kitaev model at complex couplings. The result also illustrates the sensitivity of wormhole contributions to details of the relevant physics.</description>
@@ -14,13 +35,26 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)215</guid>
     </item><item>
-      <title>Improved measurement of η′→e+e−ω</title>
-      <link>https://doi.org/10.1103/qdl2-7ltt</link>
-      <description>Using a sample of (10087±44)×106 J/ψ events collected with the BESIII detector, an improved measurement of the decay η′→e+e−ω, with ω→π+π−π0 and π0→γγ is performed. The branching fraction is determined to be B(η′→e+e−ω)=(1.79±0.09±0.12)×10−4, where the first uncertainty is statistical and the second is systematic. This result is consistent with the previous measurement and is obtained with significantly improved precision. Furthermore, the first measurement of the transition form factor cutoff parameter for this decay is reported, with Λ−1=(2.92±0.83±0.15) GeV−1. These measurements provide valuable input for understanding the internal structure of the η′ meson and testing theoretical models.</description>
-      <source url="https://doi.org/10.1103/qdl2-7ltt">Physical Review D</source>
-      <author>et al.</author>
+      <title>Microstate counting from defects in de Sitter</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)208</link>
+      <description>We explore the microscopic origin of de Sitter entropy using a Lorentzian path-integral approach. We construct a Hilbert space whose states are associated with configurations of thin shells or end-of-the-world branes, with state overlaps defined by the gravitational path integral. By considering states which are indistinguishable to an observer, we find that the variance of microstate overlaps is dominated by Lorentzian wormhole topologies with conical singularities. Evaluating these overlaps, we recover the expected area law for the entropy, relating the dimension of the de Sitter Hilbert space to the area of the cosmological horizon. Extending this analysis to Schwarzschild-de Sitter spacetime, we show that both the cosmological and black hole horizons contribute to the total entropy. Along the way, we present an explicit construction of the shell and brane configurations and examine their compatibility with relevant consistency conditions, including the null energy condition.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)208">Journal of High Energy Physics</source>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)208</guid>
+    </item><item>
+      <title>The fate of Reissner-Nordström-de Sitter black holes: nonequilibrium discharge and evaporation</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)212</link>
+      <description>We develop an analytic semiclassical effective model of Reissner-Nordström-de Sitter (RN-dS) discharge and evaporation by combining a spherically reduced two-dimensional description of the classical geometry with the pure Polyakov conformal sector for the radial energy flux. The framework captures the causal and thermodynamic structure of the static patch and yields closed adiabatic evolution equations for the mass and charge. With positive mathcalF the outward Killing-energy flux from the black-hole horizon to the cosmological horizon, the chosen Unruh-de Sitter state gives mathcalF = (N /48π)( kappa_b^2-kappa_c^2 ), while the full mass evolution is Ṁ = − mathcalF + Phi_bdotQ , with Φ = Q/r . Along the sub-Nariai neutral Schwarzschild-de Sitter branch the ordering κ &gt; κ implies monotonic mass loss. Standard Schwinger pair production provides the discharge channel. In the rapid-discharge regime, charged trajectories become effectively neutral on a timescale short compared with the Poly</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)212">Journal of High Energy Physics</source>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)212</guid>
+    </item><item>
+      <title>Geometric suppression of CMB isocurvature and a blue-tilted spectrum</title>
+      <link>https://doi.org/10.1103/fpd7-xdhl</link>
+      <description>CMB limits on cold-dark-matter isocurvature are often interpreted as excluding the simultaneous realization of high-scale inflation and large QCD axion decay constants in preinflationary Peccei-Quinn (PQ) scenarios. This conclusion can be evaded by exploiting field-space geometry. For a minimal complex PQ scalar with a U(1)-symmetric potential and a nonlinear sigma-model kinetic term dσ2=dR2+f2(R)dθ2, the observable axion fluctuation is δθ∼Hinf/f(R), so an enhanced effective decay constant f(R) suppresses isocurvature without explicit PQ breaking, extreme radial displacements, or additional couplings. We specialize to a hyperbolic metric f(R)∝sinh(R/L) with curvature scale L. The same geometry also induces a time-dependent O(Hinf) effective mass for the canonical axial mode during radial slow-roll, and fixing the tilt and running of isocurvature. Thus, CMB-scale isocurvature is suppressed while a characteristic blue-tilted spectrum is generated. As a result, inflationary Hubble scales </description>
+      <source url="https://doi.org/10.1103/fpd7-xdhl">Physical Review D</source>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qdl2-7ltt</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/fpd7-xdhl</guid>
     </item><item>
       <title>Investigating the role of tetraquark operators in lattice QCD studies of the a0(980) and κ resonances</title>
       <link>https://doi.org/10.1103/bs45-shv9</link>
@@ -101,57 +135,19 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)196</guid>
     </item><item>
-      <title>On mixed ’t Hooft anomalies of emergent symmetries</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)195</link>
-      <description>In this paper, we investigate the dynamical constraints imposed on the UV theory when it develops an emergent symmetry in the infrared with mixed ’t Hooft anomalies. We demonstrate that, under certain conditions, the UV theory must contain non-genuine operators. Our primary examples illustrating this phenomenon are 2D gauged linear sigma models and 3D Chern-Simons-matter theories. Through this analysis, we establish connections between different classes of topological quantum field theories and propose a correspondence between quantum cohomologies of distinct target spaces.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)195">Journal of High Energy Physics</source>
+      <title>Boundary critical behavior of the Gross-Neveu-Yukawa model</title>
+      <link>https://doi.org/10.1103/2rm3-ggl3</link>
+      <description>We study the critical behavior of the semi-infinite Gross-Neveu-Yukawa model, a quantum field theory describing Dirac fermions interacting with bosonic fields via a Yukawa coupling. We consider Neumann and Dirichlet boundary conditions for the bosonic fields, and the most general boundary conditions for the fermions that preserve unitarity, conformal invariance, and charge conjugation symmetry. We analyze the phase diagram and identify distinct fixed points corresponding to different universality classes of boundary critical behavior. The associated boundary critical exponents, which govern the scaling behavior and crossover phenomena, are computed to one-loop order. We also discuss the relevance of our results to the semi-infinite pseudoscalar Yukawa model.</description>
+      <source url="https://doi.org/10.1103/2rm3-ggl3">Physical Review D</source>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)195</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/2rm3-ggl3</guid>
     </item><item>
-      <title>New thermal-relic targets for sub-GeV dark matter direct detection</title>
-      <link>https://doi.org/10.1103/hgk4-zspm</link>
-      <description>Dark matter direct detection experiments involving electron recoils are beginning to test highly predictive, thermal-relic milestones for sub-GeV dark matter models. Due to the Lee-Weinberg bound, thermal dark matter candidates in this mass range necessarily require comparably light mediator particles to achieve a suitably large annihilation cross section. Here we present new thermal-relic milestones for sub-GeV dark matter candidates that couple to vector mediators. In these models, the mediators are massive gauge bosons of anomaly-free Abelian extensions to the Standard Model, including the dark photon, gauged Li−Lj,B−L, and B−3Li models, where B is the baryon number, L is the lepton number, and i, j index the lepton families. Since the same interactions that govern cosmological production also govern electron scattering, the targets we present are firmly predictive and allow for these models to be robustly discovered or falsified. Furthermore, since the mediators we study exhaust th</description>
-      <source url="https://doi.org/10.1103/hgk4-zspm">Physical Review D</source>
+      <title>Thermal damping of mass-modulating scalars</title>
+      <link>https://doi.org/10.1103/rqq9-1dc2</link>
+      <description>The cosmological evolution of a scalar field is shaped by Hubble damping. Any nongravitational couplings of the scalar with the primordial thermal bath generically contribute additional damping. Although often neglected, such thermal damping could be the dominant dissipative effect on the scalar. We derive approximate yet highly general thermal damping rates of scalar fields that modulate the masses of thermally populated particles. We extend previous results to cover cases of particular phenomenological interest where the scalar background oscillates sinusoidally but not necessarily slowly compared to the thermalization rates of the primordial bath. As applications, we estimate the thermal damping of scalars coupled linearly to neutrinos, quadratically to gluons, and linearly to Weakly Interacting Massive Particles, and demonstrate the importance of this effect in certain parameter spaces of these models. We also estimate the thermal damping rates in models of QCD axions.</description>
+      <source url="https://doi.org/10.1103/rqq9-1dc2">Physical Review D</source>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hgk4-zspm</guid>
-    </item><item>
-      <title>Accessing the gluon momentum fraction of nucleons through the gradient flow</title>
-      <link>https://doi.org/10.1103/3cc3-mnbs</link>
-      <description>We calculate the gluon momentum fraction of the nucleon using lattice QCD, with a nonperturbative renormalization technique based on the gradient flow. The gluon momentum fraction is determined on a single Wilson-clover ensemble using Nf=2+1 flavors with pion mass 358 MeV and lattice spacing 0.094 fm. We employ the variational method to reduce excited-state contamination and apply the distillation framework to ensure a large operator basis. To reduce systematic uncertainties, we apply Bayesian model averaging to all fit procedures. We apply matching coefficients to the flow-time dependent lattice results to recover the gluon momentum fraction in the MS¯-scheme at 2 GeV. Our final result is ⟨x⟩g(μ=2 GeV)=0.482(35), where we quote only statistical uncertainties.</description>
-      <source url="https://doi.org/10.1103/3cc3-mnbs">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3cc3-mnbs</guid>
-    </item><item>
-      <title>New thermal-relic targets for sub-GeV dark matter direct detection</title>
-      <link>https://doi.org/10.1103/hgk4-zspm</link>
-      <description>Dark matter direct detection experiments involving electron recoils are beginning to test highly predictive, thermal-relic milestones for sub-GeV dark matter models. Due to the Lee-Weinberg bound, thermal dark matter candidates in this mass range necessarily require comparably light mediator particles to achieve a suitably large annihilation cross section. Here we present new thermal-relic milestones for sub-GeV dark matter candidates that couple to vector mediators. In these models, the mediators are massive gauge bosons of anomaly-free Abelian extensions to the Standard Model, including the dark photon, gauged Li−Lj,B−L, and B−3Li models, where B is the baryon number, L is the lepton number, and i, j index the lepton families. Since the same interactions that govern cosmological production also govern electron scattering, the targets we present are firmly predictive and allow for these models to be robustly discovered or falsified. Furthermore, since the mediators we study exhaust th</description>
-      <source url="https://doi.org/10.1103/hgk4-zspm">Physical Review D</source>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hgk4-zspm</guid>
-    </item><item>
-      <title>Accessing the gluon momentum fraction of nucleons through the gradient flow</title>
-      <link>https://doi.org/10.1103/3cc3-mnbs</link>
-      <description>We calculate the gluon momentum fraction of the nucleon using lattice QCD, with a nonperturbative renormalization technique based on the gradient flow. The gluon momentum fraction is determined on a single Wilson-clover ensemble using Nf=2+1 flavors with pion mass 358 MeV and lattice spacing 0.094 fm. We employ the variational method to reduce excited-state contamination and apply the distillation framework to ensure a large operator basis. To reduce systematic uncertainties, we apply Bayesian model averaging to all fit procedures. We apply matching coefficients to the flow-time dependent lattice results to recover the gluon momentum fraction in the MS¯-scheme at 2 GeV. Our final result is ⟨x⟩g(μ=2 GeV)=0.482(35), where we quote only statistical uncertainties.</description>
-      <source url="https://doi.org/10.1103/3cc3-mnbs">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3cc3-mnbs</guid>
-    </item><item>
-      <title>Erratum to: Future Circular Collider Feasibility Study Report</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15493-7</link>
-      <description />
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15493-7">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15493-7</guid>
-    </item><item>
-      <title>Primordial magnetic field from chiral plasma instability with sourcing</title>
-      <link>https://doi.org/10.1103/7lpb-9yvw</link>
-      <description>In an electron-positron plasma, an imbalance in the number of right-and left-chiral particles can lead to the growth of a helical magnetic field through a phenomenon called the chiral plasma instability (CPI). In the early Universe, scattering reactions that violate chirality come into thermal equilibrium when the plasma cools below a temperature of approximately 80 TeV. Since these reactions tend to relax any preexisting chiral asymmetry to zero as the system approaches equilibrium, the standard lore is that primordial magnetogenesis via the CPI is not viable below 80 TeV. In this work, we propose that the presence of a source for chirality can allow the CPI to operate even below 80 TeV, we explore the implications of this scenario, and we derive predictions for the resultant magnetic field helicity using a combination of analytical methods and direct numerical simulation.</description>
-      <source url="https://doi.org/10.1103/7lpb-9yvw">Physical Review D</source>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7lpb-9yvw</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/rqq9-1dc2</guid>
     </item>
   </channel>
 </rss>
