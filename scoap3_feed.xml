@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 11:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:52:27 +0000</lastBuildDate>
     <item>
+      <title>Xenon signal denoising via supervised, semi-supervised, and unsupervised models</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16114-z</link>
+      <description>This study presents a denoising algorithm trained using machine learning to improve the energy resolution of a single-phase liquid xenon time projection chamber for neutrinoless double beta decay detection. Supervised, unsupervised, and semi-supervised models are demonstrated to significantly remove noise from simulated measurements while preserving signal information. The supervised model achieves an energy resolution of &lt;1% , while the semi-supervised models achieve energy resolutions of sim 1% , and the unsupervised model performance is sim 1.5% . This work is evidence that machine learning denoising can improve energy resolution compared to traditional algorithms, even when experimentalists lack perfect a priori knowledge of the signals. Such models provide a realistic path toward next-generation sensitivity in 0ν β β searches.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16114-z">European Physical Journal C</source>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16114-z</guid>
+    </item><item>
       <title>Phases of giant magnetic vortex strings</title>
       <link>https://doi.org/10.1007/JHEP07(2026)233</link>
       <description>We consider Abrikosov-Nielsen-Olesen magnetic vortex strings in 3+1 dimensional Abelian Higgs models. We systematically analyze the giant vortex regime using a combination of analytic and numerical methods. In this regime the strings are infinitely long, axially symmetric, and support a large magnetic flux n along the symmetry axis in their core that causes them to spread out in the transverse directions. Extending previous observations, we show that the non-linear equations governing giant vortices can essentially be solved exactly. The solutions fall into different universality classes, reflecting the properties of the Higgs potential, that become sharply distinct phases in the large-n limit. We use this understanding to shed light on the binding energies and stability of vortex strings in each universality class.</description>
@@ -72,6 +79,13 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/bs45-shv9</guid>
     </item><item>
+      <title>Dilaton effective field theory across the conformal edge</title>
+      <link>https://doi.org/10.1103/1gcc-v4zs</link>
+      <description>Dilaton effective field theory can be employed to analyze lattice data in gauge theories that lie in close proximity of the lower edge of the conformal window. Under special conditions, we show that it can be used as a diagnostic tool to distinguish near-conformal, yet confining, theories from infrared conformal ones. We demonstrate this efficacy by analyzing two sets of lattice measurements taken from the literature. For the SU(3) theory coupled to Nf=8 Dirac fermions transforming in the fundamental representation, our analysis favors confinement. For the SU(2) theory with Nf=1 adjoint fermion, our fits favor infrared conformal behavior. We discuss future lattice measurements, and analysis refinements, that can further test this framework.</description>
+      <source url="https://doi.org/10.1103/1gcc-v4zs">Physical Review D</source>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1gcc-v4zs</guid>
+    </item><item>
       <title>Gravitational waves from spectator scalar fields</title>
       <link>https://doi.org/10.1103/dxht-n25w</link>
       <description>We propose a mechanism for gravitational wave (GW) production sourced by spectator scalar fields during inflation. These fields, while not driving cosmic expansion, generate blue-tilted isocurvature fluctuations that naturally satisfy current cosmic microwave background (CMB) constraints at large scales while producing enhanced power spectra at smaller scales accessible to GW detectors. The resulting GW spectrum spans an exceptionally broad frequency range from 10−20 to 1 Hz, with amplitudes ranging from ΩGWh2∼10−19 to 10−14 depending on the reheating temperature and spectator field mass. Observable signals across multiple detector bands are possible in a restricted region of parameter space, mχ/HI within the isocurvature-and ΔNeff-allowed window and Treh, such that the spectator either provides all of the dark matter (stable case) or decays near matter-radiation equality (unstable case). Our analysis reveals multiple complementary constraints on spectator field parameters. For a high </description>
@@ -116,41 +130,26 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/fhhl-sj3z</guid>
     </item><item>
-      <title>Boundary critical behavior of the Gross-Neveu-Yukawa model</title>
-      <link>https://doi.org/10.1103/2rm3-ggl3</link>
-      <description>We study the critical behavior of the semi-infinite Gross-Neveu-Yukawa model, a quantum field theory describing Dirac fermions interacting with bosonic fields via a Yukawa coupling. We consider Neumann and Dirichlet boundary conditions for the bosonic fields, and the most general boundary conditions for the fermions that preserve unitarity, conformal invariance, and charge conjugation symmetry. We analyze the phase diagram and identify distinct fixed points corresponding to different universality classes of boundary critical behavior. The associated boundary critical exponents, which govern the scaling behavior and crossover phenomena, are computed to one-loop order. We also discuss the relevance of our results to the semi-infinite pseudoscalar Yukawa model.</description>
-      <source url="https://doi.org/10.1103/2rm3-ggl3">Physical Review D</source>
+      <title>Quantum information dynamics of QED2 in expanding de Sitter universe</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)197</link>
+      <description>We study QED in de Sitter space as a minimal interacting gauge theory in which cosmological expansion directly competes with quantum dynamics. In cosmic time, the hopping redshifts as 1/a(t) while the electric term grows as g a(t), sweeping the spectrum through a moving narrow-gap region in the (τ, m) plane. Exact diagonalization shows that this defines a pseudo-critical line governing the loss of adiabaticity, excitation growth, and redshifted response. Using matrix-product states at a fixed mass, we separate the fixed-cutoff thermodynamic limit from the continuum extrapolation. The late-time dip survives in the infinite physical box size limit, and shifts to later τ as the lattice spacing goes to zero, with current data favoring τ ≈ 3.1, while the dip depth remains less controlled. For Gibbs initial states, the same mechanism produces an irreversibility front in the relative entropy that tracks the pseudo-critical line and is detectable via LOCC-accessible observables. These results </description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)197">Journal of High Energy Physics</source>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2rm3-ggl3</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)197</guid>
     </item><item>
-      <title>Thermal damping of mass-modulating scalars</title>
-      <link>https://doi.org/10.1103/rqq9-1dc2</link>
-      <description>The cosmological evolution of a scalar field is shaped by Hubble damping. Any nongravitational couplings of the scalar with the primordial thermal bath generically contribute additional damping. Although often neglected, such thermal damping could be the dominant dissipative effect on the scalar. We derive approximate yet highly general thermal damping rates of scalar fields that modulate the masses of thermally populated particles. We extend previous results to cover cases of particular phenomenological interest where the scalar background oscillates sinusoidally but not necessarily slowly compared to the thermalization rates of the primordial bath. As applications, we estimate the thermal damping of scalars coupled linearly to neutrinos, quadratically to gluons, and linearly to Weakly Interacting Massive Particles, and demonstrate the importance of this effect in certain parameter spaces of these models. We also estimate the thermal damping rates in models of QCD axions.</description>
-      <source url="https://doi.org/10.1103/rqq9-1dc2">Physical Review D</source>
+      <title>On mixed ’t Hooft anomalies of emergent symmetries</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)195</link>
+      <description>In this paper, we investigate the dynamical constraints imposed on the UV theory when it develops an emergent symmetry in the infrared with mixed ’t Hooft anomalies. We demonstrate that, under certain conditions, the UV theory must contain non-genuine operators. Our primary examples illustrating this phenomenon are 2D gauged linear sigma models and 3D Chern-Simons-matter theories. Through this analysis, we establish connections between different classes of topological quantum field theories and propose a correspondence between quantum cohomologies of distinct target spaces.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)195">Journal of High Energy Physics</source>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rqq9-1dc2</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)195</guid>
     </item><item>
-      <title>Accessing the gluon momentum fraction of nucleons through the gradient flow</title>
-      <link>https://doi.org/10.1103/3cc3-mnbs</link>
-      <description>We calculate the gluon momentum fraction of the nucleon using lattice QCD, with a nonperturbative renormalization technique based on the gradient flow. The gluon momentum fraction is determined on a single Wilson-clover ensemble using Nf=2+1 flavors with pion mass 358 MeV and lattice spacing 0.094 fm. We employ the variational method to reduce excited-state contamination and apply the distillation framework to ensure a large operator basis. To reduce systematic uncertainties, we apply Bayesian model averaging to all fit procedures. We apply matching coefficients to the flow-time dependent lattice results to recover the gluon momentum fraction in the MS¯-scheme at 2 GeV. Our final result is ⟨x⟩g(μ=2 GeV)=0.482(35), where we quote only statistical uncertainties.</description>
-      <source url="https://doi.org/10.1103/3cc3-mnbs">Physical Review D</source>
-      <author>et al.</author>
+      <title>New thermal-relic targets for sub-GeV dark matter direct detection</title>
+      <link>https://doi.org/10.1103/hgk4-zspm</link>
+      <description>Dark matter direct detection experiments involving electron recoils are beginning to test highly predictive, thermal-relic milestones for sub-GeV dark matter models. Due to the Lee-Weinberg bound, thermal dark matter candidates in this mass range necessarily require comparably light mediator particles to achieve a suitably large annihilation cross section. Here we present new thermal-relic milestones for sub-GeV dark matter candidates that couple to vector mediators. In these models, the mediators are massive gauge bosons of anomaly-free Abelian extensions to the Standard Model, including the dark photon, gauged Li−Lj,B−L, and B−3Li models, where B is the baryon number, L is the lepton number, and i, j index the lepton families. Since the same interactions that govern cosmological production also govern electron scattering, the targets we present are firmly predictive and allow for these models to be robustly discovered or falsified. Furthermore, since the mediators we study exhaust th</description>
+      <source url="https://doi.org/10.1103/hgk4-zspm">Physical Review D</source>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3cc3-mnbs</guid>
-    </item><item>
-      <title>Thermal damping of mass-modulating scalars</title>
-      <link>https://doi.org/10.1103/rqq9-1dc2</link>
-      <description>The cosmological evolution of a scalar field is shaped by Hubble damping. Any nongravitational couplings of the scalar with the primordial thermal bath generically contribute additional damping. Although often neglected, such thermal damping could be the dominant dissipative effect on the scalar. We derive approximate yet highly general thermal damping rates of scalar fields that modulate the masses of thermally populated particles. We extend previous results to cover cases of particular phenomenological interest where the scalar background oscillates sinusoidally but not necessarily slowly compared to the thermalization rates of the primordial bath. As applications, we estimate the thermal damping of scalars coupled linearly to neutrinos, quadratically to gluons, and linearly to Weakly Interacting Massive Particles, and demonstrate the importance of this effect in certain parameter spaces of these models. We also estimate the thermal damping rates in models of QCD axions.</description>
-      <source url="https://doi.org/10.1103/rqq9-1dc2">Physical Review D</source>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rqq9-1dc2</guid>
-    </item><item>
-      <title>Boundary critical behavior of the Gross-Neveu-Yukawa model</title>
-      <link>https://doi.org/10.1103/2rm3-ggl3</link>
-      <description>We study the critical behavior of the semi-infinite Gross-Neveu-Yukawa model, a quantum field theory describing Dirac fermions interacting with bosonic fields via a Yukawa coupling. We consider Neumann and Dirichlet boundary conditions for the bosonic fields, and the most general boundary conditions for the fermions that preserve unitarity, conformal invariance, and charge conjugation symmetry. We analyze the phase diagram and identify distinct fixed points corresponding to different universality classes of boundary critical behavior. The associated boundary critical exponents, which govern the scaling behavior and crossover phenomena, are computed to one-loop order. We also discuss the relevance of our results to the semi-infinite pseudoscalar Yukawa model.</description>
-      <source url="https://doi.org/10.1103/2rm3-ggl3">Physical Review D</source>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2rm3-ggl3</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/hgk4-zspm</guid>
     </item>
   </channel>
 </rss>
