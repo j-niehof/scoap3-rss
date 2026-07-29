@@ -5,14 +5,118 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 11:53:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:57:44 +0000</lastBuildDate>
     <item>
-      <title>Information-theoretic astrophysical uncertainties in the effective theory of dark matter direct detection</title>
-      <link>https://doi.org/10.1103/4dgc-s9rl</link>
-      <description>The impact of astrophysical uncertainties in direct detection searches can vary significantly across particle dark matter models and detector targets, due to the different velocity and momentum dependencies of the scattering cross section. We address these uncertainties for all operators of the nonrelativistic effective field theory of dark-matter/nucleon interactions, making use of the Kullback-Leibler (KL) information divergence to measure the deviation of the true dark matter velocity distribution from the Maxwell-Boltzmann form. This approach quantifies how astrophysical uncertainties affect each operator in the effective theory, without assuming any specific functional form for the velocity distribution. While for some operators the uncertainties are smaller than 1 order of magnitude for entropically motivated deviations from the Maxwell-Boltzmann form, for other operators, these uncertainties can be as large as three orders of magnitude near threshold. Furthermore, we identify th</description>
-      <source url="https://doi.org/10.1103/4dgc-s9rl">Physical Review D</source>
+      <title>Constraining Hamiltonians from chiral effective field theory with neutron-star data</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.140771</link>
+      <description>Multi-messenger observations of neutron stars (NSs) and their mergers have placed strong constraints on the dense-matter equation of state (EOS). The EOS, in turn, depends on microscopic nuclear interactions that are described by nuclear Hamiltonians. These Hamiltonians are commonly derived within chiral effective field theory (EFT). Ideally, multi-messenger observations of NSs could be used to directly inform our understanding of EFT interactions, but such a direct inference necessitates millions of model evaluations. This is computationally prohibitive because each evaluation requires us to calculate the EOS from a Hamiltonian by solving the quantum many-body problem with methods such as auxiliary-field diffusion Monte Carlo (AFDMC), which provides very accurate and precise solutions but at a significant computational cost. Additionally, we need to solve the stellar structure equations for each EOS which further slows down each model evaluation by a few seconds. In this work, we comb</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.140771">Physics Letters B</source>
+      <author>et al.</author>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140771</guid>
+    </item><item>
+      <title>One-loop determinants in AdS3 supergravity with extended supersymmetry</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)257</link>
+      <description>We re-examine the computation of the one-loop partition function of Type II supergravity theory compactified on AdS × × X, where X can be K , T and × . These backgrounds preserve eight supercharges (four left and four right moving) and are known to be holographically dual to either small or large mathcalN = (4, 4) superconformal field theories. By extending well-established heat kernel techniques, we evaluate the one-loop determinants associated to these supergravity backgrounds. The resulting expressions are then used to reconstruct the characters of short multiplets of the corresponding dual boundary theories. A distinctive aspect of our analysis is the emergence of contributions from multiple gravitational saddle points in the path integral, reflecting the spectral flow structure present in the boundary theory.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)257">Journal of High Energy Physics</source>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)257</guid>
+    </item><item>
+      <title>Two Higgs doublet solutions to the strong CP problem</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)252</link>
+      <description>We solve the strong CP problem in a broad class of two Higgs doublet theories that will be probed at the Large Hadron Collider and at future colliders.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)252">Journal of High Energy Physics</source>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)252</guid>
+    </item><item>
+      <title>Design optimization of MAPS-based detectors using a data-driven fast simulation approach</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16147-4</link>
+      <description>A parametric simulation tool for pixel sensors is presented. A realistic pixel response is simulated purely based on measurement input, without requiring detailed knowledge of the underlying manufacturing process. As such, it provides an efficient alternative to the use of Technology Computer-Aided Design simulations, which typically depend on proprietary process information. Due to its parametric approach, the package is fast and thus particularly useful for larger detector systems and high hit rate environments. This work presents measurements, simulation and its validation for the MALTA2 sensor. It is a small collection electrode monolithic active pixel sensor produced in the Tower 180 nm complementary metal-oxide-semiconductor imaging process. Modifications to the sensor’s periphery, mainly in the hit merger, are studied in order to optimize the performance for tracking and calorimetry. This optimization is of special interest as part of the MALTA3 sensor redesign in the 65 nm Towe</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16147-4">European Physical Journal C</source>
+      <author>et al.</author>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4dgc-s9rl</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16147-4</guid>
+    </item><item>
+      <title>Efficient learning of lattice gauge theories with fermions</title>
+      <link>https://doi.org/10.1103/xlz6-yzxc</link>
+      <description>We introduce a learning method for recovering action parameters in lattice field theories. Our method is based on the minimization of a convex loss function constructed using the Schwinger-Dyson relations. We show that score matching, a popular learning method, is a special case of our construction of an infinite family of valid loss functions. Importantly, our general Schwinger-Dyson-based construction applies to gauge theories and models with Grassmann-valued fields used to represent dynamical fermions. In particular, we extend our method to realistic lattice field theories including quantum chromodynamics.</description>
+      <source url="https://doi.org/10.1103/xlz6-yzxc">Physical Review D</source>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xlz6-yzxc</guid>
+    </item><item>
+      <title>Two-pion contribution to the hadronic vacuum polarization with staggered quarks</title>
+      <link>https://doi.org/10.1103/21xb-jd3w</link>
+      <description>We present results from the first lattice QCD calculation of the two-pion contributions to the light-quark connected vector-current correlation function obtained from staggered-quark operators. We employ the MILC Collaboration’s gauge-field ensemble with 2+1+1 flavors of highly improved staggered sea quarks at a lattice spacing of a≈0.15 fm with a light sea-quark mass at its physical value. The two-pion contributions allow for a refined determination of the noisy long-distance tail of the vector-current correlation function, which we use to compute the light-quark connected contribution to hadronic vacuum polarization (HVP) with improved statistical precision. We compare our results with traditional noise-reduction techniques used in lattice QCD calculations of the light-quark connected HVP, namely, the so-called fit and bounding methods. We observe a factor of roughly 3 improvement in the statistical precision in the determination of the HVP contribution to the muon’s anomalous magnet</description>
+      <source url="https://doi.org/10.1103/21xb-jd3w">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/21xb-jd3w</guid>
+    </item><item>
+      <title>Thermal modification of K1(1270)→π+π−K+ in a hot hadronic medium</title>
+      <link>https://doi.org/10.1103/jsq7-hxsj</link>
+      <description>The thermal modification of the exclusive decay K1+(1270)→π+π−K+ in a hot hadronic medium is studied. The decay amplitude is constructed from effective hadronic interactions dominated by the ρ-and K*-pole contributions, thereby enabling a Dalitz-level analysis of the three-body decay in the medium. Thermal effects associated with partial chiral-symmetry restoration are incorporated through a phenomenological interpolation toward vector–axial-vector degeneracy near the chiral crossover. As the temperature increases, the reduction of the parent K1 mass strongly compresses the available three-body phase space, leading to substantial deformation of the Dalitz distribution and invariant-mass spectra, as well as to a pronounced suppression of ΓK1→π+π−K+(T). As a further step toward future transport-based phenomenological comparisons, Normalized shape observables are introduced to quantify the thermal evolution of the K*-dominated πK region, the upper-edge weight of the ππ spectrum, and the c</description>
+      <source url="https://doi.org/10.1103/jsq7-hxsj">Physical Review C</source>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jsq7-hxsj</guid>
+    </item><item>
+      <title>Non-Abelian symmetry operators from hanging branes in AdS5×S5</title>
+      <link>https://doi.org/10.1103/2p6q-6ttq</link>
+      <description>We investigate the holographic realization of topological operators for continuous non-Abelian symmetries in quantum field theories. As a concrete case study, we focus on type IIB string theory on AdS5×S5 which admits an SO(6) isometry, dual to the R-symmetry in 4D N=4 super-Yang-Mills theory. We argue that symmetry operators for continuous symmetries are generally realized by bound states of D5-branes and Kaluza-Klein (KK) monopoles hanging from the conformal boundary. Together they account for the contributions to Gauss’s law constraints from the G5 flux and the Einstein-Hilbert term respectively. We also demonstrate how the D5-KK bound state measures the representation of the end point of Wilson lines constructed by D3-branes.</description>
+      <source url="https://doi.org/10.1103/2p6q-6ttq">Physical Review D</source>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2p6q-6ttq</guid>
+    </item><item>
+      <title>Probing Stringy Horizons with Pole Skipping in Nonmaximal Chaotic Systems</title>
+      <link>https://doi.org/10.1103/cvjn-7kvp</link>
+      <description>In this Letter, we study pole skipping in nonmaximally quantum chaotic systems. Using Rindler conformal field theories and the large-q Sachdev-Ye-Kitaev chain as illustrative examples, we argue that the pole skipping points of few-body operators organize into trajectories in the complex frequency-momentum plane, with the leading trajectory encoding the quantum Lyapunov exponent. We further propose that these trajectories admit a natural interpretation as Regge trajectories of stringy excitations in a dual stringy black-hole geometry. From this perspective, pole skipping for an individual operator can be viewed as tracking the stringy horizon through the response of a single excitation. Our results suggest that pole skipping reflects intrinsic properties of quantum chaotic systems and may be deeply connected to the structure of horizons in the stringy regime.</description>
+      <source url="https://doi.org/10.1103/cvjn-7kvp">Physical Review Letters</source>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/cvjn-7kvp</guid>
+    </item><item>
+      <title>Open system approach to neutrinos propagating in an ultralight scalar background</title>
+      <link>https://doi.org/10.1103/rh5j-fvry</link>
+      <description>We examine decoherence in neutrino oscillations induced by an ultralight scalar field coupled to neutrinos. The scalar induces time-and position-dependent shifts in the neutrino mass matrix. Neutrinos sample different field configurations throughout an experimental data-taking period, which leads to damping effects in the oscillation pattern in the form of decoherence. By recasting the neutrino-scalar dynamics within the open quantum systems framework, we establish a mapping between a complete model and phenomenological decoherence approaches. We find that the parameter driving decoherence scales as L2/E2, where L is the baseline and E is the neutrino energy, as opposed to L/E typically assumed in phenomenological studies of open system approaches to neutrino oscillations.</description>
+      <source url="https://doi.org/10.1103/rh5j-fvry">Physical Review D</source>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rh5j-fvry</guid>
+    </item><item>
+      <title>Correlating resonant di-Higgs and tri-Higgs production to H→VV in the two-Higgs-doublet model</title>
+      <link>https://doi.org/10.1103/g6sn-bf5n</link>
+      <description>The observation of resonant di-Higgs production, which would strongly suggest the existence of a new heavy neutral scalar H, has been searched for extensively at the LHC. In the two-Higgs doublet model (2HDM) with mH≫mh, where h is the Higgs boson of mass 125 GeV observed at the LHC, we show that a direct correlation emerges between Br(H→hh) and Br(H→VV), with V=Z, W, which depends only on mH (and mV). In particular, for heavy scalar masses between 500 GeV and 1 TeV, we find that Br(H→hh)/Br(H→ZZ)≈9.4±0.25. Moreover, H→hh is a dominant decay mode over a significant region of the parameter space and serves as the primary probe for a heavy scalar resonance at current and future hadron colliders. The origin of these predictions is most transparent in the Higgs basis, where the term in the scalar potential proportional to H1†H1H1†H2 (and its Hermitian conjugate) generates the leading contributions to the Hhh and Hhhh couplings in the decoupling limit of the 2HDM. Additionally, the latter c</description>
+      <source url="https://doi.org/10.1103/g6sn-bf5n">Physical Review D</source>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/g6sn-bf5n</guid>
+    </item><item>
+      <title>Nuclear recoil detection with color centers in bulk lithium fluoride</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15920-9</link>
+      <description>We present initial results on the detection of nuclear recoils in lithium fluoride (LiF) through the fluorescence of color centers created by particle interactions in the crystal lattice. Using light-sheet fluorescence microscopy, we image nuclear recoil tracks from both fast and thermal neutron interactions deep within a cubic-centimeter-scale sample. Automated three-dimensional feature extraction based on machine-learning tools enables the identification and classification of individual events. We observe that the fluorescence response of LiF to gamma irradiation is strongly suppressed, by a factor of 30–50 compared to neutron exposure, demonstrating intrinsic insensitivity to electromagnetic backgrounds. The observed and simulated event characteristics are consistent, including their number, size, and topology. These results establish the feasibility of LiF as a scalable detection medium for rare nuclear-recoil events and constitute a first step toward 10–1000 g scale detectors with</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15920-9">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15920-9</guid>
+    </item><item>
+      <title>Evidence for the Rare Decay B+→Λ¯pμ+μ−</title>
+      <link>https://doi.org/10.1103/pl88-4435</link>
+      <description>A search for the rare decay B+→Λ¯pμ+μ− is performed using proton-proton collision data recorded by the LHCb experiment at a center-of-mass energy of s=13 TeV, corresponding to an integrated luminosity of 5.4 fb−1. An excess of events is found with respect to the background-only expectation, with a signal significance of 3.5 standard deviations, in the low invariant-mass region of m(Λ¯p)2.8 GeV/c2. The branching fraction is measured to be Blow(B+→Λ¯pμ+μ−)=(1.70−0.56+0.65(stat)±0.17(syst)±0.14(ext))×10−8, where the last uncertainty is due to external inputs on B(B+→J/ψΛ¯p)×B(J/ψ→μ+μ−). With no significant signal observed in the high m(Λ¯p) region above 2.8 GeV/c2, an upper limit is set to be Bhigh(B+→Λ¯pμ+μ−)2.8(3.7)×10−9 at the 90% (95%) confidence level.</description>
+      <source url="https://doi.org/10.1103/pl88-4435">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pl88-4435</guid>
+    </item><item>
+      <title>Test of Lepton Flavor Universality with B0→K*0ℓ+ℓ− Decays at Large Dilepton Invariant Mass</title>
+      <link>https://doi.org/10.1103/vzv9-hcks</link>
+      <description>Muon-electron universality is tested in B0→K*0ℓ+ℓ− decays, in the dilepton-invariant-mass region above the ψ(2S) resonance. The analysis uses beauty mesons produced in proton-proton collisions recorded by the LHCb detector at center-of-mass energies of 7, 8, and 13 TeV, corresponding to an integrated luminosity of 9 fb−1. The ratio of branching fractions between the muon and electron channels RK*0 is measured to be 1.08−0.12+0.14(stat)±0.07(syst) for a dilepton-invariant-mass squared above 14.0 GeV2/c4, consistent with the standard model prediction. This result represents the most precise measurement of RK*0 in this region and the first such measurement performed at a hadron collider.</description>
+      <source url="https://doi.org/10.1103/vzv9-hcks">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vzv9-hcks</guid>
+    </item><item>
+      <title>Boiling After the Dust Settles: Constraining First-Order Phase Transitions During Dark Energy Domination</title>
+      <link>https://doi.org/10.1103/1vyz-xdkb</link>
+      <description>A first-order phase transition could occur in the late Universe when vacuum energy begins dominating the energy density (z≲0.3) and convert some latent heat into other forms such as invisible radiation. This generic possibility also has concrete motivation in particle physics models, which invoke a multitude of vacua to address theoretical puzzles. The naïve constraint on such an event comes from measurements of the Hubble expansion rate, but this can only probe transitions involving O(10)% of the dark energy. In this Letter, we show that significantly tighter constraints appear when accounting for phase transition fluctuations affecting CMB photon propagation anisotropically. For instance, if a completed phase transition has β/H⋆≲25, current CMB data limit the associated vacuum energy released to less than 1% of the dark energy. A transition to negative vacuum energy (quasi-anti–de Sitter) is allowed only for β/H⋆≳300. For β/H⋆≲500, the Universe will not crunch for at least 14 Gyr.</description>
+      <source url="https://doi.org/10.1103/1vyz-xdkb">Physical Review Letters</source>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1vyz-xdkb</guid>
     </item><item>
       <title>Fine structure and decays of hidden-strangeness tetraquarks in the dynamical diquark model</title>
       <link>https://doi.org/10.1103/2lvt-cprc</link>
@@ -49,106 +153,6 @@
       <author>et al.</author>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/5qjj-l4b5</guid>
-    </item><item>
-      <title>Nonperturbative toolkit for quantum gravity</title>
-      <link>https://doi.org/10.1103/nlzj-w34h</link>
-      <description>We propose a method for demonstrating equivalences beyond the saddle point approximation between quantities in quantum gravity that are defined by the Euclidean path integral, without assumptions about holographic duality. The method involves three ingredients: (1) a way of resolving the identity with an overcomplete basis of microstates that is under semiclassical control, (2) a drastic simplification of the sum over topologies in the limit where the basis is infinitely overcomplete, and (3) a way of cutting and splicing geometries to demonstrate equality between two different gravitational path integrals even if neither can be explicitly computed. We illustrate our methods by giving a general argument that the thermal partition function of quantum gravity with two boundaries factorizes. One implication of our results is that universes containing a horizon can sometimes be understood as superpositions of horizonless geometries entangled with a closed universe.</description>
-      <source url="https://doi.org/10.1103/nlzj-w34h">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nlzj-w34h</guid>
-    </item><item>
-      <title>Spin correlations in dark photon searches</title>
-      <link>https://doi.org/10.1103/fvfp-ct3r</link>
-      <description>We investigate the spin correlations between production and decay in the process where dark photons A′ are produced in pseudoscalar meson decays, for example, π0,η→γA′, and then decay to fermion pairs, A′→ff¯. This process is the focus of many experimental searches, but spin correlations are typically ignored. We derive analytic results that allow us to quickly scan parameter space and quantify the error made in neglecting spin correlations. In particular, we define a discrepancy parameter and find that this parameter is always less than 163≈9.6%, which provides a rough measure of the size of spin correlation effects. However, these effects may be enhanced or suppressed by cuts in realistic experimental analyses, and so we also consider two representative examples, including current FASER analyses and possible future searches at SHiP. We find that the effects of spin correlations are negligible for existing FASER analyses, but can significantly reduce event rates at upcoming SHiP searc</description>
-      <source url="https://doi.org/10.1103/fvfp-ct3r">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/fvfp-ct3r</guid>
-    </item><item>
-      <title>Nonperturbative toolkit for quantum gravity</title>
-      <link>https://doi.org/10.1103/nlzj-w34h</link>
-      <description>We propose a method for demonstrating equivalences beyond the saddle point approximation between quantities in quantum gravity that are defined by the Euclidean path integral, without assumptions about holographic duality. The method involves three ingredients: (1) a way of resolving the identity with an overcomplete basis of microstates that is under semiclassical control, (2) a drastic simplification of the sum over topologies in the limit where the basis is infinitely overcomplete, and (3) a way of cutting and splicing geometries to demonstrate equality between two different gravitational path integrals even if neither can be explicitly computed. We illustrate our methods by giving a general argument that the thermal partition function of quantum gravity with two boundaries factorizes. One implication of our results is that universes containing a horizon can sometimes be understood as superpositions of horizonless geometries entangled with a closed universe.</description>
-      <source url="https://doi.org/10.1103/nlzj-w34h">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nlzj-w34h</guid>
-    </item><item>
-      <title>Spin correlations in dark photon searches</title>
-      <link>https://doi.org/10.1103/fvfp-ct3r</link>
-      <description>We investigate the spin correlations between production and decay in the process where dark photons A′ are produced in pseudoscalar meson decays, for example, π0,η→γA′, and then decay to fermion pairs, A′→ff¯. This process is the focus of many experimental searches, but spin correlations are typically ignored. We derive analytic results that allow us to quickly scan parameter space and quantify the error made in neglecting spin correlations. In particular, we define a discrepancy parameter and find that this parameter is always less than 163≈9.6%, which provides a rough measure of the size of spin correlation effects. However, these effects may be enhanced or suppressed by cuts in realistic experimental analyses, and so we also consider two representative examples, including current FASER analyses and possible future searches at SHiP. We find that the effects of spin correlations are negligible for existing FASER analyses, but can significantly reduce event rates at upcoming SHiP searc</description>
-      <source url="https://doi.org/10.1103/fvfp-ct3r">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/fvfp-ct3r</guid>
-    </item><item>
-      <title>Intrinsic nonlocality of spin-and polarization-resolved probabilities in strong-field quantum electrodynamics</title>
-      <link>https://doi.org/10.1103/cg88-lgg8</link>
-      <description>Spin and polarization are central to precision tests of fundamental physics and for interpreting radiation from astrophysical sources and ultraintense laser-matter experiments. Here, focusing on the fundamental process of nonlinear Compton scattering, we demonstrate that a key assumption underlying current strong-field quantum electrodynamics models, i.e., that emission can be treated as an instantaneous random event sampled from a local differential rate, is inconsistent once emission angles, electron spin, and/or photon polarization are resolved. Namely, even in strictly constant and uniform fields, the resulting fully differential distribution is sign indefinite, yielding negative inferred probabilities. The physical reason is that the photon emission probability builds up over a finite length of the electron trajectory, the formation region, during which the electron direction changes by roughly the same small angle that defines the radiation cone. Therefore, we put forward a new m</description>
-      <source url="https://doi.org/10.1103/cg88-lgg8">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cg88-lgg8</guid>
-    </item><item>
-      <title>Testing scalar field self-dualities in d=2 using a variational method</title>
-      <link>https://doi.org/10.1103/25zd-4r9z</link>
-      <description>Recently, self-dualities based on saddle-point expansions have been proposed as a means to obtain qualitative nonperturbative information in scalar field theories. In this work, we test this proposition quantitatively by studying the phase transition for critical scalar ϕ4 field theory in 1+1 dimensions using a variational method. We find that saddle-point methods obtain quantitative agreement for the free energy, but differ on the order of 25% for the peak location of the correlation length.</description>
-      <source url="https://doi.org/10.1103/25zd-4r9z">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/25zd-4r9z</guid>
-    </item><item>
-      <title>Higgsing transitions from topological field theory and noninvertible symmetry in Chern-Simons matter theories</title>
-      <link>https://doi.org/10.1103/2m5x-x5dd</link>
-      <description>Noninvertible one-form symmetries are naturally realized in (2+1)D topological quantum field theories. In this work, we consider the potential realization of such symmetries in (2+1)D conformal field theories, investigating whether gapless systems can exhibit similar symmetry structures. To that end, we discuss transitions between topological field theories in (2+1)D which are driven by the Higgs mechanism in Chern-Simons matter theories. Such transitions can be modeled mesoscopically by filling spacetime with a lattice-shaped domain wall network separating the two topological phases. Along the domain walls are coset conformal field theories describing gapless chiral modes trapped by a locally vanishing scalar mass. In this presentation, the one-form symmetries of the transition point can be deduced by using anyon condensation to track lines through the domain wall network. Using this framework, we discuss a variety of concrete examples of noninvertible one-form symmetry in fixed-point</description>
-      <source url="https://doi.org/10.1103/2m5x-x5dd">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2m5x-x5dd</guid>
-    </item><item>
-      <title>High precision heavy-boson-jet substructure with energy correlators</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)232</link>
-      <description>Energy-correlator-based jet substructure has gained significant attention in recent years. One of the notable applications has been the study of multi-scale jets, where distinct physical scales manifest as features localised in different angular regions of the correlator. In this article, we present the first high-precision study of energy correlators on the simplest multi-scale jets: heavy boson jets. In such systems, the boson mass M introduces an additional scale, generating a sharp peak at angles ~ M/p_T^jet . We show that this feature can be computed directly by boosting the EEC spectrum measured in e e → hadrons at the Z pole. We identify that the peak arises from boosting the well-studied Sudakov factorisation governing the back-to-back limit of the two-point correlator. As a result, the feature is controlled by Sudakov resummation, not a Breit-Wigner-like structure in the Z decay, and is therefore calculable with exceptional precision. We provide predictions at N LL accuracy fo</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)232">Journal of High Energy Physics</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)232</guid>
-    </item><item>
-      <title>Xenon signal denoising via supervised, semi-supervised, and unsupervised models</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16114-z</link>
-      <description>This study presents a denoising algorithm trained using machine learning to improve the energy resolution of a single-phase liquid xenon time projection chamber for neutrinoless double beta decay detection. Supervised, unsupervised, and semi-supervised models are demonstrated to significantly remove noise from simulated measurements while preserving signal information. The supervised model achieves an energy resolution of &lt;1% , while the semi-supervised models achieve energy resolutions of sim 1% , and the unsupervised model performance is sim 1.5% . This work is evidence that machine learning denoising can improve energy resolution compared to traditional algorithms, even when experimentalists lack perfect a priori knowledge of the signals. Such models provide a realistic path toward next-generation sensitivity in 0ν β β searches.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16114-z">European Physical Journal C</source>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16114-z</guid>
-    </item><item>
-      <title>Phases of giant magnetic vortex strings</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)233</link>
-      <description>We consider Abrikosov-Nielsen-Olesen magnetic vortex strings in 3+1 dimensional Abelian Higgs models. We systematically analyze the giant vortex regime using a combination of analytic and numerical methods. In this regime the strings are infinitely long, axially symmetric, and support a large magnetic flux n along the symmetry axis in their core that causes them to spread out in the transverse directions. Extending previous observations, we show that the non-linear equations governing giant vortices can essentially be solved exactly. The solutions fall into different universality classes, reflecting the properties of the Higgs potential, that become sharply distinct phases in the large-n limit. We use this understanding to shed light on the binding energies and stability of vortex strings in each universality class.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)233">Journal of High Energy Physics</source>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)233</guid>
-    </item><item>
-      <title>Hiding a light vector boson from terrestrial experiments: A chargephobic dark photon</title>
-      <link>https://doi.org/10.1103/718s-7k7v</link>
-      <description>We calculate the terrestrial, astrophysical, and cosmological constraints on a light vector boson that couples to an arbitrary combination of the electromagnetic and B−L currents of the Standard Model. The dark photon and a vector boson coupling to B−L are special cases of our generalized flavor-universal anomaly-free vector boson, requiring just one additional parameter (the “dark mixing angle” corresponding to the linear combination of the electromagnetic and B−L currents) beyond that of the overall coupling strength and the vector boson mass, where we focus on the range 1 MeV to 60 GeV We perform a detailed investigation of a unique combination where the vector boson couplings to electrically charged leptons and protons are highly suppressed: the “chargephobic dark photon.” A chargephobic vector boson is very weakly constrained by current terrestrial experiments including beam dumps and collider experiments, since they rely on couplings to electrons and protons. Instead, neutrino sc</description>
-      <source url="https://doi.org/10.1103/718s-7k7v">Physical Review D</source>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/718s-7k7v</guid>
-    </item><item>
-      <title>Geometric suppression of CMB isocurvature and a blue-tilted spectrum</title>
-      <link>https://doi.org/10.1103/fpd7-xdhl</link>
-      <description>CMB limits on cold-dark-matter isocurvature are often interpreted as excluding the simultaneous realization of high-scale inflation and large QCD axion decay constants in preinflationary Peccei-Quinn (PQ) scenarios. This conclusion can be evaded by exploiting field-space geometry. For a minimal complex PQ scalar with a U(1)-symmetric potential and a nonlinear sigma-model kinetic term dσ2=dR2+f2(R)dθ2, the observable axion fluctuation is δθ∼Hinf/f(R), so an enhanced effective decay constant f(R) suppresses isocurvature without explicit PQ breaking, extreme radial displacements, or additional couplings. We specialize to a hyperbolic metric f(R)∝sinh(R/L) with curvature scale L. The same geometry also induces a time-dependent O(Hinf) effective mass for the canonical axial mode during radial slow-roll, and fixing the tilt and running of isocurvature. Thus, CMB-scale isocurvature is suppressed while a characteristic blue-tilted spectrum is generated. As a result, inflationary Hubble scales </description>
-      <source url="https://doi.org/10.1103/fpd7-xdhl">Physical Review D</source>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/fpd7-xdhl</guid>
-    </item><item>
-      <title>Investigating the role of tetraquark operators in lattice QCD studies of the a0(980) and κ resonances</title>
-      <link>https://doi.org/10.1103/bs45-shv9</link>
-      <description>The role of tetraquark operators in studying the isodoublet strange κ and isovector nonstrange a0(980) scalar mesons in lattice quantum chromodynamics (QCD) is examined using an ensemble with mπ≈230 MeV and spatial extent L such that mπL≈4.4. Hermitian correlation matrices using both single-meson, meson-meson, and tetraquark interpolating operators are used to extract the spectrum of finite-volume stationary states in the appropriate symmetry channels. Hundreds of local and extended tetraquark operators are explored. Determinations of the spectrum in each channel are found to be unreliable without the inclusion of at least one tetraquark operator. For example, the inclusion of tetraquark operators with isospin 1/2 and strangeness 1 quantum numbers reveals the existence of an additional energy level in the Kη subsystem below the Kη threshold. The implications of this on parametrizing the scattering K-matrix through a well-known quantization condition to extract properties of the κ and a</description>
-      <source url="https://doi.org/10.1103/bs45-shv9">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/bs45-shv9</guid>
-    </item><item>
-      <title>Investigating the role of tetraquark operators in lattice QCD studies of the a0(980) and κ resonances</title>
-      <link>https://doi.org/10.1103/bs45-shv9</link>
-      <description>The role of tetraquark operators in studying the isodoublet strange κ and isovector nonstrange a0(980) scalar mesons in lattice quantum chromodynamics (QCD) is examined using an ensemble with mπ≈230 MeV and spatial extent L such that mπL≈4.4. Hermitian correlation matrices using both single-meson, meson-meson, and tetraquark interpolating operators are used to extract the spectrum of finite-volume stationary states in the appropriate symmetry channels. Hundreds of local and extended tetraquark operators are explored. Determinations of the spectrum in each channel are found to be unreliable without the inclusion of at least one tetraquark operator. For example, the inclusion of tetraquark operators with isospin 1/2 and strangeness 1 quantum numbers reveals the existence of an additional energy level in the Kη subsystem below the Kη threshold. The implications of this on parametrizing the scattering K-matrix through a well-known quantization condition to extract properties of the κ and a</description>
-      <source url="https://doi.org/10.1103/bs45-shv9">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/bs45-shv9</guid>
     </item>
   </channel>
 </rss>
