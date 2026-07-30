@@ -5,8 +5,52 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 11:47:52 +0000</lastBuildDate>
     <item>
+      <title>Search for KL→π0π0γγ and KL→π0π0X Where X→γγ at the KOTO Experiment</title>
+      <link>https://doi.org/10.1103/pt2h-99by</link>
+      <description>We performed searches for KL→π0π0X where X may be an axionlike particle that promptly decays to two photons, and the first search for KL→π0π0γγ at the KOTO experiment using data taken in 2021. The search is performed for X mass in the range of 160–220 MeV/c2. Three events were observed in the signal region, with two events near an X mass of 177 MeV/c2. This result led to a range of upper limits on the branching ratio, BR(KL→π0π0X) (1−20)×10−7 at the 95% confidence level (CL). No events were observed for the analysis of KL→π0π0γγ, setting an upper limit on the branching ratio, BR(KL→π0π0γγ) 1.69×10−6 at the 95% CL.</description>
+      <source url="https://doi.org/10.1103/pt2h-99by">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pt2h-99by</guid>
+    </item><item>
+      <title>Triple Higgs boson production with two heavy scalars at the LHC via a simplified approach</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16109-w</link>
+      <description>We investigate triple Higgs boson production at the CERN LHC, in models containing two new heavy neutral scalar particles. We apply a simplified factorized approach in the narrow-width approximation to double-resonant triple Higgs boson production, and demonstrate that relevant constraints can be derived on models with extended scalar sectors, during the high-luminosity phase of the LHC. We also find, within an explicit two-real-singlet model and for the cut-based 6 b-jet analysis considered here, that the double-resonant contribution captures the dominant features of the signal, while non-resonant components have a limited impact on the expected sensitivity. The method therefore provides a fast approximate framework for models in which triple Higgs boson production is dominated by a narrow double-resonant topology.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16109-w">European Physical Journal C</source>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16109-w</guid>
+    </item><item>
+      <title>Observing dark matter decays to gravitons via graviton-photon conversion</title>
+      <link>https://doi.org/10.1103/yvs5-67cj</link>
+      <description>Since dark matter is only known to have gravitational interactions, it may plausibly decay to gravitons on cosmological timescales. Although such a scenario can be easily realized, there are currently no known limits on this possibility based on indirect-detection methods. We propose a new search strategy that exploits the Gertsenshtein effect, whereby the gravitons produced in dark matter decays can convert to photons in large-scale magnetic fields along the line of sight to an observer. These conversions primarily occur within cosmological filaments which occupy a large (order unity) volume fraction and contain ∼10–100 nG fields with ∼Mpc coherence lengths. Thus, dark matter decays to gravitons predict an irreducible population of extragalactic photons, which we constrain using the extragalactic gamma-ray background measured by the Fermi-LAT telescope. Using this method, we derive the first-ever constraints on the dark matter lifetime in the 0.1 GeV−108 GeV mass range, contingent on </description>
+      <source url="https://doi.org/10.1103/yvs5-67cj">Physical Review D</source>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yvs5-67cj</guid>
+    </item><item>
+      <title>Symmetry resolved quantum correlations under Hawking radiation in Schwarzschild spacetime</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16140-x</link>
+      <description>We investigate the behavior of quantum correlations and quantum uncertainty in tripartite systems subjected to Hawking radiation in the background of a Schwarzschild black hole. By considering different bipartitions of accessible and inaccessible field modes separated by the event horizon, we analyze three complementary quantum information measures: the symmetry resolved entanglement entropy (SREE), the quantum speed limit (QSL), and the Wigner Yanase Skew information (SI). Our analysis shows that the QSL decreases monotonically with increasing Hawking temperature, indicating that Hawking radiation enhances the distinguishability of the reduced quantum states along the Hawking radiation trajectory. In contrast, the skew information decreases only for partitions composed solely of accessible modes, reflecting a reduction in local quantum uncertainty caused by thermal mixing. The SREE, however, decreases only when the subsystem includes the inaccessible inside horizon mode of Alice, reve</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16140-x">European Physical Journal C</source>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16140-x</guid>
+    </item><item>
+      <title>Twisting BFSS &amp; IKKT</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)279</link>
+      <description>In this note we initiate the study of “twisted holography” for the dualities involving the BFSS matrix quantum mechanics and the IKKT matrix model in their N → ∞ limits. We identify the admissible twists of each model, compute their cohomology in the BV-BRST formalism, and identify them — in the planar limit and in perturbation theory around the trivial background — with corresponding twists of IIA and IIB string theories, respectively. The twisted gravitational duals make manifest certain infinite dimensional symmetry algebras. In the BFSS example, the dual IIA supergravity twists are also obtained as certain zero mode truncations of the minimal (1/16-BPS) and maximal (1/4-BPS) twists of eleven-dimensional supergravity.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)279">Journal of High Energy Physics</source>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)279</guid>
+    </item><item>
+      <title>Search for the radiative decays D0→γK¯1(1270)0 and D+→γK1(1270)+</title>
+      <link>https://doi.org/10.1103/kpxy-tj1t</link>
+      <description>A search for the radiative decays D0→γK¯1(1270)0 and D+→γK1(1270)+ is conducted using 20.3 fb−1 of e+e− annihilation data collected at the center-of-mass energy s=3.773 GeV by the BESIII detector operating at the BEPCII collider. No significant signals are observed, and upper limits on the branching fractions of D0→γK¯1(1270)0 and D+→γK1(1270)+ at 90% confidence level are determined to be 7.8×10−4 and 3.9×10−5, respectively. This represents the first test of the vector meson dominance mechanism in the radiative decays of charmed mesons to axial-vector mesons.</description>
+      <source url="https://doi.org/10.1103/kpxy-tj1t">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/kpxy-tj1t</guid>
+    </item><item>
       <title>Constraining Hamiltonians from chiral effective field theory with neutron-star data</title>
       <link>https://doi.org/10.1016/j.physletb.2026.140771</link>
       <description>Multi-messenger observations of neutron stars (NSs) and their mergers have placed strong constraints on the dense-matter equation of state (EOS). The EOS, in turn, depends on microscopic nuclear interactions that are described by nuclear Hamiltonians. These Hamiltonians are commonly derived within chiral effective field theory (EFT). Ideally, multi-messenger observations of NSs could be used to directly inform our understanding of EFT interactions, but such a direct inference necessitates millions of model evaluations. This is computationally prohibitive because each evaluation requires us to calculate the EOS from a Hamiltonian by solving the quantum many-body problem with methods such as auxiliary-field diffusion Monte Carlo (AFDMC), which provides very accurate and precise solutions but at a significant computational cost. Additionally, we need to solve the stellar structure equations for each EOS which further slows down each model evaluation by a few seconds. In this work, we comb</description>
@@ -110,49 +154,6 @@
       <author>et al.</author>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/vzv9-hcks</guid>
-    </item><item>
-      <title>Boiling After the Dust Settles: Constraining First-Order Phase Transitions During Dark Energy Domination</title>
-      <link>https://doi.org/10.1103/1vyz-xdkb</link>
-      <description>A first-order phase transition could occur in the late Universe when vacuum energy begins dominating the energy density (z≲0.3) and convert some latent heat into other forms such as invisible radiation. This generic possibility also has concrete motivation in particle physics models, which invoke a multitude of vacua to address theoretical puzzles. The naïve constraint on such an event comes from measurements of the Hubble expansion rate, but this can only probe transitions involving O(10)% of the dark energy. In this Letter, we show that significantly tighter constraints appear when accounting for phase transition fluctuations affecting CMB photon propagation anisotropically. For instance, if a completed phase transition has β/H⋆≲25, current CMB data limit the associated vacuum energy released to less than 1% of the dark energy. A transition to negative vacuum energy (quasi-anti–de Sitter) is allowed only for β/H⋆≳300. For β/H⋆≲500, the Universe will not crunch for at least 14 Gyr.</description>
-      <source url="https://doi.org/10.1103/1vyz-xdkb">Physical Review Letters</source>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1vyz-xdkb</guid>
-    </item><item>
-      <title>Fine structure and decays of hidden-strangeness tetraquarks in the dynamical diquark model</title>
-      <link>https://doi.org/10.1103/2lvt-cprc</link>
-      <description>We analyze the fine structure and “fall-apart” decay patterns of hidden-strangeness tetraquarks within the dynamical diquark model. Several well-established negative-parity resonances listed by the Particle Data Group (PDG) [ϕ(2170), η(2225), η(2370)] are examined as potential qq¯ss¯ tetraquark candidates using a Hamiltonian that incorporates (iso)spin-dependent, spin-orbit, and tensor interactions. We further show that the isovector resonances ρ(2150) and ρ3(2250) observed by BESIII in ψ(2S)→K+K−η are compatible with a tetraquark assignment. Predictions for 28 states, including those with exotic quantum numbers, are also presented. Comparison of the model spectrum with the PDG’s unverified “Further States” highlights additional promising candidates worth future experimental investigation. The predicted fall-apart decay channels are easily reconstructed by experiment and may stimulate ongoing searches for hidden-strangeness tetraquarks at GlueX and BESIII. While current data do not yet</description>
-      <source url="https://doi.org/10.1103/2lvt-cprc">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2lvt-cprc</guid>
-    </item><item>
-      <title>Gedanken experiments of entanglement in particle physics: Interactions, operators and Bell-type inequalities in flavor space</title>
-      <link>https://doi.org/10.1103/cm6s-3ztv</link>
-      <description>We propose Bell-type inequalities by constructing flavor operators associated with mass identification, flavor change, and charged-current weak mixing which arise from fundamental interactions in the Standard Model. We treat these interactions as measurement settings in a gedanken experiment. For entangled two-particle states, the measurement outcomes of these flavor operators exhibit correlations that violate a Bell-type inequality under the stated assumptions, showing that our result probes contextuality and incompatibility of interaction-defined observables. We discuss how the predicted correlation patterns may be probed with experimental data, clarifying the scope and limitations of Bell-type reasoning in particle physics.</description>
-      <source url="https://doi.org/10.1103/cm6s-3ztv">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cm6s-3ztv</guid>
-    </item><item>
-      <title>Zα2 correction to superallowed beta decays in effective field theory and implications for |Vud|</title>
-      <link>https://doi.org/10.1103/nsyw-wfp3</link>
-      <description>Superallowed (0+→0+) beta decays currently provide the most precise extraction of quark mixing in the Standard Model. Their interpretation as a measurement of |Vud| relies on a reliable first-principles computation of QED radiative corrections expressed as a series in Zα and α. In this work, we provide the first model-independent result for two-loop, O(Zα2), long-distance radiative corrections where the nuclei are treated as heavy pointlike particles. We use renormalization group analysis to obtain new results at O(Zα3) for the coefficient of double logarithms in the ratio of the maximal beta energy to the inverse nuclear size, Em/R−1. We use the Kinoshita-Lee-Nauenberg theorem to obtain new results at O(Z2α3) for the coefficient of logarithms in the ratio of maximal beta energy to the electron mass, log(2Em/m). We identify a structure-dependent, and, therefore, short-distance, contribution to the traditional Zα2 correction that should be revisited. We provide the first comprehensive u</description>
-      <source url="https://doi.org/10.1103/nsyw-wfp3">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nsyw-wfp3</guid>
-    </item><item>
-      <title>First simultaneous global QCD analysis of kaon and pion parton distributions with lattice QCD constraints</title>
-      <link>https://doi.org/10.1103/ny6w-1n19</link>
-      <description>We perform the first simultaneous global QCD analysis of pion and kaon parton distribution functions (PDFs) constrained by pion-and kaon-induced Drell-Yan (DY) and leading neutron electroproduction data together with lattice QCD data on pion and kaon PDF moments. The analysis indicates a softer valence u¯ distribution in the K− than in the π− and a significantly more peaked valence s-quark density in K− compared with the u¯. The effective exponent governing the high-x behavior of the PDF is found to be larger for u¯ in the kaon, βu¯K−=1.6(2), than in the pion, βu¯π−=1.16(4), in the range 0.7≤x≤0.95. From the gluon momentum fractions, we find the pion’s gluon content accounts for ≈1/3 of the mass budget of the pion at μ=2 GeV, but only ≈1/4 for the kaon.</description>
-      <source url="https://doi.org/10.1103/ny6w-1n19">Physical Review D</source>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ny6w-1n19</guid>
-    </item><item>
-      <title>Discovery prospects for the Higgsino at the Cherenkov Telescope Array Observatory’s northern site within the decade</title>
-      <link>https://doi.org/10.1103/5qjj-l4b5</link>
-      <description>We demonstrate that Higgsino dark matter (DM) could be discovered within the next few years using the Cherenkov Telescope Array Observatory’s soon-to-be-operational northern site (CTAO-North). A 1.1 TeV thermal Higgsino is a highly motivated yet untested model of DM. Despite its strong theoretical motivation in supersymmetry and beyond, the Higgsino is notoriously difficult to detect; it lies deep within the neutrino fog of direct detection experiments and could pose a challenge even for a future muon collider. We show that, in contrast, Higgsino detection could be possible within this decade with CTAO-North in La Palma, Spain. The Galactic Center is the region where the dominant DM annihilation signature emerges, but it only barely rises above the horizon at the CTAO-North site. However, we project that this challenge can be overcome with large-zenith-angle observations at the northern site, enabling the conclusive detection of a Higgsino signal by 2030 for a range of DM density profi</description>
-      <source url="https://doi.org/10.1103/5qjj-l4b5">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5qjj-l4b5</guid>
     </item>
   </channel>
 </rss>
