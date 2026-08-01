@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:12:42 +0000</lastBuildDate>
     <item>
+      <title>Dissecting Jet Modification in the Quark-Gluon Plasma with Multipoint Energy Correlators</title>
+      <link>https://doi.org/10.1103/9jzc-7jcv</link>
+      <description>Energy correlators have recently attracted significant attention in the study of heavy ion collisions due to their potential to robustly connect experimental measurements with an underlying quantum field theoretic description. While theoretical studies have so far primarily focused on the simplest two-point correlator, mapping out the dynamics of the quark-gluon plasma (QGP) will require developing a theoretical understanding of multipoint energy correlators. In this Letter, we present a systematic theoretical study of multipoint energy correlators for jets fragmenting in a dense quark-gluon plasma, accounting for both the medium’s perturbative modification to the jet and its hydrodynamical backreaction. We consider both the scaling behavior of projected correlators, as well as the shape dependent three-point correlator, highlighting how both provide insight into interactions with the QGP. We discuss the parametric dependence of modifications on the medium scales, opening new opportuni</description>
+      <source url="https://doi.org/10.1103/9jzc-7jcv">Physical Review Letters</source>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9jzc-7jcv</guid>
+    </item><item>
       <title>Machine learning techniques for jet reconstruction at LHCb and application to the search for H→ boverlineb and H→ coverlinec in sqrts=13 TeV pp collisions</title>
       <link>https://doi.org/10.1007/JHEP07(2026)276</link>
       <description>Two machine learning techniques for jet measurements at the LHCb experiment are presented: a regression-based method for jet-energy calibration and a deep neural network algorithm for jet flavour tagging, distinguishing between b-quark, c-quark, and light parton jets. These techniques are applied to a search for inclusive H→ boverlineb and H→ coverlinec decays using a LHCb dataset corresponding to an integrated luminosity of 1.6 fb . The observed (expected) 95% confidence level upper limits correspond to 6.6 (11.1) times the SM cross-section for the H→ boverlineb process, and 1003 (1834) times the SM cross-section for the H→ coverlinec process.</description>
@@ -124,19 +131,19 @@
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)279</guid>
     </item><item>
+      <title>Symmetry resolved quantum correlations under Hawking radiation in Schwarzschild spacetime</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16140-x</link>
+      <description>We investigate the behavior of quantum correlations and quantum uncertainty in tripartite systems subjected to Hawking radiation in the background of a Schwarzschild black hole. By considering different bipartitions of accessible and inaccessible field modes separated by the event horizon, we analyze three complementary quantum information measures: the symmetry resolved entanglement entropy (SREE), the quantum speed limit (QSL), and the Wigner Yanase Skew information (SI). Our analysis shows that the QSL decreases monotonically with increasing Hawking temperature, indicating that Hawking radiation enhances the distinguishability of the reduced quantum states along the Hawking radiation trajectory. In contrast, the skew information decreases only for partitions composed solely of accessible modes, reflecting a reduction in local quantum uncertainty caused by thermal mixing. The SREE, however, decreases only when the subsystem includes the inaccessible inside horizon mode of Alice, reve</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16140-x">European Physical Journal C</source>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16140-x</guid>
+    </item><item>
       <title>Chiral lattice gauge theories from symmetry disentanglers</title>
       <link>https://doi.org/10.1007/JHEP07(2026)271</link>
       <description>We propose a Hamiltonian framework for constructing chiral gauge theories on the lattice based on symmetry disentanglers: constant-depth circuits of local unitaries that transform not-on-site symmetries into on-site ones. When chiral symmetry can be realized not-on-site and such a disentangler exists, the symmetry can be implemented in a strictly local Hamiltonian and gauged by standard lattice methods. Using lattice rotor models, we realize this idea in 1+1 and 3+1 spacetime dimensions for U(1) symmetries with mixed ’t Hooft anomalies, and show that symmetry disentanglers can be constructed when anomalies cancel. As an example, we present an exactly solvable Hamiltonian lattice model of the (1+1)-dimensional “3450” chiral gauge theory, and we argue that a related construction applies to the U(1) hypercharge symmetry of the Standard Model fermions in 3+1 dimensions. Our results open a new route toward fully local, nonperturbative formulations of chiral gauge theories.</description>
       <source url="https://doi.org/10.1007/JHEP07(2026)271">Journal of High Energy Physics</source>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)271</guid>
-    </item><item>
-      <title>Twisting BFSS &amp; IKKT</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)279</link>
-      <description>In this note we initiate the study of “twisted holography” for the dualities involving the BFSS matrix quantum mechanics and the IKKT matrix model in their N → ∞ limits. We identify the admissible twists of each model, compute their cohomology in the BV-BRST formalism, and identify them — in the planar limit and in perturbation theory around the trivial background — with corresponding twists of IIA and IIB string theories, respectively. The twisted gravitational duals make manifest certain infinite dimensional symmetry algebras. In the BFSS example, the dual IIA supergravity twists are also obtained as certain zero mode truncations of the minimal (1/16-BPS) and maximal (1/4-BPS) twists of eleven-dimensional supergravity.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)279">Journal of High Energy Physics</source>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)279</guid>
     </item><item>
       <title>Search for the radiative decays D0→γK¯1(1270)0 and D+→γK1(1270)+</title>
       <link>https://doi.org/10.1103/kpxy-tj1t</link>
@@ -145,14 +152,6 @@
       <author>et al.</author>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/kpxy-tj1t</guid>
-    </item><item>
-      <title>Constraining Hamiltonians from chiral effective field theory with neutron-star data</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.140771</link>
-      <description>Multi-messenger observations of neutron stars (NSs) and their mergers have placed strong constraints on the dense-matter equation of state (EOS). The EOS, in turn, depends on microscopic nuclear interactions that are described by nuclear Hamiltonians. These Hamiltonians are commonly derived within chiral effective field theory (EFT). Ideally, multi-messenger observations of NSs could be used to directly inform our understanding of EFT interactions, but such a direct inference necessitates millions of model evaluations. This is computationally prohibitive because each evaluation requires us to calculate the EOS from a Hamiltonian by solving the quantum many-body problem with methods such as auxiliary-field diffusion Monte Carlo (AFDMC), which provides very accurate and precise solutions but at a significant computational cost. Additionally, we need to solve the stellar structure equations for each EOS which further slows down each model evaluation by a few seconds. In this work, we comb</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.140771">Physics Letters B</source>
-      <author>et al.</author>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140771</guid>
     </item>
   </channel>
 </rss>
