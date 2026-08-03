@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 11:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:52:11 +0000</lastBuildDate>
     <item>
       <title>Dissecting Jet Modification in the Quark-Gluon Plasma with Multipoint Energy Correlators</title>
       <link>https://doi.org/10.1103/9jzc-7jcv</link>
@@ -37,6 +37,13 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15699-9</guid>
     </item><item>
+      <title>Atomic clock constraints on locally coupled scalar dark energy</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16163-4</link>
+      <description>We show that atomic clock measurements constrain the locally accessible scalar clock combination Delta k_textrmeffsqrt1+w₀ for scalar dark energy models coupled to Standard Model sectors. Under the benchmark assumption of weak environmental suppression and an effective scalar clock sensitivity Delta k_textrmeffsim 10^-5 , the inferred constraint corresponds to 1+w₀sim 10^-4-10^-5 with a Monte Carlo median 1+w₀simeq 9.4× 10^-5 . More conservatively, the result should be interpreted as an exclusion surface in the joint parameter space of scalar coupling, environmental matching, and dark energy dynamics. In this form, atomic clocks and Solar System tests provide a powerful local consistency test for scalar-tensor dark energy, forcing near Lambda behavior whenever the same scalar remains locally active and appreciably coupled.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16163-4">European Physical Journal C</source>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16163-4</guid>
+    </item><item>
       <title>Light Dark Matter Search with 7.8 Tonne-Year of Ionization-Only Data in XENONnT</title>
       <link>https://doi.org/10.1103/2lrq-f6bk</link>
       <description>We report on a blinded search for dark matter (DM) using ionization-only (S2-only) signals in XENONnT with a total exposure of 7.83 Tonne-year over 579 days in three science runs. Dedicated background suppression techniques and the first complete S2-only background model in XENONnT provide sensitivity to nuclear recoils of [0.5,5.0] keVnr and electronic recoils of [0.04,0.7] keVee. No significant excess over the expected background is observed, and we set 90% confidence level upper limits on spin-independent DM-nucleon and spin-dependent DM-neutron scattering for DM masses between 3 and 8 GeV/c2, as well as on DM-electron scattering, axionlike particles, and dark photons, improving on previous constraints. For spin-independent DM-nucleon scattering, we exclude cross sections above 6.0×10−45 cm2 at a DM mass of 5 GeV/c2, pushing the XENONnT sensitivity closer to the region where coherent elastic neutrino-nucleus scattering becomes an irreducible background.</description>
@@ -52,12 +59,12 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rg2q-m515</guid>
     </item><item>
-      <title>Hilbert series and the flavor invariants of the 3HDM</title>
-      <link>https://doi.org/10.1103/xhq1-k7jm</link>
-      <description>We perform a systematic study of invariant operators in the three-Higgs-doublet model (3HDM). We compute the closed-form multigraded Hilbert series associated with the global symmetry group of the theory. In addition, we construct explicit expressions for the corresponding invariant operators up to cubic order in the couplings. As a phenomenological application, we further organize the invariants up to quadratic order in the field content into CP-even and CP-odd combinations. For the special case of invariants involving no 27 representations, our results are complete to all orders.</description>
-      <source url="https://doi.org/10.1103/xhq1-k7jm">Physical Review D</source>
+      <title>Nuclear structure and saturation effects from diffractive vector meson production</title>
+      <link>https://doi.org/10.1103/2628-2spx</link>
+      <description>We study exclusive vector meson production in ultraperipheral collisions (UPCs) of a wide range of nuclei, and assess the potential of measurements to constrain the small-x structure of oxygen and neon nuclei. We employ an impact-parameter-dependent color glass condensate framework incorporating Jalilian-Marian, Iancu, McLerran, Weigert, Leonidov, Kovner evolution, with parameters constrained by a recent global Bayesian analysis of γ+p and γ+Pb data. We present predictions for coherent and incoherent J/ψ production in O+O and Ne+Ne UPCs at LHC energies, and quantify theoretical uncertainties using posterior samples from the calibration. We employ several nuclear structure models and find that t-differential observables are sensitive to the chosen model. We further study the mass-number dependence of saturation effects through nuclear suppression factors for coherent and incoherent vector meson production. Saturation-induced suppression increases systematically with both nuclear mass nu</description>
+      <source url="https://doi.org/10.1103/2628-2spx">Physical Review D</source>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xhq1-k7jm</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/2628-2spx</guid>
     </item><item>
       <title>Hilbert series and the flavor invariants of the 3HDM</title>
       <link>https://doi.org/10.1103/xhq1-k7jm</link>
@@ -95,13 +102,6 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)275</guid>
     </item><item>
-      <title>Energy correlators in four-dimensional gravity</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)275</link>
-      <description>We investigate energy correlators in four-dimensional gravitational theories, which provide a simple class of infrared-finite observables. We compute the one-and two-point energy correlators at one loop in 𝒩 = 8 supergravity and in pure Einstein gravity, with particular emphasis on the contact terms arising from the interplay between virtual corrections and real emissions. We explicitly demonstrate the cancellation of infrared divergences and verify the Ward identities associated with energy-momentum conservation. In the back-to-back limit, we derive an all-order expression for the energy-energy correlator, showing that it is governed by universal soft-graviton dynamics. We further introduce a particularly simple beam-averaged energy-energy correlator and compute it in different gravitational theories, including tree-level string theory. The resulting correlators exhibit analyticity and polynomial boundedness, allowing for the formulation of dispersion relations, which we explore. Fina</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)275">Journal of High Energy Physics</source>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)275</guid>
-    </item><item>
       <title>Effective string theory on a torus: the 3d Ising domain wall</title>
       <link>https://doi.org/10.1007/JHEP07(2026)267</link>
       <description>We use effective string theory (EST) to describe a toroidal 2d domain wall embedded in a 3d torus. In particular, we use TBA to compute the free energy of the domain wall in an expansion in inverse powers of the area, up to the second non-universal order that involves the Wilson coefficient γ .</description>
@@ -131,12 +131,12 @@
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/yvs5-67cj</guid>
     </item><item>
-      <title>Twisting BFSS &amp; IKKT</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)279</link>
-      <description>In this note we initiate the study of “twisted holography” for the dualities involving the BFSS matrix quantum mechanics and the IKKT matrix model in their N → ∞ limits. We identify the admissible twists of each model, compute their cohomology in the BV-BRST formalism, and identify them — in the planar limit and in perturbation theory around the trivial background — with corresponding twists of IIA and IIB string theories, respectively. The twisted gravitational duals make manifest certain infinite dimensional symmetry algebras. In the BFSS example, the dual IIA supergravity twists are also obtained as certain zero mode truncations of the minimal (1/16-BPS) and maximal (1/4-BPS) twists of eleven-dimensional supergravity.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)279">Journal of High Energy Physics</source>
+      <title>Symmetry resolved quantum correlations under Hawking radiation in Schwarzschild spacetime</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16140-x</link>
+      <description>We investigate the behavior of quantum correlations and quantum uncertainty in tripartite systems subjected to Hawking radiation in the background of a Schwarzschild black hole. By considering different bipartitions of accessible and inaccessible field modes separated by the event horizon, we analyze three complementary quantum information measures: the symmetry resolved entanglement entropy (SREE), the quantum speed limit (QSL), and the Wigner Yanase Skew information (SI). Our analysis shows that the QSL decreases monotonically with increasing Hawking temperature, indicating that Hawking radiation enhances the distinguishability of the reduced quantum states along the Hawking radiation trajectory. In contrast, the skew information decreases only for partitions composed solely of accessible modes, reflecting a reduction in local quantum uncertainty caused by thermal mixing. The SREE, however, decreases only when the subsystem includes the inaccessible inside horizon mode of Alice, reve</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16140-x">European Physical Journal C</source>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)279</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16140-x</guid>
     </item><item>
       <title>Symmetry resolved quantum correlations under Hawking radiation in Schwarzschild spacetime</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16140-x</link>
@@ -145,12 +145,12 @@
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16140-x</guid>
     </item><item>
-      <title>Twisting BFSS &amp; IKKT</title>
-      <link>https://doi.org/10.1007/JHEP07(2026)279</link>
-      <description>In this note we initiate the study of “twisted holography” for the dualities involving the BFSS matrix quantum mechanics and the IKKT matrix model in their N → ∞ limits. We identify the admissible twists of each model, compute their cohomology in the BV-BRST formalism, and identify them — in the planar limit and in perturbation theory around the trivial background — with corresponding twists of IIA and IIB string theories, respectively. The twisted gravitational duals make manifest certain infinite dimensional symmetry algebras. In the BFSS example, the dual IIA supergravity twists are also obtained as certain zero mode truncations of the minimal (1/16-BPS) and maximal (1/4-BPS) twists of eleven-dimensional supergravity.</description>
-      <source url="https://doi.org/10.1007/JHEP07(2026)279">Journal of High Energy Physics</source>
+      <title>Chiral lattice gauge theories from symmetry disentanglers</title>
+      <link>https://doi.org/10.1007/JHEP07(2026)271</link>
+      <description>We propose a Hamiltonian framework for constructing chiral gauge theories on the lattice based on symmetry disentanglers: constant-depth circuits of local unitaries that transform not-on-site symmetries into on-site ones. When chiral symmetry can be realized not-on-site and such a disentangler exists, the symmetry can be implemented in a strictly local Hamiltonian and gauged by standard lattice methods. Using lattice rotor models, we realize this idea in 1+1 and 3+1 spacetime dimensions for U(1) symmetries with mixed ’t Hooft anomalies, and show that symmetry disentanglers can be constructed when anomalies cancel. As an example, we present an exactly solvable Hamiltonian lattice model of the (1+1)-dimensional “3450” chiral gauge theory, and we argue that a related construction applies to the U(1) hypercharge symmetry of the Standard Model fermions in 3+1 dimensions. Our results open a new route toward fully local, nonperturbative formulations of chiral gauge theories.</description>
+      <source url="https://doi.org/10.1007/JHEP07(2026)271">Journal of High Energy Physics</source>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)279</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP07(2026)271</guid>
     </item>
   </channel>
 </rss>
