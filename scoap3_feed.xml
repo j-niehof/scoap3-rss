@@ -5,8 +5,51 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:47:18 +0000</lastBuildDate>
     <item>
+      <title>Magnetic-monopole resummation justifies perturbatively calculated collider production cross sections</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16085-1</link>
+      <description>A one-loop resummation scheme, inspired by Dyson–Schwinger (DS) formalism of strongly coupled quantum field theories, is applied to spin-1/2 magnetic monopoles (MMs), in the context of an effective field theory (EFT), invariant under the gauge group mathrm U(1)_emotimes U(1)^prime , where mathrm U(1)^prime is a dual strongly coupled Abelian interaction, associated with a ‘dark photon’. The latter leads to a MM appearing as a limiting case of a ‘dyon’, with a tiny ‘electric charge’, compensated by a huge wave-function renormalization of the MM, thereby leading to a finite renormalized MM–photon coupling. An ultra-violet fixed point structure is found in the resummed theory, which is purely non-perturbative due to different boundary conditions of the resummation equations, compared to the weak coupling (perturbative) case. The renormalized coupling of the MM to the electromagnetic photon in the fixed-point theory is identified with the magnetic charge, compatible with the Dirac quantizat</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16085-1">European Physical Journal C</source>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16085-1</guid>
+    </item><item>
+      <title>From friction scaling to an efficient method for estimating bubble wall velocity</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)044</link>
+      <description>We present a unified description of first-order cosmological phase transition dynamics that links the phenomenological friction model employed in hydrodynamic simulations to the microscopic treatment based on Boltzmann equations. We derive an approximate analytical expression for the chemical potential and demonstrate that the resulting friction parameter oversetsim eta follows a simple power-law dependence on the transition strength (propto v_n^4/T_n^4) . Incorporating this scaling into a phenomenological framework accurately reproduces the terminal wall velocities obtained from the full microscopic analysis performed using WallGo [1]. This approach offers an efficient method to quantify out-of-equilibrium contributions to friction and reliably estimate bubble-wall velocities.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)044">Journal of High Energy Physics</source>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)044</guid>
+    </item><item>
+      <title>Search for a new resonance decaying to a Higgs boson and a scalar boson in events with two b jets and two Z bosons in proton-proton collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/1b65-rblz</link>
+      <description>A search is performed for a new resonance X decaying into a Higgs boson and a new scalar boson Y (HY) including the case where Y is assumed to be a second Higgs boson (HH), using proton-proton collision data collected at s=13 TeV, corresponding to an integrated luminosity of 138 fb−1. This study performs a comprehensive exploitation of the bbZZ events, encompassing the following decay topologies. One H candidate is identified through its decay into a bottom quark-antiquark pair, while the other H or the Y candidate is selected through its decay into a pair of Z bosons. One Z boson is required to decay leptonically and the other, to decay into a pair of quarks or neutrinos. Events of interest are categorized based on the Lorentz boosts of the hadronically decaying H and Z bosons. Machine-learning-based discriminants, together with the reconstructed resonance mass, are employed across the different categories to separate signal from backgrounds, and their corresponding distributions are </description>
+      <source url="https://doi.org/10.1103/1b65-rblz">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1b65-rblz</guid>
+    </item><item>
+      <title>Probing Planck-scale physics with high-frequency gravitational waves</title>
+      <link>https://doi.org/10.1103/rgkw-h2l2</link>
+      <description>We develop a framework for testing quantum gravity through the stochastic gravitational-wave background produced by evaporating near-Planck-mass primordial black holes. Because gravitons freestream from the emission region without rescattering, they preserve a direct spectral record of the black-hole temperature–mass relation T(M), a relation that is erased for all other Hawking-radiated species by rapid thermalization. We translate six representative phenomenological beyond-semiclassical frameworks (the generalized uncertainty principle, loop quantum gravity, noncommutative geometry, asymptotic safety, string/Hagedorn physics, and tunneling backreaction) into distinct T(M) parameterizations and compute the resulting gravitational-wave spectra numerically within a hybrid semiclassical-phenomenological framework. Modifications that suppress T(M) shift the spectral peak by up to 10 decades in frequency, in some cases into the sensitivity bands of next-generation interferometers or resona</description>
+      <source url="https://doi.org/10.1103/rgkw-h2l2">Physical Review D</source>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rgkw-h2l2</guid>
+    </item><item>
+      <title>Does Hot QCD Have a Conformal Manifold in the Chiral Limit?</title>
+      <link>https://doi.org/10.1103/nvtc-jw59</link>
+      <description>Recent lattice evidence may suggest the chiral phase transition in QCD is second order for Nf≥2 massless flavors. We constrain conformal field theory (CFT) descriptions of a critical line in temperature T and imaginary baryon chemical potential θB=iμB/T. An ’t Hooft anomaly at general θB constrains the transition even at θB=0, leaving only three minimal scenarios. The best-motivated scenario for Nf≥3, and perhaps also Nf=2, is beyond Ginzburg-Landau, featuring a conformal manifold of θB-dependent universality classes with an exactly marginal operator related to baryon density.</description>
+      <source url="https://doi.org/10.1103/nvtc-jw59">Physical Review Letters</source>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/nvtc-jw59</guid>
+    </item><item>
+      <title>Energy correlators of spinning sources</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)047</link>
+      <description>The N-point energy correlator measures the energy flux through N detectors. We present a general framework that characterizes its full angular dependence in a series of spinning energy correlators. These spinning correlators resurrect the angular momentum structure of both the source and the detector configuration, lost otherwise in inclusive measurements. We demonstrate that unitarity and energy positivity confine these correlators to a sharply bounded region, with the boundary realized by extremal correlators generated by pure spin states. We present a first calculation of spinning energy correlators in QCD as well as spinning energy-charge correlators. Their enhanced insensitivity to infrared dynamics opens up a new set of observables that directly probe the hard part of the scattering. Finally, we provide generalized sum rules, extended to spinning correlators and to conserved charges beyond energy.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)047">Journal of High Energy Physics</source>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)047</guid>
+    </item><item>
       <title>Didecay signature of new physics particles at intensity frontier experiments</title>
       <link>https://doi.org/10.1103/l1t6-5nyh</link>
       <description>We present a discovery-era strategy for intensity frontier experiments based on “didecay” events, in which feebly interacting particles (FIPs) are produced in pairs and then both decay inside the detector. This signature may exist in broad classes of models with FIPs decaying in the same way as minimal “portal” particles. The two displaced vertices may allow reconstruction of the pair invariant mass and hence reveal the production channel, information normally inaccessible at these facilities. This, in turn, lets one discriminate between FIP models that share identical decay signatures. As a case study, we consider the model of Higgs-like scalars and show that SHiP, Belle II, and the Downstream@LHCb can each cover wide domains of viable parameter space using didecays.</description>
@@ -21,21 +64,13 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/f6qg-q875</guid>
     </item><item>
-      <title>Toward an event-level analysis of hadron structure using differential programming</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.140816</link>
-      <description>Reconstructing the internal properties of hadrons in terms of fundamental quark and gluon degrees of freedom is a central goal in nuclear and particle physics. This effort lies at the core of major experimental programs, such as the Jefferson Lab 12 GeV program and the upcoming Electron-Ion Collider. A primary challenge is the inherent inverse problem: converting large-scale observational data from collision events into the fundamental quantum correlation functions (QCFs) that characterize the microscopic structure of hadronic systems within the theory of QCD. Recent advances in scientific computing and machine learning have opened new avenues for addressing this challenge using deep learning techniques. A particularly promising direction is the integration of theoretical calculations and experimental simulations into a unified framework capable of reconstructing QCFs directly from event-level information. In this work, we introduce a differential sampling method called the local ortho</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.140816">Physics Letters B</source>
+      <title>Measurement of the branching fractions of χ cJ → π + π − π 0 π 0 via ψ(3686) → γχ cJ</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)023</link>
+      <description>Using (2712.4 ± 14.3) × 10 ψ(3686) events collected with the BESIII detector operating at BEPCII, the branching fractions of χ → π π π π (J = 0, 1, 2) are measured via the radiative transition ψ(3686) → γχ . The results are ℬ(χ → π π π π ) = (3.10 ± 0.01 ± 0.14) × 10 , ℬ(χ → π π π π ) = (1.16 ± 0.01 ± 0.05) × 10 , and B(χ → π π π π ) = (1.92 ± 0.01 ± 0.08) × 10 , where the first uncertainties are statistical and the second systematic. The dominant intermediate states are found to be χ → ρ ρ . These results improve upon previous measurements with significantly enhanced precision.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)023">Journal of High Energy Physics</source>
       <author>et al.</author>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140816</guid>
-    </item><item>
-      <title>Measurement of the hyperon weak radiative decay Ξ0 → γΣ0 at BESIII</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)017</link>
-      <description>The hyperon weak radiative decay Ξ → γΣ is measured using a sample of Ξ from J/psi → Xi^0overlineXi^0 decays. The absolute branching fraction of Ξ → γΣ is determined to be (3.66 ± 0.21 ± 0.10 ) × 10 , based on (10.087 ± 0.044) × 10 J/ψ events collected with the BESIII detector operating at the BEPCII collider. The decay asymmetry parameter is measured, with a complete angular analysis of the cascade decay chain, to be α = −0.807 ± 0.095 ± 0.011 .</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)017">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)017</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)023</guid>
     </item><item>
       <title>GPU acceleration of optical photon propagation in low photon yield applications: Opticks for the Electron Ion Collider</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16180-3</link>
@@ -44,14 +79,6 @@
       <author>et al.</author>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16180-3</guid>
-    </item><item>
-      <title>Observation of Lambda_c^+→ nπ^+eta and search for Lambda_c^+→ na₀(980)^+</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)009</link>
-      <description>By analysing 6.1 fb of data collected at centre-of-mass energies between sqrts=4.600 and 4.843 GeV with the BESIII detector at the BEPCII collider, we observe the decay Lambda_c^+→ nπ^+eta for the first time with a statistical significance of 9.5σ. The ratio of branching fractions mathcalB(Lambda_c^+→ nπ^+eta )/mathcalB(Lambda_c^+→ Lambda π^+eta ) is measured to be 0.155 ± 0.031 ± 0.012 Taking the world average of mathcalB(Lambda_c^+→ Lambda π^+eta ) as reference, the absolute branching fraction is calculated to be mathcalB(Lambda_c^+→ nπ^+eta )=(2.94± 0.59_stat.± 0.23_syst.± 0.13_ref.)× 10^-3 . The intermediate process Lambda_c^+→ na₀(980)^+ is also searched for in the π η invariant mass spectrum. Since no significant signal is found, the upper limit on mathcalB(Lambda_c^+→ na₀(980)^+)× mathcalB(a₀(980)^+→ π^+eta ) is set to 8.4 × 10 at 90% confidence level. A sophisticated deep learning approach using a Transformer-based architecture is employed to distinguish signals from prevalent </description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)009">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)009</guid>
     </item><item>
       <title>Search for the Lepton-Flavor Violating Decays B+→π+μ±e∓</title>
       <link>https://doi.org/10.1103/ln8k-mlhr</link>
@@ -83,48 +110,41 @@
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/wwmj-yxtg</guid>
     </item><item>
-      <title>M5 brane to D4 brane via cyclification of rational relative 3-cohomotopy</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)015</link>
-      <description>In this article, we start by reviewing the equations of motion and Bianchi identities for the abelian D4 brane worldvolume. Taking into account Hypothesis H that the 4-flux in M-Theory is flux quantized in a non-abelian cohomology theory called unstable 4-cohomotopy, and the three-flux on the M5 brane worldvolume in relative 3-cohomotopy or the quaternionic Hopf fibration, we immediately obtain the minimal model for the cyclification of the quaternionic Hopf fibration which encodes the Bianchi identities for the fluxes on the D4 brane worldvolume after double dimensional reduction. The two pictures can be mapped to each other, and thus, we derive from the implications of Hypothesis H, a non-abelian relative cohomology theory for the D4 brane, fibered over the 10d Type IIA spacetime fluxes. The point of this note is to highlight the power of non-abelian cohomology which easily captures the D4 worldvolume Bianchis as a relative cohomology fibered over the Type IIA spacetime fluxes, which</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)015">Journal of High Energy Physics</source>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)015</guid>
-    </item><item>
-      <title>On random matrix statistics of 3d gravity</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)014</link>
-      <description>We show that 3d gravity on manifolds that are topologically a Riemann surface times an interval Σ × I with end-of-the-world branes at the ends of the interval is described by a random matrix model, namely the Virasoro minimal string. Because these manifolds have n annular asymptotic boundaries, the path integrals naturally correspond to spectral correlators of open strings upon inverse Laplace transforms. For g = 0 and n = 2, we carry out an explicit path integration and find precise agreement with the universal random matrix expression. For Riemann surfaces with negative Euler characteristic, we evaluate the path integral as a gravitational inner product between states prepared by two copies of Virasoro TQFT. Along the way, we clarify the effects of gauging the mapping class group and the connection to chiral 3d gravity.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)014">Journal of High Energy Physics</source>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)014</guid>
-    </item><item>
-      <title>Jordan frame in supergravity and cosmology</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)005</link>
-      <description>The superconformal action can be gauge-fixed in a gauge where it leads to the Einstein frame supergravity defined by a Kähler potential mathcalK(z,overlinez) , or in a gauge where it leads to a Jordan frame supergravity defined by the frame function Omega (z,overlinez) , in addition to mathcalK(z,overlinez) . We present new supergravity ξ-attractor models with non-minimal gravity coupling. They describe potentials with an exponential and a polynomial approach to the plateau. The previously known ξ-attractors in the large ξ limit predicted the spectral index n = 1 − 2/N and the tensor-to-scalar ratio r→ frac12N^2 . The new ξ-attractors in the large ξ limit predict n ≥ 1 − 2/N and r → 0, which provides a better match to the recent observational data and makes these models a target for the future B-mode experiments with small r.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)005">Journal of High Energy Physics</source>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)005</guid>
-    </item><item>
-      <title>Counting AdS vacua</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)011</link>
-      <description>We study the ‘number’ 𝔑(μ) of AdS vacua with a UV cutoff μ. It has been proposed that this number is finite. We find evidence that 𝔑(μ) ~ a μ as μ → 0 for some constants a and b of O(1) in Planck units that may depend on dimension and the number of supercharges. For this result to hold it is crucial to integrate over the volume of massless and tachyonic directions of AdS which corresponds to the volume of the space of marginal and relevant deformations of the dual CFT. We are led to the surprising prediction that theories with large number of light moduli contribute very little to the volume measure among all theories. We also speculate about the dS case leading to the number of quasi-dS vacua of the order of Λ for some O(1) parameter α.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)011">Journal of High Energy Physics</source>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)011</guid>
-    </item><item>
-      <title>Surgery and statistics in 3D gravity</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)001</link>
-      <description>We extend the correspondence between universal statistical features of large-c 2d CFTs and surgery methods in pure AdS quantum gravity. In particular, we introduce a method that we call RMT surgery, which relates a large class of off-shell partition functions in 3D gravity to the spectral statistics of general CFT observables. We apply this method to construct and compute an off-shell Euclidean wormhole whose boundaries are four-punctured spheres, which captures level repulsion in the high-energy sector of the boundary CFT. Using a similar gluing prescription, we also explore a new class of off-shell torus wormholes with trumpet boundaries, contributing to statistical moments of the density of primary states. Lastly, we demonstrate that surgery methods can be used as an intermediate step towards computing Seifert manifolds directly in 3D gravity.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)001">Journal of High Energy Physics</source>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)001</guid>
-    </item><item>
-      <title>Beam steering and radiation generation of electrons in bent crystals in the sub-GeV domain</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16146-5</link>
-      <description>We present an investigation into beam steering and radiation emission by sub-GeV electrons traversing a bent silicon crystal. Using 855, 600, and 300 MeV electron beams at the Mainz Microtron (MAMI), we explored orientational coherent effects in a 15-upmu m-thick silicon crystal bent along the (111) planes. Combined experimental and simulation analyses enabled the classification and quantitative assessment of the contributions from channeling, dechanneling, rechanneling, and volume capture to both beam deflection and radiation emission. Crystal steering remained effective even at 300 MeV, with measured channeling efficiencies exceeding 50%, a record at such low energies. Channeling and volume reflection enhanced radiation emission by up to a factor of six compared to the misaligned orientation, highlighting strong orientational coherence effects in the sub-GeV regime. These findings confirm the feasibility of using bent crystals for efficient beam manipulation and high-intensity photon</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16146-5">European Physical Journal C</source>
+      <title>Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at s=5.02 TeV</title>
+      <link>https://doi.org/10.1103/tgtl-7xh9</link>
+      <description>This paper presents a fully corrected measurement of the energy-energy correlator (EEC) within jets in pp collisions. The EEC traces the energy flow as a highly energetic parton undergoes a QCD shower followed by the confinement of partons into hadrons, probing the correlation function of the energy flow inside jets. The EEC observable is measured as a function of the charged particle pair angular distance, RL, for 20pTch jet80 GeV/c. In the perturbative region (large RL), a good agreement between the data and a next-to-leading-log perturbative QCD calculation is observed. In the nonperturbative region (small RL), the data exhibit a linear RL dependence. There is a transition region in between, characterized by a turnover in the EEC distribution, indicating where hadronization effects begin to dominate. The peak of this transition region is located at 2.43±0.14 GeV/c/⟨pTch jet⟩ for jets of various energies, indicating a common energy scale for the hadronization process. State-of-the-ar</description>
+      <source url="https://doi.org/10.1103/tgtl-7xh9">Physical Review D</source>
       <author>et al.</author>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tgtl-7xh9</guid>
+    </item><item>
+      <title>Lattice-based equation of state with a critical point from constant entropy contours and its comparison to effective QCD approaches</title>
+      <link>https://doi.org/10.1103/3jjq-ykkg</link>
+      <description>In this work, we systematically assess the performance of a new method from [H. Shah et al., Phys. Rev. C 113, L012201 (2026)] for locating the QCD critical point using constant-entropy contours by testing it against various effective QCD approaches. We demonstrate that, while the method yields spurious critical points in purely hadronic models (HRG) due to nonparabolic contour behavior at low temperatures (T≲120 MeV), it accurately reproduces the critical point location in frameworks that feature a genuine phase transition and benchmarked against lattice QCD, such as holographic Einstein-Maxwell-dilaton, and functional QCD approaches. Building on our previous determination of constant entropy contours using lattice data, we extend that analysis to construct a complete lattice-based equation of state (EoS) at finite density, which features a critical point at (T,μB)≈(114,602) MeV. By integrating the extrapolated entropy density with respect to temperature, we reconstruct the pressure, </description>
+      <source url="https://doi.org/10.1103/3jjq-ykkg">Physical Review D</source>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16146-5</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/3jjq-ykkg</guid>
+    </item><item>
+      <title>Semi-inclusive deep-inelastic scattering on a polarized spin-1 target. II. Deuteron and spectator nucleon tagging</title>
+      <link>https://doi.org/10.1103/nf26-tkx7</link>
+      <description>We develop the theoretical framework for semi-inclusive deep-inelastic scattering on a polarized spin-1 target and apply it to scattering on the polarized deuteron with spectator nucleon tagging. In Part I (previous article), we present the general form of the semi-inclusive cross section and polarization observables for the spin-1 target. In Part II (this article), we consider deep-inelastic scattering on the polarized deuteron with spectator nucleon tagging as a special case of target fragmentation. Methods of light-front quantization are employed to separate nuclear and hadronic structure in the high-energy process and achieve a composite description. The light-front wave function of the polarized deuteron is obtained from a rotationally covariant three-dimensional wave function in the center-of-mass frame of the proton-neutron system. The tagged structure functions are computed in the impulse approximation. The momentum and spin distribution of the active nucleon are controlled by </description>
+      <source url="https://doi.org/10.1103/nf26-tkx7">Physical Review C</source>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/nf26-tkx7</guid>
+    </item><item>
+      <title>Beautiful and charming energy correlators</title>
+      <link>https://doi.org/10.1103/4plr-bmv6</link>
+      <description>Understanding the detailed structure of energy flow within jets, a field known as jet substructure, plays a central role in searches for new physics, and precision studies of QCD. Many applications of jet substructure require an understanding of jets initiated by heavy quarks, whose description has lagged behind remarkable recent progress for massless jets. In this Letter, we initiate a study of correlation functions of energy flow operators on beauty and charm jets to illuminate the effects of the intrinsic mass of the elementary particles of QCD. We present a factorization theorem incorporating the mass of heavy quarks, and show that the heavy quark jet functions for energy correlators have a simple structure in perturbation theory. Our results achieve the very first full next-to-leading-logarithmic calculation of the heavy quark jet substructure observable at the LHC. Using this framework, we study the behavior of the correlators, and show that they exhibit a clear transition from a</description>
+      <source url="https://doi.org/10.1103/4plr-bmv6">Physical Review D</source>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4plr-bmv6</guid>
+    </item><item>
+      <title>All-electron dark matter-electron scattering with random-phase approximation dielectric screening and local field effects</title>
+      <link>https://doi.org/10.1103/rvzm-31vc</link>
+      <description>Accurate predictions for dark matter-electron scattering in solids require an all-electron treatment together with a faithful description of dielectric screening beyond simple approximations. In particular, local field effects, arising from microscopic inhomogeneities of the electronic response, can significantly modify scattering rates across relevant momentum and energy scales. We present an all-electron framework for computing dark matter-electron scattering rates that incorporates dielectric screening at the random-phase approximation (RPA) level, including local field effects. Using crystalline silicon as a benchmark, we show that local field effects play an important role both at large momentum transfers, spanning multiple Brillouin zones, and at low momentum near the plasmon resonance. We compute electron recoil spectra and projected sensitivities for nonrelativistic halo dark matter and for boosted dark matter or other dark-sector particles, which are sensitive to the impact of</description>
+      <source url="https://doi.org/10.1103/rvzm-31vc">Physical Review D</source>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rvzm-31vc</guid>
     </item><item>
       <title>Semi-inclusive deep-inelastic scattering on a polarized spin-1 target. I. Cross section and spin observables</title>
       <link>https://doi.org/10.1103/cwp5-7c96</link>
@@ -132,22 +152,6 @@
       <source url="https://doi.org/10.1103/cwp5-7c96">Physical Review C</source>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/cwp5-7c96</guid>
-    </item><item>
-      <title>Beam steering and radiation generation of electrons in bent crystals in the sub-GeV domain</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16146-5</link>
-      <description>We present an investigation into beam steering and radiation emission by sub-GeV electrons traversing a bent silicon crystal. Using 855, 600, and 300 MeV electron beams at the Mainz Microtron (MAMI), we explored orientational coherent effects in a 15-upmu m-thick silicon crystal bent along the (111) planes. Combined experimental and simulation analyses enabled the classification and quantitative assessment of the contributions from channeling, dechanneling, rechanneling, and volume capture to both beam deflection and radiation emission. Crystal steering remained effective even at 300 MeV, with measured channeling efficiencies exceeding 50%, a record at such low energies. Channeling and volume reflection enhanced radiation emission by up to a factor of six compared to the misaligned orientation, highlighting strong orientational coherence effects in the sub-GeV regime. These findings confirm the feasibility of using bent crystals for efficient beam manipulation and high-intensity photon</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16146-5">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16146-5</guid>
-    </item><item>
-      <title>CP Violation Analysis of Local and Nonlocal Amplitudes in the B¯0→K¯*0μ+μ− Decay</title>
-      <link>https://doi.org/10.1103/gg5v-mp26</link>
-      <description>A search for CP violation in the B¯0→K¯*0μ+μ− decay is performed using proton-proton collision data collected by the LHCb experiment during Run 1 and Run 2, corresponding to an integrated luminosity of 8.4 fb−1. The analysis exploits the full angular distribution of the decay, providing sensitivity to CP-violating effects in both vector and axial-vector contributions to this flavor-changing neutral-current process. The complex Wilson coefficients are determined within the weak effective theory through an unbinned maximum-likelihood fit to the angular observables, incorporating nonlocal hadronic amplitudes across the full dimuon mass spectrum. The precision of the CP-violation observables is improved by an order of magnitude relative to previous measurements, with the imaginary parts of the Wilson coefficients now determined more precisely than the real parts. No significant CP violation is observed, and the results are consistent with the standard model.</description>
-      <source url="https://doi.org/10.1103/gg5v-mp26">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/gg5v-mp26</guid>
     </item>
   </channel>
 </rss>
