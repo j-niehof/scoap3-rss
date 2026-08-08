@@ -5,8 +5,73 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 10:25:47 +0000</lastBuildDate>
     <item>
+      <title>Planck-scale effects on nucleon decay in minimal supersymmetric SU(5)</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16195-w</link>
+      <description>We examine the impact on the phenomenology of the minimal supersymmetric SU(5) Grand Unified Theory (GUT) of dimension-5 operators with coefficients suppressed by the Planck mass scale, with particular emphasis on predictions for nucleon decay. We incorporate dimension-5 operators in both the Higgs sector and the Yukawa interactions in the theory, and take account of the constraints from gauge coupling measurements, the mass of the Higgs boson, fermion masses and the cold dark matter density. We consider two scenarios for soft supersymmetry breaking: the constrained minimal supersymmetric extension of the Standard Model (CMSSM) and the Non-Universal Higgs Model (NUHM). We present predictions for the nucleon decay modes p → π ^0 e^+, π ^0 μ ^+, K^+ barν , π ^+ barν , K^0 e^+, K^0 μ ^+ and n→ π ^0 barν , π ^-e^+, K^0 barν , which we compare with both the present experimental sensitivities and those projected for the JUNO and Hyper-Kamiokande experiments. We find that these experiments ma</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16195-w">European Physical Journal C</source>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16195-w</guid>
+    </item><item>
+      <title>Robust calibration of non-perturbative models with history matching</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)066</link>
+      <description>We apply, for the first time, Bayes Linear Emulation and History Matching to the calibration of non-perturbative models in Monte Carlo event generators. In contrast to the usual approach of “Monte Carlo tuning”, History Matching does not result in best-fit plus ellipsoidal parameter uncertainty estimates but instead identifies all parameter space regions that are consistent with data. This approach leads to a systematic and robust quantification of parametric uncertainties in the models, especially in those challenging cases where different, possibly disjoint, regions of parameter space deliver similar results, which are usually not properly treated with current methodology. We highlight the power of this method with the hadronisation models available through S : the built-in cluster fragmentation A and string fragmentation through an interface to P .</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)066">Journal of High Energy Physics</source>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)066</guid>
+    </item><item>
+      <title>Hamiltonian truncation of large N f QED and large N vector-like theories in d = 2 + 1</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)069</link>
+      <description>We consider a general class of large N vector-like theories in d = 2 + 1 in a Hamiltonian approach. We show that by using lightcone quantization and the N → ∞ limit, we can diagonalize the Hamiltonian exactly and construct the eigenstates, spectral density, S-matrix, and form factors for the theory. For concreteness, we mainly focus on QED at large N as an explicit example. We comment on extending the approach to finite N calculations.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)069">Journal of High Energy Physics</source>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)069</guid>
+    </item><item>
+      <title>Gravitational waves from confining dark sectors with self-consistent effective potentials</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)059</link>
+      <description>In this work, we present a self-consistent prediction for the gravitational wave signal arising from confinement-induced phase transitions in hidden non-Abelian SU (N) gauge theories with F light flavors. To do this, we impose perturbativity and unitarity constraints on the thermal effective potential to identify the portion of parameter space that admits a reliable effective field theory description. We also include the Polyakov-loop-improved finite-temperature potential for both N = 3 and N = 4, where N is the number of dark colors, using an approximate computation of the mediating effects. We compute the resulting gravitational wave spectrum and delineate the regions of parameter space that remain phenomenologically viable after imposing theoretical consistency conditions. We find that these constraints make uncovering a stochastic background gravitational wave signal in this scenario more challenging, even for proposed future detectors.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)059">Journal of High Energy Physics</source>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)059</guid>
+    </item><item>
+      <title>Improved measurements of the coherence factors and strong-phase differences in D → K − π + π + π − and D → K − π + π 0 with quantum-correlated DoverlineD decays</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)038</link>
+      <description>Improved measurements of the coherence factors and strong-phase differences in D → K π π π and D → K π π decays are reported, using quantum-correlated DoverlineD pairs produced in e e annihilation at a center-of-mass energy of 3.773 GeV, where D denotes a quantum superposition of the flavour-specific D and overlineD^0 mesons. The analysis employs a dataset collected by the BESIII experiment, corresponding to an integrated luminosity of 7.93 fb . The observables sensitive to the coherence factors and strong-phase differences are measured by reconstructing one D meson in the signal mode and the other in a tag mode. These parameters provide essential inputs to the measurement of the angle γ of the Cabibbo-Kobayashi-Maskawa Unitarity Triangle in the LHCb and Belle II experiments. The coherence factors are determined to be R = 0.51 ± 0.04 and R_Kπ π^0=0.75± 0.03 , and the strong-phase differences are δ_D^K3π =(182_-13^+14)^circ and δ_D^Kπ π^0=(209_-8^+7)^circ , where the uncertainties inclu</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)038">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)038</guid>
+    </item><item>
+      <title>Calibration of the jet energy scale and resolution of small-radius jets using semileptonic tbart events with the ATLAS detector</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15692-2</link>
+      <description>A measurement of correction factors for the hadronic jet energy scale and resolution in the ATLAS detector is presented. These correction factors account for differences between simulated and observed data. They are obtained by analysing a selection of top quark events collected in proton–proton collisions by ATLAS between the years 2015 and 2018 at a centre-of-mass energy sqrts = 13 text TeV as well as in 2022 and 2023 at sqrts = 13.6 text TeV . The impact of different jet energy scale or resolution corrections on the reconstructed mass of the hadronically decaying W boson from top-quark decays in simulation is quantified. The correction factors are extracted from a fit to the parameterised reconstructed W-boson mass distribution to data. The energy scale and resolution corrections are measured as a function of the jet transverse momentum between 20 and 200 GeV and absolute pseudorapidity less than 0.8. The uncertainties in the energy scale range from about 0.93% to about 1.7% for jet</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15692-2">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15692-2</guid>
+    </item><item>
+      <title>Correlators Are Simpler than Wave Functions</title>
+      <link>https://doi.org/10.1103/sgm7-181s</link>
+      <description>Recent works reveal a simplicity in equal-time correlators absent from wave functions. We show that it follows from the fact that correlators are full spacetime integrals rather than half-spacetime integrals as for the wave function. This makes striking properties manifest: some wave function singularities are absent, factorization simplifies, and around every pole the Laurent expansion has a vanishing first subleading term. Near the total-energy pole, the expansion to second order is generated by a differential operator on scattering amplitudes.</description>
+      <source url="https://doi.org/10.1103/sgm7-181s">Physical Review Letters</source>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/sgm7-181s</guid>
+    </item><item>
+      <title>Lattice-QCD Validation of Hadron Mass and Trace-Anomaly Decomposition Sum Rules</title>
+      <link>https://doi.org/10.1103/5n46-717z</link>
+      <description>We present the first lattice-QCD validation of multiple sum rules associated with quark-gluon decomposition of hadron mass by computing all relevant tensor components of the quark and gluon energy-momentum tensor matrix elements from first principles. We achieve this through nonperturbative renormalization of the QCD energy-momentum tensor, including its trace, in a gradient-flow scheme, followed by continuum extrapolations, two-loop matching to the MS¯ scheme, and zero-flow-time extrapolations. These ingredients enable a direct and simultaneous verification, in a common renormalization scheme and scale, of multiple energy-density-based and trace-based mass decomposition sum rules proposed in the literature. We demonstrate the framework for the ηc and J/ψ charmonia using three fine lattice spacings with a physical strange-quark and near-physical up-and down-quark masses. We present the first lattice-QCD results for the gravitational form factor C¯. We find sizable gluonic contributions</description>
+      <source url="https://doi.org/10.1103/5n46-717z">Physical Review Letters</source>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5n46-717z</guid>
+    </item><item>
+      <title>Narrowing down sources of high-frequency gravitational waves</title>
+      <link>https://doi.org/10.1103/rxmf-m5k9</link>
+      <description>Detecting gravitational waves above 100 kHz would constitute a major discovery, as any observable signal would have to arise from new physics within the late universe. Although many technologies have been identified to explore this high-frequency regime, the known landscape of promising sources remains extremely sparse. In this work, we aim to rectify this issue by providing model-independent arguments that highlight the most interesting parts of theory space, while remaining agnostic of the specific signal mechanism. For example, energy-conservation implies that gravitational waves detectable by future experiments well above a MHz would most likely have to originate from within the Solar System. Based on these arguments, we also constrain the physical properties of such sources.</description>
+      <source url="https://doi.org/10.1103/rxmf-m5k9">Physical Review D</source>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rxmf-m5k9</guid>
+    </item><item>
       <title>Magnetic-monopole resummation justifies perturbatively calculated collider production cross sections</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16085-1</link>
       <description>A one-loop resummation scheme, inspired by Dyson–Schwinger (DS) formalism of strongly coupled quantum field theories, is applied to spin-1/2 magnetic monopoles (MMs), in the context of an effective field theory (EFT), invariant under the gauge group mathrm U(1)_emotimes U(1)^prime , where mathrm U(1)^prime is a dual strongly coupled Abelian interaction, associated with a ‘dark photon’. The latter leads to a MM appearing as a limiting case of a ‘dyon’, with a tiny ‘electric charge’, compensated by a huge wave-function renormalization of the MM, thereby leading to a finite renormalized MM–photon coupling. An ultra-violet fixed point structure is found in the resummed theory, which is purely non-perturbative due to different boundary conditions of the resummation equations, compared to the weak coupling (perturbative) case. The renormalized coupling of the MM to the electromagnetic photon in the fixed-point theory is identified with the magnetic charge, compatible with the Dirac quantizat</description>
@@ -14,12 +79,12 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16085-1</guid>
     </item><item>
-      <title>From friction scaling to an efficient method for estimating bubble wall velocity</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)044</link>
-      <description>We present a unified description of first-order cosmological phase transition dynamics that links the phenomenological friction model employed in hydrodynamic simulations to the microscopic treatment based on Boltzmann equations. We derive an approximate analytical expression for the chemical potential and demonstrate that the resulting friction parameter oversetsim eta follows a simple power-law dependence on the transition strength (propto v_n^4/T_n^4) . Incorporating this scaling into a phenomenological framework accurately reproduces the terminal wall velocities obtained from the full microscopic analysis performed using WallGo [1]. This approach offers an efficient method to quantify out-of-equilibrium contributions to friction and reliably estimate bubble-wall velocities.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)044">Journal of High Energy Physics</source>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)044</guid>
+      <title>Erratum to: Extracting scattering amplitudes for arbitrary two-particle systems with one-particle left-hand cuts via lattice QCD</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)058</link>
+      <description>A correction to this paper has been published: https://doi.org/10.1007/JHEP06(2025)186</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)058">Journal of High Energy Physics</source>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)058</guid>
     </item><item>
       <title>Search for a new resonance decaying to a Higgs boson and a scalar boson in events with two b jets and two Z bosons in proton-proton collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/1b65-rblz</link>
@@ -28,6 +93,13 @@
       <author>et al.</author>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/1b65-rblz</guid>
+    </item><item>
+      <title>From friction scaling to an efficient method for estimating bubble wall velocity</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)044</link>
+      <description>We present a unified description of first-order cosmological phase transition dynamics that links the phenomenological friction model employed in hydrodynamic simulations to the microscopic treatment based on Boltzmann equations. We derive an approximate analytical expression for the chemical potential and demonstrate that the resulting friction parameter oversetsim eta follows a simple power-law dependence on the transition strength (propto v_n^4/T_n^4) . Incorporating this scaling into a phenomenological framework accurately reproduces the terminal wall velocities obtained from the full microscopic analysis performed using WallGo [1]. This approach offers an efficient method to quantify out-of-equilibrium contributions to friction and reliably estimate bubble-wall velocities.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)044">Journal of High Energy Physics</source>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)044</guid>
     </item><item>
       <title>Probing Planck-scale physics with high-frequency gravitational waves</title>
       <link>https://doi.org/10.1103/rgkw-h2l2</link>
@@ -57,12 +129,12 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/l1t6-5nyh</guid>
     </item><item>
-      <title>Generalizing deconfined criticality to 3D N-flavor SU(2) quantum chromodynamics on the fuzzy sphere</title>
-      <link>https://doi.org/10.1103/f6qg-q875</link>
-      <description>The infrared behavior of gauge theories coupled to matter remains an open problem in quantum field theory. For a given gauge group, such theories are expected to flow to an interacting conformal fixed point over a range of fermion or scalar flavors, known as the “conformal window.” Their nature is important for understanding critical phases and phase transitions beyond the Landau paradigm like the deconfined quantum critical point yet remains challenging for conventional nonperturbative approaches. In this work, we study a family of fuzzy-sphere models corresponding to nonlinear sigma models with Sp(N) global symmetry extended to the strongly coupled region. These theories are expected have an infrared fixed point described by SU(2) quantum chromodynamics in three space-time dimensions with N flavors of fermions. They can be viewed as a generalization of the SO(5) deconfined quantum critical point, corresponding to N=2. We investigate them using quantum Monte Carlo for N up to 16. We f</description>
-      <source url="https://doi.org/10.1103/f6qg-q875">Physical Review D</source>
+      <title>Didecay signature of new physics particles at intensity frontier experiments</title>
+      <link>https://doi.org/10.1103/l1t6-5nyh</link>
+      <description>We present a discovery-era strategy for intensity frontier experiments based on “didecay” events, in which feebly interacting particles (FIPs) are produced in pairs and then both decay inside the detector. This signature may exist in broad classes of models with FIPs decaying in the same way as minimal “portal” particles. The two displaced vertices may allow reconstruction of the pair invariant mass and hence reveal the production channel, information normally inaccessible at these facilities. This, in turn, lets one discriminate between FIP models that share identical decay signatures. As a case study, we consider the model of Higgs-like scalars and show that SHiP, Belle II, and the Downstream@LHCb can each cover wide domains of viable parameter space using didecays.</description>
+      <source url="https://doi.org/10.1103/l1t6-5nyh">Physical Review D</source>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/f6qg-q875</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/l1t6-5nyh</guid>
     </item><item>
       <title>Measurement of the branching fractions of χ cJ → π + π − π 0 π 0 via ψ(3686) → γχ cJ</title>
       <link>https://doi.org/10.1007/JHEP08(2026)023</link>
@@ -79,79 +151,6 @@
       <author>et al.</author>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16180-3</guid>
-    </item><item>
-      <title>Search for the Lepton-Flavor Violating Decays B+→π+μ±e∓</title>
-      <link>https://doi.org/10.1103/ln8k-mlhr</link>
-      <description>The first search for the lepton-flavor violating decays B+→π+μ±e∓ in proton-proton collisions is presented, using data collected by the LHCb experiment between 2011 and 2018, corresponding to an integrated luminosity of 9 fb−1. No significant signal is observed and an upper limit on the branching fraction is set at B(B+→π+μ±e∓)1.8×10−9 at the 90% confidence level, 2 orders of magnitude more restrictive than the most stringent upper limit to date. This is the first constraint on lepton-flavor violating b→d quark transitions at the LHC and also sets the most stringent upper limits to date on b→dμ±e∓ transitions. Limits on left-handed and scalar scenarios beyond the standard model are also reported.</description>
-      <source url="https://doi.org/10.1103/ln8k-mlhr">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ln8k-mlhr</guid>
-    </item><item>
-      <title>First Measurement of Neutrino Emissions from Spent Nuclear Fuel by the Double Chooz Experiment</title>
-      <link>https://doi.org/10.1103/dr26-j19g</link>
-      <description>Neutrino emission from nuclear reactors provides real-time insights into reactor power and fuel evolution, with potential applications in monitoring and nuclear safeguards. Following reactor shutdown, a low-intensity flux of “residual neutrinos” persists due to the decay of long-lived fission isotopes in the partially burnt fuel remaining within the reactor cores and in spent nuclear fuel stored in nearby cooling pools. The Double Chooz experiment at the Chooz B nuclear power plant in France achieved the first quantitative measurement of this residual flux based on 17.2 days of reactor-off data. In the energy range where the residual signal is most pronounced, the neutrino detector located 400 m from the cores recorded 106±18 neutrino candidate events (5.9σ significance). This measurement is in excellent agreement with the predicted value of 88±7 events derived from detailed reactor simulations modeling the decay activities of fission products and incorporating the best-available model</description>
-      <source url="https://doi.org/10.1103/dr26-j19g">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dr26-j19g</guid>
-    </item><item>
-      <title>Axion production and detection using a dual NMR-type experiment</title>
-      <link>https://doi.org/10.1103/y8rj-rpfg</link>
-      <description>Axions that couple to nuclear spins via the axial current interaction can be both produced and detected using nuclear magnetic resonance (NMR) techniques. In this scheme, nuclei driven by a real oscillating magnetic field in one device act as an axion source, which can drive NMR in a nearby spin-polarized sample interrogated with a sensitive magnetometer. We study the prospects for detecting axions through this method and identify two key characteristics that result in compelling detection sensitivity. First, the gradient of the generated axion field can be substantial, set by the inverse distance from the source. Near the source, it reduces to the inverse of the source’s geometric size. Second, because the generated axion field is produced at a known frequency, the detection medium can be tuned precisely to this frequency, enabling long interrogation times. We show that the experimental sensitivity of a pair of centimeter-scale NMR devices operating over a 15-day integration time can </description>
-      <source url="https://doi.org/10.1103/y8rj-rpfg">Physical Review D</source>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/y8rj-rpfg</guid>
-    </item><item>
-      <title>Eikonal spin-dependent odderon and gluon Sivers function of a proton and its small-x evolution</title>
-      <link>https://doi.org/10.1103/wwmj-yxtg</link>
-      <description>The matrix element in the proton of the eikonal Odderon operator, with a helicity flip, has been shown to correspond to the dipole gluon Sivers function. We employ a three quark light-front model of the proton to determine the Sivers function at moderately small x0∼0.1 and transverse momentum k⊥≲1 GeV. The model light-cone (LC) wave function predicts the properties of xf1T⊥g(x,k⊥) such as its overall magnitude, the position of its peak in k⊥, and its behavior at small k⊥. We then compute numerically the Balitsky-Fadin-Kuraev-Lipatov anomalous dimension characterizing the power-law tail at k⊥≳1.5 GeV of the gluon Sivers function at small (but preasymptotic) LC momentum fractions x∼x0e−1/αs: xf1T⊥g(x,k⊥)∼k⊥−3.3.</description>
-      <source url="https://doi.org/10.1103/wwmj-yxtg">Physical Review D</source>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wwmj-yxtg</guid>
-    </item><item>
-      <title>Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at s=5.02 TeV</title>
-      <link>https://doi.org/10.1103/tgtl-7xh9</link>
-      <description>This paper presents a fully corrected measurement of the energy-energy correlator (EEC) within jets in pp collisions. The EEC traces the energy flow as a highly energetic parton undergoes a QCD shower followed by the confinement of partons into hadrons, probing the correlation function of the energy flow inside jets. The EEC observable is measured as a function of the charged particle pair angular distance, RL, for 20pTch jet80 GeV/c. In the perturbative region (large RL), a good agreement between the data and a next-to-leading-log perturbative QCD calculation is observed. In the nonperturbative region (small RL), the data exhibit a linear RL dependence. There is a transition region in between, characterized by a turnover in the EEC distribution, indicating where hadronization effects begin to dominate. The peak of this transition region is located at 2.43±0.14 GeV/c/⟨pTch jet⟩ for jets of various energies, indicating a common energy scale for the hadronization process. State-of-the-ar</description>
-      <source url="https://doi.org/10.1103/tgtl-7xh9">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tgtl-7xh9</guid>
-    </item><item>
-      <title>Lattice-based equation of state with a critical point from constant entropy contours and its comparison to effective QCD approaches</title>
-      <link>https://doi.org/10.1103/3jjq-ykkg</link>
-      <description>In this work, we systematically assess the performance of a new method from [H. Shah et al., Phys. Rev. C 113, L012201 (2026)] for locating the QCD critical point using constant-entropy contours by testing it against various effective QCD approaches. We demonstrate that, while the method yields spurious critical points in purely hadronic models (HRG) due to nonparabolic contour behavior at low temperatures (T≲120 MeV), it accurately reproduces the critical point location in frameworks that feature a genuine phase transition and benchmarked against lattice QCD, such as holographic Einstein-Maxwell-dilaton, and functional QCD approaches. Building on our previous determination of constant entropy contours using lattice data, we extend that analysis to construct a complete lattice-based equation of state (EoS) at finite density, which features a critical point at (T,μB)≈(114,602) MeV. By integrating the extrapolated entropy density with respect to temperature, we reconstruct the pressure, </description>
-      <source url="https://doi.org/10.1103/3jjq-ykkg">Physical Review D</source>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3jjq-ykkg</guid>
-    </item><item>
-      <title>Semi-inclusive deep-inelastic scattering on a polarized spin-1 target. II. Deuteron and spectator nucleon tagging</title>
-      <link>https://doi.org/10.1103/nf26-tkx7</link>
-      <description>We develop the theoretical framework for semi-inclusive deep-inelastic scattering on a polarized spin-1 target and apply it to scattering on the polarized deuteron with spectator nucleon tagging. In Part I (previous article), we present the general form of the semi-inclusive cross section and polarization observables for the spin-1 target. In Part II (this article), we consider deep-inelastic scattering on the polarized deuteron with spectator nucleon tagging as a special case of target fragmentation. Methods of light-front quantization are employed to separate nuclear and hadronic structure in the high-energy process and achieve a composite description. The light-front wave function of the polarized deuteron is obtained from a rotationally covariant three-dimensional wave function in the center-of-mass frame of the proton-neutron system. The tagged structure functions are computed in the impulse approximation. The momentum and spin distribution of the active nucleon are controlled by </description>
-      <source url="https://doi.org/10.1103/nf26-tkx7">Physical Review C</source>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nf26-tkx7</guid>
-    </item><item>
-      <title>Beautiful and charming energy correlators</title>
-      <link>https://doi.org/10.1103/4plr-bmv6</link>
-      <description>Understanding the detailed structure of energy flow within jets, a field known as jet substructure, plays a central role in searches for new physics, and precision studies of QCD. Many applications of jet substructure require an understanding of jets initiated by heavy quarks, whose description has lagged behind remarkable recent progress for massless jets. In this Letter, we initiate a study of correlation functions of energy flow operators on beauty and charm jets to illuminate the effects of the intrinsic mass of the elementary particles of QCD. We present a factorization theorem incorporating the mass of heavy quarks, and show that the heavy quark jet functions for energy correlators have a simple structure in perturbation theory. Our results achieve the very first full next-to-leading-logarithmic calculation of the heavy quark jet substructure observable at the LHC. Using this framework, we study the behavior of the correlators, and show that they exhibit a clear transition from a</description>
-      <source url="https://doi.org/10.1103/4plr-bmv6">Physical Review D</source>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4plr-bmv6</guid>
-    </item><item>
-      <title>All-electron dark matter-electron scattering with random-phase approximation dielectric screening and local field effects</title>
-      <link>https://doi.org/10.1103/rvzm-31vc</link>
-      <description>Accurate predictions for dark matter-electron scattering in solids require an all-electron treatment together with a faithful description of dielectric screening beyond simple approximations. In particular, local field effects, arising from microscopic inhomogeneities of the electronic response, can significantly modify scattering rates across relevant momentum and energy scales. We present an all-electron framework for computing dark matter-electron scattering rates that incorporates dielectric screening at the random-phase approximation (RPA) level, including local field effects. Using crystalline silicon as a benchmark, we show that local field effects play an important role both at large momentum transfers, spanning multiple Brillouin zones, and at low momentum near the plasmon resonance. We compute electron recoil spectra and projected sensitivities for nonrelativistic halo dark matter and for boosted dark matter or other dark-sector particles, which are sensitive to the impact of</description>
-      <source url="https://doi.org/10.1103/rvzm-31vc">Physical Review D</source>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rvzm-31vc</guid>
-    </item><item>
-      <title>Semi-inclusive deep-inelastic scattering on a polarized spin-1 target. I. Cross section and spin observables</title>
-      <link>https://doi.org/10.1103/cwp5-7c96</link>
-      <description>We develop the theoretical framework for semi-inclusive deep-inelastic scattering on a polarized spin-1 target and apply it to scattering on the polarized deuteron with spectator nucleon tagging. In Part I (this article) we present the general form of the semi-inclusive cross section and polarization observables for the spin-1 target. A relativistically covariant formulation in terms of four-vectors and invariant polarization parameters is employed. The target polarization is described by a spin density matrix with vector and tensor polarization. The spin and azimuthal angle dependence of the semi-inclusive cross section is derived and parametrized in terms of invariant structure functions. To validate the result, the structure functions are expressed as photon-target helicity amplitudes with known symmetry properties. The expressions presented here are kinematic (no assumptions about particle production dynamics) and valid in all regions of the deep-inelastic final state (current and </description>
-      <source url="https://doi.org/10.1103/cwp5-7c96">Physical Review C</source>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cwp5-7c96</guid>
     </item>
   </channel>
 </rss>
