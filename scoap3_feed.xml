@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 10:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 10:27:31 +0000</lastBuildDate>
     <item>
       <title>Planck-scale effects on nucleon decay in minimal supersymmetric SU(5)</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16195-w</link>
@@ -34,14 +34,6 @@
       <source url="https://doi.org/10.1007/JHEP08(2026)059">Journal of High Energy Physics</source>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)059</guid>
-    </item><item>
-      <title>Improved measurements of the coherence factors and strong-phase differences in D → K − π + π + π − and D → K − π + π 0 with quantum-correlated DoverlineD decays</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)038</link>
-      <description>Improved measurements of the coherence factors and strong-phase differences in D → K π π π and D → K π π decays are reported, using quantum-correlated DoverlineD pairs produced in e e annihilation at a center-of-mass energy of 3.773 GeV, where D denotes a quantum superposition of the flavour-specific D and overlineD^0 mesons. The analysis employs a dataset collected by the BESIII experiment, corresponding to an integrated luminosity of 7.93 fb . The observables sensitive to the coherence factors and strong-phase differences are measured by reconstructing one D meson in the signal mode and the other in a tag mode. These parameters provide essential inputs to the measurement of the angle γ of the Cabibbo-Kobayashi-Maskawa Unitarity Triangle in the LHCb and Belle II experiments. The coherence factors are determined to be R = 0.51 ± 0.04 and R_Kπ π^0=0.75± 0.03 , and the strong-phase differences are δ_D^K3π =(182_-13^+14)^circ and δ_D^Kπ π^0=(209_-8^+7)^circ , where the uncertainties inclu</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)038">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)038</guid>
     </item><item>
       <title>Calibration of the jet energy scale and resolution of small-radius jets using semileptonic tbart events with the ATLAS detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15692-2</link>
@@ -86,6 +78,13 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)058</guid>
     </item><item>
+      <title>From friction scaling to an efficient method for estimating bubble wall velocity</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)044</link>
+      <description>We present a unified description of first-order cosmological phase transition dynamics that links the phenomenological friction model employed in hydrodynamic simulations to the microscopic treatment based on Boltzmann equations. We derive an approximate analytical expression for the chemical potential and demonstrate that the resulting friction parameter oversetsim eta follows a simple power-law dependence on the transition strength (propto v_n^4/T_n^4) . Incorporating this scaling into a phenomenological framework accurately reproduces the terminal wall velocities obtained from the full microscopic analysis performed using WallGo [1]. This approach offers an efficient method to quantify out-of-equilibrium contributions to friction and reliably estimate bubble-wall velocities.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)044">Journal of High Energy Physics</source>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)044</guid>
+    </item><item>
       <title>Search for a new resonance decaying to a Higgs boson and a scalar boson in events with two b jets and two Z bosons in proton-proton collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/1b65-rblz</link>
       <description>A search is performed for a new resonance X decaying into a Higgs boson and a new scalar boson Y (HY) including the case where Y is assumed to be a second Higgs boson (HH), using proton-proton collision data collected at s=13 TeV, corresponding to an integrated luminosity of 138 fb−1. This study performs a comprehensive exploitation of the bbZZ events, encompassing the following decay topologies. One H candidate is identified through its decay into a bottom quark-antiquark pair, while the other H or the Y candidate is selected through its decay into a pair of Z bosons. One Z boson is required to decay leptonically and the other, to decay into a pair of quarks or neutrinos. Events of interest are categorized based on the Lorentz boosts of the hadronically decaying H and Z bosons. Machine-learning-based discriminants, together with the reconstructed resonance mass, are employed across the different categories to separate signal from backgrounds, and their corresponding distributions are </description>
@@ -93,13 +92,6 @@
       <author>et al.</author>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/1b65-rblz</guid>
-    </item><item>
-      <title>From friction scaling to an efficient method for estimating bubble wall velocity</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)044</link>
-      <description>We present a unified description of first-order cosmological phase transition dynamics that links the phenomenological friction model employed in hydrodynamic simulations to the microscopic treatment based on Boltzmann equations. We derive an approximate analytical expression for the chemical potential and demonstrate that the resulting friction parameter oversetsim eta follows a simple power-law dependence on the transition strength (propto v_n^4/T_n^4) . Incorporating this scaling into a phenomenological framework accurately reproduces the terminal wall velocities obtained from the full microscopic analysis performed using WallGo [1]. This approach offers an efficient method to quantify out-of-equilibrium contributions to friction and reliably estimate bubble-wall velocities.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)044">Journal of High Energy Physics</source>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)044</guid>
     </item><item>
       <title>Probing Planck-scale physics with high-frequency gravitational waves</title>
       <link>https://doi.org/10.1103/rgkw-h2l2</link>
@@ -122,12 +114,12 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)047</guid>
     </item><item>
-      <title>Didecay signature of new physics particles at intensity frontier experiments</title>
-      <link>https://doi.org/10.1103/l1t6-5nyh</link>
-      <description>We present a discovery-era strategy for intensity frontier experiments based on “didecay” events, in which feebly interacting particles (FIPs) are produced in pairs and then both decay inside the detector. This signature may exist in broad classes of models with FIPs decaying in the same way as minimal “portal” particles. The two displaced vertices may allow reconstruction of the pair invariant mass and hence reveal the production channel, information normally inaccessible at these facilities. This, in turn, lets one discriminate between FIP models that share identical decay signatures. As a case study, we consider the model of Higgs-like scalars and show that SHiP, Belle II, and the Downstream@LHCb can each cover wide domains of viable parameter space using didecays.</description>
-      <source url="https://doi.org/10.1103/l1t6-5nyh">Physical Review D</source>
+      <title>Energy correlators of spinning sources</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)047</link>
+      <description>The N-point energy correlator measures the energy flux through N detectors. We present a general framework that characterizes its full angular dependence in a series of spinning energy correlators. These spinning correlators resurrect the angular momentum structure of both the source and the detector configuration, lost otherwise in inclusive measurements. We demonstrate that unitarity and energy positivity confine these correlators to a sharply bounded region, with the boundary realized by extremal correlators generated by pure spin states. We present a first calculation of spinning energy correlators in QCD as well as spinning energy-charge correlators. Their enhanced insensitivity to infrared dynamics opens up a new set of observables that directly probe the hard part of the scattering. Finally, we provide generalized sum rules, extended to spinning correlators and to conserved charges beyond energy.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)047">Journal of High Energy Physics</source>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/l1t6-5nyh</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)047</guid>
     </item><item>
       <title>Didecay signature of new physics particles at intensity frontier experiments</title>
       <link>https://doi.org/10.1103/l1t6-5nyh</link>
@@ -136,13 +128,20 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/l1t6-5nyh</guid>
     </item><item>
-      <title>Measurement of the branching fractions of χ cJ → π + π − π 0 π 0 via ψ(3686) → γχ cJ</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)023</link>
-      <description>Using (2712.4 ± 14.3) × 10 ψ(3686) events collected with the BESIII detector operating at BEPCII, the branching fractions of χ → π π π π (J = 0, 1, 2) are measured via the radiative transition ψ(3686) → γχ . The results are ℬ(χ → π π π π ) = (3.10 ± 0.01 ± 0.14) × 10 , ℬ(χ → π π π π ) = (1.16 ± 0.01 ± 0.05) × 10 , and B(χ → π π π π ) = (1.92 ± 0.01 ± 0.08) × 10 , where the first uncertainties are statistical and the second systematic. The dominant intermediate states are found to be χ → ρ ρ . These results improve upon previous measurements with significantly enhanced precision.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)023">Journal of High Energy Physics</source>
+      <title>Generalizing deconfined criticality to 3D N-flavor SU(2) quantum chromodynamics on the fuzzy sphere</title>
+      <link>https://doi.org/10.1103/f6qg-q875</link>
+      <description>The infrared behavior of gauge theories coupled to matter remains an open problem in quantum field theory. For a given gauge group, such theories are expected to flow to an interacting conformal fixed point over a range of fermion or scalar flavors, known as the “conformal window.” Their nature is important for understanding critical phases and phase transitions beyond the Landau paradigm like the deconfined quantum critical point yet remains challenging for conventional nonperturbative approaches. In this work, we study a family of fuzzy-sphere models corresponding to nonlinear sigma models with Sp(N) global symmetry extended to the strongly coupled region. These theories are expected have an infrared fixed point described by SU(2) quantum chromodynamics in three space-time dimensions with N flavors of fermions. They can be viewed as a generalization of the SO(5) deconfined quantum critical point, corresponding to N=2. We investigate them using quantum Monte Carlo for N up to 16. We f</description>
+      <source url="https://doi.org/10.1103/f6qg-q875">Physical Review D</source>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/f6qg-q875</guid>
+    </item><item>
+      <title>GPU acceleration of optical photon propagation in low photon yield applications: Opticks for the Electron Ion Collider</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16180-3</link>
+      <description>The bulk of the time required to simulate Cherenkov and scintillation detectors is consumed by optical photon transport, a task that GPUs are uniquely qualified to perform. We present EIC-Opticks, a fork of Opticks, which uses event aggregation to drastically accelerate photon transport simulation for low-to-moderate photon yield experiments. During the full Geant4 Monte Carlo simulation of a given detector, optical photon simulation is performed on GPU(s) using the NVIDIA OptiX framework. We validate this approach using the ePIC pfRICH detector. We find GPU and CPU simulations in excellent agreement, with hit totals agreeing at the 0.06% level and wavelength/radial projections giving χ ^2/textrmndfsimeq 1 . At the pfRICH physics program benchmark of 10^5 muons at p=5~textrmGeV/c , EIC-Opticks shows 13.2± 0.5× speedup over 20-thread Geant4 and 234± 10× over a single thread. In the case of low-to-moderate applications event aggregation reduces the per-photon simulation time from about 4</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16180-3">European Physical Journal C</source>
       <author>et al.</author>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)023</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16180-3</guid>
     </item><item>
       <title>GPU acceleration of optical photon propagation in low photon yield applications: Opticks for the Electron Ion Collider</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16180-3</link>
