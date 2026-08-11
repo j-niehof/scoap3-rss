@@ -5,8 +5,78 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:45:10 +0000</lastBuildDate>
     <item>
+      <title>Vacuum moduli space of the minimal supersymmetric standard model</title>
+      <link>https://doi.org/10.1103/vkmb-4jnn</link>
+      <description>A starting point in the study of the minimal supersymmetric Standard Model (MSSM) is the vacuum moduli space, which is a highly complicated algebraic variety; it is the image of an affine variety X⊂C49 under a symplectic quotient map ϕ to C973. Previous work [Y.-H. He et al., The geometry of generations, Commun. Math. Phys. 339, 149 (2015)] computed the vacuum moduli space of the electroweak sector; geometrically this corresponds to studying a restriction of ϕ: C13→ϕresC22. We analyze the geometry of the full vacuum moduli space for superpotentials Wminimal (without neutrinos) and WMSSM (with neutrinos) in C973. In both cases, we prove that X consists of three irreducible components X1, X2, and X3, and determine the images Mi of the Xi under ϕ. For Wminimal we show they have, respectively, dimensions 1, 15, and 29, and prove that each of the Mi is a rational variety, while for WMSSM we show that M3 is the only component. Restricting the Mi to the electroweak sector, we recover the resu</description>
+      <source url="https://doi.org/10.1103/vkmb-4jnn">Physical Review D</source>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vkmb-4jnn</guid>
+    </item><item>
+      <title>Warm inflation with pseudo-scalar couplings</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)072</link>
+      <description>Inflaton couplings during warm inflation result in the production of a thermal bath. Thermal friction and fluctuations can dominate the standard de Sitter analogues, resulting in a modified slow-roll scenario with a new source of density fluctuations. Due to issues with back-reaction, it is advantageous to consider inflaton couplings with the thermal bath that are pseudo-scalar in nature, e.g., derivative interactions or topological Foversetsim F couplings. We demonstrate that every single existing model of warm inflation utilizing pseudo-scalar couplings needs to be corrected to properly account for all of the chemical potentials that the thermal bath acquires in response to the inflaton coupling. These chemical potentials are for non-conserved charges, and are non-zero only because of the applied inflaton couplings. The model-dependent chemical potentials modify the fluctuation-dissipation theorem, making the relationship between the thermal friction and thermal fluctuations model-de</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)072">Journal of High Energy Physics</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)072</guid>
+    </item><item>
+      <title>Thermodynamic characteristics of a Fermi gas with an invariant energy scale and its astrophysical implications</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16093-1</link>
+      <description>We investigate the thermodynamics of a relativistic Fermi gas governed by a modified dispersion relation in the Magueijo Smolin (MS) formulation of Doubly Special Relativity (DSR), characterized by the presence of an invariant ultraviolet energy (deformation) scale. We study the system in two physically distinct regimes: the near degenerate low-temperature limit, and the high-temperature regime. In the low-temperature regime, we derive the thermodynamic quantities using the standard Sommerfeld expansion. In the high-temperature regime, we evaluate all thermodynamic quantities numerically from the exact grand canonical potential and demonstrate that the thermodynamics of the Fermi gas reduces to the standard relativistic ideal gas behavior. We apply the resulting low-temperature equation of state to study compact astrophysical objects, namely, non-rotating white dwarfs and neutron stars. Helium white dwarfs exhibit a strong dependence on the deformation scale, while white dwarfs compose</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16093-1">European Physical Journal C</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16093-1</guid>
+    </item><item>
+      <title>Study of quark and gluon jet identification in photoproduction at the EIC</title>
+      <link>https://doi.org/10.1103/v28z-qw9b</link>
+      <description>This paper presents a systematic study of the substructure of dijets produced in direct and resolved photoproduction events and subsequent quark and gluon jet identification in dijets, considering the kinematic reach of the upcoming Electron-Ion Collider (EIC) experiment. We investigate the substructure of jets produced in dijet photoproduction events with center-of-mass energies s=64–140 GeV at the EIC. Events are simulated using event generator pythia and contributions from direct and resolved photoproduction subprocesses are analyzed at different energies. Jets are reconstructed using longitudinally invariant kT algorithm within the fastjet framework. Substructure of quark and gluon initiated jets in the selected dijet photoproduction sample is studied in detail by using jet-shape variables. Predictions for subjet multiplicities and integrated jet shapes are presented in the gluon-initiated and quark-initiated jets in the dijet photoproduction events at the EIC energies. These resul</description>
+      <source url="https://doi.org/10.1103/v28z-qw9b">Physical Review D</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/v28z-qw9b</guid>
+    </item><item>
+      <title>Minimal dark matter: Generalized framework and direct-detection sensitivity</title>
+      <link>https://doi.org/10.1103/jv6s-76s9</link>
+      <description>Minimal electroweak dark matter models are compelling due to their simplicity, though calculations of their freeze-out abundance are complicated by nonperturbative effects due to Sommerfeld enhancement and bound-state formation. It has been shown that all individual multiplet scenarios beyond the doublet lead to direct-detection signals above the neutrino floor and thus within the reach of next-generation experiments. If no signals are found, would minimal dark matter be excluded? Yes for the simplest models, but it has been unknown for the important extension of two multiplets coupled by Higgs interactions (Higgs-coupled minimal dark matter). We present a generalized framework for calculating nonperturbative effects for such models that also covers the case of individual multiplets. In this framework, we calculate nonperturbative effects on freeze-out as well as the prospects for direct detection, correcting shortcomings and omissions in the literature. Importantly, for the mixed Majo</description>
+      <source url="https://doi.org/10.1103/jv6s-76s9">Physical Review D</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jv6s-76s9</guid>
+    </item><item>
+      <title>DIS dijet production in background field approach: General formalism and methods</title>
+      <link>https://doi.org/10.1103/8ggz-1434</link>
+      <description>We develop a general formalism for computing physical observables within the background field approach, based on representing propagators of the Feynman diagrams in the background fields as path-ordered exponents. This representation allows systematic expansion of the background fields onto arbitrary linear piecewise contours in coordinate space, yielding gauge-covariant QCD operators to any required order of the expansion. We apply this formalism to deeply inelastic scattering dijet production and derive a general form of the cross section in terms of (anti)quark propagators in the background fields, valid in arbitrary kinematics. To demonstrate the versatility of our approach, we consider two kinematic limits. In the back-to-back limit, the expansion contour reduces to that of transverse momentum dependent operators. In this limit we recover the known leading-power results. In the small-x regime, defined by the high-energy power counting for boosted background fields, the expansion c</description>
+      <source url="https://doi.org/10.1103/8ggz-1434">Physical Review D</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/8ggz-1434</guid>
+    </item><item>
+      <title>Chiral symmetry breaking and pion decay in a magnetic field</title>
+      <link>https://doi.org/10.1103/84zn-16sy</link>
+      <description>The pattern of chiral symmetry breaking is exploited to compute vector and axial-vector pion matrix elements in a uniform magnetic field. Our results are model independent, and thereby constitute low-energy theorems that must be obeyed by QCD in external magnetic fields. Chiral perturbation theory, lattice QCD, and Nambu–Jona-Lasinio results are compared. While there is some tension between chiral perturbation theory and lattice QCD, the tension between low-energy QCD and the Nambu–Jona-Lasinio model is more acute. As an application, the matrix elements are utilized to compute pion decay rates in a magnetic field.</description>
+      <source url="https://doi.org/10.1103/84zn-16sy">Physical Review D</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/84zn-16sy</guid>
+    </item><item>
+      <title>Energy correlators in warped geometries</title>
+      <link>https://doi.org/10.1103/2fq2-chg1</link>
+      <description>We study energy correlators as probes of strongly coupled nearly conformal field theories within their holographically dual descriptions, focusing on the important features that appear in realistic theories going beyond the standard model. In particular, we study warped geometries which asymptote to AdS5, as well as IR-truncations dual to a 4D gap. Our correlators are computed by in-in type Witten perturbative diagrams, corresponding to a large-N expansion of the strong dynamics. We describe how this sets the stage for phenomenological applications for collider searches beyond the standard model as well as for new theoretical explorations in Lorentzian holography.</description>
+      <source url="https://doi.org/10.1103/2fq2-chg1">Physical Review D</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2fq2-chg1</guid>
+    </item><item>
+      <title>Study of quark and gluon jet identification in photoproduction at the EIC</title>
+      <link>https://doi.org/10.1103/v28z-qw9b</link>
+      <description>This paper presents a systematic study of the substructure of dijets produced in direct and resolved photoproduction events and subsequent quark and gluon jet identification in dijets, considering the kinematic reach of the upcoming Electron-Ion Collider (EIC) experiment. We investigate the substructure of jets produced in dijet photoproduction events with center-of-mass energies s=64–140 GeV at the EIC. Events are simulated using event generator pythia and contributions from direct and resolved photoproduction subprocesses are analyzed at different energies. Jets are reconstructed using longitudinally invariant kT algorithm within the fastjet framework. Substructure of quark and gluon initiated jets in the selected dijet photoproduction sample is studied in detail by using jet-shape variables. Predictions for subjet multiplicities and integrated jet shapes are presented in the gluon-initiated and quark-initiated jets in the dijet photoproduction events at the EIC energies. These resul</description>
+      <source url="https://doi.org/10.1103/v28z-qw9b">Physical Review D</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/v28z-qw9b</guid>
+    </item><item>
+      <title>Diffusion-based point-cloud generation of heavy-ion events</title>
+      <link>https://doi.org/10.1103/nmmz-bwcs</link>
+      <description>Heavy-ion collisions produce final states with thousands to tens of thousands of particles, making their simulation among the most computationally intensive tasks in high-energy nuclear physics. We present a fast, high-fidelity generative model for heavy-ion events based on a score-driven diffusion process and the point-edge transformer architecture within the OmniLearn framework. A two-stage training strategy is performed: Stage 1 trains on lower-multiplicity O-O collisions, allowing the model to learn a stable event-and-particles representation; this is followed in Stage 2 by fine tuning on challenging high-multiplicity Pb-Pb collisions. We benchmark the generator with a broad set of closure checks, including agreement of event-and particle-level observables in one and two dimensions, flow consistency reconstructed from the generated particles, end-to-end jet finding with FastJet including key jet and substructure observables, and a classifier-based application to quantify the sample</description>
+      <source url="https://doi.org/10.1103/nmmz-bwcs">Physical Review C</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/nmmz-bwcs</guid>
+    </item><item>
       <title>Planck-scale effects on nucleon decay in minimal supersymmetric SU(5)</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16195-w</link>
       <description>We examine the impact on the phenomenology of the minimal supersymmetric SU(5) Grand Unified Theory (GUT) of dimension-5 operators with coefficients suppressed by the Planck mass scale, with particular emphasis on predictions for nucleon decay. We incorporate dimension-5 operators in both the Higgs sector and the Yukawa interactions in the theory, and take account of the constraints from gauge coupling measurements, the mass of the Higgs boson, fermion masses and the cold dark matter density. We consider two scenarios for soft supersymmetry breaking: the constrained minimal supersymmetric extension of the Standard Model (CMSSM) and the Non-Universal Higgs Model (NUHM). We present predictions for the nucleon decay modes p → π ^0 e^+, π ^0 μ ^+, K^+ barν , π ^+ barν , K^0 e^+, K^0 μ ^+ and n→ π ^0 barν , π ^-e^+, K^0 barν , which we compare with both the present experimental sensitivities and those projected for the JUNO and Hyper-Kamiokande experiments. We find that these experiments ma</description>
@@ -34,14 +104,6 @@
       <source url="https://doi.org/10.1007/JHEP08(2026)059">Journal of High Energy Physics</source>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)059</guid>
-    </item><item>
-      <title>Improved measurements of the coherence factors and strong-phase differences in D → K − π + π + π − and D → K − π + π 0 with quantum-correlated DoverlineD decays</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)038</link>
-      <description>Improved measurements of the coherence factors and strong-phase differences in D → K π π π and D → K π π decays are reported, using quantum-correlated DoverlineD pairs produced in e e annihilation at a center-of-mass energy of 3.773 GeV, where D denotes a quantum superposition of the flavour-specific D and overlineD^0 mesons. The analysis employs a dataset collected by the BESIII experiment, corresponding to an integrated luminosity of 7.93 fb . The observables sensitive to the coherence factors and strong-phase differences are measured by reconstructing one D meson in the signal mode and the other in a tag mode. These parameters provide essential inputs to the measurement of the angle γ of the Cabibbo-Kobayashi-Maskawa Unitarity Triangle in the LHCb and Belle II experiments. The coherence factors are determined to be R = 0.51 ± 0.04 and R_Kπ π^0=0.75± 0.03 , and the strong-phase differences are δ_D^K3π =(182_-13^+14)^circ and δ_D^Kπ π^0=(209_-8^+7)^circ , where the uncertainties inclu</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)038">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)038</guid>
     </item><item>
       <title>Calibration of the jet energy scale and resolution of small-radius jets using semileptonic tbart events with the ATLAS detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15692-2</link>
@@ -72,19 +134,12 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rxmf-m5k9</guid>
     </item><item>
-      <title>Magnetic-monopole resummation justifies perturbatively calculated collider production cross sections</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16085-1</link>
-      <description>A one-loop resummation scheme, inspired by Dyson–Schwinger (DS) formalism of strongly coupled quantum field theories, is applied to spin-1/2 magnetic monopoles (MMs), in the context of an effective field theory (EFT), invariant under the gauge group mathrm U(1)_emotimes U(1)^prime , where mathrm U(1)^prime is a dual strongly coupled Abelian interaction, associated with a ‘dark photon’. The latter leads to a MM appearing as a limiting case of a ‘dyon’, with a tiny ‘electric charge’, compensated by a huge wave-function renormalization of the MM, thereby leading to a finite renormalized MM–photon coupling. An ultra-violet fixed point structure is found in the resummed theory, which is purely non-perturbative due to different boundary conditions of the resummation equations, compared to the weak coupling (perturbative) case. The renormalized coupling of the MM to the electromagnetic photon in the fixed-point theory is identified with the magnetic charge, compatible with the Dirac quantizat</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16085-1">European Physical Journal C</source>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16085-1</guid>
-    </item><item>
-      <title>Erratum to: Extracting scattering amplitudes for arbitrary two-particle systems with one-particle left-hand cuts via lattice QCD</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)058</link>
-      <description>A correction to this paper has been published: https://doi.org/10.1007/JHEP06(2025)186</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)058">Journal of High Energy Physics</source>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)058</guid>
+      <title>From friction scaling to an efficient method for estimating bubble wall velocity</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)044</link>
+      <description>We present a unified description of first-order cosmological phase transition dynamics that links the phenomenological friction model employed in hydrodynamic simulations to the microscopic treatment based on Boltzmann equations. We derive an approximate analytical expression for the chemical potential and demonstrate that the resulting friction parameter oversetsim eta follows a simple power-law dependence on the transition strength (propto v_n^4/T_n^4) . Incorporating this scaling into a phenomenological framework accurately reproduces the terminal wall velocities obtained from the full microscopic analysis performed using WallGo [1]. This approach offers an efficient method to quantify out-of-equilibrium contributions to friction and reliably estimate bubble-wall velocities.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)044">Journal of High Energy Physics</source>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)044</guid>
     </item><item>
       <title>Search for a new resonance decaying to a Higgs boson and a scalar boson in events with two b jets and two Z bosons in proton-proton collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/1b65-rblz</link>
@@ -93,64 +148,6 @@
       <author>et al.</author>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/1b65-rblz</guid>
-    </item><item>
-      <title>From friction scaling to an efficient method for estimating bubble wall velocity</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)044</link>
-      <description>We present a unified description of first-order cosmological phase transition dynamics that links the phenomenological friction model employed in hydrodynamic simulations to the microscopic treatment based on Boltzmann equations. We derive an approximate analytical expression for the chemical potential and demonstrate that the resulting friction parameter oversetsim eta follows a simple power-law dependence on the transition strength (propto v_n^4/T_n^4) . Incorporating this scaling into a phenomenological framework accurately reproduces the terminal wall velocities obtained from the full microscopic analysis performed using WallGo [1]. This approach offers an efficient method to quantify out-of-equilibrium contributions to friction and reliably estimate bubble-wall velocities.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)044">Journal of High Energy Physics</source>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)044</guid>
-    </item><item>
-      <title>Probing Planck-scale physics with high-frequency gravitational waves</title>
-      <link>https://doi.org/10.1103/rgkw-h2l2</link>
-      <description>We develop a framework for testing quantum gravity through the stochastic gravitational-wave background produced by evaporating near-Planck-mass primordial black holes. Because gravitons freestream from the emission region without rescattering, they preserve a direct spectral record of the black-hole temperature–mass relation T(M), a relation that is erased for all other Hawking-radiated species by rapid thermalization. We translate six representative phenomenological beyond-semiclassical frameworks (the generalized uncertainty principle, loop quantum gravity, noncommutative geometry, asymptotic safety, string/Hagedorn physics, and tunneling backreaction) into distinct T(M) parameterizations and compute the resulting gravitational-wave spectra numerically within a hybrid semiclassical-phenomenological framework. Modifications that suppress T(M) shift the spectral peak by up to 10 decades in frequency, in some cases into the sensitivity bands of next-generation interferometers or resona</description>
-      <source url="https://doi.org/10.1103/rgkw-h2l2">Physical Review D</source>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rgkw-h2l2</guid>
-    </item><item>
-      <title>Does Hot QCD Have a Conformal Manifold in the Chiral Limit?</title>
-      <link>https://doi.org/10.1103/nvtc-jw59</link>
-      <description>Recent lattice evidence may suggest the chiral phase transition in QCD is second order for Nf≥2 massless flavors. We constrain conformal field theory (CFT) descriptions of a critical line in temperature T and imaginary baryon chemical potential θB=iμB/T. An ’t Hooft anomaly at general θB constrains the transition even at θB=0, leaving only three minimal scenarios. The best-motivated scenario for Nf≥3, and perhaps also Nf=2, is beyond Ginzburg-Landau, featuring a conformal manifold of θB-dependent universality classes with an exactly marginal operator related to baryon density.</description>
-      <source url="https://doi.org/10.1103/nvtc-jw59">Physical Review Letters</source>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nvtc-jw59</guid>
-    </item><item>
-      <title>Energy correlators of spinning sources</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)047</link>
-      <description>The N-point energy correlator measures the energy flux through N detectors. We present a general framework that characterizes its full angular dependence in a series of spinning energy correlators. These spinning correlators resurrect the angular momentum structure of both the source and the detector configuration, lost otherwise in inclusive measurements. We demonstrate that unitarity and energy positivity confine these correlators to a sharply bounded region, with the boundary realized by extremal correlators generated by pure spin states. We present a first calculation of spinning energy correlators in QCD as well as spinning energy-charge correlators. Their enhanced insensitivity to infrared dynamics opens up a new set of observables that directly probe the hard part of the scattering. Finally, we provide generalized sum rules, extended to spinning correlators and to conserved charges beyond energy.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)047">Journal of High Energy Physics</source>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)047</guid>
-    </item><item>
-      <title>Didecay signature of new physics particles at intensity frontier experiments</title>
-      <link>https://doi.org/10.1103/l1t6-5nyh</link>
-      <description>We present a discovery-era strategy for intensity frontier experiments based on “didecay” events, in which feebly interacting particles (FIPs) are produced in pairs and then both decay inside the detector. This signature may exist in broad classes of models with FIPs decaying in the same way as minimal “portal” particles. The two displaced vertices may allow reconstruction of the pair invariant mass and hence reveal the production channel, information normally inaccessible at these facilities. This, in turn, lets one discriminate between FIP models that share identical decay signatures. As a case study, we consider the model of Higgs-like scalars and show that SHiP, Belle II, and the Downstream@LHCb can each cover wide domains of viable parameter space using didecays.</description>
-      <source url="https://doi.org/10.1103/l1t6-5nyh">Physical Review D</source>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/l1t6-5nyh</guid>
-    </item><item>
-      <title>Generalizing deconfined criticality to 3D N-flavor SU(2) quantum chromodynamics on the fuzzy sphere</title>
-      <link>https://doi.org/10.1103/f6qg-q875</link>
-      <description>The infrared behavior of gauge theories coupled to matter remains an open problem in quantum field theory. For a given gauge group, such theories are expected to flow to an interacting conformal fixed point over a range of fermion or scalar flavors, known as the “conformal window.” Their nature is important for understanding critical phases and phase transitions beyond the Landau paradigm like the deconfined quantum critical point yet remains challenging for conventional nonperturbative approaches. In this work, we study a family of fuzzy-sphere models corresponding to nonlinear sigma models with Sp(N) global symmetry extended to the strongly coupled region. These theories are expected have an infrared fixed point described by SU(2) quantum chromodynamics in three space-time dimensions with N flavors of fermions. They can be viewed as a generalization of the SO(5) deconfined quantum critical point, corresponding to N=2. We investigate them using quantum Monte Carlo for N up to 16. We f</description>
-      <source url="https://doi.org/10.1103/f6qg-q875">Physical Review D</source>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/f6qg-q875</guid>
-    </item><item>
-      <title>Measurement of the branching fractions of χ cJ → π + π − π 0 π 0 via ψ(3686) → γχ cJ</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)023</link>
-      <description>Using (2712.4 ± 14.3) × 10 ψ(3686) events collected with the BESIII detector operating at BEPCII, the branching fractions of χ → π π π π (J = 0, 1, 2) are measured via the radiative transition ψ(3686) → γχ . The results are ℬ(χ → π π π π ) = (3.10 ± 0.01 ± 0.14) × 10 , ℬ(χ → π π π π ) = (1.16 ± 0.01 ± 0.05) × 10 , and B(χ → π π π π ) = (1.92 ± 0.01 ± 0.08) × 10 , where the first uncertainties are statistical and the second systematic. The dominant intermediate states are found to be χ → ρ ρ . These results improve upon previous measurements with significantly enhanced precision.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)023">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)023</guid>
-    </item><item>
-      <title>GPU acceleration of optical photon propagation in low photon yield applications: Opticks for the Electron Ion Collider</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16180-3</link>
-      <description>The bulk of the time required to simulate Cherenkov and scintillation detectors is consumed by optical photon transport, a task that GPUs are uniquely qualified to perform. We present EIC-Opticks, a fork of Opticks, which uses event aggregation to drastically accelerate photon transport simulation for low-to-moderate photon yield experiments. During the full Geant4 Monte Carlo simulation of a given detector, optical photon simulation is performed on GPU(s) using the NVIDIA OptiX framework. We validate this approach using the ePIC pfRICH detector. We find GPU and CPU simulations in excellent agreement, with hit totals agreeing at the 0.06% level and wavelength/radial projections giving χ ^2/textrmndfsimeq 1 . At the pfRICH physics program benchmark of 10^5 muons at p=5~textrmGeV/c , EIC-Opticks shows 13.2± 0.5× speedup over 20-thread Geant4 and 234± 10× over a single thread. In the case of low-to-moderate applications event aggregation reduces the per-photon simulation time from about 4</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16180-3">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16180-3</guid>
     </item>
   </channel>
 </rss>
