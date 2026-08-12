@@ -5,14 +5,82 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 10:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:56:25 +0000</lastBuildDate>
     <item>
+      <title>Evidence of Higgs Boson Inclusive Production at High Transverse Momentum Decaying to a Pair of b-Quarks with the ATLAS Detector</title>
+      <link>https://doi.org/10.1103/vbxg-71c2</link>
+      <description>This Letter reports on the first evidence of inclusive Higgs-boson production at high transverse momentum in the bb¯ final state, reconstructed in a single large-radius jet. The results are based on proton-proton collision data recorded by the ATLAS detector at the Large Hadron Collider at a center-of-mass energies of 13 and 13.6 TeV, corresponding to a total integrated luminosity of 301 fb−1. The study profits from the large background suppression provided by the use of a new transformer-based algorithm for jet identification and the sharper mass and transverse momentum, pT, resolution from a dedicated regression model. The yield relative to the standard model prediction for Higgs bosons produced at pT larger than 450 GeV is measured to be 1.53±0.27)−0.27+0.33±0.17, where the first uncertainty is statistical, the second is experimental systematic, and the third accounts for theory systematic, corresponding to an observed (expected) significance of 3.8σ(2.5σ) relative to the background</description>
+      <source url="https://doi.org/10.1103/vbxg-71c2">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vbxg-71c2</guid>
+    </item><item>
+      <title>Coupled-channel approach to isotensor πππ scattering from lattice QCD</title>
+      <link>https://doi.org/10.1103/dbm5-w8wx</link>
+      <description>The quest to understand three-body dynamics from first-principle QCD includes the study of nonresonant and resonant systems. The isospin I=2 system is of particular interest having no three-body resonance but featuring a resonance in a subchannel, while also being a coupled-channel problem. In this study, we calculate the finite-volume spectrum from lattice QCD at two different pion masses, map the amplitude to the infinite volume through a generalized Finite-Volume Unitarity three-body quantization condition, investigate the limit of a narrow ρ, and compare with an effective Lagrangian prediction at leading order. Chiral extrapolations between different pion masses are performed.</description>
+      <source url="https://doi.org/10.1103/dbm5-w8wx">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/dbm5-w8wx</guid>
+    </item><item>
+      <title>Inclusive semileptonic Ds→Xsℓν¯ decays from lattice QCD: Continuum and chiral extrapolation</title>
+      <link>https://doi.org/10.1103/g6gh-t4pc</link>
+      <description>We present results for the inclusive semileptonic Ds→Xsℓν¯ decay rate from lattice QCD. Chiral and continuum extrapolations are performed using gauge ensembles generated with 2+1 flavors of Möbius domain-wall fermions. Systematic errors are fully addressed including those from the integral over all possible final states. Our results are in agreement with currently available experimental data, with an error at the few-percent level.</description>
+      <source url="https://doi.org/10.1103/g6gh-t4pc">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/g6gh-t4pc</guid>
+    </item><item>
+      <title>Quantum simulation of scattering amplitudes and interferences in perturbative QCD</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16121-0</link>
+      <description>A flagship application of quantum computers is the simulation of other quantum systems, including quantum field theories. In this article, we show how quantum computers can be employed to naturally calculate Feynman diagrams and their interferences in Quantum Chromodynamics (QCD). We simulate the colour parts of the interactions directly on the quantum computer, while the kinematic parts are for now pre-computed classically. For processes where some of the external particles are identical, we find the first hints of a potential quantum advantage. We validate our techniques using simulated quantum computers. Furthermore, for toy examples we also demonstrate our algorithms on a 56-qubit trapped-ion quantum computer. The work constitutes a further key step towards a full quantum simulation of generic perturbative QCD processes.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16121-0">European Physical Journal C</source>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16121-0</guid>
+    </item><item>
+      <title>Search for a narrow resonance with a mass between 10 and 70 GeV decaying to a pair of photons in proton-proton collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/q2mh-7mhj</link>
+      <description>The existence of a new spin-zero particle with a mass below the electroweak scale is predicted by several theoretical models. Searches for resonant production of photon pairs at the LHC are able to probe these models. We present a search for a narrow resonance produced through gluon fusion that decays into a pair of photons with an invariant mass between 10 and 70 GeV, using a proton-proton collision dataset from the CMS experiment. This dataset, corresponding to an integrated luminosity of 54.4 fb−1, was recorded in 2018 at a center-of-mass energy of 13 TeV using a newly introduced diphoton trigger that enabled exploration of the low-mass diphoton spectrum. No significant excess above the expected background is observed. Upper limits are set on the product of the gluon fusion production cross section and the branching fraction of the diphoton decay of a narrow resonance. An interpretation of these limits within an effective field theory framework for axionlike particles is also provid</description>
+      <source url="https://doi.org/10.1103/q2mh-7mhj">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/q2mh-7mhj</guid>
+    </item><item>
+      <title>Nonlocal nonstabilizerness from holographic Schwinger pair production</title>
+      <link>https://doi.org/10.1103/p43j-kz83</link>
+      <description>We analyze the emergence of nonlocal quantum correlations in Schwinger pair creation in strong non-Abelian (chromo)electric fields using holography. The produced quark-antiquark pair is entangled into a color singlet, yet accelerates into causally disconnected Rindler wedges. Using the Casini-Huerta-Myers conformal mapping and the probe-brane framework, we compute the refined Rényi entropy and its derivative, which captures the antiflatness of the entanglement spectrum for a spherical bipartition. We find that for boundary spacetime dimension d&gt;2, the entanglement spectrum is nonflat, implying the dynamical generation of nonlocal nonstabilizerness in the pair creation process. Interestingly, the generation of nonlocal nonstabilizerness in the holographic dual is encoded in the free energy of the probe action.</description>
+      <source url="https://doi.org/10.1103/p43j-kz83">Physical Review D</source>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/p43j-kz83</guid>
+    </item><item>
+      <title>Comparison of the hadronic vacuum polarization between hadronic τ-decay data and lattice QCD</title>
+      <link>https://doi.org/10.1103/5y9v-c2h6</link>
+      <description>We compare the isospin-one, vector-current hadronic vacuum polarization (HVP) obtained from isospin-symmetric lattice QCD with that obtained from a dispersive representation employing inclusive hadronic τ decay data corrected for isospin breaking. We consider the subtracted HVP evaluated at squared Euclidean momenta ranging from 0.5 GeV2 to 12 GeV2, together with the light-quark-connected HVP contribution to the muon anomalous magnetic moment and the short-, intermediate-and long-distance RBC/UKQCD window components thereof. Dispersive contributions from the region of hadronic invariant masses above the τ mass are evaluated using perturbative QCD. We also consider dispersive determinations using τ data only for contributions from two-pion, or two-pion and four-pion, modes, and evaluating the remaining contributions using exclusive-mode e+e−→hadrons cross sections up to about 2 GeV, lessening the dependence on perturbation theory. We find generally good agreement between lattice and τ-b</description>
+      <source url="https://doi.org/10.1103/5y9v-c2h6">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5y9v-c2h6</guid>
+    </item><item>
+      <title>Algebraic observational cosmology</title>
+      <link>https://doi.org/10.1103/gbv2-n513</link>
+      <description>What can be measured by an observer in a cosmological universe? We address this question by constructing an algebra of gravitationally dressed observables accessible to a comoving observer in Friedmann-Lemaître-Robertson-Walker spacetimes that are asymptotically de Sitter in the past, describing an inflationary epoch. The key feature of this model, compared to previous work, is that it captures the time dependence of an expanding cosmology. An essential quantized degree of freedom is the zero mode of the inflaton, which leads to fluctuations in the effective cosmological constant during inflation and prevents the existence of a maximum entropy state in the semiclassical limit. Because of the inaccessibility of measurements beyond our cosmological horizon, we demonstrate that all states are mixed with well-defined von Neumann entropy (up to a state-independent constant). For semiclassical states, the von Neumann entropy corresponds to the generalized entropy of the observer’s causal dia</description>
+      <source url="https://doi.org/10.1103/gbv2-n513">Physical Review D</source>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/gbv2-n513</guid>
+    </item><item>
       <title>Vacuum moduli space of the minimal supersymmetric standard model</title>
       <link>https://doi.org/10.1103/vkmb-4jnn</link>
       <description>A starting point in the study of the minimal supersymmetric Standard Model (MSSM) is the vacuum moduli space, which is a highly complicated algebraic variety; it is the image of an affine variety X⊂C49 under a symplectic quotient map ϕ to C973. Previous work [Y.-H. He et al., The geometry of generations, Commun. Math. Phys. 339, 149 (2015)] computed the vacuum moduli space of the electroweak sector; geometrically this corresponds to studying a restriction of ϕ: C13→ϕresC22. We analyze the geometry of the full vacuum moduli space for superpotentials Wminimal (without neutrinos) and WMSSM (with neutrinos) in C973. In both cases, we prove that X consists of three irreducible components X1, X2, and X3, and determine the images Mi of the Xi under ϕ. For Wminimal we show they have, respectively, dimensions 1, 15, and 29, and prove that each of the Mi is a rational variety, while for WMSSM we show that M3 is the only component. Restricting the Mi to the electroweak sector, we recover the resu</description>
       <source url="https://doi.org/10.1103/vkmb-4jnn">Physical Review D</source>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/vkmb-4jnn</guid>
+    </item><item>
+      <title>New results on small-x resummation for splitting functions</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)084</link>
+      <description>We revisit the basic steps necessary to obtain next-to-leading-logarithmic accurate small-x results for the DGLAP splitting functions, and their implementations within the HELL framework. We derive new analytical all-order results for the leading-logarithmic gg anomalous dimension, the qg and gg finite Green functions, and most importantly for the qg anomalous dimension, which allows us to arrive for the first time at a properly resummed qg splitting kernel. We use these results as cornerstones of a new implementation of small-x splitting-function resummation which is more solid and numerically better behaved with respect to those available thus far. All of these novelties are included in the upcoming 4.0 version of HELL.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)084">Journal of High Energy Physics</source>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)084</guid>
     </item><item>
       <title>Warm inflation with pseudo-scalar couplings</title>
       <link>https://doi.org/10.1007/JHEP08(2026)072</link>
@@ -21,19 +89,26 @@
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)072</guid>
     </item><item>
-      <title>Thermodynamic characteristics of a Fermi gas with an invariant energy scale and its astrophysical implications</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16093-1</link>
-      <description>We investigate the thermodynamics of a relativistic Fermi gas governed by a modified dispersion relation in the Magueijo Smolin (MS) formulation of Doubly Special Relativity (DSR), characterized by the presence of an invariant ultraviolet energy (deformation) scale. We study the system in two physically distinct regimes: the near degenerate low-temperature limit, and the high-temperature regime. In the low-temperature regime, we derive the thermodynamic quantities using the standard Sommerfeld expansion. In the high-temperature regime, we evaluate all thermodynamic quantities numerically from the exact grand canonical potential and demonstrate that the thermodynamics of the Fermi gas reduces to the standard relativistic ideal gas behavior. We apply the resulting low-temperature equation of state to study compact astrophysical objects, namely, non-rotating white dwarfs and neutron stars. Helium white dwarfs exhibit a strong dependence on the deformation scale, while white dwarfs compose</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16093-1">European Physical Journal C</source>
+      <title>Shear viscosity of a massless quark-gluon gas in chemical equilibrium in terms of all 2↔2 cross sections</title>
+      <link>https://doi.org/10.1103/878b-dyqp</link>
+      <description>The analytical expressions of the shear viscosity of both one and two particle species with Boltzmann statistics and 2→2 elastic scatterings are known from the Chapman-Enskog method and have been shown to be quite accurate. The expression for a multispecies hadronic gas under 2→2 elastic scatterings is also known. Here we use the Chapman-Enskog method to derive the explicit expression of shear viscosity of a massless quark-gluon gas of Nf quark flavors in chemical equilibrium subjected to all 2→2 parton scatterings including for the first time inelastic scatterings. We then verify the expression in a general single-species limit, where the shear viscosity of the quark-gluon gas should reduce to the result for a single particle species. In addition, we show the explicit analytical result in terms of the seven independent cross sections for the special case of isotropic and energy-independent cross sections. The analytical expressions derived here can be useful for determining the shear </description>
+      <source url="https://doi.org/10.1103/878b-dyqp">Physical Review D</source>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16093-1</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/878b-dyqp</guid>
     </item><item>
-      <title>Study of quark and gluon jet identification in photoproduction at the EIC</title>
-      <link>https://doi.org/10.1103/v28z-qw9b</link>
-      <description>This paper presents a systematic study of the substructure of dijets produced in direct and resolved photoproduction events and subsequent quark and gluon jet identification in dijets, considering the kinematic reach of the upcoming Electron-Ion Collider (EIC) experiment. We investigate the substructure of jets produced in dijet photoproduction events with center-of-mass energies s=64–140 GeV at the EIC. Events are simulated using event generator pythia and contributions from direct and resolved photoproduction subprocesses are analyzed at different energies. Jets are reconstructed using longitudinally invariant kT algorithm within the fastjet framework. Substructure of quark and gluon initiated jets in the selected dijet photoproduction sample is studied in detail by using jet-shape variables. Predictions for subjet multiplicities and integrated jet shapes are presented in the gluon-initiated and quark-initiated jets in the dijet photoproduction events at the EIC energies. These resul</description>
-      <source url="https://doi.org/10.1103/v28z-qw9b">Physical Review D</source>
+      <title>Hadrons in N=2 supersymmetric QCD from non-Abelian string on 2D black hole</title>
+      <link>https://doi.org/10.1103/m1nb-v2s4</link>
+      <description>We continue the study of non-Abelian vortex string in 4D N=2 supersymmetric QCD (SQCD) as critical superstring, and extend this analysis to U(N) gauge theory with arbitrary even N and Nf=2N number of quarks. We introduce a special mass deformation and show that the SQCD hadron spectrum is still given by the string spectrum on the 2D N=2 supersymmetric black hole. We perform a cross-check by computing the multiplicity of hadronic states of the high-energy part of the spectrum both from string and field theory pictures. We also clarify the spontaneous breaking of the global flavor symmetry by the vacuum expectation value of the massless baryon. We finally claim that phase diagram of N=2 SQCD with Nf=2N consists of the Higgs phase at weak coupling and string/hadronic phase at strong coupling, separated by phase transition, and is seen as a conifold transition from the string theory point of view.</description>
+      <source url="https://doi.org/10.1103/m1nb-v2s4">Physical Review D</source>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/v28z-qw9b</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/m1nb-v2s4</guid>
+    </item><item>
+      <title>Gauged Q-balls in flat potentials</title>
+      <link>https://doi.org/10.1103/pmfb-9mxs</link>
+      <description>Q-balls are large bound-state systems of scalar particles, described classically through localized solutions of the equations of motion. Promoting the required stabilizing U(1) symmetry to a gauge symmetry leads to gauged Q-balls, which cannot grow beyond some maximal size and charge on account of the repulsive gauge interactions. These gauged Q-balls have been studied extensively for scalar potentials that satisfy Coleman’s thin-wall criterion; here, we explore gauged Q-balls in flat potentials, which often occur in supersymmetric models. Even though global Q-balls in flat potentials are qualitatively different from Coleman’s Q-balls, we find that the gauged versions are remarkably similar. We provide analytic approximations for these solitons and compare to numerical solutions. In addition, we study Proca Q-balls, i.e., make the gauge bosons massive, which interpolates between the global and gauged cases.</description>
+      <source url="https://doi.org/10.1103/pmfb-9mxs">Physical Review D</source>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pmfb-9mxs</guid>
     </item><item>
       <title>Minimal dark matter: Generalized framework and direct-detection sensitivity</title>
       <link>https://doi.org/10.1103/jv6s-76s9</link>
@@ -76,78 +151,6 @@
       <source url="https://doi.org/10.1103/nmmz-bwcs">Physical Review C</source>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/nmmz-bwcs</guid>
-    </item><item>
-      <title>Planck-scale effects on nucleon decay in minimal supersymmetric SU(5)</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16195-w</link>
-      <description>We examine the impact on the phenomenology of the minimal supersymmetric SU(5) Grand Unified Theory (GUT) of dimension-5 operators with coefficients suppressed by the Planck mass scale, with particular emphasis on predictions for nucleon decay. We incorporate dimension-5 operators in both the Higgs sector and the Yukawa interactions in the theory, and take account of the constraints from gauge coupling measurements, the mass of the Higgs boson, fermion masses and the cold dark matter density. We consider two scenarios for soft supersymmetry breaking: the constrained minimal supersymmetric extension of the Standard Model (CMSSM) and the Non-Universal Higgs Model (NUHM). We present predictions for the nucleon decay modes p → π ^0 e^+, π ^0 μ ^+, K^+ barν , π ^+ barν , K^0 e^+, K^0 μ ^+ and n→ π ^0 barν , π ^-e^+, K^0 barν , which we compare with both the present experimental sensitivities and those projected for the JUNO and Hyper-Kamiokande experiments. We find that these experiments ma</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16195-w">European Physical Journal C</source>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16195-w</guid>
-    </item><item>
-      <title>Robust calibration of non-perturbative models with history matching</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)066</link>
-      <description>We apply, for the first time, Bayes Linear Emulation and History Matching to the calibration of non-perturbative models in Monte Carlo event generators. In contrast to the usual approach of “Monte Carlo tuning”, History Matching does not result in best-fit plus ellipsoidal parameter uncertainty estimates but instead identifies all parameter space regions that are consistent with data. This approach leads to a systematic and robust quantification of parametric uncertainties in the models, especially in those challenging cases where different, possibly disjoint, regions of parameter space deliver similar results, which are usually not properly treated with current methodology. We highlight the power of this method with the hadronisation models available through S : the built-in cluster fragmentation A and string fragmentation through an interface to P .</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)066">Journal of High Energy Physics</source>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)066</guid>
-    </item><item>
-      <title>Hamiltonian truncation of large N f QED and large N vector-like theories in d = 2 + 1</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)069</link>
-      <description>We consider a general class of large N vector-like theories in d = 2 + 1 in a Hamiltonian approach. We show that by using lightcone quantization and the N → ∞ limit, we can diagonalize the Hamiltonian exactly and construct the eigenstates, spectral density, S-matrix, and form factors for the theory. For concreteness, we mainly focus on QED at large N as an explicit example. We comment on extending the approach to finite N calculations.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)069">Journal of High Energy Physics</source>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)069</guid>
-    </item><item>
-      <title>Gravitational waves from confining dark sectors with self-consistent effective potentials</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)059</link>
-      <description>In this work, we present a self-consistent prediction for the gravitational wave signal arising from confinement-induced phase transitions in hidden non-Abelian SU (N) gauge theories with F light flavors. To do this, we impose perturbativity and unitarity constraints on the thermal effective potential to identify the portion of parameter space that admits a reliable effective field theory description. We also include the Polyakov-loop-improved finite-temperature potential for both N = 3 and N = 4, where N is the number of dark colors, using an approximate computation of the mediating effects. We compute the resulting gravitational wave spectrum and delineate the regions of parameter space that remain phenomenologically viable after imposing theoretical consistency conditions. We find that these constraints make uncovering a stochastic background gravitational wave signal in this scenario more challenging, even for proposed future detectors.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)059">Journal of High Energy Physics</source>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)059</guid>
-    </item><item>
-      <title>Calibration of the jet energy scale and resolution of small-radius jets using semileptonic tbart events with the ATLAS detector</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15692-2</link>
-      <description>A measurement of correction factors for the hadronic jet energy scale and resolution in the ATLAS detector is presented. These correction factors account for differences between simulated and observed data. They are obtained by analysing a selection of top quark events collected in proton–proton collisions by ATLAS between the years 2015 and 2018 at a centre-of-mass energy sqrts = 13 text TeV as well as in 2022 and 2023 at sqrts = 13.6 text TeV . The impact of different jet energy scale or resolution corrections on the reconstructed mass of the hadronically decaying W boson from top-quark decays in simulation is quantified. The correction factors are extracted from a fit to the parameterised reconstructed W-boson mass distribution to data. The energy scale and resolution corrections are measured as a function of the jet transverse momentum between 20 and 200 GeV and absolute pseudorapidity less than 0.8. The uncertainties in the energy scale range from about 0.93% to about 1.7% for jet</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15692-2">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15692-2</guid>
-    </item><item>
-      <title>Correlators Are Simpler than Wave Functions</title>
-      <link>https://doi.org/10.1103/sgm7-181s</link>
-      <description>Recent works reveal a simplicity in equal-time correlators absent from wave functions. We show that it follows from the fact that correlators are full spacetime integrals rather than half-spacetime integrals as for the wave function. This makes striking properties manifest: some wave function singularities are absent, factorization simplifies, and around every pole the Laurent expansion has a vanishing first subleading term. Near the total-energy pole, the expansion to second order is generated by a differential operator on scattering amplitudes.</description>
-      <source url="https://doi.org/10.1103/sgm7-181s">Physical Review Letters</source>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/sgm7-181s</guid>
-    </item><item>
-      <title>Lattice-QCD Validation of Hadron Mass and Trace-Anomaly Decomposition Sum Rules</title>
-      <link>https://doi.org/10.1103/5n46-717z</link>
-      <description>We present the first lattice-QCD validation of multiple sum rules associated with quark-gluon decomposition of hadron mass by computing all relevant tensor components of the quark and gluon energy-momentum tensor matrix elements from first principles. We achieve this through nonperturbative renormalization of the QCD energy-momentum tensor, including its trace, in a gradient-flow scheme, followed by continuum extrapolations, two-loop matching to the MS¯ scheme, and zero-flow-time extrapolations. These ingredients enable a direct and simultaneous verification, in a common renormalization scheme and scale, of multiple energy-density-based and trace-based mass decomposition sum rules proposed in the literature. We demonstrate the framework for the ηc and J/ψ charmonia using three fine lattice spacings with a physical strange-quark and near-physical up-and down-quark masses. We present the first lattice-QCD results for the gravitational form factor C¯. We find sizable gluonic contributions</description>
-      <source url="https://doi.org/10.1103/5n46-717z">Physical Review Letters</source>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5n46-717z</guid>
-    </item><item>
-      <title>Narrowing down sources of high-frequency gravitational waves</title>
-      <link>https://doi.org/10.1103/rxmf-m5k9</link>
-      <description>Detecting gravitational waves above 100 kHz would constitute a major discovery, as any observable signal would have to arise from new physics within the late universe. Although many technologies have been identified to explore this high-frequency regime, the known landscape of promising sources remains extremely sparse. In this work, we aim to rectify this issue by providing model-independent arguments that highlight the most interesting parts of theory space, while remaining agnostic of the specific signal mechanism. For example, energy-conservation implies that gravitational waves detectable by future experiments well above a MHz would most likely have to originate from within the Solar System. Based on these arguments, we also constrain the physical properties of such sources.</description>
-      <source url="https://doi.org/10.1103/rxmf-m5k9">Physical Review D</source>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rxmf-m5k9</guid>
-    </item><item>
-      <title>From friction scaling to an efficient method for estimating bubble wall velocity</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)044</link>
-      <description>We present a unified description of first-order cosmological phase transition dynamics that links the phenomenological friction model employed in hydrodynamic simulations to the microscopic treatment based on Boltzmann equations. We derive an approximate analytical expression for the chemical potential and demonstrate that the resulting friction parameter oversetsim eta follows a simple power-law dependence on the transition strength (propto v_n^4/T_n^4) . Incorporating this scaling into a phenomenological framework accurately reproduces the terminal wall velocities obtained from the full microscopic analysis performed using WallGo [1]. This approach offers an efficient method to quantify out-of-equilibrium contributions to friction and reliably estimate bubble-wall velocities.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)044">Journal of High Energy Physics</source>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)044</guid>
-    </item><item>
-      <title>Search for a new resonance decaying to a Higgs boson and a scalar boson in events with two b jets and two Z bosons in proton-proton collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/1b65-rblz</link>
-      <description>A search is performed for a new resonance X decaying into a Higgs boson and a new scalar boson Y (HY) including the case where Y is assumed to be a second Higgs boson (HH), using proton-proton collision data collected at s=13 TeV, corresponding to an integrated luminosity of 138 fb−1. This study performs a comprehensive exploitation of the bbZZ events, encompassing the following decay topologies. One H candidate is identified through its decay into a bottom quark-antiquark pair, while the other H or the Y candidate is selected through its decay into a pair of Z bosons. One Z boson is required to decay leptonically and the other, to decay into a pair of quarks or neutrinos. Events of interest are categorized based on the Lorentz boosts of the hadronically decaying H and Z bosons. Machine-learning-based discriminants, together with the reconstructed resonance mass, are employed across the different categories to separate signal from backgrounds, and their corresponding distributions are </description>
-      <source url="https://doi.org/10.1103/1b65-rblz">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1b65-rblz</guid>
     </item>
   </channel>
 </rss>
