@@ -5,8 +5,52 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:53:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 10:16:51 +0000</lastBuildDate>
     <item>
+      <title>Diamonds in the bulk and large-N scaling in AdS/CFT</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)124</link>
+      <description>Quantum Field Theory (QFT) introduced us to the notion that a causal diamond in space-time corresponded to a subsystem of a quantum mechanical system defined on the global space-time. Work by Jacobson [1], Fischler and Susskind [2] and particularly Bousso [3–5] suggested that in the quantum theory of gravity this subsystem should have a density matrix of finite entropy. These authors formalized older intuitive arguments based on black hole physics. Although mathematically, Type II von Neumann algebras admit finite entropy density matrices, the black hole arguments suggest that the number of physical states in these subsystems is finite. The conjecture that de Sitter (dS) space has a finite number of physical states was first made in [6, 7]. Leutheusser and Liu [8] showed that, in the N = ∞ limit, causal diamonds with finite area in AdS radius units had Type III von Neumann sub-algebras of the full operator algebra. They claimed that this was true for finite values of the UV cutoff, and</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)124">Journal of High Energy Physics</source>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)124</guid>
+    </item><item>
+      <title>First Evidence of the Decay B+→π+e+e−</title>
+      <link>https://doi.org/10.1103/97c9-jl1m</link>
+      <description>The first evidence for the decay B+→π+e+e− is reported using proton-proton collision data recorded by the LHCb experiment at center-of-mass energies of 7, 8, and 13 TeV, corresponding to an integrated luminosity of 9 fb−1. A signal excess with a significance of 3.2σ is observed and the branching fraction is measured to be B(B+→π+e+e−)=(2.4−0.8+0.9 −0.2+0.4)×10−8, where the first set of uncertainties is statistical and the second is systematic. The result is consistent with the Standard Model expectation.</description>
+      <source url="https://doi.org/10.1103/97c9-jl1m">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/97c9-jl1m</guid>
+    </item><item>
+      <title>Chiral first order phase transition at finite baryon density and zero temperature from self-consistent pole masses in the linear sigma model with quarks</title>
+      <link>https://doi.org/10.1103/qzv1-qj4m</link>
+      <description>We use the two-flavor linear sigma model with quarks as an effective description of QCD to investigate the nature of the chiral phase transition at finite baryon chemical potential and zero temperature. We work at one-loop order to set up and solve the system of self-consistent coupled equations for the particle pole masses. The chemical potential-dependent value of the chiral order parameter is obtained by minimizing the one-loop effective potential. This treatment goes beyond the conventional ring-diagram approximation and provides a description valid for arbitrary values of the chemical potential. We find that the phase transition is of first order and occurs when the quark chemical potential reaches the value of the vacuum quark mass for the chosen set of parameters. The first order nature of the transition is signaled by the discontinuous behavior of the chiral condensate, the masses, and the couplings. The thermodynamics of the system is readily implemented and in particular, we </description>
+      <source url="https://doi.org/10.1103/qzv1-qj4m">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/qzv1-qj4m</guid>
+    </item><item>
+      <title>Minimal dark SU(2) origin of a massless Dirac neutrino</title>
+      <link>https://doi.org/10.1103/h3y7-qzyr</link>
+      <description>We propose a gauge-symmetry origin of a rank-two Dirac neutrino mass matrix that enforces one exactly massless neutrino, while being consistent with the oscillation data, as well as cosmological constraints. The mechanism relies on a minimal dark SU(2)D gauge symmetry under which one right-handed neutrinolike Weyl fermion is charged, thereby forbidding its Standard Model Yukawa coupling. Quantum consistency then fixes the minimal dark-sector completion: Cancellation of the Witten anomaly requires a second fermionic SU(2)D doublet, while a discrete Z4 symmetry that forbids Majorana masses allows the two dark doublets to form a vectorlike pair. This anomaly-free completion gives rise to a secluded, confining dark sector that can contain a potential dark matter candidate, linking the protected neutrino texture to dark infrared dynamics.</description>
+      <source url="https://doi.org/10.1103/h3y7-qzyr">Physical Review D</source>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/h3y7-qzyr</guid>
+    </item><item>
+      <title>Quantum entanglement in electron-nucleus collisions: Role of the linearly polarized gluon distribution</title>
+      <link>https://doi.org/10.1103/6c93-2tgg</link>
+      <description>We calculate the spin density matrix of a back-to-back quark-antiquark pair inclusively produced in electron-nucleus scattering, taking into account the gluon saturation effect and the linearly polarized gluon distribution. We then investigate concurrence and stabilizer Rényi entropy, quantifying entanglement, Bell nonlocality, and nonstabilizerness. We find that the linearly polarized gluon distribution tends to enhance the entanglement of a heavy quark pair when the total and relative transverse momenta of the pair are orthogonal.</description>
+      <source url="https://doi.org/10.1103/6c93-2tgg">Physical Review D</source>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/6c93-2tgg</guid>
+    </item><item>
+      <title>On the Schubert calculus of the quantum K-theory for partial flag manifolds: a 3d A-model perspective</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)103</link>
+      <description>We further investigate the 3d gauged linear sigma model (GLSM)/ quantum K-theory correspondence for partial flag manifolds X ≡ Fl( ; n). This is a 3d uplift of the 2d GLSM/quantum cohomology correspondence with the 3d theory compactified on mathbbR^2× S_β^1 . Recently, a set of half-BPS line operators, called Schubert line defects, were constructed that correspond to the Schubert classes in the K-theory ring of X. Utilizing algebro-geometric algorithms, we compute 2-point and 3-point correlation functions of these line operators in the 3d A-model regime of the theory. These are interpreted as genus-0 K-theoretic Gromov-Witten invariants, and they produce the K-theoretic Littlewood-Richardson coefficients of the quantum K-theory ring of X. We show how this works explicitly in examples, going beyond the existing results in the literature. Taking the small β limit, we apply these techniques to the resulting 2d GLSM. We explicitly compute the quantum cohomology ring relations of X for some</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)103">Journal of High Energy Physics</source>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)103</guid>
+    </item><item>
       <title>One sum to rule them all: a second order master rate sum rule for charm decays</title>
       <link>https://doi.org/10.1007/JHEP08(2026)104</link>
       <description>We show that within the Standard Model any system of hadronic weak charm decays related by U-spin satisfies the following rate sum rule:</description>
@@ -21,12 +65,13 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)101</guid>
     </item><item>
-      <title>On the Schubert calculus of the quantum K-theory for partial flag manifolds: a 3d A-model perspective</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)103</link>
-      <description>We further investigate the 3d gauged linear sigma model (GLSM)/ quantum K-theory correspondence for partial flag manifolds X ≡ Fl( ; n). This is a 3d uplift of the 2d GLSM/quantum cohomology correspondence with the 3d theory compactified on mathbbR^2× S_β^1 . Recently, a set of half-BPS line operators, called Schubert line defects, were constructed that correspond to the Schubert classes in the K-theory ring of X. Utilizing algebro-geometric algorithms, we compute 2-point and 3-point correlation functions of these line operators in the 3d A-model regime of the theory. These are interpreted as genus-0 K-theoretic Gromov-Witten invariants, and they produce the K-theoretic Littlewood-Richardson coefficients of the quantum K-theory ring of X. We show how this works explicitly in examples, going beyond the existing results in the literature. Taking the small β limit, we apply these techniques to the resulting 2d GLSM. We explicitly compute the quantum cohomology ring relations of X for some</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)103">Journal of High Energy Physics</source>
+      <title>Running of the Electroweak Gauge Couplings from First Principles</title>
+      <link>https://doi.org/10.1103/r2cx-tl7s</link>
+      <description>We present a high-precision calculation of the hadronic running of electroweak gauge couplings from first principles. Employing lattice QCD in the low-energy regime, we achieve permille precision for virtualities Q2≲12 GeV2. At Q2≃1 GeV2, our determination deviates by up to 7σ from estimates based on e+e− measurements. Combining lattice QCD with perturbative QCD via the Euclidean split technique, we obtain for the electromagnetic coupling Δαhad(5)(MZ2)=0.027821(34)lat(35)pQCD, which is more than twice as precise as recent phenomenological determinations. We assess improvement scenarios by which the precision target for next-generation electroweak measurements could be reached.</description>
+      <source url="https://doi.org/10.1103/r2cx-tl7s">Physical Review Letters</source>
+      <author>et al.</author>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)103</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/r2cx-tl7s</guid>
     </item><item>
       <title>Exploring the dark axion portal in the LUXE-NPOD experiment</title>
       <link>https://doi.org/10.1103/x7yf-fnjz</link>
@@ -93,13 +138,12 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/9gtg-yjmv</guid>
     </item><item>
-      <title>First Measurement of the Absolute Branching Fraction of ηc→γγ</title>
-      <link>https://doi.org/10.1103/whyk-ykjw</link>
-      <description>We apply a tag-and-probe method to precisely measure the absolute branching fraction of the decay ηc→γγ with the BESIII experiment at BEPCII. Starting with a large initial sample of (2712.4±14.3)×106 ψ(3686) events, a sample of 0.16×106 ηc events is tagged via the golden channel ψ(3686)→π0hc, hc→γηc, effectively avoiding interference effects. The absolute branching fraction of ηc→γγ is measured for the first time to be B(ηc→γγ)=(2.45±0.48stat±0.09syst)×10−4. Using the world average value of the total width of the ηc, the partial decay width of ηc→γγ is calculated to be Γ(ηc→γγ)=(7.48±1.48stat±0.30syst) keV.</description>
-      <source url="https://doi.org/10.1103/whyk-ykjw">Physical Review Letters</source>
-      <author>et al.</author>
+      <title>Axion perturbations: A general analytical treatment</title>
+      <link>https://doi.org/10.1103/gwf6-1w8z</link>
+      <description>Cosmological data provide us two key constraints on dark matter: it must have a particular abundance, and it must have an adiabatic spectrum of density perturbations in the early Universe. Many different cosmological scenarios have been proposed that establish the abundance of axion dark matter in qualitatively different ways. In this paper we emphasize that, despite this variety of backgrounds, the perturbations in axion dark matter can be understood from universal principles. How does a feebly interacting axion field acquire perturbations proportional to those of photons? How do the isocurvature power spectrum and non-Gaussianity depend on the background evolution of the Universe? We answer these questions for a completely general choice of cosmological background and temperature-dependent axion potential. We show that the most general solution to the axion field equation on superhorizon scales is entirely determined by the family of background solutions for different initial field v</description>
+      <source url="https://doi.org/10.1103/gwf6-1w8z">Physical Review D</source>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/whyk-ykjw</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/gwf6-1w8z</guid>
     </item><item>
       <title>Gravitational waves and cosmological observables from first-order phase transitions: Thermal corrections at low temperature</title>
       <link>https://doi.org/10.1103/dflh-9kxs</link>
@@ -107,52 +151,6 @@
       <source url="https://doi.org/10.1103/dflh-9kxs">Physical Review D</source>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/dflh-9kxs</guid>
-    </item><item>
-      <title>Inverse Problem in Effective Field Theory</title>
-      <link>https://doi.org/10.1103/9gtg-yjmv</link>
-      <description>We show that the tree-level spectrum of heavy particles can be directly extracted from the Wilson coefficients of the corresponding effective field theory at low energies. This procedure is exact when the number of resonances is finite and otherwise approximate. Our results are derived from a new class of analytic dispersion relations that depend nonlinearly on the scattering amplitude and apply to an exceedingly broad class of theories and kinematics.</description>
-      <source url="https://doi.org/10.1103/9gtg-yjmv">Physical Review Letters</source>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9gtg-yjmv</guid>
-    </item><item>
-      <title>First Measurement of the Absolute Branching Fraction of ηc→γγ</title>
-      <link>https://doi.org/10.1103/whyk-ykjw</link>
-      <description>We apply a tag-and-probe method to precisely measure the absolute branching fraction of the decay ηc→γγ with the BESIII experiment at BEPCII. Starting with a large initial sample of (2712.4±14.3)×106 ψ(3686) events, a sample of 0.16×106 ηc events is tagged via the golden channel ψ(3686)→π0hc, hc→γηc, effectively avoiding interference effects. The absolute branching fraction of ηc→γγ is measured for the first time to be B(ηc→γγ)=(2.45±0.48stat±0.09syst)×10−4. Using the world average value of the total width of the ηc, the partial decay width of ηc→γγ is calculated to be Γ(ηc→γγ)=(7.48±1.48stat±0.30syst) keV.</description>
-      <source url="https://doi.org/10.1103/whyk-ykjw">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/whyk-ykjw</guid>
-    </item><item>
-      <title>Evidence of Higgs Boson Inclusive Production at High Transverse Momentum Decaying to a Pair of b-Quarks with the ATLAS Detector</title>
-      <link>https://doi.org/10.1103/vbxg-71c2</link>
-      <description>This Letter reports on the first evidence of inclusive Higgs-boson production at high transverse momentum in the bb¯ final state, reconstructed in a single large-radius jet. The results are based on proton-proton collision data recorded by the ATLAS detector at the Large Hadron Collider at a center-of-mass energies of 13 and 13.6 TeV, corresponding to a total integrated luminosity of 301 fb−1. The study profits from the large background suppression provided by the use of a new transformer-based algorithm for jet identification and the sharper mass and transverse momentum, pT, resolution from a dedicated regression model. The yield relative to the standard model prediction for Higgs bosons produced at pT larger than 450 GeV is measured to be 1.53±0.27)−0.27+0.33±0.17, where the first uncertainty is statistical, the second is experimental systematic, and the third accounts for theory systematic, corresponding to an observed (expected) significance of 3.8σ(2.5σ) relative to the background</description>
-      <source url="https://doi.org/10.1103/vbxg-71c2">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vbxg-71c2</guid>
-    </item><item>
-      <title>Search for a narrow resonance with a mass between 10 and 70 GeV decaying to a pair of photons in proton-proton collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/q2mh-7mhj</link>
-      <description>The existence of a new spin-zero particle with a mass below the electroweak scale is predicted by several theoretical models. Searches for resonant production of photon pairs at the LHC are able to probe these models. We present a search for a narrow resonance produced through gluon fusion that decays into a pair of photons with an invariant mass between 10 and 70 GeV, using a proton-proton collision dataset from the CMS experiment. This dataset, corresponding to an integrated luminosity of 54.4 fb−1, was recorded in 2018 at a center-of-mass energy of 13 TeV using a newly introduced diphoton trigger that enabled exploration of the low-mass diphoton spectrum. No significant excess above the expected background is observed. Upper limits are set on the product of the gluon fusion production cross section and the branching fraction of the diphoton decay of a narrow resonance. An interpretation of these limits within an effective field theory framework for axionlike particles is also provid</description>
-      <source url="https://doi.org/10.1103/q2mh-7mhj">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/q2mh-7mhj</guid>
-    </item><item>
-      <title>Quantum simulation of scattering amplitudes and interferences in perturbative QCD</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16121-0</link>
-      <description>A flagship application of quantum computers is the simulation of other quantum systems, including quantum field theories. In this article, we show how quantum computers can be employed to naturally calculate Feynman diagrams and their interferences in Quantum Chromodynamics (QCD). We simulate the colour parts of the interactions directly on the quantum computer, while the kinematic parts are for now pre-computed classically. For processes where some of the external particles are identical, we find the first hints of a potential quantum advantage. We validate our techniques using simulated quantum computers. Furthermore, for toy examples we also demonstrate our algorithms on a 56-qubit trapped-ion quantum computer. The work constitutes a further key step towards a full quantum simulation of generic perturbative QCD processes.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16121-0">European Physical Journal C</source>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16121-0</guid>
-    </item><item>
-      <title>Inclusive semileptonic Ds→Xsℓν¯ decays from lattice QCD: Continuum and chiral extrapolation</title>
-      <link>https://doi.org/10.1103/g6gh-t4pc</link>
-      <description>We present results for the inclusive semileptonic Ds→Xsℓν¯ decay rate from lattice QCD. Chiral and continuum extrapolations are performed using gauge ensembles generated with 2+1 flavors of Möbius domain-wall fermions. Systematic errors are fully addressed including those from the integral over all possible final states. Our results are in agreement with currently available experimental data, with an error at the few-percent level.</description>
-      <source url="https://doi.org/10.1103/g6gh-t4pc">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/g6gh-t4pc</guid>
     </item>
   </channel>
 </rss>
