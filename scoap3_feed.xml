@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 10:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:17:09 +0000</lastBuildDate>
     <item>
       <title>Diamonds in the bulk and large-N scaling in AdS/CFT</title>
       <link>https://doi.org/10.1007/JHEP08(2026)124</link>
@@ -22,6 +22,13 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/97c9-jl1m</guid>
     </item><item>
+      <title>Minimal dark SU(2) origin of a massless Dirac neutrino</title>
+      <link>https://doi.org/10.1103/h3y7-qzyr</link>
+      <description>We propose a gauge-symmetry origin of a rank-two Dirac neutrino mass matrix that enforces one exactly massless neutrino, while being consistent with the oscillation data, as well as cosmological constraints. The mechanism relies on a minimal dark SU(2)D gauge symmetry under which one right-handed neutrinolike Weyl fermion is charged, thereby forbidding its Standard Model Yukawa coupling. Quantum consistency then fixes the minimal dark-sector completion: Cancellation of the Witten anomaly requires a second fermionic SU(2)D doublet, while a discrete Z4 symmetry that forbids Majorana masses allows the two dark doublets to form a vectorlike pair. This anomaly-free completion gives rise to a secluded, confining dark sector that can contain a potential dark matter candidate, linking the protected neutrino texture to dark infrared dynamics.</description>
+      <source url="https://doi.org/10.1103/h3y7-qzyr">Physical Review D</source>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/h3y7-qzyr</guid>
+    </item><item>
       <title>Chiral first order phase transition at finite baryon density and zero temperature from self-consistent pole masses in the linear sigma model with quarks</title>
       <link>https://doi.org/10.1103/qzv1-qj4m</link>
       <description>We use the two-flavor linear sigma model with quarks as an effective description of QCD to investigate the nature of the chiral phase transition at finite baryon chemical potential and zero temperature. We work at one-loop order to set up and solve the system of self-consistent coupled equations for the particle pole masses. The chemical potential-dependent value of the chiral order parameter is obtained by minimizing the one-loop effective potential. This treatment goes beyond the conventional ring-diagram approximation and provides a description valid for arbitrary values of the chemical potential. We find that the phase transition is of first order and occurs when the quark chemical potential reaches the value of the vacuum quark mass for the chosen set of parameters. The first order nature of the transition is signaled by the discontinuous behavior of the chiral condensate, the masses, and the couplings. The thermodynamics of the system is readily implemented and in particular, we </description>
@@ -29,13 +36,6 @@
       <author>et al.</author>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/qzv1-qj4m</guid>
-    </item><item>
-      <title>Minimal dark SU(2) origin of a massless Dirac neutrino</title>
-      <link>https://doi.org/10.1103/h3y7-qzyr</link>
-      <description>We propose a gauge-symmetry origin of a rank-two Dirac neutrino mass matrix that enforces one exactly massless neutrino, while being consistent with the oscillation data, as well as cosmological constraints. The mechanism relies on a minimal dark SU(2)D gauge symmetry under which one right-handed neutrinolike Weyl fermion is charged, thereby forbidding its Standard Model Yukawa coupling. Quantum consistency then fixes the minimal dark-sector completion: Cancellation of the Witten anomaly requires a second fermionic SU(2)D doublet, while a discrete Z4 symmetry that forbids Majorana masses allows the two dark doublets to form a vectorlike pair. This anomaly-free completion gives rise to a secluded, confining dark sector that can contain a potential dark matter candidate, linking the protected neutrino texture to dark infrared dynamics.</description>
-      <source url="https://doi.org/10.1103/h3y7-qzyr">Physical Review D</source>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/h3y7-qzyr</guid>
     </item><item>
       <title>Quantum entanglement in electron-nucleus collisions: Role of the linearly polarized gluon distribution</title>
       <link>https://doi.org/10.1103/6c93-2tgg</link>
@@ -117,26 +117,28 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)090</guid>
     </item><item>
-      <title>Uniqueness of complementary recovery in holographic error-correcting codes</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)096</link>
-      <description>Holographic codes are a type of error-correcting code with extra geometric structure ensured by a “complementary recovery” property: given a division of the physical Hilbert space mathcalH into mathcalH_A and mathcalH_overlineA , and an algebra of physical operators mathcalMsubseteq (mathcalL(mathcalH_A)bigotimes I_mathcalH_overlineA) , the logical operators in mathcalL(mathcalH_L) , which can be created by acting in mathcalM are identical to the logical operators whose expectation values cannot be altered by acting in the commutant mathcalM^prime , and vice versa. In [1], a uniqueness theorem was stated: the only possible tuple of (code, bipartition, algebra) which can exhibit complementary recovery is the maximal one mathcalM=P(mathcalL(mathcalH_A)bigotimes I_mathcalH_overlineA)P , where P is the projection onto the code subspace. We point out a counterexample to this result, using a “non-adjacent” bipartition of a four-qubit code proposed in [1]. We show that the failure of uniquene</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)096">Journal of High Energy Physics</source>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)096</guid>
-    </item><item>
-      <title>Loop corrected supercharges from holomorphic anomalies</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)089</link>
-      <description>We describe the loop corrections to supercharges in supersymmetric quantum field theories using the holomorphic twist formalism. We begin by reviewing the relation between supercharge corrections and the “twice-generalized” Konishi anomaly, which corrects the semi-chiral ring. In the holomorphic twist, these corrections appear as BRST anomalies and are computed using the higher operations of an underlying L conformal algebra. We then apply this formalism to obtain the complete one-loop corrections to the supercharge of four-dimensional Lagrangian supersymmetric gauge theories, including mathcalN = 4 SYM, where it admits a remarkably compact expression in terms of superfields.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)089">Journal of High Energy Physics</source>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)089</guid>
-    </item><item>
       <title>Inverse Problem in Effective Field Theory</title>
       <link>https://doi.org/10.1103/9gtg-yjmv</link>
       <description>We show that the tree-level spectrum of heavy particles can be directly extracted from the Wilson coefficients of the corresponding effective field theory at low energies. This procedure is exact when the number of resonances is finite and otherwise approximate. Our results are derived from a new class of analytic dispersion relations that depend nonlinearly on the scattering amplitude and apply to an exceedingly broad class of theories and kinematics.</description>
       <source url="https://doi.org/10.1103/9gtg-yjmv">Physical Review Letters</source>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/9gtg-yjmv</guid>
+    </item><item>
+      <title>First Measurement of the Absolute Branching Fraction of ηc→γγ</title>
+      <link>https://doi.org/10.1103/whyk-ykjw</link>
+      <description>We apply a tag-and-probe method to precisely measure the absolute branching fraction of the decay ηc→γγ with the BESIII experiment at BEPCII. Starting with a large initial sample of (2712.4±14.3)×106 ψ(3686) events, a sample of 0.16×106 ηc events is tagged via the golden channel ψ(3686)→π0hc, hc→γηc, effectively avoiding interference effects. The absolute branching fraction of ηc→γγ is measured for the first time to be B(ηc→γγ)=(2.45±0.48stat±0.09syst)×10−4. Using the world average value of the total width of the ηc, the partial decay width of ηc→γγ is calculated to be Γ(ηc→γγ)=(7.48±1.48stat±0.30syst) keV.</description>
+      <source url="https://doi.org/10.1103/whyk-ykjw">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/whyk-ykjw</guid>
+    </item><item>
+      <title>Measurements of the electron neutrino-argon differential cross section without pions in the final state in MicroBooNE</title>
+      <link>https://doi.org/10.1103/2zwr-h81t</link>
+      <description>We present a new measurement of the electron neutrino charged current cross section on argon without pions in the final state. This measurement uses the full MicroBooNE booster neutrino beam dataset of 1.3×1021 protons on target collected at Fermi National Accelerator Laboratory. Events are considered both with and without protons above the kinetic energy visibility threshold. Differential cross sections are extracted in proton and electron kinematics, including energy and angle relative to the neutrino beam direction. The relationship between the hadronic and leptonic systems is explored through the angle between the proton and electron directions. The resulting cross sections are compared to a variety of available generator predictions using different models of neutrino interactions. We find good agreement with most models in lepton kinematics and some discrepancies in the hadronic system modeling, particularly in proton angle.</description>
+      <source url="https://doi.org/10.1103/2zwr-h81t">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2zwr-h81t</guid>
     </item><item>
       <title>Axion perturbations: A general analytical treatment</title>
       <link>https://doi.org/10.1103/gwf6-1w8z</link>
@@ -145,12 +147,12 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/gwf6-1w8z</guid>
     </item><item>
-      <title>Gravitational waves and cosmological observables from first-order phase transitions: Thermal corrections at low temperature</title>
-      <link>https://doi.org/10.1103/dflh-9kxs</link>
-      <description>We consider the impact on cosmological first-order phase transitions (FOPTs) of low-temperature thermal corrections to the effective potential. These are corrections from degrees of freedom whose field-dependent masses in the true vacuum are much larger than the nucleation temperature, though in the false vacuum the field-dependent masses may be much smaller than the nucleation temperature. We focus on the regime in which the thin-wall approximation is valid and in which these corrections are small enough that they do not alter the vacuum structure of the theory. Although the general form of these corrections to the thermal effective potential can be quite complicated, we argue that the net effect of all such corrections can be well modeled in this limit with a single new parameter. We determine the shift in the parameters of the FOPT in terms of this new parameter and the impact on gravitational wave signals and cosmological observables.</description>
-      <source url="https://doi.org/10.1103/dflh-9kxs">Physical Review D</source>
+      <title>Inverse Problem in Effective Field Theory</title>
+      <link>https://doi.org/10.1103/9gtg-yjmv</link>
+      <description>We show that the tree-level spectrum of heavy particles can be directly extracted from the Wilson coefficients of the corresponding effective field theory at low energies. This procedure is exact when the number of resonances is finite and otherwise approximate. Our results are derived from a new class of analytic dispersion relations that depend nonlinearly on the scattering amplitude and apply to an exceedingly broad class of theories and kinematics.</description>
+      <source url="https://doi.org/10.1103/9gtg-yjmv">Physical Review Letters</source>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dflh-9kxs</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/9gtg-yjmv</guid>
     </item>
   </channel>
 </rss>
