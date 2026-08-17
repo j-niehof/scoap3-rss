@@ -5,8 +5,16 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 10:17:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:25:49 +0000</lastBuildDate>
     <item>
+      <title>Measurement of the X-ARAPUCA’s absolute photon detection efficiency for the deep underground neutrino experiment’s vertical drift far detector</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16190-1</link>
+      <description>The DUNE experiment will implement a photon detection system composed of X-ARAPUCA (XA) devices. These trap incoming VUV photons by internal reflection in a wavelength shifter light guide to be collected onto silicon photomultiplier arrays, sensitive to visible light. In the baseline design, dichroic filters are used to prevent photons from escaping. The configuration proposed for DUNE’s Vertical Drift (VD) (VD) module has been characterised in liquid argon for the first time using dedicated cryogenic setups developed at CIEMAT and INFN Naples. Additionally, several alternative configurations, based on the design optimisation studies of an R&amp;D campaign, have been evaluated. The results show an efficiency of up to (4.5 ± 0.4)% at 4.5 V overvoltage, representing a significant improvement over previous XA implementations. Most notably, configurations without dichroic filters show an improvement of up to 18%, attributed to transmittance losses in the dichroic filters.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16190-1">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16190-1</guid>
+    </item><item>
       <title>Diamonds in the bulk and large-N scaling in AdS/CFT</title>
       <link>https://doi.org/10.1007/JHEP08(2026)124</link>
       <description>Quantum Field Theory (QFT) introduced us to the notion that a causal diamond in space-time corresponded to a subsystem of a quantum mechanical system defined on the global space-time. Work by Jacobson [1], Fischler and Susskind [2] and particularly Bousso [3–5] suggested that in the quantum theory of gravity this subsystem should have a density matrix of finite entropy. These authors formalized older intuitive arguments based on black hole physics. Although mathematically, Type II von Neumann algebras admit finite entropy density matrices, the black hole arguments suggest that the number of physical states in these subsystems is finite. The conjecture that de Sitter (dS) space has a finite number of physical states was first made in [6, 7]. Leutheusser and Liu [8] showed that, in the N = ∞ limit, causal diamonds with finite area in AdS radius units had Type III von Neumann sub-algebras of the full operator algebra. They claimed that this was true for finite values of the UV cutoff, and</description>
@@ -139,13 +147,6 @@
       <author>et al.</author>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/2zwr-h81t</guid>
-    </item><item>
-      <title>Axion perturbations: A general analytical treatment</title>
-      <link>https://doi.org/10.1103/gwf6-1w8z</link>
-      <description>Cosmological data provide us two key constraints on dark matter: it must have a particular abundance, and it must have an adiabatic spectrum of density perturbations in the early Universe. Many different cosmological scenarios have been proposed that establish the abundance of axion dark matter in qualitatively different ways. In this paper we emphasize that, despite this variety of backgrounds, the perturbations in axion dark matter can be understood from universal principles. How does a feebly interacting axion field acquire perturbations proportional to those of photons? How do the isocurvature power spectrum and non-Gaussianity depend on the background evolution of the Universe? We answer these questions for a completely general choice of cosmological background and temperature-dependent axion potential. We show that the most general solution to the axion field equation on superhorizon scales is entirely determined by the family of background solutions for different initial field v</description>
-      <source url="https://doi.org/10.1103/gwf6-1w8z">Physical Review D</source>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/gwf6-1w8z</guid>
     </item><item>
       <title>Inverse Problem in Effective Field Theory</title>
       <link>https://doi.org/10.1103/9gtg-yjmv</link>
