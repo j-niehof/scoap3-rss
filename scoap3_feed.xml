@@ -5,8 +5,65 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 10:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:21:41 +0000</lastBuildDate>
     <item>
+      <title>Charged kaon electric polarizability from four-point functions in lattice QCD</title>
+      <link>https://doi.org/10.1103/48pp-nr53</link>
+      <description>We present a lattice QCD calculation of the electric polarizability of the charged kaon using a four-point function approach, which is the Euclidean analog of low-energy Compton scattering. In the case of the charged kaon, the polarizability is separated into an elastic term, determined from the charge radius extracted via the kaon electromagnetic form factor, and an inelastic term obtained from the time-integrated difference of four-point correlation functions. Our study employs 500 configurations of Wilson quenched 243×48 lattices, and we compute connected diagrams as a proof of principle. From this analysis we obtain a charged kaon electric polarizability of αE=(1.682±0.523)×10−4 fm3 and a squared charge radius rE2=0.3303±0.0028 fm2 after extrapolation to the physical pion mass. The quoted uncertainties include statistical errors and, for αE, the q2→0 extrapolation; they do not include systematic effects from the quenched approximation, omitted disconnected diagrams, finite volume, </description>
+      <source url="https://doi.org/10.1103/48pp-nr53">Physical Review D</source>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/48pp-nr53</guid>
+    </item><item>
+      <title>Complete-Coverage Searches for Lorentz Violation in the Minimal Matter Sector</title>
+      <link>https://doi.org/10.1103/ckyj-bbfl</link>
+      <description>Over the past several decades, dozens of tests have sought the 132 Lorentz-violating degrees of freedom in the nonrelativistic limit of the minimal matter sector of the standard-model extension, yet 43 remained unconstrained. In this Letter, we limit all previously unconstrained degrees of freedom and make improvements on 13 prior limits. The approach introduced here offers the potential of further improvements for 49 degrees of freedom in suitable future experiments, along with additional discovery potential offered by combining data from experiments performed in different locations.</description>
+      <source url="https://doi.org/10.1103/ckyj-bbfl">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ckyj-bbfl</guid>
+    </item><item>
+      <title>Simulation-based study of jet substructure of light-and heavy-flavor jets in p+p collisions at 200 GeV</title>
+      <link>https://doi.org/10.1103/zh98-jf1w</link>
+      <description>Jet substructure studies at the CERN Large Hadron Collider have been used to constrain parton distribution functions, test perturbative quantum chromodynamics, measure the strong-coupling constant, and probe the properties of the quark-gluon plasma. We extend these studies to lower collision energies at the BNL Relativistic Heavy Ion Collider (RHIC) and present a feasibility and strategy study for the sPHENIX experiment. In this work, we perform a PYTHIA8 based Monte Carlo study of jet substructure in p+p collisions at s=200 GeV with selection criteria adapted for a realistic measurement at sPHENIX. We consider jet substructure observables such as jet angularities and the primary Lund plane projection. In particular, we quantify the discriminating power of jet angularities for quark/gluon and light versus heavy flavor jets, and demonstrate how these observables can serve as experimentally accessible proxies for flavor separation at RHIC. We further show that the primary Lund plane exhi</description>
+      <source url="https://doi.org/10.1103/zh98-jf1w">Physical Review C</source>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/zh98-jf1w</guid>
+    </item><item>
+      <title>Charged kaon electric polarizability from four-point functions in lattice QCD</title>
+      <link>https://doi.org/10.1103/48pp-nr53</link>
+      <description>We present a lattice QCD calculation of the electric polarizability of the charged kaon using a four-point function approach, which is the Euclidean analog of low-energy Compton scattering. In the case of the charged kaon, the polarizability is separated into an elastic term, determined from the charge radius extracted via the kaon electromagnetic form factor, and an inelastic term obtained from the time-integrated difference of four-point correlation functions. Our study employs 500 configurations of Wilson quenched 243×48 lattices, and we compute connected diagrams as a proof of principle. From this analysis we obtain a charged kaon electric polarizability of αE=(1.682±0.523)×10−4 fm3 and a squared charge radius rE2=0.3303±0.0028 fm2 after extrapolation to the physical pion mass. The quoted uncertainties include statistical errors and, for αE, the q2→0 extrapolation; they do not include systematic effects from the quenched approximation, omitted disconnected diagrams, finite volume, </description>
+      <source url="https://doi.org/10.1103/48pp-nr53">Physical Review D</source>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/48pp-nr53</guid>
+    </item><item>
+      <title>Erratum to: Isospin-based EWP-tree relations</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)122</link>
+      <description>A correction to this paper has been published: https://doi.org/10.1007/JHEP05(2026)195</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)122">Journal of High Energy Physics</source>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)122</guid>
+    </item><item>
+      <title>Higgs decays to four leptons to mathcalO(1/Lambda^4) in SMEFT</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)126</link>
+      <description>We study the decays h→ ell overlineell(Z→ ell^prime overlineell^prime) and h→ ell overlineν_ell ν_ell^prime overlineell^prime within the SMEFT framework and including effects up to mathcalO(1/Lambda^4) , where Λ is the new physics scale suppressing higher dimensional operators. To work to this order, we must include the square of dimension-six operators and the interference of dimension-eight operators with the Standard Model. We study angular asymmetries and other differential decay observables and determine which are most sensitive to mathcalO(1/Lambda^4) effects. While new kinematic structures arising in higher dimensional operators have the potential to induce novel angular dependency, we find this does not occur for h→ ell overlineell(Z→ ell^prime overlineell^prime) . For h→ ell overlineν_ell ν_ell^prime overlineell^prime , new angular dependencies do arise at mathcalO(1/Lambda^4) , though they require a fully reconstructible (meaning we can go to the Higgs rest frame) final state</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)126">Journal of High Energy Physics</source>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)126</guid>
+    </item><item>
+      <title>On anomaly-free 4d mathcalN = 4 and 6d (2,0) conformal supergravities and UV finiteness of Poincaré supergravities</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)115</link>
+      <description>We review the structure of superconformal anomalies in 4d mathcalN = 4 conformal supergravity (CSG) coupled to a number N of mathcalN = 4 vector multiplets and 6d (2,0) CSG coupled to N of (2,0) tensor multiplets. Anomalies cancel if N = 4 and N = 26 respectively. If the CSG part of the action is dropped and N = 6 + n , the first theory is classically equivalent to the 4d mathcalN = 4 Poincaré supergravity (PSG) coupled to n vector multiplets, while the second one with N = 5 + n is classically equivalent to the 6d (2,0) PSG coupled to n tensor multiplets. We suggest that these facts imply that divergences in the 4d PSG with n vectors should be proportional to n + 2 and similarly in the 6d PSG with n tensors to n – 21. This conjecture appears to be consistent with most of the known results of explicit scattering amplitude computations in these 4d and 6d PSG theories, apart from one coefficient in the 3-loop mixed vector scattering amplitude computed in arXiv:1305.4876.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)115">Journal of High Energy Physics</source>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)115</guid>
+    </item><item>
+      <title>Non-Lorentzian supergravity from matrix theory</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)114</link>
+      <description>It was recently shown that the decoupling limits leading to matrix (gauge) theories on D-branes give rise to non-Lorentzian target space geometries. Perturbatively, matrix theory describes a quantum gravity theory whose low-energy supergravity description exhibits non-Lorentzian behavior. Focusing on the D-particle case associated with the Banks-Fischler-Shenker-Susskind matrix theory, and using techniques from ambitwistor string theory, we show evidence that the dynamics of this non-Lorentzian gravity should be related to anomalies in the current algebra of the associated fundamental string worldsheet theory. At large N, the D-particle backreaction deforms the non-Lorentzian supergravity to the Lorentzian IIA theory, providing a holographic description of the BFSS matrix theory. At a moderately large N such that the D-particles decouple at the leading order, this non-Lorentzian supergravity maps holographically to the leading-order contribution of weakly coupled bulk gravity. This app</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)114">Journal of High Energy Physics</source>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)114</guid>
+    </item><item>
       <title>Measurement of the X-ARAPUCA’s absolute photon detection efficiency for the deep underground neutrino experiment’s vertical drift far detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16190-1</link>
       <description>The DUNE experiment will implement a photon detection system composed of X-ARAPUCA (XA) devices. These trap incoming VUV photons by internal reflection in a wavelength shifter light guide to be collected onto silicon photomultiplier arrays, sensitive to visible light. In the baseline design, dichroic filters are used to prevent photons from escaping. The configuration proposed for DUNE’s Vertical Drift (VD) (VD) module has been characterised in liquid argon for the first time using dedicated cryogenic setups developed at CIEMAT and INFN Naples. Additionally, several alternative configurations, based on the design optimisation studies of an R&amp;D campaign, have been evaluated. The results show an efficiency of up to (4.5 ± 0.4)% at 4.5 V overvoltage, representing a significant improvement over previous XA implementations. Most notably, configurations without dichroic filters show an improvement of up to 18%, attributed to transmittance losses in the dichroic filters.</description>
@@ -30,12 +87,13 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/97c9-jl1m</guid>
     </item><item>
-      <title>Minimal dark SU(2) origin of a massless Dirac neutrino</title>
-      <link>https://doi.org/10.1103/h3y7-qzyr</link>
-      <description>We propose a gauge-symmetry origin of a rank-two Dirac neutrino mass matrix that enforces one exactly massless neutrino, while being consistent with the oscillation data, as well as cosmological constraints. The mechanism relies on a minimal dark SU(2)D gauge symmetry under which one right-handed neutrinolike Weyl fermion is charged, thereby forbidding its Standard Model Yukawa coupling. Quantum consistency then fixes the minimal dark-sector completion: Cancellation of the Witten anomaly requires a second fermionic SU(2)D doublet, while a discrete Z4 symmetry that forbids Majorana masses allows the two dark doublets to form a vectorlike pair. This anomaly-free completion gives rise to a secluded, confining dark sector that can contain a potential dark matter candidate, linking the protected neutrino texture to dark infrared dynamics.</description>
-      <source url="https://doi.org/10.1103/h3y7-qzyr">Physical Review D</source>
+      <title>Chiral first order phase transition at finite baryon density and zero temperature from self-consistent pole masses in the linear sigma model with quarks</title>
+      <link>https://doi.org/10.1103/qzv1-qj4m</link>
+      <description>We use the two-flavor linear sigma model with quarks as an effective description of QCD to investigate the nature of the chiral phase transition at finite baryon chemical potential and zero temperature. We work at one-loop order to set up and solve the system of self-consistent coupled equations for the particle pole masses. The chemical potential-dependent value of the chiral order parameter is obtained by minimizing the one-loop effective potential. This treatment goes beyond the conventional ring-diagram approximation and provides a description valid for arbitrary values of the chemical potential. We find that the phase transition is of first order and occurs when the quark chemical potential reaches the value of the vacuum quark mass for the chosen set of parameters. The first order nature of the transition is signaled by the discontinuous behavior of the chiral condensate, the masses, and the couplings. The thermodynamics of the system is readily implemented and in particular, we </description>
+      <source url="https://doi.org/10.1103/qzv1-qj4m">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/h3y7-qzyr</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/qzv1-qj4m</guid>
     </item><item>
       <title>Chiral first order phase transition at finite baryon density and zero temperature from self-consistent pole masses in the linear sigma model with quarks</title>
       <link>https://doi.org/10.1103/qzv1-qj4m</link>
@@ -95,65 +153,6 @@
       <author>et al.</author>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/bk78-wtvd</guid>
-    </item><item>
-      <title>Revisiting the role of saturation in diffractive vector meson production</title>
-      <link>https://doi.org/10.1103/t8t7-5djl</link>
-      <description>We perform a global Bayesian analysis of coherent and incoherent diffractive J/ψ photoproduction in γ+p and γ+Pb collisions using a color glass condensate (CGC)-based framework and ultraperipheral collision data from the Large Hadron Collider (LHC), corrected for the expected effect of electromagnetic dissociation (EMD). Using Gaussian-process emulators of the underlying CGC calculations, we infer model parameters from a combined set of HERA and LHC measurements. We find that the γ+Pb data with EMD correction substantially reduce the previously observed tension between proton and nuclear datasets, enabling a consistent simultaneous description of diffractive J/ψ production in γ+p and γ+Pb collisions within the CGC framework.</description>
-      <source url="https://doi.org/10.1103/t8t7-5djl">Physical Review D</source>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/t8t7-5djl</guid>
-    </item><item>
-      <title>Direct determination of the structure functions FL, FS, and G from F2 and dF2/dQ2 to O(αs2)</title>
-      <link>https://doi.org/10.1103/psnk-s9bg</link>
-      <description>We extend the results of Lappi et al. [Eur. Phys. J. C 84, 84 (2024)] to show that it is possible to obtain expressions for the longitudinal, singlet, and gluon structure functions FL, FS, and G in deep inelastic scattering directly in terms of the measured functions F2 and dF2/ln(Q2) modulo nonsinglet corrections expected to be small at very small x. The latter can be treated at low x using existing quark distributions. Our results are presented consistently to O(αs2), correcting and extending the mixed-order results of Lappi et al..</description>
-      <source url="https://doi.org/10.1103/psnk-s9bg">Physical Review D</source>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/psnk-s9bg</guid>
-    </item><item>
-      <title>Hamiltonian lattice formulation of compact Maxwell-Chern-Simons theory</title>
-      <link>https://doi.org/10.1103/rrzw-s456</link>
-      <description>In this paper, we derive a Hamiltonian lattice formulation of the 2+1D compact Maxwell-Chern-Simons theory within the zero instanton sector. We analytically solve the model and show that the mass gap in the continuum limit precisely reproduces the well-known continuum result. The formulation preserves key topological features, including the quantization of the Chern-Simons level, the degeneracy of energy eigenstates, the nontrivial properties of Wilson loops, and the mutual and self-statistics of anyons. By reconciling gauge compactness, locality, and canonical quantization within a unified framework, this work provides a foundation for conceivable future Hamiltonian-based simulations of lattice Maxwell-Chern-Simons theory. It aims to bridge topological field theory and quantum information science, with the goal of enabling Hamiltonian-based quantum simulations of Maxwell-Chern-Simons theory on both classical and quantum computers.</description>
-      <source url="https://doi.org/10.1103/rrzw-s456">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rrzw-s456</guid>
-    </item><item>
-      <title>Sub-leading logarithms for scalar potential models on de Sitter</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)090</link>
-      <description>The continual production of long wavelength scalars and gravitons during inflation injects secular growth into loop corrections which would be constant in flat space. One typically finds that each additional factor of the loop counting parameter can induce up to a certain number of logarithms of the scale factor. Loop corrections that attain this number are known as “leading logarithms”; those with fewer are sub-leading. Starobinsky’s stochastic formalism has long been known to reproduce the leading logarithms of scalar potential models. We show that the first sub-leading logarithm is captured by applying the stochastic formalism to a certain part of the 1-loop effective potential. This is checked at 2-loops for a massless, minimally coupled scalar with a quartic self-interaction on de Sitter background.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)090">Journal of High Energy Physics</source>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)090</guid>
-    </item><item>
-      <title>Inverse Problem in Effective Field Theory</title>
-      <link>https://doi.org/10.1103/9gtg-yjmv</link>
-      <description>We show that the tree-level spectrum of heavy particles can be directly extracted from the Wilson coefficients of the corresponding effective field theory at low energies. This procedure is exact when the number of resonances is finite and otherwise approximate. Our results are derived from a new class of analytic dispersion relations that depend nonlinearly on the scattering amplitude and apply to an exceedingly broad class of theories and kinematics.</description>
-      <source url="https://doi.org/10.1103/9gtg-yjmv">Physical Review Letters</source>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9gtg-yjmv</guid>
-    </item><item>
-      <title>First Measurement of the Absolute Branching Fraction of ηc→γγ</title>
-      <link>https://doi.org/10.1103/whyk-ykjw</link>
-      <description>We apply a tag-and-probe method to precisely measure the absolute branching fraction of the decay ηc→γγ with the BESIII experiment at BEPCII. Starting with a large initial sample of (2712.4±14.3)×106 ψ(3686) events, a sample of 0.16×106 ηc events is tagged via the golden channel ψ(3686)→π0hc, hc→γηc, effectively avoiding interference effects. The absolute branching fraction of ηc→γγ is measured for the first time to be B(ηc→γγ)=(2.45±0.48stat±0.09syst)×10−4. Using the world average value of the total width of the ηc, the partial decay width of ηc→γγ is calculated to be Γ(ηc→γγ)=(7.48±1.48stat±0.30syst) keV.</description>
-      <source url="https://doi.org/10.1103/whyk-ykjw">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/whyk-ykjw</guid>
-    </item><item>
-      <title>Measurements of the electron neutrino-argon differential cross section without pions in the final state in MicroBooNE</title>
-      <link>https://doi.org/10.1103/2zwr-h81t</link>
-      <description>We present a new measurement of the electron neutrino charged current cross section on argon without pions in the final state. This measurement uses the full MicroBooNE booster neutrino beam dataset of 1.3×1021 protons on target collected at Fermi National Accelerator Laboratory. Events are considered both with and without protons above the kinetic energy visibility threshold. Differential cross sections are extracted in proton and electron kinematics, including energy and angle relative to the neutrino beam direction. The relationship between the hadronic and leptonic systems is explored through the angle between the proton and electron directions. The resulting cross sections are compared to a variety of available generator predictions using different models of neutrino interactions. We find good agreement with most models in lepton kinematics and some discrepancies in the hadronic system modeling, particularly in proton angle.</description>
-      <source url="https://doi.org/10.1103/2zwr-h81t">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2zwr-h81t</guid>
-    </item><item>
-      <title>Inverse Problem in Effective Field Theory</title>
-      <link>https://doi.org/10.1103/9gtg-yjmv</link>
-      <description>We show that the tree-level spectrum of heavy particles can be directly extracted from the Wilson coefficients of the corresponding effective field theory at low energies. This procedure is exact when the number of resonances is finite and otherwise approximate. Our results are derived from a new class of analytic dispersion relations that depend nonlinearly on the scattering amplitude and apply to an exceedingly broad class of theories and kinematics.</description>
-      <source url="https://doi.org/10.1103/9gtg-yjmv">Physical Review Letters</source>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9gtg-yjmv</guid>
     </item>
   </channel>
 </rss>
