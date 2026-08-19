@@ -5,14 +5,75 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:22:07 +0000</lastBuildDate>
     <item>
-      <title>Charged kaon electric polarizability from four-point functions in lattice QCD</title>
-      <link>https://doi.org/10.1103/48pp-nr53</link>
-      <description>We present a lattice QCD calculation of the electric polarizability of the charged kaon using a four-point function approach, which is the Euclidean analog of low-energy Compton scattering. In the case of the charged kaon, the polarizability is separated into an elastic term, determined from the charge radius extracted via the kaon electromagnetic form factor, and an inelastic term obtained from the time-integrated difference of four-point correlation functions. Our study employs 500 configurations of Wilson quenched 243×48 lattices, and we compute connected diagrams as a proof of principle. From this analysis we obtain a charged kaon electric polarizability of αE=(1.682±0.523)×10−4 fm3 and a squared charge radius rE2=0.3303±0.0028 fm2 after extrapolation to the physical pion mass. The quoted uncertainties include statistical errors and, for αE, the q2→0 extrapolation; they do not include systematic effects from the quenched approximation, omitted disconnected diagrams, finite volume, </description>
-      <source url="https://doi.org/10.1103/48pp-nr53">Physical Review D</source>
+      <title>Measurement of the muon flux at SND@LHC</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16035-x</link>
+      <description>The SND@LHC experiment investigates neutrinos in the 7.2&lt; eta &lt; 8.4 forward pseudorapidity range. The detector consists of a veto system, a scintillating fiber tracker interleaved with emulsion cloud chambers, and a downstream muon system. Muons originating from collisions at ATLAS (IP1) constitute the primary background for CC neutrino interactions and determine the replacement frequency of the emulsion target. A precise characterization of this flux is therefore essential. In this work, we report the muon flux measured in the central 31 × 31 textrmcm^2 fiducial area of the detector using data from 2023 through 2025. The measured fluxes for are: (1.90±0.04) × 10^-2 text nb/cm^2 (2023), (3.76 ± 0.09) × text 10^-2 text nb/cm^2 (2024), and (2.48 ± 0.05) × 10^-2 text nb/cm^2 (2025). A 2024 reference proton run at sqrts = 5.36text TeV yielded (4.21 ± 0.14) × text 10^-2 text nb/cm^2 , providing a direct baseline for the heavy-ion energy regime. The measured fluxes for are (3.11±0.12) × text</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16035-x">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16035-x</guid>
+    </item><item>
+      <title>Production of muonic kaon atoms at high-energy colliders * This work was supported in part by the National Natural Science Foundation of China (12361141827, 12422510), and by the Office of Nuclear Physics within the U.S. Department of Energy Office of Science (DE-FG02-89ER40531). The National Key Research and Development Program of China (2022YFA1604900). W. Zha acknowledges support from the Anhui Provincial Natural Science Foundation (2508085JX002), the Youth Innovation Promotion Association of the Chinese Academy of Sciences, and the Chinese Academy of Sciences (YSBR088)</title>
+      <link>https://doi.org/10.1088/1674-1137/ae662f</link>
+      <description>In this study, we develop a framework for producing exotic muonic kaon atoms ( Kμ ) in semileptonic D^0 decays using an effective weak Hamiltonian, a helicity-based treatment of leptonic current, and a nonrelativistic bound-state projection. The resulting branching ratio BR(D^0 →(Kμ )νμ)=2.29×10^-10 is implemented in a ROOT-based code to estimate yields at a relativistic heavy-ion collider (RHIC), large hadron collider (LHC), and super tau-charm facility (STCF). We demonstrate quantitatively that Kμ atoms, which are also produced through coalescence in the quark–gluon plasma (QGP), offer a sensitive probe of low-momentum primordial muons and early-time electromagnetic radiation, acting as complementary constraints in an otherwise unexplored phase space for thermal dilepton and photon emission. Newly estimated dissociation cross-sections in detector material indicate that secondary-vertex reconstruction should be experimentally feasible, enabling the clean experimental identification of</description>
+      <source url="https://doi.org/10.1088/1674-1137/ae662f">Chinese Physics C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1088/1674-1137/ae662f</guid>
+    </item><item>
+      <title>ϕ→3π and ϕπ0 transition form factor from Khuri-Treiman equations</title>
+      <link>https://doi.org/10.1103/3v66-pg1l</link>
+      <description>This work studies the ϕ→3π decay and the ϕ→π0γ* transition form factor, utilizing the Khuri-Treiman formalism to account for analyticity, crossing, and unitarity. Using once-subtracted dispersion relations, we perform a simultaneous fit to the ϕ→3π Dalitz plot distribution and the ϕ→π0γ* measurements from the KLOE collaboration, finding good agreement with these experimental data. These results reaffirm the applicability of the Khuri-Treiman approach in the analysis of three-body decays. An interesting result is that the subtraction constant appearing in the equations is similar to a sum rule expectation, in contrast to analogous studies of ω→3π decays and ω→π0γ*, which shows significant deviations. Our results also provide a reasonable description of the trend of the transition form factor data from BABAR in the e+e−→ϕπ0 scattering region. These intriguing theoretical differences between the decays of ϕ and ω could encourage further experimental measurements to assess the discrepancie</description>
+      <source url="https://doi.org/10.1103/3v66-pg1l">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3v66-pg1l</guid>
+    </item><item>
+      <title>Varieties of electrically charged physical states in SU(2)×U(1) lattice gauge Higgs theory</title>
+      <link>https://doi.org/10.1103/b6vw-gxg5</link>
+      <description>We consider a quenched SU(2)×U(1) gauge Higgs theory on the lattice, coupled to a static vectorlike fermion which, in this case, is in the same gauge group representation as the Higgs field. Physical (i.e., locally gauge invariant) electrically charged and electrically neutral states of matter particles in the electroweak theory were described decades ago, but those constructions do not exhaust all the possibilities, and new types of electrically charged/neutral states, orthogonal to former constructions, are described here. The difference has to do with how the static source, which by itself does not create a physical state, is dressed by dynamical fields. We find that, unsurprisingly, the neutral static fermion is much lighter than any of the charged fermion states. But a lattice study of the propagation of the charged fermion states indicates the existence of (at least) two particle states with different masses in charged particle spectrum.</description>
+      <source url="https://doi.org/10.1103/b6vw-gxg5">Physical Review D</source>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/b6vw-gxg5</guid>
+    </item><item>
+      <title>Determination of nuclear PDFs using Markov chain Monte Carlo methods</title>
+      <link>https://doi.org/10.1103/6bpd-yrm4</link>
+      <description>Global QCD analyses of nuclear parton distribution functions (nPDFs) have traditionally relied on the Hessian method for uncertainty estimation. However, the inherent Gaussian approximation and reliance on local curvature often prove insufficient for nPDF fits, which are frequently characterized by limited data constraints and non-Gaussian likelihoods. In this paper, we present the first nPDF determination based on Markov Chain Monte Carlo (MCMC) techniques, implemented within the nCTEQ framework using an adaptive Metropolis-Hastings algorithm. The MCMC approach enables a direct mapping of the posterior distribution and reveals a highly nontrivial parameter-space structure, including multiple modes and pronounced non-Gaussian behavior, particularly for the valence PDFs. We perform the first single-nucleus global analysis of lead PDFs using exclusively lead data and compare it to a multi-nuclei fit employing a standard analytic A dependence. The inclusion of lighter nuclei reduces quark</description>
+      <source url="https://doi.org/10.1103/6bpd-yrm4">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/6bpd-yrm4</guid>
+    </item><item>
+      <title>Gravitational waves from hybrid defects as probe of flavor symmetry breaking: machine-learning approach</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)119</link>
+      <description>We present a novel possibility that a network of domain walls bounded by cosmic strings generates a stochastic gravitational wave background (SWGB) signal originating from the spontaneous breaking of a gauged U(1) flavor symmetry and the subsequent breaking of discrete Z symmetry that accommodates dark matter. The gravitational wave (GW) spectrum produced by the string-bounded-wall network can be detected for high U(1) breaking scales in forthcoming GW detectors including LISA, ET and SKA. The GW signal exhibits a distinctive frequency slope, in the infrared, compared to the standard cosmic-string case, in the frequency range between micro-hertz and hertz. We develop a possible strategy to distinguish and characterize GW spectrum of the hybrid defect from other defects, such as stable cosmic strings, via employing the exact calculation with a machine-learning surrogate based on a multilayer perceptron (MLP), trained on spectra obtained from the full numerical treatment. This is then us</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)119">Journal of High Energy Physics</source>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)119</guid>
+    </item><item>
+      <title>Solar system and atomic clock bounds on locally coupled swampland scalars</title>
+      <link>https://doi.org/10.1016/j.nuclphysb.2026.117629</link>
+      <description>We study how local measurements constrain light scalar fields that are relevant in late time cosmic acceleration and are often discussed in connection with swampland criteria. Starting from a scalar-tensor framework, we define the swampland slope and curvature variables in the canonically normalized Einstein frame and relate them to Solar System tracking, Lunar Laser Ranging, equivalence principle tests and atomic clock comparisons. These measurements do not constrain the scalar velocity by itself, but products of that velocity with microscopic couplings to matter, gravity and atomic parameters. For coupling directions visible to local experiments, the scalar is driven into an ultra slow present regime. This severely restricts the possibility of realizing an O(1) de Sitter gradient throuh unscreened visible sector couplings alone. The refined de Sitter alternative remains possible, but in the single field hilltop realization it requires proximity to the maximum or a tuned suppression o</description>
+      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117629">Nuclear Physics B</source>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117629</guid>
+    </item><item>
+      <title>Updated measurement of the branching fraction of Ds+→τ+ντ</title>
+      <link>https://doi.org/10.1103/r7fj-26j2</link>
+      <description>Using a dataset of 7.33 fb−1 of e+e− annihilation data collected with the BESIII detector at center-of-mass energies from 4.128 to 4.226 GeV, we report an updated measurement of the branching fraction of Ds+→τ+ντ via four τ+ decay modes: τ+→e+νeν¯τ, μ+νμν¯τ, π+ν¯τ, and π+π0ν¯τ. The branching fraction is determined to be B(Ds+→τ+ντ)=(5.37±0.08stat±0.06syst)%. The product of the modulus of the Cabibbo-Kobayashi-Maskawa matrix element |Vcs| and the Ds+ decay constant fDs+ is measured to be fDs+|Vcs|=(248.2±1.9stat±1.4syst±0.6input±0.8EM) MeV. Both the branching fraction and the product fDs+|Vcs| are the most precise results yet obtained. Then, taking fDs+ from lattice quantum chromodynamics calculations results in |Vcs|=0.993±0.008stat±0.006syst±0.003input±0.003EM. Conversely, one finds fDs+=(255.0±1.9stat±1.4syst±0.6input±0.8EM) MeV when taking |Vcs| from the CKMfitter group as an input. Combining with the world average value of Ds+→μ+νμ, the ratio of the branching fractions between Ds+→</description>
+      <source url="https://doi.org/10.1103/r7fj-26j2">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/48pp-nr53</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/r7fj-26j2</guid>
+    </item><item>
+      <title>Simulation-based study of jet substructure of light-and heavy-flavor jets in p+p collisions at 200 GeV</title>
+      <link>https://doi.org/10.1103/zh98-jf1w</link>
+      <description>Jet substructure studies at the CERN Large Hadron Collider have been used to constrain parton distribution functions, test perturbative quantum chromodynamics, measure the strong-coupling constant, and probe the properties of the quark-gluon plasma. We extend these studies to lower collision energies at the BNL Relativistic Heavy Ion Collider (RHIC) and present a feasibility and strategy study for the sPHENIX experiment. In this work, we perform a PYTHIA8 based Monte Carlo study of jet substructure in p+p collisions at s=200 GeV with selection criteria adapted for a realistic measurement at sPHENIX. We consider jet substructure observables such as jet angularities and the primary Lund plane projection. In particular, we quantify the discriminating power of jet angularities for quark/gluon and light versus heavy flavor jets, and demonstrate how these observables can serve as experimentally accessible proxies for flavor separation at RHIC. We further show that the primary Lund plane exhi</description>
+      <source url="https://doi.org/10.1103/zh98-jf1w">Physical Review C</source>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/zh98-jf1w</guid>
     </item><item>
       <title>Complete-Coverage Searches for Lorentz Violation in the Minimal Matter Sector</title>
       <link>https://doi.org/10.1103/ckyj-bbfl</link>
@@ -22,33 +83,12 @@
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ckyj-bbfl</guid>
     </item><item>
-      <title>Simulation-based study of jet substructure of light-and heavy-flavor jets in p+p collisions at 200 GeV</title>
-      <link>https://doi.org/10.1103/zh98-jf1w</link>
-      <description>Jet substructure studies at the CERN Large Hadron Collider have been used to constrain parton distribution functions, test perturbative quantum chromodynamics, measure the strong-coupling constant, and probe the properties of the quark-gluon plasma. We extend these studies to lower collision energies at the BNL Relativistic Heavy Ion Collider (RHIC) and present a feasibility and strategy study for the sPHENIX experiment. In this work, we perform a PYTHIA8 based Monte Carlo study of jet substructure in p+p collisions at s=200 GeV with selection criteria adapted for a realistic measurement at sPHENIX. We consider jet substructure observables such as jet angularities and the primary Lund plane projection. In particular, we quantify the discriminating power of jet angularities for quark/gluon and light versus heavy flavor jets, and demonstrate how these observables can serve as experimentally accessible proxies for flavor separation at RHIC. We further show that the primary Lund plane exhi</description>
-      <source url="https://doi.org/10.1103/zh98-jf1w">Physical Review C</source>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/zh98-jf1w</guid>
-    </item><item>
-      <title>Charged kaon electric polarizability from four-point functions in lattice QCD</title>
-      <link>https://doi.org/10.1103/48pp-nr53</link>
-      <description>We present a lattice QCD calculation of the electric polarizability of the charged kaon using a four-point function approach, which is the Euclidean analog of low-energy Compton scattering. In the case of the charged kaon, the polarizability is separated into an elastic term, determined from the charge radius extracted via the kaon electromagnetic form factor, and an inelastic term obtained from the time-integrated difference of four-point correlation functions. Our study employs 500 configurations of Wilson quenched 243×48 lattices, and we compute connected diagrams as a proof of principle. From this analysis we obtain a charged kaon electric polarizability of αE=(1.682±0.523)×10−4 fm3 and a squared charge radius rE2=0.3303±0.0028 fm2 after extrapolation to the physical pion mass. The quoted uncertainties include statistical errors and, for αE, the q2→0 extrapolation; they do not include systematic effects from the quenched approximation, omitted disconnected diagrams, finite volume, </description>
-      <source url="https://doi.org/10.1103/48pp-nr53">Physical Review D</source>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/48pp-nr53</guid>
-    </item><item>
       <title>Erratum to: Isospin-based EWP-tree relations</title>
       <link>https://doi.org/10.1007/JHEP08(2026)122</link>
       <description>A correction to this paper has been published: https://doi.org/10.1007/JHEP05(2026)195</description>
       <source url="https://doi.org/10.1007/JHEP08(2026)122">Journal of High Energy Physics</source>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)122</guid>
-    </item><item>
-      <title>Higgs decays to four leptons to mathcalO(1/Lambda^4) in SMEFT</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)126</link>
-      <description>We study the decays h→ ell overlineell(Z→ ell^prime overlineell^prime) and h→ ell overlineν_ell ν_ell^prime overlineell^prime within the SMEFT framework and including effects up to mathcalO(1/Lambda^4) , where Λ is the new physics scale suppressing higher dimensional operators. To work to this order, we must include the square of dimension-six operators and the interference of dimension-eight operators with the Standard Model. We study angular asymmetries and other differential decay observables and determine which are most sensitive to mathcalO(1/Lambda^4) effects. While new kinematic structures arising in higher dimensional operators have the potential to induce novel angular dependency, we find this does not occur for h→ ell overlineell(Z→ ell^prime overlineell^prime) . For h→ ell overlineν_ell ν_ell^prime overlineell^prime , new angular dependencies do arise at mathcalO(1/Lambda^4) , though they require a fully reconstructible (meaning we can go to the Higgs rest frame) final state</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)126">Journal of High Energy Physics</source>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)126</guid>
     </item><item>
       <title>On anomaly-free 4d mathcalN = 4 and 6d (2,0) conformal supergravities and UV finiteness of Poincaré supergravities</title>
       <link>https://doi.org/10.1007/JHEP08(2026)115</link>
@@ -63,6 +103,13 @@
       <source url="https://doi.org/10.1007/JHEP08(2026)114">Journal of High Energy Physics</source>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)114</guid>
+    </item><item>
+      <title>Higgs decays to four leptons to mathcalO(1/Lambda^4) in SMEFT</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)126</link>
+      <description>We study the decays h→ ell overlineell(Z→ ell^prime overlineell^prime) and h→ ell overlineν_ell ν_ell^prime overlineell^prime within the SMEFT framework and including effects up to mathcalO(1/Lambda^4) , where Λ is the new physics scale suppressing higher dimensional operators. To work to this order, we must include the square of dimension-six operators and the interference of dimension-eight operators with the Standard Model. We study angular asymmetries and other differential decay observables and determine which are most sensitive to mathcalO(1/Lambda^4) effects. While new kinematic structures arising in higher dimensional operators have the potential to induce novel angular dependency, we find this does not occur for h→ ell overlineell(Z→ ell^prime overlineell^prime) . For h→ ell overlineν_ell ν_ell^prime overlineell^prime , new angular dependencies do arise at mathcalO(1/Lambda^4) , though they require a fully reconstructible (meaning we can go to the Higgs rest frame) final state</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)126">Journal of High Energy Physics</source>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)126</guid>
     </item><item>
       <title>Measurement of the X-ARAPUCA’s absolute photon detection efficiency for the deep underground neutrino experiment’s vertical drift far detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16190-1</link>
@@ -95,13 +142,12 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/qzv1-qj4m</guid>
     </item><item>
-      <title>Chiral first order phase transition at finite baryon density and zero temperature from self-consistent pole masses in the linear sigma model with quarks</title>
-      <link>https://doi.org/10.1103/qzv1-qj4m</link>
-      <description>We use the two-flavor linear sigma model with quarks as an effective description of QCD to investigate the nature of the chiral phase transition at finite baryon chemical potential and zero temperature. We work at one-loop order to set up and solve the system of self-consistent coupled equations for the particle pole masses. The chemical potential-dependent value of the chiral order parameter is obtained by minimizing the one-loop effective potential. This treatment goes beyond the conventional ring-diagram approximation and provides a description valid for arbitrary values of the chemical potential. We find that the phase transition is of first order and occurs when the quark chemical potential reaches the value of the vacuum quark mass for the chosen set of parameters. The first order nature of the transition is signaled by the discontinuous behavior of the chiral condensate, the masses, and the couplings. The thermodynamics of the system is readily implemented and in particular, we </description>
-      <source url="https://doi.org/10.1103/qzv1-qj4m">Physical Review D</source>
-      <author>et al.</author>
+      <title>Minimal dark SU(2) origin of a massless Dirac neutrino</title>
+      <link>https://doi.org/10.1103/h3y7-qzyr</link>
+      <description>We propose a gauge-symmetry origin of a rank-two Dirac neutrino mass matrix that enforces one exactly massless neutrino, while being consistent with the oscillation data, as well as cosmological constraints. The mechanism relies on a minimal dark SU(2)D gauge symmetry under which one right-handed neutrinolike Weyl fermion is charged, thereby forbidding its Standard Model Yukawa coupling. Quantum consistency then fixes the minimal dark-sector completion: Cancellation of the Witten anomaly requires a second fermionic SU(2)D doublet, while a discrete Z4 symmetry that forbids Majorana masses allows the two dark doublets to form a vectorlike pair. This anomaly-free completion gives rise to a secluded, confining dark sector that can contain a potential dark matter candidate, linking the protected neutrino texture to dark infrared dynamics.</description>
+      <source url="https://doi.org/10.1103/h3y7-qzyr">Physical Review D</source>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qzv1-qj4m</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/h3y7-qzyr</guid>
     </item><item>
       <title>Quantum entanglement in electron-nucleus collisions: Role of the linearly polarized gluon distribution</title>
       <link>https://doi.org/10.1103/6c93-2tgg</link>
@@ -109,50 +155,6 @@
       <source url="https://doi.org/10.1103/6c93-2tgg">Physical Review D</source>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/6c93-2tgg</guid>
-    </item><item>
-      <title>On the Schubert calculus of the quantum K-theory for partial flag manifolds: a 3d A-model perspective</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)103</link>
-      <description>We further investigate the 3d gauged linear sigma model (GLSM)/ quantum K-theory correspondence for partial flag manifolds X ≡ Fl( ; n). This is a 3d uplift of the 2d GLSM/quantum cohomology correspondence with the 3d theory compactified on mathbbR^2× S_β^1 . Recently, a set of half-BPS line operators, called Schubert line defects, were constructed that correspond to the Schubert classes in the K-theory ring of X. Utilizing algebro-geometric algorithms, we compute 2-point and 3-point correlation functions of these line operators in the 3d A-model regime of the theory. These are interpreted as genus-0 K-theoretic Gromov-Witten invariants, and they produce the K-theoretic Littlewood-Richardson coefficients of the quantum K-theory ring of X. We show how this works explicitly in examples, going beyond the existing results in the literature. Taking the small β limit, we apply these techniques to the resulting 2d GLSM. We explicitly compute the quantum cohomology ring relations of X for some</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)103">Journal of High Energy Physics</source>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)103</guid>
-    </item><item>
-      <title>One sum to rule them all: a second order master rate sum rule for charm decays</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)104</link>
-      <description>We show that within the Standard Model any system of hadronic weak charm decays related by U-spin satisfies the following rate sum rule:</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)104">Journal of High Energy Physics</source>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)104</guid>
-    </item><item>
-      <title>Thermodynamics of the Heisenberg XXX chain with negative spin</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)101</link>
-      <description>We study the thermodynamics of the isotropic Heisenberg XXX spin chain with negative spin, focusing on the case s = –1. The model is equivalent to the quantum lattice nonlinear Schrödinger (NLS) model and appears as an effective theory in deep inelastic scattering in high-energy Quantum Chromodynamics. Owing to its integrability, it admits a consistent Bethe Ansatz description and a well-defined thermodynamic limit. Using the thermodynamic Bethe Ansatz, we analyze the ground state, elementary excitations, and finite-temperature properties.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)101">Journal of High Energy Physics</source>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)101</guid>
-    </item><item>
-      <title>Running of the Electroweak Gauge Couplings from First Principles</title>
-      <link>https://doi.org/10.1103/r2cx-tl7s</link>
-      <description>We present a high-precision calculation of the hadronic running of electroweak gauge couplings from first principles. Employing lattice QCD in the low-energy regime, we achieve permille precision for virtualities Q2≲12 GeV2. At Q2≃1 GeV2, our determination deviates by up to 7σ from estimates based on e+e− measurements. Combining lattice QCD with perturbative QCD via the Euclidean split technique, we obtain for the electromagnetic coupling Δαhad(5)(MZ2)=0.027821(34)lat(35)pQCD, which is more than twice as precise as recent phenomenological determinations. We assess improvement scenarios by which the precision target for next-generation electroweak measurements could be reached.</description>
-      <source url="https://doi.org/10.1103/r2cx-tl7s">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/r2cx-tl7s</guid>
-    </item><item>
-      <title>Exploring the dark axion portal in the LUXE-NPOD experiment</title>
-      <link>https://doi.org/10.1103/x7yf-fnjz</link>
-      <description>The optical dump at the LUXE experiment has the potential to create a large flux of O(GeV) photons that can be used to look for new physics when directed at a solid material dump. The LUXE-NPOD extension of LUXE, which focuses the hard photons onto a slab of tungsten, offers two interaction points (laser-electron and photon-tungsten), making it well suited to test theories containing two or more new particles. In this paper, we examine the dark axion portal, a scenario involving both dark photons (DPs) and axionlike particles (ALPs) and their mutual interactions, and its implications on the phenomenology at LUXE-NPOD. We focus on the case of strictly massive DPs. To simulate the spectra of particle populations generated at the electron-laser interaction point, we solve a set of extended 1D cascade equations. We recover a photon spectrum consistent with previous analyses and present previously unconsidered DP and ALP spectra. Further, we derive the overall sensitivity of LUXE-NPOD to va</description>
-      <source url="https://doi.org/10.1103/x7yf-fnjz">Physical Review D</source>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/x7yf-fnjz</guid>
-    </item><item>
-      <title>Precision lattice calculation of the hadronic contribution to the running of the electroweak gauge couplings</title>
-      <link>https://doi.org/10.1103/bk78-wtvd</link>
-      <description>We present an update of our lattice QCD determination of the hadronic contribution to the running of the electromagnetic coupling, Δαhad(5)(−Q2), and of the electroweak mixing angle in the spacelike momentum region up to Q2=12 GeV2. The calculation is based on coordinated lattice simulations ensembles with Nf=2+1 flavors of O(a)-improved Wilson fermions, covering five lattice spacings between 0.039 and 0.085 fm and a range of pion masses, including the physical point. A refined analysis employing a telescopic window strategy allows for a clean separation of systematic effects across Euclidean distance scales. Statistical precision is further enhanced through low-mode averaging, combined with a spectral reconstruction of the vector-vector correlator at long distances on the most chiral ensembles. We confirm significant tensions of up to 7σ at spacelike virtualities around Q2=1 GeV2 between our lattice results for Δαhad(5)(−Q2) and the corresponding data-driven estimates based on e+e− cr</description>
-      <source url="https://doi.org/10.1103/bk78-wtvd">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/bk78-wtvd</guid>
     </item>
   </channel>
 </rss>
