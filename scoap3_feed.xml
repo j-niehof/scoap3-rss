@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 10:16:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:17:29 +0000</lastBuildDate>
     <item>
       <title>Anisotropic drag force in finite-density QGP from charged rotating 5D black holes</title>
       <link>https://doi.org/10.1007/JHEP08(2026)177</link>
@@ -21,14 +21,6 @@
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)172</guid>
     </item><item>
-      <title>First Measurement of the Decay-Time-Integrated CP Asymmetry in Bs0→Ds−π+ Decays</title>
-      <link>https://doi.org/10.1103/ljtv-y278</link>
-      <description>A measurement of the flavor-untagged decay-time-integrated CP asymmetry in the flavor-specific decay Bs0→Ds−π+, ⟨Auntaggeds⟩, is performed using proton-proton collision data collected by the LHCb experiment between 2016 and 2018 at a center-of-mass energy of 13 TeV, corresponding to a total integrated luminosity of 5.4 fb−1. The CP asymmetry is measured in two Ds− meson decay modes, Ds−→K−K+π− and Ds−→π−π+π−. The combined result, ⟨Auntaggeds⟩=(−1.4±5.9(stat)±1.1(syst))×10−3, is consistent with the Standard Model expectation and provides a direct constraint on new physics in tree-level b-hadron decays.</description>
-      <source url="https://doi.org/10.1103/ljtv-y278">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ljtv-y278</guid>
-    </item><item>
       <title>One-point charge correlator in deep inelastic scattering</title>
       <link>https://doi.org/10.1103/3rv6-8dvl</link>
       <description>In this work, we propose a novel definition of the one-point charge correlator (QC) adapted to the Breit frame in deep-inelastic scattering (DIS). We demonstrate that this observable is infrared and collinear (IRC) safe, ensuring its perturbative calculability. Utilizing soft-collinear effective theory (SCET), we systematically analyze the QC in both the forward and back-to-back limits. In the forward limit, we introduce the nucleon charge correlator as a novel nonperturbative object that encodes the multidimensional microscopic structure of the nucleon. In the back-to-back limit, the QC establishes a direct correspondence with transverse momentum-dependent distributions (TMDs), enabling its description within the standard TMD factorization formalism. The singular distributions are derived within SCET and are verified by the full quantum chromodynamics calculations up to O(αs2). The corresponding collinear logarithms are resummed to all orders with the accuracy of NLL [O(αsnLn−1)], whi</description>
@@ -43,12 +35,19 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/8kcg-l79c</guid>
     </item><item>
-      <title>Quantum energy teleportation across a lattice and the continuum</title>
-      <link>https://doi.org/10.1103/6yq9-7szd</link>
-      <description>Quantum energy teleportation (QET) has been studied in continuum field theory and in lattice many-body systems, but the relation between the two within a single interacting model is still not well understood. To address this question, we consider the massive Thirring model, equivalently the sine-Gordon theory. In the continuum, the trigonometric measurement is a weak binary positive operator-valued measure (POVM), and its leading signal is set by a conserved-current correlator in the bosonized theory, with both gapless behavior and gapped large-distance asymptotics. On the lattice, the conventional protocol does not access this neutral current sector. For Alice’s local measurement, a lattice U(1) selection rule removes the neutral current contribution from Bob’s subsystem, and the separated signal lies in charged sectors. On the same lattice Hamiltonian we construct a neutral current protocol whose weak signal is exactly a coarse-grained current correlator and whose extracted energy sc</description>
-      <source url="https://doi.org/10.1103/6yq9-7szd">Physical Review D</source>
+      <title>Pressure-energy equations of state of the nucleon</title>
+      <link>https://doi.org/10.1103/1hsy-xvqx</link>
+      <description>The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parametrize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. The pressure and energy densities naturally separate into two distinct components. The static pressure distribution, arising from the Lorentz trace part of the EMT, as manifested in the spatial stress 13Tii, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as a consequence of the full or partial depletion of the gluon and quark condensates through the pressure-volume relation. The resulting trace anomaly–and sigma term–induced pressure is shown, through its volume scaling, to play a pivotal role in QCD confinement. In contrast, the dynamic pressure distribution, associated with the traceless part of the stress tensor, equals 1/d of the corresponding traceless part of the energy density, where d is the spatial dimension. These stat</description>
+      <source url="https://doi.org/10.1103/1hsy-xvqx">Physical Review D</source>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/6yq9-7szd</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/1hsy-xvqx</guid>
+    </item><item>
+      <title>Pressure-energy equations of state of the nucleon</title>
+      <link>https://doi.org/10.1103/1hsy-xvqx</link>
+      <description>The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parametrize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. The pressure and energy densities naturally separate into two distinct components. The static pressure distribution, arising from the Lorentz trace part of the EMT, as manifested in the spatial stress 13Tii, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as a consequence of the full or partial depletion of the gluon and quark condensates through the pressure-volume relation. The resulting trace anomaly–and sigma term–induced pressure is shown, through its volume scaling, to play a pivotal role in QCD confinement. In contrast, the dynamic pressure distribution, associated with the traceless part of the stress tensor, equals 1/d of the corresponding traceless part of the energy density, where d is the spatial dimension. These stat</description>
+      <source url="https://doi.org/10.1103/1hsy-xvqx">Physical Review D</source>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1hsy-xvqx</guid>
     </item><item>
       <title>Back-to-back dijet production in DIS at arbitrary Bjorken x: TMD gluon distributions to twist-3 accuracy</title>
       <link>https://doi.org/10.1103/nnhn-jvz7</link>
@@ -56,6 +55,13 @@
       <source url="https://doi.org/10.1103/nnhn-jvz7">Physical Review D</source>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/nnhn-jvz7</guid>
+    </item><item>
+      <title>Quantum energy teleportation across a lattice and the continuum</title>
+      <link>https://doi.org/10.1103/6yq9-7szd</link>
+      <description>Quantum energy teleportation (QET) has been studied in continuum field theory and in lattice many-body systems, but the relation between the two within a single interacting model is still not well understood. To address this question, we consider the massive Thirring model, equivalently the sine-Gordon theory. In the continuum, the trigonometric measurement is a weak binary positive operator-valued measure (POVM), and its leading signal is set by a conserved-current correlator in the bosonized theory, with both gapless behavior and gapped large-distance asymptotics. On the lattice, the conventional protocol does not access this neutral current sector. For Alice’s local measurement, a lattice U(1) selection rule removes the neutral current contribution from Bob’s subsystem, and the separated signal lies in charged sectors. On the same lattice Hamiltonian we construct a neutral current protocol whose weak signal is exactly a coarse-grained current correlator and whose extracted energy sc</description>
+      <source url="https://doi.org/10.1103/6yq9-7szd">Physical Review D</source>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/6yq9-7szd</guid>
     </item><item>
       <title>First Measurement of the Decay-Time-Integrated CP Asymmetry in Bs0→Ds−π+ Decays</title>
       <link>https://doi.org/10.1103/ljtv-y278</link>
@@ -144,14 +150,6 @@
       <source url="https://doi.org/10.1103/yb6p-8q8s">Physical Review D</source>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/yb6p-8q8s</guid>
-    </item><item>
-      <title>Production of muonic kaon atoms at high-energy colliders * This work was supported in part by the National Natural Science Foundation of China (12361141827, 12422510), and by the Office of Nuclear Physics within the U.S. Department of Energy Office of Science (DE-FG02-89ER40531). The National Key Research and Development Program of China (2022YFA1604900). W. Zha acknowledges support from the Anhui Provincial Natural Science Foundation (2508085JX002), the Youth Innovation Promotion Association of the Chinese Academy of Sciences, and the Chinese Academy of Sciences (YSBR088)</title>
-      <link>https://doi.org/10.1088/1674-1137/ae662f</link>
-      <description>In this study, we develop a framework for producing exotic muonic kaon atoms ( Kμ ) in semileptonic D^0 decays using an effective weak Hamiltonian, a helicity-based treatment of leptonic current, and a nonrelativistic bound-state projection. The resulting branching ratio BR(D^0 →(Kμ )νμ)=2.29×10^-10 is implemented in a ROOT-based code to estimate yields at a relativistic heavy-ion collider (RHIC), large hadron collider (LHC), and super tau-charm facility (STCF). We demonstrate quantitatively that Kμ atoms, which are also produced through coalescence in the quark–gluon plasma (QGP), offer a sensitive probe of low-momentum primordial muons and early-time electromagnetic radiation, acting as complementary constraints in an otherwise unexplored phase space for thermal dilepton and photon emission. Newly estimated dissociation cross-sections in detector material indicate that secondary-vertex reconstruction should be experimentally feasible, enabling the clean experimental identification of</description>
-      <source url="https://doi.org/10.1088/1674-1137/ae662f">Chinese Physics C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1088/1674-1137/ae662f</guid>
     </item>
   </channel>
 </rss>
