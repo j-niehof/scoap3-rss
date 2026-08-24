@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 10:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:31:58 +0000</lastBuildDate>
     <item>
       <title>Anisotropic drag force in finite-density QGP from charged rotating 5D black holes</title>
       <link>https://doi.org/10.1007/JHEP08(2026)177</link>
@@ -21,12 +21,20 @@
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)172</guid>
     </item><item>
-      <title>One-point charge correlator in deep inelastic scattering</title>
-      <link>https://doi.org/10.1103/3rv6-8dvl</link>
-      <description>In this work, we propose a novel definition of the one-point charge correlator (QC) adapted to the Breit frame in deep-inelastic scattering (DIS). We demonstrate that this observable is infrared and collinear (IRC) safe, ensuring its perturbative calculability. Utilizing soft-collinear effective theory (SCET), we systematically analyze the QC in both the forward and back-to-back limits. In the forward limit, we introduce the nucleon charge correlator as a novel nonperturbative object that encodes the multidimensional microscopic structure of the nucleon. In the back-to-back limit, the QC establishes a direct correspondence with transverse momentum-dependent distributions (TMDs), enabling its description within the standard TMD factorization formalism. The singular distributions are derived within SCET and are verified by the full quantum chromodynamics calculations up to O(αs2). The corresponding collinear logarithms are resummed to all orders with the accuracy of NLL [O(αsnLn−1)], whi</description>
-      <source url="https://doi.org/10.1103/3rv6-8dvl">Physical Review D</source>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3rv6-8dvl</guid>
+      <title>Studying the infrared behaviour of improved logarithmic accuracy parton showers with Herwig</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)146</link>
+      <description>We have implemented two recently proposed dipole shower algorithms that have next-to-leading-logarithmic accuracy at leading colour in the Herwig event generator. We study their properties and compare them to Herwig’s existing dipole and angular ordered parton shower algorithms. In addition to their improved properties in the logarithmic regime, we find important roles for their extrapolations into the hard regime, where we perform NLO matching, and into the infrared regime, where we perform cluster hadronization. We emphasise the importance of this infrared regime and the precise definition of the infrared cutoff used by each shower as the initial state for Herwig’s hadronization model. Studying the results at the hadron level, we find important consequences of this infrared cutoff difference and propose it as a starting point for further study of the interplay between parton showers and hadronization models. We conclude by studying the models’ tunability and identifying the best-fit </description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)146">Journal of High Energy Physics</source>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)146</guid>
+    </item><item>
+      <title>Measurement of the local and nonlocal amplitudes in B + → K + μ + μ − decays</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)155</link>
+      <description>This paper presents a thorough study of the local and nonlocal amplitudes in B → K μ μ transitions through an amplitude analysis of the dimuon mass spectrum of the decay. The analysis is based on pp collision data corresponding to an integrated luminosity of 8.4 fb collected by the LHCb experiment during Run1 and Run2. This measurement employs a model that describes both one-particle and two-particle nonlocal amplitudes across the entirety of the dimuon mass spectrum, enabling the determination of both short-and long-distance contributions to the decay. The compatibility of the Wilson coefficient combinations C_9+C_9^prime and C₁0+C₁0^prime with the Standard Model prediction is found to vary between 1.6 σ and 4 σ, depending on the choice of local form factors.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)155">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)155</guid>
     </item><item>
       <title>Three-flavor supernova neutrino simulation using a hybrid quantum-classical algorithm with qutrits</title>
       <link>https://doi.org/10.1103/8kcg-l79c</link>
@@ -41,6 +49,13 @@
       <source url="https://doi.org/10.1103/1hsy-xvqx">Physical Review D</source>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/1hsy-xvqx</guid>
+    </item><item>
+      <title>Quantum energy teleportation across a lattice and the continuum</title>
+      <link>https://doi.org/10.1103/6yq9-7szd</link>
+      <description>Quantum energy teleportation (QET) has been studied in continuum field theory and in lattice many-body systems, but the relation between the two within a single interacting model is still not well understood. To address this question, we consider the massive Thirring model, equivalently the sine-Gordon theory. In the continuum, the trigonometric measurement is a weak binary positive operator-valued measure (POVM), and its leading signal is set by a conserved-current correlator in the bosonized theory, with both gapless behavior and gapped large-distance asymptotics. On the lattice, the conventional protocol does not access this neutral current sector. For Alice’s local measurement, a lattice U(1) selection rule removes the neutral current contribution from Bob’s subsystem, and the separated signal lies in charged sectors. On the same lattice Hamiltonian we construct a neutral current protocol whose weak signal is exactly a coarse-grained current correlator and whose extracted energy sc</description>
+      <source url="https://doi.org/10.1103/6yq9-7szd">Physical Review D</source>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/6yq9-7szd</guid>
     </item><item>
       <title>Pressure-energy equations of state of the nucleon</title>
       <link>https://doi.org/10.1103/1hsy-xvqx</link>
@@ -62,14 +77,6 @@
       <source url="https://doi.org/10.1103/6yq9-7szd">Physical Review D</source>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/6yq9-7szd</guid>
-    </item><item>
-      <title>First Measurement of the Decay-Time-Integrated CP Asymmetry in Bs0→Ds−π+ Decays</title>
-      <link>https://doi.org/10.1103/ljtv-y278</link>
-      <description>A measurement of the flavor-untagged decay-time-integrated CP asymmetry in the flavor-specific decay Bs0→Ds−π+, ⟨Auntaggeds⟩, is performed using proton-proton collision data collected by the LHCb experiment between 2016 and 2018 at a center-of-mass energy of 13 TeV, corresponding to a total integrated luminosity of 5.4 fb−1. The CP asymmetry is measured in two Ds− meson decay modes, Ds−→K−K+π− and Ds−→π−π+π−. The combined result, ⟨Auntaggeds⟩=(−1.4±5.9(stat)±1.1(syst))×10−3, is consistent with the Standard Model expectation and provides a direct constraint on new physics in tree-level b-hadron decays.</description>
-      <source url="https://doi.org/10.1103/ljtv-y278">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ljtv-y278</guid>
     </item><item>
       <title>The Chern-Simons natural boundary and black hole entropy</title>
       <link>https://doi.org/10.1007/JHEP08(2026)163</link>
@@ -107,13 +114,19 @@
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)149</guid>
     </item><item>
-      <title>Measurement of the muon flux at SND@LHC</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16035-x</link>
-      <description>The SND@LHC experiment investigates neutrinos in the 7.2&lt; eta &lt; 8.4 forward pseudorapidity range. The detector consists of a veto system, a scintillating fiber tracker interleaved with emulsion cloud chambers, and a downstream muon system. Muons originating from collisions at ATLAS (IP1) constitute the primary background for CC neutrino interactions and determine the replacement frequency of the emulsion target. A precise characterization of this flux is therefore essential. In this work, we report the muon flux measured in the central 31 × 31 textrmcm^2 fiducial area of the detector using data from 2023 through 2025. The measured fluxes for are: (1.90±0.04) × 10^-2 text nb/cm^2 (2023), (3.76 ± 0.09) × text 10^-2 text nb/cm^2 (2024), and (2.48 ± 0.05) × 10^-2 text nb/cm^2 (2025). A 2024 reference proton run at sqrts = 5.36text TeV yielded (4.21 ± 0.14) × text 10^-2 text nb/cm^2 , providing a direct baseline for the heavy-ion energy regime. The measured fluxes for are (3.11±0.12) × text</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16035-x">European Physical Journal C</source>
-      <author>et al.</author>
+      <title>The spurion massive EFT</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)149</link>
+      <description>We use the amplitude formulation of the SMEFT to introduce a spurion analysis of the SMEFT low-energy amplitudes in terms of the Higgs VEV. Each SMEFT contact-term is given as a sum of a few spurion structures, whose number depends on the electroweak charges of the external legs. The coefficients of these structures involve singlet combinations of Higgses from higher-order SMEFT contributions. We use this to derive the spurion expansions of the W-and Z-boson masses and mixing, and their three-point couplings to fermions. The textures of these couplings are saturated by the dimension-eight SMEFT. Our analysis can be generalized to higher-point amplitudes and nonzero Yukawa couplings.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)149">Journal of High Energy Physics</source>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16035-x</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)149</guid>
+    </item><item>
+      <title>Perturbative analysis of CPT-odd Lorentz-violating scalar QCD</title>
+      <link>https://doi.org/10.1103/yb6p-8q8s</link>
+      <description>We perform a complete one-loop renormalization analysis of CPT-odd Lorentz-violating scalar quantum chromodynamics with adjoint scalar matter. Working to first order in the preferred background vector and treating the corresponding operators as perturbative insertions, we compute the ultraviolet-divergent parts of the relevant two-, three-, and four-point Green’s functions for the gauge, scalar, and ghost fields. We show that the gauge sector develops the expected Carroll-Field-Jackiw-type correction, which generically turns out to be divergent in our theory, although the divergence vanishes in a certain gauge, while the scalar sector displays the corresponding CPT-odd single-derivative term proportional to the background vector. We further demonstrate that several of the Lorentz-violating corrections the three-and four-point function are ultraviolet finite. All one-loop divergences may be absorbed into counterterms already allowed by the classical Lagrangian, providing an explicit pro</description>
+      <source url="https://doi.org/10.1103/yb6p-8q8s">Physical Review D</source>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yb6p-8q8s</guid>
     </item><item>
       <title>Daily modulation constraints on light dark matter with DAMIC-M</title>
       <link>https://doi.org/10.1103/c9fm-ymf2</link>
@@ -130,26 +143,12 @@
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)147</guid>
     </item><item>
-      <title>Toward First Detection of the Solar Mikheyev-Smirnov-Wolfenstein Transition with JUNO</title>
-      <link>https://doi.org/10.1103/qhr8-qhhp</link>
-      <description>Matter-induced neutrino flavor mixing (the Mikheyev-Smirnov-Wolfenstein, or MSW, effect) is a central prediction of the neutrino mixing framework, but it has not been conclusively observed. Direct observation of the energy-dependent MSW transition in the solar electron-neutrino survival probability would solve this, but backgrounds have been prohibitive. We show that our new technique for suppressing muon-induced spallation backgrounds will allow JUNO to measure the MSW transition at &gt;4σ significance in 10 years. This would strongly support upcoming multibillion-dollar next-generation experiments and their goals in cementing the neutrino mixing framework.</description>
-      <source url="https://doi.org/10.1103/qhr8-qhhp">Physical Review Letters</source>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qhr8-qhhp</guid>
-    </item><item>
       <title>New spallation background rejection techniques to greatly improve the solar neutrino sensitivity of JUNO</title>
       <link>https://doi.org/10.1103/zpyz-7vsq</link>
       <description>While the potential of the Jiangmen Underground Neutrino Observatory (JUNO) to measure solar neutrinos is known, realizing this potential requires new techniques to reduce detector backgrounds. One of the most serious backgrounds is due to the beta decays of unstable nuclei produced through muon breakup (spallation) of nuclei. This background is much more significant in JUNO compared to Super-Kamiokande due to JUNO’s shallower depth and its lack of directional information. We present the first detailed theoretical calculations of spallation backgrounds in JUNO, showing the underlying physical processes and new ways to cut backgrounds while preserving signals. A key point is showing the importance of neutron tagging to identify hadronic showers, which are rare but produce almost all of the dangerous isotopes. With our new techniques, JUNO will be able to reduce dead time (signal loss) by a factor of about 4.5 and to reduce the running time needed to meet sensitivity goals by a factor of</description>
       <source url="https://doi.org/10.1103/zpyz-7vsq">Physical Review D</source>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/zpyz-7vsq</guid>
-    </item><item>
-      <title>Perturbative analysis of CPT-odd Lorentz-violating scalar QCD</title>
-      <link>https://doi.org/10.1103/yb6p-8q8s</link>
-      <description>We perform a complete one-loop renormalization analysis of CPT-odd Lorentz-violating scalar quantum chromodynamics with adjoint scalar matter. Working to first order in the preferred background vector and treating the corresponding operators as perturbative insertions, we compute the ultraviolet-divergent parts of the relevant two-, three-, and four-point Green’s functions for the gauge, scalar, and ghost fields. We show that the gauge sector develops the expected Carroll-Field-Jackiw-type correction, which generically turns out to be divergent in our theory, although the divergence vanishes in a certain gauge, while the scalar sector displays the corresponding CPT-odd single-derivative term proportional to the background vector. We further demonstrate that several of the Lorentz-violating corrections the three-and four-point function are ultraviolet finite. All one-loop divergences may be absorbed into counterterms already allowed by the classical Lagrangian, providing an explicit pro</description>
-      <source url="https://doi.org/10.1103/yb6p-8q8s">Physical Review D</source>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yb6p-8q8s</guid>
     </item>
   </channel>
 </rss>
