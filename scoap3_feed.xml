@@ -5,8 +5,85 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:29:30 +0000</lastBuildDate>
     <item>
+      <title>Non-factorisable electroweak virtual corrections to single-resonant processes</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)196</link>
+      <description>We consider electroweak (EW) virtual corrections to 2 → 2 fermion scattering processes mediated by a vector boson V(V = W , Z) in the pole approximation. As is well known, the computation can be organised into factorisable and non-factorisable contributions. The factorisable corrections can be computed by evaluating the (polarised) EW form factor of the vector boson at the relevant perturbative order. The non-factorisable corrections are instead driven by soft-photon exchanges between the initial-and final-state fermions and/or the resonance. We perform an explicit two-loop computation to show that, once the heavy degrees of freedom are properly decoupled, such non-factorisable corrections can be expressed as an iteration of the one-loop result, plus a new contribution due to (light) fermion loops. The final two-loop result, which can be expected on general grounds from soft-photon factorisation, is shown to hold exactly in dimensional regularisation and is peculiar to the exchange of </description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)196">Journal of High Energy Physics</source>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)196</guid>
+    </item><item>
+      <title>On cosmological singularities in string theory</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)195</link>
+      <description>We study the time evolution of a 3 + 1 dimensional spacetime, where space is a large three-sphere, due to small perturbations of the background fields. We focus on two classes of deformations. One corresponds on the worldsheet to time-dependent non-abelian Thirring deformations. The other to perturbations of the radius of the three-sphere. In the former case, we find that small deformations generically lead to big-bang and big-crunch singularities, near which the spacetime becomes highly anisotropic. We argue that string theory likely resolves these singularities. In the latter case, general solutions have the property that the radius of the three-sphere goes to infinity at a finite time, but there are no solutions in which it collapses to zero. We also discuss the interplay of these spacetime properties with the corresponding worldsheet RG flows.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)195">Journal of High Energy Physics</source>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)195</guid>
+    </item><item>
+      <title>Searches for nonstandard neutrino oscillations at neutrino telescopes with a TeV muon accelerator source</title>
+      <link>https://doi.org/10.1103/rmh8-yqz7</link>
+      <description>Muon accelerators, a potential technology for enabling O(10 TeV) parton center of mass energy collisions, would also source an intense, collimated beam of neutrinos at TeV energies. The energy and size of this beam would be excellently matched as a source for existing and planned neutrino telescopes: gigaton-sized detectors of astrophysical neutrinos at and above TeV energies. In this paper, we introduce the technical considerations and scientific reach of pairing a muon accelerator source of neutrinos with a neutrino telescope detector, a combination we dub the “Neutrino Kaleidoscope.” In particular, such a pairing would enable searches for non-standard oscillations of the beam neutrinos as they traverse the earth between source and detector. These nonstandard neutrino oscillations could be sourced by Lorentz invariance violation, which a neutrino kaleidoscope could probe up to the Planck scale. Such a search would also have a reach on sterile neutrinos orders of magnitude beyond exis</description>
+      <source url="https://doi.org/10.1103/rmh8-yqz7">Physical Review D</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rmh8-yqz7</guid>
+    </item><item>
+      <title>Electronic direct detection of light dark matter with intermediate-mass mediators</title>
+      <link>https://doi.org/10.1103/v2r4-53pm</link>
+      <description>Recent years have seen dramatic improvements in the sensitivity of electron-based direct detection experiments. Typically, the sensitivity to dark matter scattering is determined in the light and heavy mediator mass limits. In this paper we show that the light and heavy mediator mass limits are not separated by a single scale, but instead can be separated by up to 3 orders of magnitude in mediator mass for sub-GeV mass dark matter. We calculate the background-free sensitivity in Si and Ge targets, and a projected DAMIC-M sensitivity, to sub-GeV mass dark matter models with “intermediate-mass” mediators between the light and heavy mediator limits. This allows us to determine the precise range of mediator masses that electron-based direct detection experiments are sensitive to when the dark matter relic abundance is generated via freeze-in. We make the calculations presented here publicly available in an updated release of EXCEED-DM.</description>
+      <source url="https://doi.org/10.1103/v2r4-53pm">Physical Review D</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/v2r4-53pm</guid>
+    </item><item>
+      <title>CMB birefringence from vacuum interfaces</title>
+      <link>https://doi.org/10.1103/cyz7-kplp</link>
+      <description>Hints of cosmic microwave background polarization rotation (Δϑ∼10−3 rad) are commonly attributed to late-time dynamics of ultralight axions. We show that such ultralight degrees of freedom are not required. Polarization rotation naturally arises as a geometric interface phase acquired when photons cross interfaces between topologically distinct dark sector vacua. The effect is a discrete phase shift fixed by the normalization of a wall-supported electromagnetic Chern-Simons interaction and protected by an emergent 1-form symmetry of the low energy effective theory. This mechanism reproduces the familiar adiabatic rotation induced by light axion domain walls, but persists for arbitrarily thin walls where the axion is heavy or absent. In this regime the rotation manifests as a Pancharatnam phase localized at vacuum interfaces, independent of redshift and photon frequency below a natural ultraviolet cutoff. Cosmic birefringence thus emerges as a probe of vacuum structure in the dark secto</description>
+      <source url="https://doi.org/10.1103/cyz7-kplp">Physical Review D</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/cyz7-kplp</guid>
+    </item><item>
+      <title>Thermal spectral function asymptotics and black hole singularity in holography</title>
+      <link>https://doi.org/10.1103/tzm2-jjvg</link>
+      <description>We investigate the analytic structure of thermal spectral function of holographic conformal field theories (CFTs), synthesizing recent developments into a set of observations about its asymptotics. Specifically, for a class of scalar primaries with integral dimension, we demonstrate factorization of the exact spectral function into a polynomial piece, which captures the vacuum dynamics, and a nonperturbative piece, which controls its asymptotics. Using exact WKB techniques, we derive a transseries expression for the latter. We use this information to deduce the singular loci of a spatially averaged thermofield double correlator in the complex time plane. Such singularities have been argued to encode information regarding the black hole singularity in the dual spacetime. Our results give a refinement of these statements by capturing the momentum dependence.</description>
+      <source url="https://doi.org/10.1103/tzm2-jjvg">Physical Review D</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tzm2-jjvg</guid>
+    </item><item>
+      <title>Carrollian Holographic Duals Are Nonlocal</title>
+      <link>https://doi.org/10.1103/f26s-4p77</link>
+      <description>Mapping the S matrix of a generic theory of flat-space gravity coupled to matter to correlation functions of a putative Carrollian dual, we show that bulk interactions imply boundary nonlocality.</description>
+      <source url="https://doi.org/10.1103/f26s-4p77">Physical Review Letters</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/f26s-4p77</guid>
+    </item><item>
+      <title>Tightening energy-based boson truncation bound using Monte Carlo-assisted methods</title>
+      <link>https://doi.org/10.1103/9yly-8dy7</link>
+      <description>Quantum simulation offers a promising framework for quantum field theory calculations. Obtaining reliable results, however, requires careful characterization of systematic uncertainties. One important source is the boson truncation error, which arises from representing infinite-dimensional local Hilbert spaces with finite-dimensional ones. Previous studies have examined this problem from several perspectives. In particular, Jordan et al. [Science 336, 1130 (2012)] derived an energy-based bound applicable to generic low-energy states across a broad class of field theories. However, this approach often yields overly conservative bounds, especially at large volumes. In this work, we introduce a new methodology that significantly tightens the energy-based boson truncation bound through two complementary advances: an improved analytic derivation and a Monte Carlo-based numerical procedure. We demonstrate the method in (1+1)-dimensional scalar field theory and (2+1)-dimensional U(1) gauge th</description>
+      <source url="https://doi.org/10.1103/9yly-8dy7">Physical Review D</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9yly-8dy7</guid>
+    </item><item>
+      <title>Light neutrinophilic WIMP in the U(1)B−L+xY model</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)189</link>
+      <description>Sub-GeV dark matter is an appealing thermal target because it can still be produced via the standard freeze-out mechanism; at such low masses, achieving freeze-out naturally points to the presence of a light mediator, which shifts the most promising discovery avenues from the energy frontier to the intensity frontier. Realizing this picture is nonetheless challenging, since CMB observations tightly constrain energy injection from dark-matter annihilation at recombination and therefore strongly disfavor simple s-wave annihilation into visible Standard-Model final states. In this work, we propose a concrete neutrinophilic framework for sub-GeV thermal dark matter (“light WIMPs”) based on an additional gauge symmetry U(1) ; for an appropriate choice of x, the new gauge boson couples predominantly to dark matter and neutrinos while its couplings to charged leptons are suppressed, so that sub-GeV dark matter annihilates almost exclusively into neutrinos, with hadronic modes kinematically cl</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)189">Journal of High Energy Physics</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)189</guid>
+    </item><item>
+      <title>The fate of nucleated black holes in de Sitter quantum gravity</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)191</link>
+      <description>The Euclidean Nariai geometry has long been proposed as the instanton describing the nucleation of maximal-mass black holes in de Sitter space. We place this interpretation on firmer footing by showing that, once an observer is included, the gravitational path integral produces the imaginary phase required for a transition rate. As a warmup, we revisit the Hawking-Moss instanton and, as a byproduct, find that scalar fields can enhance black-hole nucleation, suggesting a quantum-gravity bound on scalar potentials with de Sitter solutions. We then study the subsequent semiclassical evolution of the nucleated black hole. We show that the previously claimed “anti-evaporation” channel is unphysical, arising from a quantum state with singular horizons. In a smooth state, the black hole instead undergoes standard thermal Hawking evaporation. We verify explicit agreement with the no-boundary state and argue that this evaporation is not subject to large quantum-gravity corrections. The nucleate</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)191">Journal of High Energy Physics</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)191</guid>
+    </item><item>
+      <title>On gauging finite symmetries by higher gauging condensation defects</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)179</link>
+      <description>Based on the work by Córdova-Costa-Hsin [1], we propose an EFT-style, Lagrangian procedure to gauge finite 0-form symmetries in untwisted Dijkgraaf-Witten gauge theories on closed oriented manifolds using higher gauging condensation defects and point out its limitations. Using this proposal, we construct effective actions of untwisted Dijkgraaf-Witten theories with Heisenberg gauge group over ℤ and show that the braiding data from Hopf link and the fusion rules match with the expected discrete gauge theories. We also study the symTFT implications of these effective Lagrangians and clarify their relations with higher group global symmetries.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)179">Journal of High Energy Physics</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)179</guid>
+    </item><item>
       <title>Echoes of global cosmic strings</title>
       <link>https://doi.org/10.1103/2c5c-vz3h</link>
       <description>If the Universe underwent a cosmic phase transition, it may have left behind a network of cosmic strings. When these strings arise from the breaking of a gauge symmetry, their decay produces a significant stochastic background of gravitational waves. In contrast, if they originate from the breaking of a global symmetry, their decay predominantly yields Nambu-Goldstone bosons, which can persist as dark matter or dark radiation. In this work, we assess the detectability of this particle spectrum using a range of cosmological probes. We employ seminumerical methods to estimate the resulting energy density and compute the associated matter power spectrum. We then compare these predictions with observations of the cosmic microwave background, Lyman-α forest, large-scale structure surveys, and the UV luminosity function, thereby deriving constraints on the Nambu-Goldstone boson mass and the symmetry-breaking scale. Finally, we present projections for the sensitivity of upcoming cosmic microw</description>
@@ -28,26 +105,27 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16253-3</guid>
     </item><item>
+      <title>Braneworlds in constant and accelerated motion and their causal characteristics</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)192</link>
+      <description>We generalize previous work on the signatures of bulk signals detected by brane-based observers in a spacetime with a compactified dimension. When such braneworlds move with constant velocities or constant proper accelerations in the extra dimension, the observers may witness apparent superluminal signaling. Our analysis includes tilted branes that are partially wrapped along the compact dimension. We identify parameters that help characterize various scenarios, and verify that anisotropies arising in the propagation of signals through the bulk ensure that causality is not violated, despite the apparent superluminal signaling effects. Some of the effects studied here could be the basis for alternative cosmological models, as well as observable signatures of braneworld scenarios.</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)192">Journal of High Energy Physics</source>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)192</guid>
+    </item><item>
+      <title>Constraints on nonstandard neutrino interactions from the Borexino extended data set</title>
+      <link>https://doi.org/10.1103/2h89-y8wh</link>
+      <description>Neutrino nonstandard interactions (NSI) constitute an active research field, as they are closely related to potential new physics associated with dark matter searches and exotic interactions arising from fundamental symmetry violations. The Borexino’s unprecedented sensitivity to solar neutrinos, derived from its low background and precision spectral measurements, enables stringent constraints on potential deviations from the standard three-flavor neutrino oscillation paradigm. This work presents an update on the analysis of flavor-diagonal NSI using the full Borexino Phase-III dataset, extending the study previously reported in Constraints on flavor-diagonal nonstandard neutrino interactions from Borexino Phase-II (JHEP 2020, 38). The updated analysis incorporates the extended temporal and statistical coverage of Phase-III. The results indicate improved sensitivity to the diagonal NSI parameters, with constraints exceeding those obtained in Phase-II. Furthermore, a more general analys</description>
+      <source url="https://doi.org/10.1103/2h89-y8wh">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2h89-y8wh</guid>
+    </item><item>
       <title>Precision jet substructure of boosted boson decays with energy correlators</title>
       <link>https://doi.org/10.1103/9n2p-x996</link>
       <description>We initiate the precision study of boosted jet substructure using energy correlators, applying this framework to hadronic Higgs decays. We demonstrate that the two-body decay of the Higgs manifests as a distinct angular peak at θ∼arccos(1−2/γ2) for Lorentz boost factor γ. We show that infrared scales, such as the dead-cone effect and confinement transition, are also resolved within the boosted distribution. Precision analytic studies of boosted jet substructure may enable precision electroweak studies and open new avenues for searches for new physics searches.</description>
       <source url="https://doi.org/10.1103/9n2p-x996">Physical Review D</source>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/9n2p-x996</guid>
-    </item><item>
-      <title>Lattice chiral symmetry from bosons in 3+1D</title>
-      <link>https://doi.org/10.1103/pxvz-r2gf</link>
-      <description>We present a solvable Hamiltonian that realizes an exact lattice chiral U(1)V×U(1)A symmetry. Nielsen-Ninomiya-type no-go theorems are evaded by using lattice bosons rather than fermions. The continuum limit is a compact boson field theory with an axionlike coupling. The U(1)V symmetry shifts the scalar, while U(1)A acts on local operators associated with short axion strings and is transmuted into a higher-form symmetry in the continuum limit. We demonstrate the chiral anomaly by showing that the lattice theta angle is shifted by an axial rotation when U(1)V is gauged. Gauging either U(1)V or U(1)A leads to lattice noninvertible and 2-group symmetries, respectively, matching the continuum picture.</description>
-      <source url="https://doi.org/10.1103/pxvz-r2gf">Physical Review D</source>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pxvz-r2gf</guid>
-    </item><item>
-      <title>Echoes of global cosmic strings</title>
-      <link>https://doi.org/10.1103/2c5c-vz3h</link>
-      <description>If the Universe underwent a cosmic phase transition, it may have left behind a network of cosmic strings. When these strings arise from the breaking of a gauge symmetry, their decay produces a significant stochastic background of gravitational waves. In contrast, if they originate from the breaking of a global symmetry, their decay predominantly yields Nambu-Goldstone bosons, which can persist as dark matter or dark radiation. In this work, we assess the detectability of this particle spectrum using a range of cosmological probes. We employ seminumerical methods to estimate the resulting energy density and compute the associated matter power spectrum. We then compare these predictions with observations of the cosmic microwave background, Lyman-α forest, large-scale structure surveys, and the UV luminosity function, thereby deriving constraints on the Nambu-Goldstone boson mass and the symmetry-breaking scale. Finally, we present projections for the sensitivity of upcoming cosmic microw</description>
-      <source url="https://doi.org/10.1103/2c5c-vz3h">Physical Review D</source>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2c5c-vz3h</guid>
     </item><item>
       <title>Lattice chiral symmetry from bosons in 3+1D</title>
       <link>https://doi.org/10.1103/pxvz-r2gf</link>
@@ -71,85 +149,6 @@
       <author>et al.</author>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/n4gd-k232</guid>
-    </item><item>
-      <title>Analytic structure of the QCD phase diagram in the complex-temperature plane</title>
-      <link>https://doi.org/10.1103/vkhk-9dx8</link>
-      <description>We study the analytic structure of the QCD phase diagram by treating temperature as a complex variable. The nearest Yang-Lee edge singularities in the complex-T plane bound the domain of analyticity of temperature-dependent thermodynamic observables and complement the more commonly studied singularities in the complex chemical-potential plane. Our analysis combines three complementary perspectives: universal critical scaling, a first-principles extraction from lattice-QCD data, and explicit illustrations in effective models. We illustrate the resulting structure in a random-matrix model and in a quark-meson model, where the singularity trajectories can be followed explicitly. At small real chemical potential, the leading complex-temperature singularity admits an analytic expansion in μ2, while near a critical point it crosses over to the universal Puiseux form dictated by Ising critical scaling. We show that the complex-T and complex-μ trajectories are controlled by the same scaling va</description>
-      <source url="https://doi.org/10.1103/vkhk-9dx8">Physical Review D</source>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vkhk-9dx8</guid>
-    </item><item>
-      <title>Holographic charged transport with higher derivatives</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)165</link>
-      <description>We compute the first-order hydrodynamic transport coefficients (shear viscosity η, bulk viscosity ζ, and charge conductivity σ) for a broad class of strongly coupled, four-dimensional charged relativistic gauge theory plasma with holographic gravitational duals containing higher-derivative corrections. The landscape of our holographic models captures non-conformal gauge theories with an arbitrary number of relevant coupling constants and a general scalar potential in the gravitational dual (albeit without higher-derivative scalar gradient couplings), allowing for a systematic exploration of charged transport along generic holographic RG flows. The leading-order higher-derivative corrections probe gauge theories with unequal central charges c ≠ a at the ultraviolet fixed point, and enable the engineering of diverse temperature and charge density profiles for the viscosities and the conductivity. Our results establish the membrane paradigm in higher-derivative holographic models: the tra</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)165">Journal of High Energy Physics</source>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)165</guid>
-    </item><item>
-      <title>Anisotropic drag force in finite-density QGP from charged rotating 5D black holes</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)177</link>
-      <description>We study the drag force acting on a heavy quark in a holographic plasma with rotational anisotropy and finite density. The bulk dual is the CCLP black hole of five-dimensional minimal gauged supergravity, characterised by two independent rotation parameters and electric charge. In the neutral Kerr-AdS limit, we use the principal Killing string to obtain an exact drag force for arbitrary rotation parameters. The resulting force is purely tangential but generically anisotropic, reducing to the viscous form only in the equal-spin sector. We then analyse stationary strings in the charged CCLP background perturbatively in the slow-rotation regime. A regularity analysis of the Lorentzian worldsheet fixes the angular integration constants that would otherwise remain ambiguous, yielding a finite renormalised transverse drag force with a smooth Kerr-AdS limit. We also show that, in the equal-spin sector, worldsheet regularity selects a unique co-rotating equilibrium quark and compute its renorm</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)177">Journal of High Energy Physics</source>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)177</guid>
-    </item><item>
-      <title>A new effective field theory for heavy quarks in the quark-gluon plasma</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)172</link>
-      <description>An effective field theory framework is developed to study the interaction of heavy quarks in strongly coupled quark-gluon plasma (QGP). The latter is treated as a relativistic non-dissipative colorless fluid which can be studied using a derivatively coupled effective field theory based on previous work. Coupling this to heavy quarks provides a systematic way to obtain the interaction between the heavy quark and phonons, excitations of the fluid. In particular we calculate the quasiparticle width of heavy quark to phonon and phonon-heavy quark scattering in a thermal medium.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)172">Journal of High Energy Physics</source>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)172</guid>
-    </item><item>
-      <title>First Measurement of the Decay-Time-Integrated CP Asymmetry in Bs0→Ds−π+ Decays</title>
-      <link>https://doi.org/10.1103/ljtv-y278</link>
-      <description>A measurement of the flavor-untagged decay-time-integrated CP asymmetry in the flavor-specific decay Bs0→Ds−π+, ⟨Auntaggeds⟩, is performed using proton-proton collision data collected by the LHCb experiment between 2016 and 2018 at a center-of-mass energy of 13 TeV, corresponding to a total integrated luminosity of 5.4 fb−1. The CP asymmetry is measured in two Ds− meson decay modes, Ds−→K−K+π− and Ds−→π−π+π−. The combined result, ⟨Auntaggeds⟩=(−1.4±5.9(stat)±1.1(syst))×10−3, is consistent with the Standard Model expectation and provides a direct constraint on new physics in tree-level b-hadron decays.</description>
-      <source url="https://doi.org/10.1103/ljtv-y278">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ljtv-y278</guid>
-    </item><item>
-      <title>Three-flavor supernova neutrino simulation using a hybrid quantum-classical algorithm with qutrits</title>
-      <link>https://doi.org/10.1103/8kcg-l79c</link>
-      <description>We simulate a self-interacting three-flavor neutrino system within a core-collapse supernova using a hybrid classical-quantum algorithm on a qutrit computer. Based on the Dirac-Frenkel evolution equations, we employ a variation of the quantum-assisted simulator to calculate the system’s time evolution operator by performing qutrit Hadamard tests to find expectation values of unitary operators in the Hamiltonian. The time evolution simulation is then done classically. We find that the hybrid algorithm produces results comparable to an exact numerical integration out to times of t≈30ω0−1 with time step δt=0.005ω0−1, where ω0 is the energy scale of the single neutrino vacuum oscillations. We discuss the lessons learned in simulating neutrino systems using this hybrid quantum-classical algorithm, along with the advantages it offers over quantum Trotterization.</description>
-      <source url="https://doi.org/10.1103/8kcg-l79c">Physical Review D</source>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8kcg-l79c</guid>
-    </item><item>
-      <title>Pressure-energy equations of state of the nucleon</title>
-      <link>https://doi.org/10.1103/1hsy-xvqx</link>
-      <description>The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parametrize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. The pressure and energy densities naturally separate into two distinct components. The static pressure distribution, arising from the Lorentz trace part of the EMT, as manifested in the spatial stress 13Tii, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as a consequence of the full or partial depletion of the gluon and quark condensates through the pressure-volume relation. The resulting trace anomaly–and sigma term–induced pressure is shown, through its volume scaling, to play a pivotal role in QCD confinement. In contrast, the dynamic pressure distribution, associated with the traceless part of the stress tensor, equals 1/d of the corresponding traceless part of the energy density, where d is the spatial dimension. These stat</description>
-      <source url="https://doi.org/10.1103/1hsy-xvqx">Physical Review D</source>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1hsy-xvqx</guid>
-    </item><item>
-      <title>Quantum energy teleportation across a lattice and the continuum</title>
-      <link>https://doi.org/10.1103/6yq9-7szd</link>
-      <description>Quantum energy teleportation (QET) has been studied in continuum field theory and in lattice many-body systems, but the relation between the two within a single interacting model is still not well understood. To address this question, we consider the massive Thirring model, equivalently the sine-Gordon theory. In the continuum, the trigonometric measurement is a weak binary positive operator-valued measure (POVM), and its leading signal is set by a conserved-current correlator in the bosonized theory, with both gapless behavior and gapped large-distance asymptotics. On the lattice, the conventional protocol does not access this neutral current sector. For Alice’s local measurement, a lattice U(1) selection rule removes the neutral current contribution from Bob’s subsystem, and the separated signal lies in charged sectors. On the same lattice Hamiltonian we construct a neutral current protocol whose weak signal is exactly a coarse-grained current correlator and whose extracted energy sc</description>
-      <source url="https://doi.org/10.1103/6yq9-7szd">Physical Review D</source>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/6yq9-7szd</guid>
-    </item><item>
-      <title>Back-to-back dijet production in DIS at arbitrary Bjorken x: TMD gluon distributions to twist-3 accuracy</title>
-      <link>https://doi.org/10.1103/nnhn-jvz7</link>
-      <description>We derive the gluon transverse-momentum-dependent (TMD) operator structure of back-to-back quark-antiquark dijet production in deep inelastic scattering at arbitrary Bjorken-x to twist-3 accuracy. Working at leading order in the strong coupling and in the kinematic regime where the transverse momentum imbalance of the jets is much smaller than their individual transverse momenta, we perform a systematic gradient expansion of the quark propagator in a background gluon field. This expansion organizes multiple interactions with the target in terms of longitudinal Wilson lines and gauge-invariant field-strength insertions, yielding a TMD description valid beyond the strict high-energy eikonal (x→0) approximation. We obtain explicit cross sections for longitudinally and transversely polarized virtual photons, identifying all contributing gluon TMD operators up to twist-3, including structures involving F+−, Fij, and three-gluon correlators. The full longitudinal phase eixP+z− associated wit</description>
-      <source url="https://doi.org/10.1103/nnhn-jvz7">Physical Review D</source>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nnhn-jvz7</guid>
-    </item><item>
-      <title>Quantum energy teleportation across a lattice and the continuum</title>
-      <link>https://doi.org/10.1103/6yq9-7szd</link>
-      <description>Quantum energy teleportation (QET) has been studied in continuum field theory and in lattice many-body systems, but the relation between the two within a single interacting model is still not well understood. To address this question, we consider the massive Thirring model, equivalently the sine-Gordon theory. In the continuum, the trigonometric measurement is a weak binary positive operator-valued measure (POVM), and its leading signal is set by a conserved-current correlator in the bosonized theory, with both gapless behavior and gapped large-distance asymptotics. On the lattice, the conventional protocol does not access this neutral current sector. For Alice’s local measurement, a lattice U(1) selection rule removes the neutral current contribution from Bob’s subsystem, and the separated signal lies in charged sectors. On the same lattice Hamiltonian we construct a neutral current protocol whose weak signal is exactly a coarse-grained current correlator and whose extracted energy sc</description>
-      <source url="https://doi.org/10.1103/6yq9-7szd">Physical Review D</source>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/6yq9-7szd</guid>
-    </item><item>
-      <title>Production of muonic kaon atoms at high-energy colliders * This work was supported in part by the National Natural Science Foundation of China (12361141827, 12422510), and by the Office of Nuclear Physics within the U.S. Department of Energy Office of Science (DE-FG02-89ER40531). The National Key Research and Development Program of China (2022YFA1604900). W. Zha acknowledges support from the Anhui Provincial Natural Science Foundation (2508085JX002), the Youth Innovation Promotion Association of the Chinese Academy of Sciences, and the Chinese Academy of Sciences (YSBR088)</title>
-      <link>https://doi.org/10.1088/1674-1137/ae662f</link>
-      <description>In this study, we develop a framework for producing exotic muonic kaon atoms ( Kμ ) in semileptonic D^0 decays using an effective weak Hamiltonian, a helicity-based treatment of leptonic current, and a nonrelativistic bound-state projection. The resulting branching ratio BR(D^0 →(Kμ )νμ)=2.29×10^-10 is implemented in a ROOT-based code to estimate yields at a relativistic heavy-ion collider (RHIC), large hadron collider (LHC), and super tau-charm facility (STCF). We demonstrate quantitatively that Kμ atoms, which are also produced through coalescence in the quark–gluon plasma (QGP), offer a sensitive probe of low-momentum primordial muons and early-time electromagnetic radiation, acting as complementary constraints in an otherwise unexplored phase space for thermal dilepton and photon emission. Newly estimated dissociation cross-sections in detector material indicate that secondary-vertex reconstruction should be experimentally feasible, enabling the clean experimental identification of</description>
-      <source url="https://doi.org/10.1088/1674-1137/ae662f">Chinese Physics C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1088/1674-1137/ae662f</guid>
     </item>
   </channel>
 </rss>
