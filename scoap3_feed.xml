@@ -5,15 +5,38 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:03:19 +0000</lastBuildDate>
     <item>
-      <title>Evidence of ZZγ Production with the ATLAS Detector</title>
-      <link>https://doi.org/10.1103/jngg-1nf3</link>
-      <description>This Letter presents the first evidence of the simultaneous production of two Z bosons and one photon with the ATLAS detector at the Large Hadron Collider. The measurement is performed using the full Run-2 dataset, recorded from 2015 to 2018, of proton-proton collisions at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 140 fb−1. The fully leptonic final state with four leptons and one photon is analyzed, pp→ZZγ→ℓ+ℓ−ℓ′+ℓ′−γ with ℓ,ℓ′=e or μ. This final state is measured in a fiducial region where photon final-state radiation is minimized, and the photon has a transverse momentum of pTγ&gt;20 GeV. Eight events are selected, with a background estimate of 0.92±0.15. This results in an observed (expected) significance of the ZZγ final state of 4.4σ (4.0σ). The measured cross section for pp→ZZγ→ℓ+ℓ−ℓ′+ℓ′−γ in the fiducial region is σZZγ=0.144−0.051+0.065(stat)−0.004+0.008(syst) fb, in agreement with the standard model prediction of σfidSM=0.130±0.006 fb.</description>
-      <source url="https://doi.org/10.1103/jngg-1nf3">Physical Review Letters</source>
+      <title>Projections of H → τ τ cross-section at FCC-ee</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16238-2</link>
+      <description>The Future Circular Collider (FCC) stands at the forefront of the European Strategy for Particle Physics as the future flagship project at CERN. The H → τ τ decay, featuring a large branching ratio, clean identification in the FCC-ee environment, and the possibility to reconstruct tau spin-related observables, is an excellent channel to measure Higgs boson properties. This work shows the expected precision for the H → τ τ cross-section measurement at the FCC-ee in the ZH production mechanism at sqrts= 240 GeV and sqrts= 365 GeV, as well as via the vector boson fusion process at sqrts= 365 GeV. Furthermore, we explore and evaluate a set of methods for reconstructing tau decays. These techniques are critical for unlocking the full physics potential of the FCC-ee and for improving the understanding of tau-related observables in both Standard Model measurements and New Physics searches. The obtained results significantly enhance the FCC-ee outlook in the H → τ τ channel, improving it by at</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16238-2">European Physical Journal C</source>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16238-2</guid>
+    </item><item>
+      <title>Evidence of ZZγ Production and Observation of 4ℓγ in Proton-Proton Collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/gdbv-wnpp</link>
+      <description>Evidence of the production of two Z bosons and a photon in proton-proton collisions is reported for the first time in CMS. The analysis uses data collected by the CMS experiment between 2016 and 2018 at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 138 fb−1. Evidence for the process pp→ZZγ→4ℓγ (ℓ=e, μ), with an observed (expected) significance of 3.7 (3.1) standard deviations in a fiducial region defined by pTγ&gt;20 GeV, |ηγ|2.4, ΔR(ℓ,γ)&gt;0.5, mZ between 60 and 120 GeV, and the invariant mass of either of the two Z bosons combined with the photon (mZγ) larger than 100 GeV, is reported. The measured (predicted) fiducial cross section is 60−22+27 ab (47.56±0.04 ab). Additionally, the inclusive production of pp→4ℓγ is studied by removing the mZγ requirement to include final state radiation where one Z boson decays to 2ℓγ, yielding an observed (expected) significance of 5.0 (4.2) standard deviations and a measured (predicted) fiducial cross section of 156−35+</description>
+      <source url="https://doi.org/10.1103/gdbv-wnpp">Physical Review Letters</source>
       <author>et al.</author>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jngg-1nf3</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/gdbv-wnpp</guid>
+    </item><item>
+      <title>Precise measurements of D0→K−ℓ+νℓ and D+→K¯0ℓ+νℓ decays</title>
+      <link>https://doi.org/10.1103/3fnf-x8k8</link>
+      <description>Using e+e− collision data corresponding to an integrated luminosity of 20.3 fb−1, collected at the center-of-mass energy of 3.773 GeV with the BESIII detector, we present precise measurements of D0→K−ℓ+νℓ and D+→K¯0ℓ+νℓ (ℓ=e, μ) decays. The branching fractions of D0→K−e+νe, D0→K−μ+νμ, D+→K¯0e+νe, and D+→K¯0μ+νμ are measured to be (3.548±0.006stat±0.017syst)%, (3.445±0.007stat±0.017syst)%, (8.928±0.025stat±0.050syst)%, and (8.770±0.029stat±0.053syst)%, respectively. The partial decay rates of these four decays are measured with improved precision, and their forward-backward asymmetries are determined for the first time. By performing a simultaneous fit to the measured partial decay rates and the forward-backward asymmetries of D→K¯ℓ+νℓ, a search for a possible scalar current contribution in the c→sℓ+νℓ transition is performed. The results are Re(cSμ)=0.017±0.008stat±0.006syst and Im(cSμ)=±(0.077±0.011stat±0.009syst), corresponding to a difference from the Standard Model (SM) with a sign</description>
+      <source url="https://doi.org/10.1103/3fnf-x8k8">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3fnf-x8k8</guid>
+    </item><item>
+      <title>First Experimental Constraint on the Scalar Current in the D0(+)→K¯ℓ+νℓ Transition</title>
+      <link>https://doi.org/10.1103/2ygw-n5b1</link>
+      <description>Using 20.3 fb−1 of e+e− collision data taken at the center-of-mass energy of s=3.773 GeV, we report the first experimental constraint on the scalar current in the D0(+)→K¯ℓ+νℓ transitions, based on a simultaneous fit to the first measured forward-backward asymmetries and precisely determined partial decay rates. The parameters of the scalar current are determined to be Re(cSμ)=0.017±0.008stat±0.006syst and Im(cSμ)=±(0.077±0.011stat±0.009syst), which deviates from the standard model by a significance of 2.3σ. The branching fractions of D0(+)→K¯ℓ+νℓ, the hadronic form factor f+(0), and the modulus of the c→s Cabibbo-Kobayahsi-Maskawa matrix element |Vcs| are also determined with improved precision. In addition, lepton flavor universality is tested via the ratios of the decay rates between semimuonic and semielectronic decays in the full momentum transfer range and in subranges.</description>
+      <source url="https://doi.org/10.1103/2ygw-n5b1">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2ygw-n5b1</guid>
     </item><item>
       <title>Strange and flavor-singlet axial form factors of the nucleon from lattice QCD</title>
       <link>https://doi.org/10.1103/dgcm-4yz4</link>
@@ -29,21 +52,6 @@
       <source url="https://doi.org/10.1103/jt6y-h375">Physical Review Letters</source>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/jt6y-h375</guid>
-    </item><item>
-      <title>Evidence of ZZγ Production and Observation of 4ℓγ in Proton-Proton Collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/gdbv-wnpp</link>
-      <description>Evidence of the production of two Z bosons and a photon in proton-proton collisions is reported for the first time in CMS. The analysis uses data collected by the CMS experiment between 2016 and 2018 at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 138 fb−1. Evidence for the process pp→ZZγ→4ℓγ (ℓ=e, μ), with an observed (expected) significance of 3.7 (3.1) standard deviations in a fiducial region defined by pTγ&gt;20 GeV, |ηγ|2.4, ΔR(ℓ,γ)&gt;0.5, mZ between 60 and 120 GeV, and the invariant mass of either of the two Z bosons combined with the photon (mZγ) larger than 100 GeV, is reported. The measured (predicted) fiducial cross section is 60−22+27 ab (47.56±0.04 ab). Additionally, the inclusive production of pp→4ℓγ is studied by removing the mZγ requirement to include final state radiation where one Z boson decays to 2ℓγ, yielding an observed (expected) significance of 5.0 (4.2) standard deviations and a measured (predicted) fiducial cross section of 156−35+</description>
-      <source url="https://doi.org/10.1103/gdbv-wnpp">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/gdbv-wnpp</guid>
-    </item><item>
-      <title>Projections of H → τ τ cross-section at FCC-ee</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16238-2</link>
-      <description>The Future Circular Collider (FCC) stands at the forefront of the European Strategy for Particle Physics as the future flagship project at CERN. The H → τ τ decay, featuring a large branching ratio, clean identification in the FCC-ee environment, and the possibility to reconstruct tau spin-related observables, is an excellent channel to measure Higgs boson properties. This work shows the expected precision for the H → τ τ cross-section measurement at the FCC-ee in the ZH production mechanism at sqrts= 240 GeV and sqrts= 365 GeV, as well as via the vector boson fusion process at sqrts= 365 GeV. Furthermore, we explore and evaluate a set of methods for reconstructing tau decays. These techniques are critical for unlocking the full physics potential of the FCC-ee and for improving the understanding of tau-related observables in both Standard Model measurements and New Physics searches. The obtained results significantly enhance the FCC-ee outlook in the H → τ τ channel, improving it by at</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16238-2">European Physical Journal C</source>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16238-2</guid>
     </item><item>
       <title>Efficient many-jet event generation with flow matching</title>
       <link>https://doi.org/10.1103/j71d-h5w2</link>
@@ -88,13 +96,6 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)213</guid>
     </item><item>
-      <title>Chiral holography</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)202</link>
-      <description>Using twistor string theory, we engineer a gravitational holographic dual of the self-dual sector of mathcalN = 4 super Yang-Mills theory. This provides a top-down example of holography at zero ’t Hooft coupling. Our holographic dictionary operates at the level of D-branes wrapping twistor lines and generalizes the D-instanton prescription used to compute scattering amplitudes. As an application, we study the correlators of determinant operators that act as generating functions of half-BPS operators in the self-dual theory. We show that these correlators are dual to configurations of giant gravitons in the bulk.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)202">Journal of High Energy Physics</source>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)202</guid>
-    </item><item>
       <title>Polarization Measurement of Λc+ and Λ¯c− Baryons in p−Ne Collisions at sNN=68.6 GeV</title>
       <link>https://doi.org/10.1103/pb8c-3lnn</link>
       <description>The first measurement of the polarization of charm baryons by the LHCb experiment recorded in fixed-target mode is presented. The polarization of Λc baryons is studied in collisions of protons, at an energy of 2.51 TeV, incident on a gaseous target of neon, at a nucleon-nucleon center-of-mass energy of 68.6 GeV. The world’s first measurement of separate-charge polarizations for Λc+ and Λ¯c− baryons is performed, determining PΛc+=(24±9±2)%, PΛ¯c−=(−8±12±3)%, where the first uncertainty is statistical and the second systematic. The polarization is also measured in intervals of baryon transverse momentum and the Feynman-x variable.</description>
@@ -117,27 +118,6 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16275-x</guid>
     </item><item>
-      <title>On cosmological singularities in string theory</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)195</link>
-      <description>We study the time evolution of a 3 + 1 dimensional spacetime, where space is a large three-sphere, due to small perturbations of the background fields. We focus on two classes of deformations. One corresponds on the worldsheet to time-dependent non-abelian Thirring deformations. The other to perturbations of the radius of the three-sphere. In the former case, we find that small deformations generically lead to big-bang and big-crunch singularities, near which the spacetime becomes highly anisotropic. We argue that string theory likely resolves these singularities. In the latter case, general solutions have the property that the radius of the three-sphere goes to infinity at a finite time, but there are no solutions in which it collapses to zero. We also discuss the interplay of these spacetime properties with the corresponding worldsheet RG flows.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)195">Journal of High Energy Physics</source>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)195</guid>
-    </item><item>
-      <title>Symmetries, operators and correlators in JoverlineT deformed CFTs</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)194</link>
-      <description>We use symmetries to define a new class of operators and compute their correlation functions in the JoverlineT-deformed conformal field theory on the plane, following the strategy developed in [1]. The symmetry algebra of the deformed theory consists of a local Virasoro-Kac-Moody algebra in the left-moving sector and a non-local counterpart in the right-moving sector. This algebraic structure guides the definition of distinct operator classes. In this paper, we focus on two types of operators: Dressed operators transform as primaries under the symmetries and depend on non-local coordinates, which involve integration over a region. Physical operators, introduced in this work, depend only on local quantities at the classical level and can be expressed in a manageable way in terms of dressed operators and currents. At the quantum level, we assume the existence of dressed operators and the Ward identities that relate them. The physical operators are then defined via the dressed operators a</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)194">Journal of High Energy Physics</source>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)194</guid>
-    </item><item>
-      <title>Non-factorisable electroweak virtual corrections to single-resonant processes</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)196</link>
-      <description>We consider electroweak (EW) virtual corrections to 2 → 2 fermion scattering processes mediated by a vector boson V(V = W , Z) in the pole approximation. As is well known, the computation can be organised into factorisable and non-factorisable contributions. The factorisable corrections can be computed by evaluating the (polarised) EW form factor of the vector boson at the relevant perturbative order. The non-factorisable corrections are instead driven by soft-photon exchanges between the initial-and final-state fermions and/or the resonance. We perform an explicit two-loop computation to show that, once the heavy degrees of freedom are properly decoupled, such non-factorisable corrections can be expressed as an iteration of the one-loop result, plus a new contribution due to (light) fermion loops. The final two-loop result, which can be expected on general grounds from soft-photon factorisation, is shown to hold exactly in dimensional regularisation and is peculiar to the exchange of </description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)196">Journal of High Energy Physics</source>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)196</guid>
-    </item><item>
       <title>CMB birefringence from vacuum interfaces</title>
       <link>https://doi.org/10.1103/cyz7-kplp</link>
       <description>Hints of cosmic microwave background polarization rotation (Δϑ∼10−3 rad) are commonly attributed to late-time dynamics of ultralight axions. We show that such ultralight degrees of freedom are not required. Polarization rotation naturally arises as a geometric interface phase acquired when photons cross interfaces between topologically distinct dark sector vacua. The effect is a discrete phase shift fixed by the normalization of a wall-supported electromagnetic Chern-Simons interaction and protected by an emergent 1-form symmetry of the low energy effective theory. This mechanism reproduces the familiar adiabatic rotation induced by light axion domain walls, but persists for arbitrarily thin walls where the axion is heavy or absent. In this regime the rotation manifests as a Pancharatnam phase localized at vacuum interfaces, independent of redshift and photon frequency below a natural ultraviolet cutoff. Cosmic birefringence thus emerges as a probe of vacuum structure in the dark secto</description>
@@ -151,6 +131,27 @@
       <source url="https://doi.org/10.1103/tzm2-jjvg">Physical Review D</source>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/tzm2-jjvg</guid>
+    </item><item>
+      <title>Searches for nonstandard neutrino oscillations at neutrino telescopes with a TeV muon accelerator source</title>
+      <link>https://doi.org/10.1103/rmh8-yqz7</link>
+      <description>Muon accelerators, a potential technology for enabling O(10 TeV) parton center of mass energy collisions, would also source an intense, collimated beam of neutrinos at TeV energies. The energy and size of this beam would be excellently matched as a source for existing and planned neutrino telescopes: gigaton-sized detectors of astrophysical neutrinos at and above TeV energies. In this paper, we introduce the technical considerations and scientific reach of pairing a muon accelerator source of neutrinos with a neutrino telescope detector, a combination we dub the “Neutrino Kaleidoscope.” In particular, such a pairing would enable searches for non-standard oscillations of the beam neutrinos as they traverse the earth between source and detector. These nonstandard neutrino oscillations could be sourced by Lorentz invariance violation, which a neutrino kaleidoscope could probe up to the Planck scale. Such a search would also have a reach on sterile neutrinos orders of magnitude beyond exis</description>
+      <source url="https://doi.org/10.1103/rmh8-yqz7">Physical Review D</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rmh8-yqz7</guid>
+    </item><item>
+      <title>Electronic direct detection of light dark matter with intermediate-mass mediators</title>
+      <link>https://doi.org/10.1103/v2r4-53pm</link>
+      <description>Recent years have seen dramatic improvements in the sensitivity of electron-based direct detection experiments. Typically, the sensitivity to dark matter scattering is determined in the light and heavy mediator mass limits. In this paper we show that the light and heavy mediator mass limits are not separated by a single scale, but instead can be separated by up to 3 orders of magnitude in mediator mass for sub-GeV mass dark matter. We calculate the background-free sensitivity in Si and Ge targets, and a projected DAMIC-M sensitivity, to sub-GeV mass dark matter models with “intermediate-mass” mediators between the light and heavy mediator limits. This allows us to determine the precise range of mediator masses that electron-based direct detection experiments are sensitive to when the dark matter relic abundance is generated via freeze-in. We make the calculations presented here publicly available in an updated release of EXCEED-DM.</description>
+      <source url="https://doi.org/10.1103/v2r4-53pm">Physical Review D</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/v2r4-53pm</guid>
+    </item><item>
+      <title>Carrollian Holographic Duals Are Nonlocal</title>
+      <link>https://doi.org/10.1103/f26s-4p77</link>
+      <description>Mapping the S matrix of a generic theory of flat-space gravity coupled to matter to correlation functions of a putative Carrollian dual, we show that bulk interactions imply boundary nonlocality.</description>
+      <source url="https://doi.org/10.1103/f26s-4p77">Physical Review Letters</source>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/f26s-4p77</guid>
     </item>
   </channel>
 </rss>
