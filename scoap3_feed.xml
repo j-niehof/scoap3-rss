@@ -5,8 +5,32 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:53:58 +0000</lastBuildDate>
     <item>
+      <title>Searches for Light Dark Matter and Evidence of Coherent Elastic Neutrino-Nucleus Scattering of Solar Neutrinos with the LUX-ZEPLIN (LZ) Experiment</title>
+      <link>https://doi.org/10.1103/jvqf-njpj</link>
+      <description>We present searches for light dark matter (DM) with masses 3–9 GeV/c2 in the presence of coherent elastic neutrino-nucleus scattering (CEνNS) from B8 solar neutrinos with the LUX-ZEPLIN experiment. This analysis uses a 5.7 tonne-yr exposure with data collected between March 2023 and April 2025. In an energy range spanning 1–6 keV, we report no significant excess of events attributable to dark matter nuclear recoils, but we observe a significant signal from B8 CEνNS interactions that is consistent with expectation. We set world-leading limits on spin-independent and spin-dependent-neutron DM-nucleon interactions for masses down to 5 GeV/c2. In the no-dark-matter scenario, we observe a signal consistent with B8 CEνNS events, corresponding to a 4.5σ statistical significance. This is the most significant evidence of B8 CEνNS interactions and is enabled by robust background modeling and mitigation techniques. This demonstrates LZ’s ability to detect rare signals at keV-scale energies.</description>
+      <source url="https://doi.org/10.1103/jvqf-njpj">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jvqf-njpj</guid>
+    </item><item>
+      <title>Probing the Solar B8 Neutrino Fog with XENONnT</title>
+      <link>https://doi.org/10.1103/xvpn-w3q9</link>
+      <description>We report a 3.3σ measurement of coherent elastic neutrino-nucleus scattering from solar B8 neutrinos using a 6.77 t×yr exposure from the XENONnT experiment, inferring a solar B8 neutrino flux of (5−2+3)×106 cm−2 s−1, consistent with previous measurements. In the presence of the B8 “neutrino fog,” we find no evidence for light dark matter, and observe diminishing returns in sensitivity with increasing exposure. A 93% increase in exposure from the previous search improves the median sensitivity to the nucleon scattering cross section for a 5 GeV/c2 spin-independent weakly interacting massive particle by 10%. The dataset was also used to measure the weak mixing angle at ∼0.02 GeV/c momentum transfer and constrain physics beyond the Standard Model.</description>
+      <source url="https://doi.org/10.1103/xvpn-w3q9">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xvpn-w3q9</guid>
+    </item><item>
+      <title>Measurement of the t-channel single top quark cross section in proton-proton collisions at sqrts=5.02 TeV</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)223</link>
+      <description>The single top quark t-channel production cross section is measured in proton-proton collisions at the CERN LHC at sqrts=5.02 TeV, using data recorded with the CMS detector in 2017, corresponding to an integrated luminosity of 302 pb , and resulting in the first CMS measurement of the process at that energy. Events with one electron or muon and two or more jets, among which at least one is identified as originating from a b quark fragmentation, are analyzed. The combined cross section of single top quark (tq) and single top antiquark ( overlinetq ) production is σ (tq+overlinetq)=25.5_-3.5^+3.6(stat)_-3.9^+4.2(syst)± 0.5(lumi) pb. The individual cross sections are measured to be σ (tq)=17.7_-2.7^+2.9(stat)_-2.4^+2.6(syst)± 0.3(lumi) pb and σ (overlinetq)=6.7_-1.6^+2.4(stat)_-2.5^+2.1(syst)± 0.1(lumi) pb. Their ratio is measured to be mathcalR_t-ch=2.7_-0.8^+1.5(stat)_-0.3^+1.2(syst) . The absolute value of the Cabibbo-Kobayashi-Maskawa matrix element is found to be |f V | = 0.92 ± 0.09</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)223">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)223</guid>
+    </item><item>
       <title>Projections of H → τ τ cross-section at FCC-ee</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16238-2</link>
       <description>The Future Circular Collider (FCC) stands at the forefront of the European Strategy for Particle Physics as the future flagship project at CERN. The H → τ τ decay, featuring a large branching ratio, clean identification in the FCC-ee environment, and the possibility to reconstruct tau spin-related observables, is an excellent channel to measure Higgs boson properties. This work shows the expected precision for the H → τ τ cross-section measurement at the FCC-ee in the ZH production mechanism at sqrts= 240 GeV and sqrts= 365 GeV, as well as via the vector boson fusion process at sqrts= 365 GeV. Furthermore, we explore and evaluate a set of methods for reconstructing tau decays. These techniques are critical for unlocking the full physics potential of the FCC-ee and for improving the understanding of tau-related observables in both Standard Model measurements and New Physics searches. The obtained results significantly enhance the FCC-ee outlook in the H → τ τ channel, improving it by at</description>
@@ -60,6 +84,14 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/j71d-h5w2</guid>
     </item><item>
+      <title>Evidence of ZZγ Production with the ATLAS Detector</title>
+      <link>https://doi.org/10.1103/jngg-1nf3</link>
+      <description>This Letter presents the first evidence of the simultaneous production of two Z bosons and one photon with the ATLAS detector at the Large Hadron Collider. The measurement is performed using the full Run-2 dataset, recorded from 2015 to 2018, of proton-proton collisions at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 140 fb−1. The fully leptonic final state with four leptons and one photon is analyzed, pp→ZZγ→ℓ+ℓ−ℓ′+ℓ′−γ with ℓ,ℓ′=e or μ. This final state is measured in a fiducial region where photon final-state radiation is minimized, and the photon has a transverse momentum of pTγ&gt;20 GeV. Eight events are selected, with a background estimate of 0.92±0.15. This results in an observed (expected) significance of the ZZγ final state of 4.4σ (4.0σ). The measured cross section for pp→ZZγ→ℓ+ℓ−ℓ′+ℓ′−γ in the fiducial region is σZZγ=0.144−0.051+0.065(stat)−0.004+0.008(syst) fb, in agreement with the standard model prediction of σfidSM=0.130±0.006 fb.</description>
+      <source url="https://doi.org/10.1103/jngg-1nf3">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jngg-1nf3</guid>
+    </item><item>
       <title>First Observation of D0(+)→K¯ωe+νe and Determination of the Branching Fraction of K¯1(1270)→K¯ω</title>
       <link>https://doi.org/10.1103/xn4s-xxs8</link>
       <description>Using 20.3 fb−1 of e+e− annihilation data collected at a center-of-mass energy of 3.773 GeV with the BESIII detector, we report the first observation of the semileptonic decays D0→K−ωe+νe and D+→KS0ωe+νe with significances of 8.0σ and 5.8σ, respectively. Their decay branching fractions are measured to be B(D0→K−ωe+νe)=(9.4−1.8+2.0±0.6)×10−5 and B(D+→KS0ωe+νe)=(8.0−2.1+2.4±0.7)×10−5. Combining these with the latest measurements of D0(+)→K−π+π−(0)e+νe and assuming K¯1(1270) to be the sole mediating resonance in all processes, the branching ratios are determined to be [Γ(K1(1270)−→K−π+π−)]/[Γ(K1(1270)−→K−ω)]=3.4−0.7+0.8±0.3 and [Γ(K¯1(1270)0→K−π+π0)]/[Γ(K¯1(1270)0→K¯0ω)]=7.9−2.1+2.4±0.7. The combined branching fraction is determined to be B(K¯1(1270)→K¯ω)=(8.4±1.4±0.5)%, which is the most precise measurement from a collider experiment. Furthermore, for the first time based on a single vector-pseudoscalar decay channel, the K¯1(1270) mass is measured to be (1336±9±2) MeV/c2, providing uniq</description>
@@ -67,13 +99,6 @@
       <author>et al.</author>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/xn4s-xxs8</guid>
-    </item><item>
-      <title>Making the case for massive islands</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)214</link>
-      <description>It has been established in both high and low spacetime dimensions that existing constructions of entanglement islands, at least in the study of black holes, are all in the context of massive gravity. In fact, later studies realized that the graviton mass is not an accident and it is necessary for the consistency of the holographic interpretation for entanglement islands. An important lesson we learned from these studies is that the graviton mass is a manifestation of the deep relationship between quantum entanglement and emergent geometry (EPR=ER). Nevertheless, various interesting questions and counter-arguments exist regarding whether this connection is of any relevance, either by modifying the definition of entanglement islands or denying the graviton mass as a physically relevant concept. In this paper, we will revisit the necessity of graviton mass for the consistency of entanglement islands and address the above questions in and out of the literature. Since the calculations in hi</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)214">Journal of High Energy Physics</source>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)214</guid>
     </item><item>
       <title>Holographic equidistribution</title>
       <link>https://doi.org/10.1007/JHEP08(2026)212</link>
@@ -88,6 +113,13 @@
       <source url="https://doi.org/10.1007/JHEP08(2026)208">Journal of High Energy Physics</source>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)208</guid>
+    </item><item>
+      <title>Making the case for massive islands</title>
+      <link>https://doi.org/10.1007/JHEP08(2026)214</link>
+      <description>It has been established in both high and low spacetime dimensions that existing constructions of entanglement islands, at least in the study of black holes, are all in the context of massive gravity. In fact, later studies realized that the graviton mass is not an accident and it is necessary for the consistency of the holographic interpretation for entanglement islands. An important lesson we learned from these studies is that the graviton mass is a manifestation of the deep relationship between quantum entanglement and emergent geometry (EPR=ER). Nevertheless, various interesting questions and counter-arguments exist regarding whether this connection is of any relevance, either by modifying the definition of entanglement islands or denying the graviton mass as a physically relevant concept. In this paper, we will revisit the necessity of graviton mass for the consistency of entanglement islands and address the above questions in and out of the literature. Since the calculations in hi</description>
+      <source url="https://doi.org/10.1007/JHEP08(2026)214">Journal of High Energy Physics</source>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)214</guid>
     </item><item>
       <title>Anti-collinear resummation in JIMWLK evolution in the linear regime</title>
       <link>https://doi.org/10.1007/JHEP08(2026)213</link>
@@ -118,40 +150,13 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16275-x</guid>
     </item><item>
-      <title>CMB birefringence from vacuum interfaces</title>
-      <link>https://doi.org/10.1103/cyz7-kplp</link>
-      <description>Hints of cosmic microwave background polarization rotation (Δϑ∼10−3 rad) are commonly attributed to late-time dynamics of ultralight axions. We show that such ultralight degrees of freedom are not required. Polarization rotation naturally arises as a geometric interface phase acquired when photons cross interfaces between topologically distinct dark sector vacua. The effect is a discrete phase shift fixed by the normalization of a wall-supported electromagnetic Chern-Simons interaction and protected by an emergent 1-form symmetry of the low energy effective theory. This mechanism reproduces the familiar adiabatic rotation induced by light axion domain walls, but persists for arbitrarily thin walls where the axion is heavy or absent. In this regime the rotation manifests as a Pancharatnam phase localized at vacuum interfaces, independent of redshift and photon frequency below a natural ultraviolet cutoff. Cosmic birefringence thus emerges as a probe of vacuum structure in the dark secto</description>
-      <source url="https://doi.org/10.1103/cyz7-kplp">Physical Review D</source>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cyz7-kplp</guid>
-    </item><item>
-      <title>Thermal spectral function asymptotics and black hole singularity in holography</title>
-      <link>https://doi.org/10.1103/tzm2-jjvg</link>
-      <description>We investigate the analytic structure of thermal spectral function of holographic conformal field theories (CFTs), synthesizing recent developments into a set of observations about its asymptotics. Specifically, for a class of scalar primaries with integral dimension, we demonstrate factorization of the exact spectral function into a polynomial piece, which captures the vacuum dynamics, and a nonperturbative piece, which controls its asymptotics. Using exact WKB techniques, we derive a transseries expression for the latter. We use this information to deduce the singular loci of a spatially averaged thermofield double correlator in the complex time plane. Such singularities have been argued to encode information regarding the black hole singularity in the dual spacetime. Our results give a refinement of these statements by capturing the momentum dependence.</description>
-      <source url="https://doi.org/10.1103/tzm2-jjvg">Physical Review D</source>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tzm2-jjvg</guid>
-    </item><item>
-      <title>Searches for nonstandard neutrino oscillations at neutrino telescopes with a TeV muon accelerator source</title>
-      <link>https://doi.org/10.1103/rmh8-yqz7</link>
-      <description>Muon accelerators, a potential technology for enabling O(10 TeV) parton center of mass energy collisions, would also source an intense, collimated beam of neutrinos at TeV energies. The energy and size of this beam would be excellently matched as a source for existing and planned neutrino telescopes: gigaton-sized detectors of astrophysical neutrinos at and above TeV energies. In this paper, we introduce the technical considerations and scientific reach of pairing a muon accelerator source of neutrinos with a neutrino telescope detector, a combination we dub the “Neutrino Kaleidoscope.” In particular, such a pairing would enable searches for non-standard oscillations of the beam neutrinos as they traverse the earth between source and detector. These nonstandard neutrino oscillations could be sourced by Lorentz invariance violation, which a neutrino kaleidoscope could probe up to the Planck scale. Such a search would also have a reach on sterile neutrinos orders of magnitude beyond exis</description>
-      <source url="https://doi.org/10.1103/rmh8-yqz7">Physical Review D</source>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rmh8-yqz7</guid>
-    </item><item>
-      <title>Electronic direct detection of light dark matter with intermediate-mass mediators</title>
-      <link>https://doi.org/10.1103/v2r4-53pm</link>
-      <description>Recent years have seen dramatic improvements in the sensitivity of electron-based direct detection experiments. Typically, the sensitivity to dark matter scattering is determined in the light and heavy mediator mass limits. In this paper we show that the light and heavy mediator mass limits are not separated by a single scale, but instead can be separated by up to 3 orders of magnitude in mediator mass for sub-GeV mass dark matter. We calculate the background-free sensitivity in Si and Ge targets, and a projected DAMIC-M sensitivity, to sub-GeV mass dark matter models with “intermediate-mass” mediators between the light and heavy mediator limits. This allows us to determine the precise range of mediator masses that electron-based direct detection experiments are sensitive to when the dark matter relic abundance is generated via freeze-in. We make the calculations presented here publicly available in an updated release of EXCEED-DM.</description>
-      <source url="https://doi.org/10.1103/v2r4-53pm">Physical Review D</source>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/v2r4-53pm</guid>
-    </item><item>
-      <title>Carrollian Holographic Duals Are Nonlocal</title>
-      <link>https://doi.org/10.1103/f26s-4p77</link>
-      <description>Mapping the S matrix of a generic theory of flat-space gravity coupled to matter to correlation functions of a putative Carrollian dual, we show that bulk interactions imply boundary nonlocality.</description>
-      <source url="https://doi.org/10.1103/f26s-4p77">Physical Review Letters</source>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/f26s-4p77</guid>
+      <title>Production of muonic kaon atoms at high-energy colliders * This work was supported in part by the National Natural Science Foundation of China (12361141827, 12422510), and by the Office of Nuclear Physics within the U.S. Department of Energy Office of Science (DE-FG02-89ER40531). The National Key Research and Development Program of China (2022YFA1604900). W. Zha acknowledges support from the Anhui Provincial Natural Science Foundation (2508085JX002), the Youth Innovation Promotion Association of the Chinese Academy of Sciences, and the Chinese Academy of Sciences (YSBR088)</title>
+      <link>https://doi.org/10.1088/1674-1137/ae662f</link>
+      <description>In this study, we develop a framework for producing exotic muonic kaon atoms ( Kμ ) in semileptonic D^0 decays using an effective weak Hamiltonian, a helicity-based treatment of leptonic current, and a nonrelativistic bound-state projection. The resulting branching ratio BR(D^0 →(Kμ )νμ)=2.29×10^-10 is implemented in a ROOT-based code to estimate yields at a relativistic heavy-ion collider (RHIC), large hadron collider (LHC), and super tau-charm facility (STCF). We demonstrate quantitatively that Kμ atoms, which are also produced through coalescence in the quark–gluon plasma (QGP), offer a sensitive probe of low-momentum primordial muons and early-time electromagnetic radiation, acting as complementary constraints in an otherwise unexplored phase space for thermal dilepton and photon emission. Newly estimated dissociation cross-sections in detector material indicate that secondary-vertex reconstruction should be experimentally feasible, enabling the clean experimental identification of</description>
+      <source url="https://doi.org/10.1088/1674-1137/ae662f">Chinese Physics C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1088/1674-1137/ae662f</guid>
     </item>
   </channel>
 </rss>
