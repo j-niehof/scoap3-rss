@@ -5,8 +5,52 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:27:40 +0000</lastBuildDate>
     <item>
+      <title>Counting b-jets at the FCC-ee as a probe of top-quark flavor physics</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.140876</link>
+      <description>We explore the sensitivity of a future FCC-ee to multi-TeV new physics (NP) that can generate vector, scalar and tensor flavor-changing (FC) eetuk contact interactions ( uk=u,c for k=1,2), probed via single top-quark production, e+e−→tu¯k,tu¯kγ (+ c.c.) and leading (following the top-quark decay) to two-and four-jet signals, e+e−→2j+X,4j+X, where X denotes any non-jet final-state particles. Our analysis exploits an approximately conserved Standard Model (SM) quantum number introduced in [1] and termed “ b-Parity” ( bP), which is applicable to scattering processes of the type e+e−→n·jb+m·jℓ+X, where n and m are the number of produced b-jets and light-jets ( u, d, c, s, and/or gluons) and bP=(−1)n. The FC eetuk four-fermion interactions can generate distinct bP-odd ( bP=−1) signals in these multi-jet events, for which the only significant SM background stems from b-jet misidentification. We demonstrate that the FCC-ee, operating at s=240 GeV (the ZH run phase) with high luminosity and ex</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.140876">Physics Letters B</source>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140876</guid>
+    </item><item>
+      <title>Full event interpretation with machine-learning-based particle-flow reconstruction in the CMS detector</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15754-5</link>
+      <description>The particle-flow (PF) algorithm constructs a global description of each particle collision by producing a comprehensive list of final-state particles, and is central to event reconstruction in the CMS experiment at the CERN LHC. The existing PF implementation relies on physics-motivated heuristics and assumptions that can be replaced by machine-learning (ML) models trained directly on simulated data and naturally suited to modern graphics processing units (GPUs). A state-of-the-art ML-based PF (MLPF) reconstruction algorithm, implemented within the CMS software framework, is presented. The MLPF algorithm performs a learnable full-event reconstruction on GPUs, generalizes across detector conditions and collision energies, and replaces multiple modular reconstruction steps with a single unified model. Physics performance comparable to standard PF reconstruction is achieved in both simulation and data, with improved jet energy resolution and inference time. In simulated top quark-antiqua</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15754-5">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15754-5</guid>
+    </item><item>
+      <title>Blocking mesogenesis</title>
+      <link>https://doi.org/10.1103/g7d9-5x5m</link>
+      <description>Mechanisms of mesogenesis generate the baryon asymmetry and dark matter of the Universe through late-time decays of Standard Model mesons into baryons and dark matter states. Utilizing the CP violation in the meson systems themselves, the resulting baryon asymmetry is directly controlled by collider observables, the CP asymmetry ACP, and the branching fraction for the meson decays. Experimental probes of these decays place strong constraints on the amount of CP violation required, placing it well above observed limits in meson mixing. Additionally, strong lower bounds on the proton lifetime seemingly rule out mesogenesis mechanisms which use D mesons. In this work, we propose to circumvent these constraints by “morphing” the mass of the dark sector particles using a late-time phase transition. The change in mass of the final decay products kinematically excludes meson and proton decays, relaxing the constraints on the model parameter space.</description>
+      <source url="https://doi.org/10.1103/g7d9-5x5m">Physical Review D</source>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/g7d9-5x5m</guid>
+    </item><item>
+      <title>Encoding physics at the precision frontier</title>
+      <link>https://doi.org/10.1103/9hs2-prs5</link>
+      <description>High-performance machine learning tools in particle physics rest on two complementary directions: encoding symmetries explicitly in the architecture, and implicitly learning the structure of the data through large-scale (pre)training. We compare the performance of the representative Lorentz Geometric Algebra Transformer and omnilearn models on three especially challenging tasks: reweighting-based unfolding, likelihood-ratio estimation, and weakly supervised anomaly detection. Across all benchmarks, both methods achieve comparable performance given the statistical precision of the finetuning datasets, suggesting that the significant efficiency gains from encoding known particle physics structures are largely method independent.</description>
+      <source url="https://doi.org/10.1103/9hs2-prs5">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9hs2-prs5</guid>
+    </item><item>
+      <title>Axionlike particles and sterile neutrinos solve the B→Kνν¯ and B→πK puzzles</title>
+      <link>https://doi.org/10.1103/gd5l-gjrz</link>
+      <description>The recent measurement of the branching ratio of B+→K++inv (where “inv” denotes invisible states) by the Belle II Collaboration is enhanced relative to the standard model expectation by 2.7σ. An older puzzle persists in measurements of the branching ratios and CP asymmetries of B→πK decays. We address these two anomalies in flavor-changing neutral current B decays, with a short-lived axionlike particle (ALP) with mass close to that of the π0. In the model with the minimum number of new couplings, the ALP has couplings to the photon, top quark and a heavy sterile neutrino. The ALP contributes to the B→π0K decays by mixing with the π0. It contributes to B+→K++inv by its off-shell coupling to sterile neutrino pairs. The model can explain the excess in the total rate, but not the observed distribution of signal events. We make predictions for all B→K(*)+inv modes and for the rare kaon decays, K+→π++inv and KL→π0+inv. We find an appreciable contribution to the magnetic moment of the muon, a</description>
+      <source url="https://doi.org/10.1103/gd5l-gjrz">Physical Review D</source>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/gd5l-gjrz</guid>
+    </item><item>
+      <title>Discovery prospects of a singly charged scalar at μTRISTAN</title>
+      <link>https://doi.org/10.1103/3d28-s1rs</link>
+      <description>In this article, we study the associated production of a singly charged (Δ+) scalar along with a W+ boson in the newly proposed μ+μ+ collider (also known as μTRISTAN) at s=2 TeV. Such a singly charged scalar is naturally accommodated in an extremely well-motivated neutrino mass model, namely, the Type-II seesaw model. This model, besides providing a viable explanation of neutrino mass generation, also allows for lepton flavor violating (LFV) processes. Since LFV processes are not allowed in the standard model (SM), we focus on the discovery prospect of the singly charged scalar in the Type-II seesaw model at μTRISTAN through a LFV process, owing to the advantage of this process being free of any SM background. Additionally, this article also proposes a method to indicate if the underlying theory follows a normal or an inverted hierarchy depending on the distribution of lepton flavors in the final state.</description>
+      <source url="https://doi.org/10.1103/3d28-s1rs">Physical Review D</source>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3d28-s1rs</guid>
+    </item><item>
       <title>Off-shell supersymmetry algebra in the Lorentzian IIB matrix model: Algebraic constraints and a κ-Minkowski-like sector</title>
       <link>https://doi.org/10.1016/j.nuclphysb.2026.117638</link>
       <description>The Lorentzian IIB matrix model provides a non-perturbative framework for emergent spacetime from matrix degrees of freedom. We study whether algebraic consistency constrains such structures by imposing restricted off-shell supersymmetry closure, modulo gauge transformations and explicitly identified trivial symmetries, on a CPT-even low-order effective-action ansatz with anisotropic background fields, without imposing their equations of motion.</description>
@@ -14,13 +58,13 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117638</guid>
     </item><item>
-      <title>Probing the Solar B8 Neutrino Fog with XENONnT</title>
-      <link>https://doi.org/10.1103/xvpn-w3q9</link>
-      <description>We report a 3.3σ measurement of coherent elastic neutrino-nucleus scattering from solar B8 neutrinos using a 6.77 t×yr exposure from the XENONnT experiment, inferring a solar B8 neutrino flux of (5−2+3)×106 cm−2 s−1, consistent with previous measurements. In the presence of the B8 “neutrino fog,” we find no evidence for light dark matter, and observe diminishing returns in sensitivity with increasing exposure. A 93% increase in exposure from the previous search improves the median sensitivity to the nucleon scattering cross section for a 5 GeV/c2 spin-independent weakly interacting massive particle by 10%. The dataset was also used to measure the weak mixing angle at ∼0.02 GeV/c momentum transfer and constrain physics beyond the Standard Model.</description>
-      <source url="https://doi.org/10.1103/xvpn-w3q9">Physical Review Letters</source>
+      <title>Searches for Light Dark Matter and Evidence of Coherent Elastic Neutrino-Nucleus Scattering of Solar Neutrinos with the LUX-ZEPLIN (LZ) Experiment</title>
+      <link>https://doi.org/10.1103/jvqf-njpj</link>
+      <description>We present searches for light dark matter (DM) with masses 3–9 GeV/c2 in the presence of coherent elastic neutrino-nucleus scattering (CEνNS) from B8 solar neutrinos with the LUX-ZEPLIN experiment. This analysis uses a 5.7 tonne-yr exposure with data collected between March 2023 and April 2025. In an energy range spanning 1–6 keV, we report no significant excess of events attributable to dark matter nuclear recoils, but we observe a significant signal from B8 CEνNS interactions that is consistent with expectation. We set world-leading limits on spin-independent and spin-dependent-neutron DM-nucleon interactions for masses down to 5 GeV/c2. In the no-dark-matter scenario, we observe a signal consistent with B8 CEνNS events, corresponding to a 4.5σ statistical significance. This is the most significant evidence of B8 CEνNS interactions and is enabled by robust background modeling and mitigation techniques. This demonstrates LZ’s ability to detect rare signals at keV-scale energies.</description>
+      <source url="https://doi.org/10.1103/jvqf-njpj">Physical Review Letters</source>
       <author>et al.</author>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xvpn-w3q9</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/jvqf-njpj</guid>
     </item><item>
       <title>Measurement of the t-channel single top quark cross section in proton-proton collisions at sqrts=5.02 TeV</title>
       <link>https://doi.org/10.1007/JHEP08(2026)223</link>
@@ -76,12 +120,37 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/jt6y-h375</guid>
     </item><item>
-      <title>Efficient many-jet event generation with flow matching</title>
-      <link>https://doi.org/10.1103/j71d-h5w2</link>
-      <description>We apply for the first time, to the best of our knowledge, the flow matching method to the problem of phase-space sampling for event generation in high-energy collider physics. By training the model to remap the random numbers used to generate the momenta and helicities of the scattering matrix elements as implemented in the portable partonic event generator pepper, we find substantial efficiency improvements in the studied processes. We focus our study on the highest final-state multiplicities in Drell-Yan and top-antitop pair production used in simulated samples for the Large Hadron Collider, which computationally are the most relevant ones. We find that the unweighting efficiencies improve by factors of 184 and 25, respectively, when compared to the standard approach of using a vegas-based optimization. We also compare continuous normalizing flows trained with flow matching against the previously studied normalizing flows based on coupling layers and find that the former leads to be</description>
-      <source url="https://doi.org/10.1103/j71d-h5w2">Physical Review D</source>
+      <title>Evidence of ZZγ Production with the ATLAS Detector</title>
+      <link>https://doi.org/10.1103/jngg-1nf3</link>
+      <description>This Letter presents the first evidence of the simultaneous production of two Z bosons and one photon with the ATLAS detector at the Large Hadron Collider. The measurement is performed using the full Run-2 dataset, recorded from 2015 to 2018, of proton-proton collisions at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 140 fb−1. The fully leptonic final state with four leptons and one photon is analyzed, pp→ZZγ→ℓ+ℓ−ℓ′+ℓ′−γ with ℓ,ℓ′=e or μ. This final state is measured in a fiducial region where photon final-state radiation is minimized, and the photon has a transverse momentum of pTγ&gt;20 GeV. Eight events are selected, with a background estimate of 0.92±0.15. This results in an observed (expected) significance of the ZZγ final state of 4.4σ (4.0σ). The measured cross section for pp→ZZγ→ℓ+ℓ−ℓ′+ℓ′−γ in the fiducial region is σZZγ=0.144−0.051+0.065(stat)−0.004+0.008(syst) fb, in agreement with the standard model prediction of σfidSM=0.130±0.006 fb.</description>
+      <source url="https://doi.org/10.1103/jngg-1nf3">Physical Review Letters</source>
+      <author>et al.</author>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/j71d-h5w2</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/jngg-1nf3</guid>
+    </item><item>
+      <title>Evidence of ZZγ Production and Observation of 4ℓγ in Proton-Proton Collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/gdbv-wnpp</link>
+      <description>Evidence of the production of two Z bosons and a photon in proton-proton collisions is reported for the first time in CMS. The analysis uses data collected by the CMS experiment between 2016 and 2018 at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 138 fb−1. Evidence for the process pp→ZZγ→4ℓγ (ℓ=e, μ), with an observed (expected) significance of 3.7 (3.1) standard deviations in a fiducial region defined by pTγ&gt;20 GeV, |ηγ|2.4, ΔR(ℓ,γ)&gt;0.5, mZ between 60 and 120 GeV, and the invariant mass of either of the two Z bosons combined with the photon (mZγ) larger than 100 GeV, is reported. The measured (predicted) fiducial cross section is 60−22+27 ab (47.56±0.04 ab). Additionally, the inclusive production of pp→4ℓγ is studied by removing the mZγ requirement to include final state radiation where one Z boson decays to 2ℓγ, yielding an observed (expected) significance of 5.0 (4.2) standard deviations and a measured (predicted) fiducial cross section of 156−35+</description>
+      <source url="https://doi.org/10.1103/gdbv-wnpp">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/gdbv-wnpp</guid>
+    </item><item>
+      <title>First Experimental Constraint on the Scalar Current in the D0(+)→K¯ℓ+νℓ Transition</title>
+      <link>https://doi.org/10.1103/2ygw-n5b1</link>
+      <description>Using 20.3 fb−1 of e+e− collision data taken at the center-of-mass energy of s=3.773 GeV, we report the first experimental constraint on the scalar current in the D0(+)→K¯ℓ+νℓ transitions, based on a simultaneous fit to the first measured forward-backward asymmetries and precisely determined partial decay rates. The parameters of the scalar current are determined to be Re(cSμ)=0.017±0.008stat±0.006syst and Im(cSμ)=±(0.077±0.011stat±0.009syst), which deviates from the standard model by a significance of 2.3σ. The branching fractions of D0(+)→K¯ℓ+νℓ, the hadronic form factor f+(0), and the modulus of the c→s Cabibbo-Kobayahsi-Maskawa matrix element |Vcs| are also determined with improved precision. In addition, lepton flavor universality is tested via the ratios of the decay rates between semimuonic and semielectronic decays in the full momentum transfer range and in subranges.</description>
+      <source url="https://doi.org/10.1103/2ygw-n5b1">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2ygw-n5b1</guid>
+    </item><item>
+      <title>Evidence of ZZγ Production with the ATLAS Detector</title>
+      <link>https://doi.org/10.1103/jngg-1nf3</link>
+      <description>This Letter presents the first evidence of the simultaneous production of two Z bosons and one photon with the ATLAS detector at the Large Hadron Collider. The measurement is performed using the full Run-2 dataset, recorded from 2015 to 2018, of proton-proton collisions at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 140 fb−1. The fully leptonic final state with four leptons and one photon is analyzed, pp→ZZγ→ℓ+ℓ−ℓ′+ℓ′−γ with ℓ,ℓ′=e or μ. This final state is measured in a fiducial region where photon final-state radiation is minimized, and the photon has a transverse momentum of pTγ&gt;20 GeV. Eight events are selected, with a background estimate of 0.92±0.15. This results in an observed (expected) significance of the ZZγ final state of 4.4σ (4.0σ). The measured cross section for pp→ZZγ→ℓ+ℓ−ℓ′+ℓ′−γ in the fiducial region is σZZγ=0.144−0.051+0.065(stat)−0.004+0.008(syst) fb, in agreement with the standard model prediction of σfidSM=0.130±0.006 fb.</description>
+      <source url="https://doi.org/10.1103/jngg-1nf3">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jngg-1nf3</guid>
     </item><item>
       <title>First Observation of D0(+)→K¯ωe+νe and Determination of the Branching Fraction of K¯1(1270)→K¯ω</title>
       <link>https://doi.org/10.1103/xn4s-xxs8</link>
@@ -90,71 +159,6 @@
       <author>et al.</author>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/xn4s-xxs8</guid>
-    </item><item>
-      <title>Making the case for massive islands</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)214</link>
-      <description>It has been established in both high and low spacetime dimensions that existing constructions of entanglement islands, at least in the study of black holes, are all in the context of massive gravity. In fact, later studies realized that the graviton mass is not an accident and it is necessary for the consistency of the holographic interpretation for entanglement islands. An important lesson we learned from these studies is that the graviton mass is a manifestation of the deep relationship between quantum entanglement and emergent geometry (EPR=ER). Nevertheless, various interesting questions and counter-arguments exist regarding whether this connection is of any relevance, either by modifying the definition of entanglement islands or denying the graviton mass as a physically relevant concept. In this paper, we will revisit the necessity of graviton mass for the consistency of entanglement islands and address the above questions in and out of the literature. Since the calculations in hi</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)214">Journal of High Energy Physics</source>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)214</guid>
-    </item><item>
-      <title>Holographic equidistribution</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)212</link>
-      <description>Hecke operators acting on modular functions arise naturally in the context of 2d conformal field theory, but in seemingly disparate areas, including permutation orbifold theories, ensembles of code CFTs, and more recently in the context of the AdS /RMT program. We use an equidistribution theorem for Hecke operators to show that in each of these large N limits, an entire heavy sector of the partition function gets integrated out, leaving only contributions from Poincaré series of light states. This gives an immediate holographic interpretation as a sum over semiclassical handlebody geometries. We speculate on further physical interpretations for equidistribution, including a potential ergodicity statement.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)212">Journal of High Energy Physics</source>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)212</guid>
-    </item><item>
-      <title>An intermediate scale R-axion &amp; the QCD axion</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)208</link>
-      <description>An intermediate scale R-axion faces an immediate obstruction from the Dine-Festuccia-Komargodski (DFK) bound on the superpotential, 2|⟨W⟩| ≤ f F, since for a nearly Minkowski vacuum it typically follows that f ≳ M . We show that this lower bound on f can be relaxed in an effective construction with the scalar potential tuned near zero via a mixed F-and D-term uplift, leading to a metastable vacuum in which the usual Planckian-f inference from the DFK argument is avoided locally. Validity of the effective field theory and metastability of the small f vacuum generically both imply a relaxed bound: f_Rgtrsim sqrtm₃/2M_Pl . We also highlight that if the R-symmetry has a QCD anomaly, this potentially permits the R-axion to play the role of the QCD axion. TeV-scale supersymmetry permits f ~ 10 GeV, this not only evades certain astrophysical and cosmological axion constraints, but notably lies in the window for which the observed dark matter abundance can be reproduced by the R-axion via the </description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)208">Journal of High Energy Physics</source>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)208</guid>
-    </item><item>
-      <title>Anti-collinear resummation in JIMWLK evolution in the linear regime</title>
-      <link>https://doi.org/10.1007/JHEP08(2026)213</link>
-      <description>The recently-proposed resummation procedure for anti-collinear logarithms in the JIMWLK kernel [1] is studied in the linear (BFKL) regime in the fixed-coupling approximation. Simple closed form expressions for the resummed momentum space kernel and characteristic function χ(n, γ) are found. We find that the anti-collinear pole in the leading order characteristic function at γ = 1 disappears, and instead χ (γ =1)=frac1211fracπ α_sN_c for n = 0. Comparison with the known NLO BFKL eigenvalue, with the target-Bjorken limit (Q ≫ Q ) of the γ (Q ) + γ (Q )-scattering amplitude and with the “all-poles” resummation prescription are presented.</description>
-      <source url="https://doi.org/10.1007/JHEP08(2026)213">Journal of High Energy Physics</source>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP08(2026)213</guid>
-    </item><item>
-      <title>Polarization Measurement of Λc+ and Λ¯c− Baryons in p−Ne Collisions at sNN=68.6 GeV</title>
-      <link>https://doi.org/10.1103/pb8c-3lnn</link>
-      <description>The first measurement of the polarization of charm baryons by the LHCb experiment recorded in fixed-target mode is presented. The polarization of Λc baryons is studied in collisions of protons, at an energy of 2.51 TeV, incident on a gaseous target of neon, at a nucleon-nucleon center-of-mass energy of 68.6 GeV. The world’s first measurement of separate-charge polarizations for Λc+ and Λ¯c− baryons is performed, determining PΛc+=(24±9±2)%, PΛ¯c−=(−8±12±3)%, where the first uncertainty is statistical and the second systematic. The polarization is also measured in intervals of baryon transverse momentum and the Feynman-x variable.</description>
-      <source url="https://doi.org/10.1103/pb8c-3lnn">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pb8c-3lnn</guid>
-    </item><item>
-      <title>Lindbladian for exact renormalization of density operators in QFT</title>
-      <link>https://doi.org/10.1103/5vx6-bk2m</link>
-      <description>Fliss et al. [Phys. Rev. D 95, 126001 (2017).] extended the exact renormalization group (ERG) to arbitrary wave functionals in quantum field theory. Applying this formalism, we show that a Lindblad master equation gives the ERG flow of density matrices. The Lindbladian consists of a “Hamiltonian” term, which is the sum of a scaling and a coarse-graining (disentangling) operator, and a dissipative term with absorption and emission rates for each momentum mode. We consider as examples the flow of Gaussian states and the perturbative ground state of λϕ4 theory and highlight the role of the dissipative terms in generating accurate contributions to the flow of couplings at nontrivial order in λ. Integrating the Lindblad master equation, we find that a finite ERG flow of density matrices is described by a quantum channel. It follows from the data processing inequality that any distinguishability measure of states is an ERG monotone.</description>
-      <source url="https://doi.org/10.1103/5vx6-bk2m">Physical Review D</source>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5vx6-bk2m</guid>
-    </item><item>
-      <title>Effects of the ekpyrotic mechanism on inflationary phase in loop quantum cosmologies</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16275-x</link>
-      <description>In bouncing cosmological models – whether classical or quantum – the big bang singularity is replaced by a regular bounce. A well-known challenge is controlling the growth of shear during the contracting phase, as the shear scales as a^-6 toward the bounce, where a is the average expansion factor of the universe. A common solution is to introduce a scalar field with an ekpyrotic-like potential that becomes negative near the bounce, giving an effective equation of state greater than one, thereby dominating the shear and allowing a homogeneous, isotropic universe to emerge after the bounce. In this paper, we investigate how the ekpyrotic mechanism affects the inflationary phase in both loop quantum cosmology (LQC) and a modified loop quantum cosmology model (mLQC-I) – frameworks in which inflation is otherwise generic. We consider a potential consisting of an inflationary part and an ekpyrotic-like component. Through numerical studies of various models, we find that the ekpyrotic mechani</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16275-x">European Physical Journal C</source>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16275-x</guid>
-    </item><item>
-      <title>CMB birefringence from vacuum interfaces</title>
-      <link>https://doi.org/10.1103/cyz7-kplp</link>
-      <description>Hints of cosmic microwave background polarization rotation (Δϑ∼10−3 rad) are commonly attributed to late-time dynamics of ultralight axions. We show that such ultralight degrees of freedom are not required. Polarization rotation naturally arises as a geometric interface phase acquired when photons cross interfaces between topologically distinct dark sector vacua. The effect is a discrete phase shift fixed by the normalization of a wall-supported electromagnetic Chern-Simons interaction and protected by an emergent 1-form symmetry of the low energy effective theory. This mechanism reproduces the familiar adiabatic rotation induced by light axion domain walls, but persists for arbitrarily thin walls where the axion is heavy or absent. In this regime the rotation manifests as a Pancharatnam phase localized at vacuum interfaces, independent of redshift and photon frequency below a natural ultraviolet cutoff. Cosmic birefringence thus emerges as a probe of vacuum structure in the dark secto</description>
-      <source url="https://doi.org/10.1103/cyz7-kplp">Physical Review D</source>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cyz7-kplp</guid>
-    </item><item>
-      <title>Production of muonic kaon atoms at high-energy colliders * This work was supported in part by the National Natural Science Foundation of China (12361141827, 12422510), and by the Office of Nuclear Physics within the U.S. Department of Energy Office of Science (DE-FG02-89ER40531). The National Key Research and Development Program of China (2022YFA1604900). W. Zha acknowledges support from the Anhui Provincial Natural Science Foundation (2508085JX002), the Youth Innovation Promotion Association of the Chinese Academy of Sciences, and the Chinese Academy of Sciences (YSBR088)</title>
-      <link>https://doi.org/10.1088/1674-1137/ae662f</link>
-      <description>In this study, we develop a framework for producing exotic muonic kaon atoms ( Kμ ) in semileptonic D^0 decays using an effective weak Hamiltonian, a helicity-based treatment of leptonic current, and a nonrelativistic bound-state projection. The resulting branching ratio BR(D^0 →(Kμ )νμ)=2.29×10^-10 is implemented in a ROOT-based code to estimate yields at a relativistic heavy-ion collider (RHIC), large hadron collider (LHC), and super tau-charm facility (STCF). We demonstrate quantitatively that Kμ atoms, which are also produced through coalescence in the quark–gluon plasma (QGP), offer a sensitive probe of low-momentum primordial muons and early-time electromagnetic radiation, acting as complementary constraints in an otherwise unexplored phase space for thermal dilepton and photon emission. Newly estimated dissociation cross-sections in detector material indicate that secondary-vertex reconstruction should be experimentally feasible, enabling the clean experimental identification of</description>
-      <source url="https://doi.org/10.1088/1674-1137/ae662f">Chinese Physics C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1088/1674-1137/ae662f</guid>
     </item>
   </channel>
 </rss>
