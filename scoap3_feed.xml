@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:21:06 +0000</lastBuildDate>
     <item>
+      <title>The role of the soft scale for J/ψ production in the transverse momentum dependent framework</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)061</link>
+      <description>We use vNRQCD to study power corrections in the v expansion due to soft gluon radiation during J/ψ production at small transverse momentum. We categorize four new J/ψ production operators that mediate the transition of perturbatively produced color-octet charm quark/anti-quark pairs to charm quarks in a ^3S₁^[1] state via soft gluon emission. We then use Soft Collinear Effective Theory and vNRQCD to derive a factorization theorem for J/ψ production in SIDIS in terms of the gluon transverse momentum dependent (TMD) PDFs in the proton and new objects which we call TMD soft transition functions. We show that the TMD soft transition function leads in the v power-counting with respect to the color-octet TMD shape functions that have been used in previous studies of J/ψ production at small transverse momentum.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)061">Journal of High Energy Physics</source>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)061</guid>
+    </item><item>
       <title>Factorizing quarkonium production matrix elements using effective field theory</title>
       <link>https://doi.org/10.1007/JHEP09(2026)062</link>
       <description>We use effective field theory to factorize production matrix elements that appear in quarkonium cross sections in NRQCD. By applying a Hubbard-Stratonovich transformation we show that the soft and ultrasoft sectors of NRQCD can be decoupled from the heavy quark and antiquark fields in a hybrid vNRQCD/pNRQCD Lagrangian at leading order in the velocity power counting. This enables us to separate quarkonium production matrix elements in terms of matrix elements of color-singlet composite fields, which we can write as the wavefunction at the origin, and state independent vacuum correlators of chromo-electric and chromo-magnetic gluon fields. This approach verifies powerful connections between the LDMEs of different S-wave vector quarkonium states, originally derived using pNRQCD. Additionally, we find new operator contributions for the color-octet P-wave mechanism, which satisfy a similar set of relationships. Finally, this approach allows us to factorize the production matrix elements tha</description>
@@ -28,22 +35,6 @@
       <source url="https://doi.org/10.1103/w6x5-cwbm">Physical Review D</source>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/w6x5-cwbm</guid>
-    </item><item>
-      <title>Measuring charge transport in high-energy nuclear collisions with an energy scan of isobaric collisions</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16282-y</link>
-      <description>We present a method to measure electric-charge transport in high-energy nuclear collisions using a beam-energy scan of isobaric systems. Comparing collisions of nuclei with identical mass number but different atomic numbers allows the charge difference ( varDelta Q ) to be extracted with a double-ratio technique that suppresses most experimental systematic uncertainties. By varying the beam energy, the rapidity gap ( varDelta y ) over which electric charge is transported can be systematically scanned. Simulations of Ru+Ru and Zr+Zr collisions at sqrts_textrmNN=19.6 –200 GeV with UrQMD and 8 Angantyr show that midrapidity varDelta Q decreases exponentially with increasing varDelta y , with the slope parameter exhibiting strong model dependence. Comparisons to baryon-number transport reveal distinct patterns. In both UrQMD and 8 Angantyr (with and without final-state baryon junctions), where baryon number is carried solely by valence quarks, the rapidity slope for baryon transport is lar</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16282-y">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16282-y</guid>
-    </item><item>
-      <title>Highly boosted dielectron identification in proton-proton collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/hb72-vjj6</link>
-      <description>A new technique is developed to identify dielectrons (e+e−) with Lorentz boost γL&gt;20 that produce one single merged cluster in the electromagnetic calorimeter of the CMS detector. The identification uses two multivariate models: one for the case where both electron tracks are reconstructed, and another where only one of the tracks is reconstructed. The efficiency is determined using proton-proton collision data collected at a center-of-mass energy of 13 TeV. Boosted J/ψ mesons decaying into e+e− pairs are used to estimate the efficiency of the model with two tracks, yielding an overall efficiency of 80%. The Z→μ+μ−γ events, where the photon converts into a collimated dielectron, are used for the model with a single track, yielding an efficiency of about 60%. A dedicated energy correction for dielectron candidates is also developed using B±→J/ψK±→e+e−K± data.</description>
-      <source url="https://doi.org/10.1103/hb72-vjj6">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hb72-vjj6</guid>
     </item><item>
       <title>Observation of ηc→pp¯η via ψ(3686)→γpp¯η</title>
       <link>https://doi.org/10.1103/qz3j-g5v5</link>
@@ -84,13 +75,6 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)044</guid>
     </item><item>
-      <title>Simulating the non-unitary Yang-Lee conformal field theory on the fuzzy sphere</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)041</link>
-      <description>The fuzzy sphere method has enjoyed great success in the study of (2+1)-dimensional unitary conformal field theories (CFTs) by regularizing them as quantum Hall transitions on the sphere. Here, we extend this approach to the Yang-Lee CFT — the simplest non-unitary CFT. We use an Ising quantum-Hall ferromagnet Hamiltonian with a transverse field and an imaginary longitudinal field, the latter breaks the Hermiticity of the Hamiltonian and thus the unitarity of the associated quantum field theory. Non-unitary conformal field theories — particularly the Yang-Lee CFT — pose significant challenges to conventional fuzzy sphere approaches. To overcome these obstacles, here we utilize a different method for determining critical points that requires no a priori knowledge of CFT scaling dimensions. Our method instead leverages the state-operator correspondence while utilizing two complementary criteria: the conformality of the energy spectrum and its consistency with conformal perturbation theory</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)041">Journal of High Energy Physics</source>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)041</guid>
-    </item><item>
       <title>One-loop effect in the charged 2D black hole near extremality</title>
       <link>https://doi.org/10.1007/JHEP09(2026)057</link>
       <description>We study the one-loop correction to the near-extremal quantum entropy of the charged two-dimensional black hole introduced in [1]. In target space this background can be understood as arising from the dimensional reduction of a three-dimensional solution of the low-energy string effective action. On the other hand, its worldsheet description is provided by the dimensionally reduced fracSL(2,mathbbR)× U(1)U(1) WZW model. Using this latter formulation, we compute the torus partition function to extract the temperature dependence of the one-loop stringy correction to the quantum entropy arising from the short-string sector. We show that this result is under control as long as the black hole temperature satisfies the condition Tgtrsim frac14π sqrtk , where the saturation of this bound corresponds to the long-string contribution to the free energy becoming divergent. We speculate that this threshold behavior of the partition function can be interpreted as a signature of the black hole/strin</description>
@@ -106,6 +90,42 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/gwj9-5bxm</guid>
     </item><item>
+      <title>Continuum canonical purifications</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)033</link>
+      <description>We construct and characterize canonical purifications for general algebraic states, extending prior constructions by Woronowicz and by Dutta/Faulkner to general quantum field theories. Given a quantum state on a *-algebra, the canonical purification is a state on a “doubled” algebra that admits an interpretation in terms of CRT reflection. This interpretation holds for all quantum theories, even in the absence of gravity. We then identify conditions under which canonical purifications are “pure” in the technical sense, compute their modular conjugations, and relate them to GNS and natural-cone purifications in certain settings. In an appendix, we develop a general theory of von Neumann algebras generated by unbounded *-algebras. In a forthcoming paper with Caminiti and Capeccia, we provide an application of this general theory to the problem of excitability in quantum field theory.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)033">Journal of High Energy Physics</source>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)033</guid>
+    </item><item>
+      <title>Descending into the modular bootstrap</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)029</link>
+      <description>In this paper, we attempt to explore the landscape of two-dimensional conformal field theories (2d CFTs) by efficiently searching for numerical solutions to the modular bootstrap equation using machine-learning-style optimization. The torus partition function of a 2d CFT is fixed by the spectrum of its primary operators and its chiral algebra, which we take to be the Virasoro algebra with c &gt; 1. We translate the requirement that this partition function is modular invariant into a loss function, which we then minimize to identify possible primary spectra. Our approach involves two technical innovations that facilitate finding reliable candidate CFTs. The first is a strategy to estimate the uncertainty associated with truncating the spectrum to the lowest dimension operators. The second is the use of a new singular-value-based optimizer (Sven) that is more effective than gradient descent at navigating the hierarchical structure of the loss landscape. We numerically construct candidate tr</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)029">Journal of High Energy Physics</source>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)029</guid>
+    </item><item>
+      <title>Fortuity and complexity in a simple quark model</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)040</link>
+      <description>We observe and elaborate on a structural similarity between the categorization of monotone and fortuitous BPS operators in supersymmetric theories and gauge invariant quark operators in SU (N ) QCD. Our designation of fortuity does not rely on supersymmetry and instead uses the BRST cohomology. We argue that within this designation, baryon states are fortuitous while meson states are monotone. We illustrate that in the Veneziano limit of large number of flavors and colors, this designation displays features resembling the fortuitous vs. monotone categorization of BPS operators, e.g., an exponential vs. polynomial dichotomy in the counting of operators. We explore these ideas explicitly in a toy qubit model of quarks. We further investigate the stabilizer Rényi entropy of meson and baryon states as a proxy for the complexity of classical simulation for these states. We show that all mesons display power law complexity and present evidence that typical baryons display super-exponential c</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)040">Journal of High Energy Physics</source>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)040</guid>
+    </item><item>
+      <title>Higher-order hadronic vacuum polarization contribution to the muon g − 2 from lattice QCD</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)038</link>
+      <description>We present the first lattice QCD calculation of the next-to-leading order hadronic vacuum polarization contribution to the muon anomalous magnetic moment with sub-percent precision. We employ the time-momentum representation for the space-like kernel, which is combined with the spatially summed vector correlator computed on CLS ensembles with N = 2 + 1 flavors of O(a)-improved Wilson fermions, covering six lattice spacings between 0.039 and 0.097 fm and a range of pion masses including the physical value. After accounting for finite-size corrections and isospin-breaking effects, we obtain as our final, continuum-extrapolated result aμ^hvp,kern0.30em nlo = −101.57(26) (54) × 10 . It lies below the estimate provided by the 2025 White Paper of the Muon (g – 2) Theory Initiative by 1.4σ but is two times more precise. It also exhibits a strong tension of 4.6σ with data-driven evaluations based on hadronic cross section measurements excluding the recent result by CMD-3.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)038">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)038</guid>
+    </item><item>
+      <title>Four-point function of the complex Sachdev-Ye-Kitaev model at finite chemical potential</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)039</link>
+      <description>It is known that, for a range of chemical potentials, the infrared behavior of the complex Sachdev-Ye-Kitaev (cSYK) model is governed by a 1D Nearly Conformal Field Theory (NCFT ), thereby realizing a continuous line of NCFTs. A finite chemical potential μ introduces an asymmetry parameter mathcalE into the cSYK fermion two-point function in the conformal limit. In this work, we compute the cSYK four-point function in the conformal limit for an arbitrary value of mathcalE at leading order in 1/N. We show that the result is fully consistent with the NCFT structure of the cSYK model and use it to extract the structure constants for correlation functions of two complex fermions with bilinear operators.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)039">Journal of High Energy Physics</source>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)039</guid>
+    </item><item>
       <title>Amplitude-based analysis of QED radiative corrections to electroproduction of η-mesons on protons</title>
       <link>https://doi.org/10.1103/78q1-72dn</link>
       <description>A formalism for radiative correction calculations in exclusive η electroproduction on the proton is presented, extending the treatment developed for the pion channel. The exclurad code is used in the radiative correction procedure with EtaMAID-2023 multipole amplitudes. The cross-section correction factor δ varies by up to ∼30% across the resonance region W=1.49–2.0 GeV at Ebeam=6.535 GeV, with a local maximum near W≃1.66 GeV driven by the S11(1535) and S11(1650) resonances. The beam-spin asymmetry is suppressed by 15%–25% at the same kinematics. Numerical results covering Q2=0.3–4.0 GeV2 and the full angular range are provided for kinematics relevant to CLAS12 experiments at Jefferson Lab.</description>
@@ -122,29 +142,12 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/wnxl-yf95</guid>
     </item><item>
-      <title>Limiting the Parameter Space for Unstable eV-Scale Neutrinos Using IceCube Data</title>
-      <link>https://doi.org/10.1103/dpjg-54bg</link>
-      <description>This Letter extends a recent IceCube sterile neutrino search to include unstable sterile neutrinos within the context of a model termed 3+1+Decay, which expands upon the 3+1 model by introducing sterile neutrino decay to invisible particles with coupling constant g2. The model is attractive since it reduces tension between oscillation experiments within the global fits and with constraints that come from cosmological observables. The analysis uses 10.7 years of up-going muon neutrino data with energy 500 GeV to 100 TeV and with improved reconstruction and modeling of systematics. The best-fit point is found to be g2=0, sin2(2θ24)=0.16, and Δm412=3.5 eV2, in agreement with the recent 3+1 sterile neutrino search. Values of g2≥π are excluded at 95% confidence level. This result substantially limits decay parameter space indicated by recent global fits, disfavoring the decay scenario.</description>
-      <source url="https://doi.org/10.1103/dpjg-54bg">Physical Review Letters</source>
-      <author>et al.</author>
+      <title>Novel constraints on spin-dependent light dark matter scattering</title>
+      <link>https://doi.org/10.1103/9ykw-gf17</link>
+      <description>We explore the sensitivity of the Sudbury Neutrino Observatory (SNO) experiment to light dark matter particles χ with spin-dependent interactions with nucleons. We show that the pair-production of MeV scale dark matter is possible in heavy water (CANDU (Canada Deuterium Uranium)) reactors via D(n,χχ¯)He3, and calculate the expected rate within the simplest models of χ-nucleon interactions. Owing to a sizable Q-value for this reaction, a large fraction of dark matter (DM) particles produced this way are above the threshold for deuteron disintegration, D(χ,χ)np, which adds to the SNO neutral current signal. Evaluating the CANDU-to-SNO scheme for the production and detection of DM, we derive novel constraints for the χ-nucleon spin-dependent cross sections, showing that cross sections above σχp∼10−33 cm2 are generally excluded if mχ≤1.5 MeV. An isospin-mirror reaction will occur in the Sun, and for the kinematically allowed region it excludes a portion of parameter space with cross sectio</description>
+      <source url="https://doi.org/10.1103/9ykw-gf17">Physical Review D</source>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dpjg-54bg</guid>
-    </item><item>
-      <title>Search for New Physics via Low-Energy Electron Recoils with a 4.2 Tonne-Year Exposure from the LZ Experiment</title>
-      <link>https://doi.org/10.1103/wnxl-yf95</link>
-      <description>We report results from searches for new physics models through electron recoils using data collected by the LUX-ZEPLIN experiment during its first two science runs, with a total exposure of 4.2 tonne−years. The observed data are consistent with a background-only hypothesis. Constraints are derived for electromagnetic interactions of solar neutrinos, solar axionlike particles (ALPs), mirror dark matter, and the absorption of bosonic dark matter candidates. The inverse Primakoff process for Fe57 deexcitation solar ALPs is considered for the first time. These results represent the most stringent constraints to date on keV-scale Primakoff and Fe57 solar ALPs, bosonic dark matter, mirror dark matter, and neutrino millicharge, while remaining competitive for the other signal models investigated.</description>
-      <source url="https://doi.org/10.1103/wnxl-yf95">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wnxl-yf95</guid>
-    </item><item>
-      <title>Amplitude-based analysis of QED radiative corrections to electroproduction of η-mesons on protons</title>
-      <link>https://doi.org/10.1103/78q1-72dn</link>
-      <description>A formalism for radiative correction calculations in exclusive η electroproduction on the proton is presented, extending the treatment developed for the pion channel. The exclurad code is used in the radiative correction procedure with EtaMAID-2023 multipole amplitudes. The cross-section correction factor δ varies by up to ∼30% across the resonance region W=1.49–2.0 GeV at Ebeam=6.535 GeV, with a local maximum near W≃1.66 GeV driven by the S11(1535) and S11(1650) resonances. The beam-spin asymmetry is suppressed by 15%–25% at the same kinematics. Numerical results covering Q2=0.3–4.0 GeV2 and the full angular range are provided for kinematics relevant to CLAS12 experiments at Jefferson Lab.</description>
-      <source url="https://doi.org/10.1103/78q1-72dn">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/78q1-72dn</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/9ykw-gf17</guid>
     </item><item>
       <title>Unconventional Materials for Light Dark Matter Detection</title>
       <link>https://doi.org/10.1103/jdw6-3556</link>
@@ -152,13 +155,6 @@
       <source url="https://doi.org/10.1103/jdw6-3556">Physical Review Letters</source>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/jdw6-3556</guid>
-    </item><item>
-      <title>Isospin dependence of the nuclear EMC effect from a global QCD analysis</title>
-      <link>https://doi.org/10.1103/trd9-gtnr</link>
-      <description>We perform a new global QCD analysis of unpolarized parton distribution functions (PDFs) in the nucleon from proton, deuteron, and A=3 data, including recent measurements of He3/D and H3/D cross section ratios from the MARATHON experiment at Jefferson Lab. Simultaneously inferring the PDFs and nucleon off-shell corrections allows both to be determined consistently, without theoretical assumptions about the isospin dependence of nuclear effects. The analysis provides strong evidence for the need of nucleon off-shell corrections to describe the A=3 data, with large isoscalar and a suggestion of nonzero isovector contributions in A≤3 nuclei. We find that the extracted EMC ratios of nuclear to nucleon structure functions for A=2 and 3 differ from those naively extrapolated from heavy nuclei down to low A.</description>
-      <source url="https://doi.org/10.1103/trd9-gtnr">Physical Review D</source>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/trd9-gtnr</guid>
     </item>
   </channel>
 </rss>
