@@ -5,8 +5,22 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 13:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 15:27:21 +0000</lastBuildDate>
     <item>
+      <title>Black hole dynamics at fifth post-Newtonian order</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)075</link>
+      <description>Using the worldline in-in effective action obtained in [1], we derive the total even-in-velocity relative impulse, scattering angle, and time delay at fifth post-Newtonian (5PN) order, including radiation-reaction and hereditary contributions at (G ν ) and 𝒪(G ν ). We introduce an isotropic-like description which, together with the associated losses of energy and angular momentum, fixes the evolution of the system entirely from scattering data. This framework opens the door to an unambiguous characterization of the underlying two-body dynamics solely in terms of scattering observables. Following [1], we isolate a conservative component using Feynman’s i0 prescription. This sector contains both “tail-like” and “memory-like” contributions, the latter being intrinsically nonlocal in time and described by a double Principal-Value integral. Owing to the local-in-time character of the corresponding (in-in) action, we establish a systematic procedure that is consistent with Feynman’s prescrip</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)075">Journal of High Energy Physics</source>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)075</guid>
+    </item><item>
+      <title>The role of charm and unflavored mesons in prompt atmospheric lepton fluxes</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)066</link>
+      <description>The all-sky very-high-energy (10 − 10 GeV) atmospheric muon flux measured by IceCube shows a spectral hardening at the highest energies, indicating the presence of a prompt component. IceCube has also measured the atmospheric muon neutrino flux at high energy. However, since this flux is dominated by astrophysical neutrinos, only an upper bound can be placed on the prompt atmospheric νμ +overlineν μ contribution. In this work, we provide a new evaluation of the prompt atmospheric muon flux including an intrinsic charm component in the cosmic ray-air interactions. The latter enhances the forward production of overlineD ^0 , D , and Λ , which subsequently decay into final states containing muons and muon neutrinos. We show how the increase in the prompt muon flux due to intrinsic charm is accompanied by a corresponding enhancement in the prompt muon neutrino flux. We implement different intrinsic charm production models in MCEq to calculate the resulting lepton fluxes. We discuss the cha</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)066">Journal of High Energy Physics</source>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)066</guid>
+    </item><item>
       <title>The role of the soft scale for J/ψ production in the transverse momentum dependent framework</title>
       <link>https://doi.org/10.1007/JHEP09(2026)061</link>
       <description>We use vNRQCD to study power corrections in the v expansion due to soft gluon radiation during J/ψ production at small transverse momentum. We categorize four new J/ψ production operators that mediate the transition of perturbatively produced color-octet charm quark/anti-quark pairs to charm quarks in a ^3S₁^[1] state via soft gluon emission. We then use Soft Collinear Effective Theory and vNRQCD to derive a factorization theorem for J/ψ production in SIDIS in terms of the gluon transverse momentum dependent (TMD) PDFs in the proton and new objects which we call TMD soft transition functions. We show that the TMD soft transition function leads in the v power-counting with respect to the color-octet TMD shape functions that have been used in previous studies of J/ψ production at small transverse momentum.</description>
@@ -36,21 +50,13 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/w6x5-cwbm</guid>
     </item><item>
-      <title>Observation of ηc→pp¯η via ψ(3686)→γpp¯η</title>
-      <link>https://doi.org/10.1103/qz3j-g5v5</link>
-      <description>The decay ηc→pp¯η is observed for the first time with a significance of exceeding 10σ. It is found by analyzing (2712.4±14.3)×106 ψ(3686) events accumulated at the BESIII detector. The measured branching fraction of ηc→pp¯η via ψ(3686)→γpp¯η is significantly influenced by the interference between the resonant ηc decay and the nonresonant process ψ(3686)→γpp¯η and is measured in both constructive-and destructive-interference scenarios. The joint branching fraction of ψ(3686)→γηc, ηc→pp¯η is measured to be (3.2±0.1±0.8)×10−6 or (8.7±0.3±1.7)×10−6 for constructive-or destructive-interference solutions, respectively, where the first uncertainties are statistical and the second systematic. The branching fraction of ηc→pp¯η is determined to be B(ηc→pp¯η)=(0.90±0.04±0.21±0.13)×10−3 or (2.42±0.07±0.48±0.34)×10−3 for the two solutions, respectively, where the third uncertainties are due to the uncertainty in the branching fraction of ψ(3686)→γηc.</description>
-      <source url="https://doi.org/10.1103/qz3j-g5v5">Physical Review D</source>
+      <title>Measuring charge transport in high-energy nuclear collisions with an energy scan of isobaric collisions</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16282-y</link>
+      <description>We present a method to measure electric-charge transport in high-energy nuclear collisions using a beam-energy scan of isobaric systems. Comparing collisions of nuclei with identical mass number but different atomic numbers allows the charge difference ( varDelta Q ) to be extracted with a double-ratio technique that suppresses most experimental systematic uncertainties. By varying the beam energy, the rapidity gap ( varDelta y ) over which electric charge is transported can be systematically scanned. Simulations of Ru+Ru and Zr+Zr collisions at sqrts_textrmNN=19.6 –200 GeV with UrQMD and 8 Angantyr show that midrapidity varDelta Q decreases exponentially with increasing varDelta y , with the slope parameter exhibiting strong model dependence. Comparisons to baryon-number transport reveal distinct patterns. In both UrQMD and 8 Angantyr (with and without final-state baryon junctions), where baryon number is carried solely by valence quarks, the rapidity slope for baryon transport is lar</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16282-y">European Physical Journal C</source>
       <author>et al.</author>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qz3j-g5v5</guid>
-    </item><item>
-      <title>Measurement of Reactor Antineutrino Oscillations with 1.46 Kilotonne-Years of Data at SNO+</title>
-      <link>https://doi.org/10.1103/mv5z-pfb7</link>
-      <description>The SNO+ Collaboration reports new results on reactor antineutrino oscillations using data acquired from May 2022 through July 2025. The spectral analysis of a flux dominated by nuclear reactors at 240, 340, and 350 km yields the mass-squared difference Δm212=(7.91−0.25+0.22)×10−5 eV2. This result is compatible with and approaches the precision of the only other long-baseline reactor antineutrino measurement, by KamLAND. Combining these measurements, along with those from solar neutrino experiments, the global values of the neutrino mixing parameters become Δm212=(7.59±0.17)×10−5 eV2 and sin2θ12=0.310±0.012. The analysis of geoneutrinos at SNO+ is also improved, with a measured signal of 48−12+14 TNU.</description>
-      <source url="https://doi.org/10.1103/mv5z-pfb7">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mv5z-pfb7</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16282-y</guid>
     </item><item>
       <title>Highly boosted dielectron identification in proton-proton collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/hb72-vjj6</link>
@@ -59,6 +65,14 @@
       <author>et al.</author>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/hb72-vjj6</guid>
+    </item><item>
+      <title>Observation of ηc→pp¯η via ψ(3686)→γpp¯η</title>
+      <link>https://doi.org/10.1103/qz3j-g5v5</link>
+      <description>The decay ηc→pp¯η is observed for the first time with a significance of exceeding 10σ. It is found by analyzing (2712.4±14.3)×106 ψ(3686) events accumulated at the BESIII detector. The measured branching fraction of ηc→pp¯η via ψ(3686)→γpp¯η is significantly influenced by the interference between the resonant ηc decay and the nonresonant process ψ(3686)→γpp¯η and is measured in both constructive-and destructive-interference scenarios. The joint branching fraction of ψ(3686)→γηc, ηc→pp¯η is measured to be (3.2±0.1±0.8)×10−6 or (8.7±0.3±1.7)×10−6 for constructive-or destructive-interference solutions, respectively, where the first uncertainties are statistical and the second systematic. The branching fraction of ηc→pp¯η is determined to be B(ηc→pp¯η)=(0.90±0.04±0.21±0.13)×10−3 or (2.42±0.07±0.48±0.34)×10−3 for the two solutions, respectively, where the third uncertainties are due to the uncertainty in the branching fraction of ψ(3686)→γηc.</description>
+      <source url="https://doi.org/10.1103/qz3j-g5v5">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/qz3j-g5v5</guid>
     </item><item>
       <title>First nuclear ultraheavy dark matter search in argon time projection chambers with the DarkSide-50 experiment</title>
       <link>https://doi.org/10.1103/r3zg-zlfg</link>
@@ -81,6 +95,13 @@
       <source url="https://doi.org/10.1007/JHEP09(2026)057">Journal of High Energy Physics</source>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)057</guid>
+    </item><item>
+      <title>Simulating the non-unitary Yang-Lee conformal field theory on the fuzzy sphere</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)041</link>
+      <description>The fuzzy sphere method has enjoyed great success in the study of (2+1)-dimensional unitary conformal field theories (CFTs) by regularizing them as quantum Hall transitions on the sphere. Here, we extend this approach to the Yang-Lee CFT — the simplest non-unitary CFT. We use an Ising quantum-Hall ferromagnet Hamiltonian with a transverse field and an imaginary longitudinal field, the latter breaks the Hermiticity of the Hamiltonian and thus the unitarity of the associated quantum field theory. Non-unitary conformal field theories — particularly the Yang-Lee CFT — pose significant challenges to conventional fuzzy sphere approaches. To overcome these obstacles, here we utilize a different method for determining critical points that requires no a priori knowledge of CFT scaling dimensions. Our method instead leverages the state-operator correspondence while utilizing two complementary criteria: the conformality of the energy spectrum and its consistency with conformal perturbation theory</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)041">Journal of High Energy Physics</source>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)041</guid>
     </item><item>
       <title>Search for Associated Production of a Higgs Boson and Two Vector Bosons via Vector-Boson Scattering at s=13 TeV</title>
       <link>https://doi.org/10.1103/gwj9-5bxm</link>
@@ -126,35 +147,12 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)039</guid>
     </item><item>
-      <title>Amplitude-based analysis of QED radiative corrections to electroproduction of η-mesons on protons</title>
-      <link>https://doi.org/10.1103/78q1-72dn</link>
-      <description>A formalism for radiative correction calculations in exclusive η electroproduction on the proton is presented, extending the treatment developed for the pion channel. The exclurad code is used in the radiative correction procedure with EtaMAID-2023 multipole amplitudes. The cross-section correction factor δ varies by up to ∼30% across the resonance region W=1.49–2.0 GeV at Ebeam=6.535 GeV, with a local maximum near W≃1.66 GeV driven by the S11(1535) and S11(1650) resonances. The beam-spin asymmetry is suppressed by 15%–25% at the same kinematics. Numerical results covering Q2=0.3–4.0 GeV2 and the full angular range are provided for kinematics relevant to CLAS12 experiments at Jefferson Lab.</description>
-      <source url="https://doi.org/10.1103/78q1-72dn">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/78q1-72dn</guid>
-    </item><item>
-      <title>Search for New Physics via Low-Energy Electron Recoils with a 4.2 Tonne-Year Exposure from the LZ Experiment</title>
-      <link>https://doi.org/10.1103/wnxl-yf95</link>
-      <description>We report results from searches for new physics models through electron recoils using data collected by the LUX-ZEPLIN experiment during its first two science runs, with a total exposure of 4.2 tonne−years. The observed data are consistent with a background-only hypothesis. Constraints are derived for electromagnetic interactions of solar neutrinos, solar axionlike particles (ALPs), mirror dark matter, and the absorption of bosonic dark matter candidates. The inverse Primakoff process for Fe57 deexcitation solar ALPs is considered for the first time. These results represent the most stringent constraints to date on keV-scale Primakoff and Fe57 solar ALPs, bosonic dark matter, mirror dark matter, and neutrino millicharge, while remaining competitive for the other signal models investigated.</description>
-      <source url="https://doi.org/10.1103/wnxl-yf95">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wnxl-yf95</guid>
-    </item><item>
       <title>Novel constraints on spin-dependent light dark matter scattering</title>
       <link>https://doi.org/10.1103/9ykw-gf17</link>
       <description>We explore the sensitivity of the Sudbury Neutrino Observatory (SNO) experiment to light dark matter particles χ with spin-dependent interactions with nucleons. We show that the pair-production of MeV scale dark matter is possible in heavy water (CANDU (Canada Deuterium Uranium)) reactors via D(n,χχ¯)He3, and calculate the expected rate within the simplest models of χ-nucleon interactions. Owing to a sizable Q-value for this reaction, a large fraction of dark matter (DM) particles produced this way are above the threshold for deuteron disintegration, D(χ,χ)np, which adds to the SNO neutral current signal. Evaluating the CANDU-to-SNO scheme for the production and detection of DM, we derive novel constraints for the χ-nucleon spin-dependent cross sections, showing that cross sections above σχp∼10−33 cm2 are generally excluded if mχ≤1.5 MeV. An isospin-mirror reaction will occur in the Sun, and for the kinematically allowed region it excludes a portion of parameter space with cross sectio</description>
       <source url="https://doi.org/10.1103/9ykw-gf17">Physical Review D</source>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/9ykw-gf17</guid>
-    </item><item>
-      <title>Unconventional Materials for Light Dark Matter Detection</title>
-      <link>https://doi.org/10.1103/jdw6-3556</link>
-      <description>We propose the use of several unconventional materials as detectors for dark matter with mass beneath the MeV scale. These include the transition-metal dichalcogenide TiSe2 hosting a low-energy plasmon in the charge-density-wave phase, Sr2RuO4 containing a low-energy acoustic demon mode, and hole-doped diamond with tunable optical and acoustic plasmon frequencies. We perform first-principles density functional theory computations of their loss functions at nonvanishing momenta and establish their reach into light dark matter parameter space. We show that due to intense low-energy plasmon modes—of different microscopic origin in each—the reach of detectors based on these materials could surpass existing proposals by several orders of magnitude for both dark matter scattering and absorption on electrons. The anisotropic response of these materials, which enables directional detection, renders them exceptionally strong detector candidates, motivating the design and fabrication of future d</description>
-      <source url="https://doi.org/10.1103/jdw6-3556">Physical Review Letters</source>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jdw6-3556</guid>
     </item>
   </channel>
 </rss>
