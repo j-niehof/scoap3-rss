@@ -5,8 +5,139 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:06:11 +0000</lastBuildDate>
     <item>
+      <title>Transverse force tomography inside a proton from basis light-front quantization</title>
+      <link>https://doi.org/10.1103/sk7p-w8mg</link>
+      <description>The twist-3 transverse spin-dependent nucleon structure function g2 arises in high-energy processes involving a transversely polarized nucleon. Its connection to quark-gluon correlations allows for an interpretation in terms of the average transverse color Lorentz force acting on unpolarized quarks inside a transversely polarized nucleon. In this work, we investigate this force using light-front wave functions obtained by diagonalizing the light-front Hamiltonian with quantum chromodynamics inputs within the basis light-front quantization approach. We evolve our results to a common scale of 5 GeV2 and present the corresponding form factors in momentum space as well as the transverse force components in impact-parameter space. These distributions provide a complementary perspective on the Sivers asymmetry in transversely polarized deep-inelastic scattering. In the forward limit, we extract the twist-3 reduced matrix element d2, and our results are found to be comparable with those from </description>
+      <source url="https://doi.org/10.1103/sk7p-w8mg">Physical Review D</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/sk7p-w8mg</guid>
+    </item><item>
+      <title>Robin holography in AdS and BTZ: double-trace RG flow and exceptional points</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)090</link>
+      <description>We construct the exact Robin bulk-to-boundary propagator for a Breitenlöhner-Freedman scalar on AdS and the BTZ black hole, realizing the double-trace RG flow between standard and alternate quantization geometrically as a one-parameter family of bulk boundary conditions. We derive the UV and IR chain expansions of the kernel intrinsically from the boundary-value problem, without an auxiliary-field decoupling, and identify a branch split at each order that separates the local data the boundary CFT observes from finite-bulk-depth structure visible only to bulk probes — the part of K that distinguishes holographic reconstruction from boundary calculation.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)090">Journal of High Energy Physics</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)090</guid>
+    </item><item>
+      <title>Hydrodynamics of perfect fluids with anomalies from the fermionic path integral</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)093</link>
+      <description>The path integral of the Dirac fermion with vector and axial gauge backgrounds is analyzed near the infrared limit in the presence of residual irrelevant current-current interaction. After integrating out fermions, a semiclassical low-energy effective action is obtained, written in terms of currents. Its expression is found to correspond to the hydro-dynamic action previously proposed for perfect barotropic fluids with anomalies at zero temperature. This approach also leads to two further hydrodynamic actions to be associated, respectively, with the Weyl fermion, and the Dirac fermion having independent vector and axial currents. These actions feature four-and five-dimensional bulk-boundary terms, owing to anomaly inflow, which are identified as being the so-called transgression forms. These are generalizations of Chern–Simons forms that involve two gauge fields: the dynamical field and the background field.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)093">Journal of High Energy Physics</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)093</guid>
+    </item><item>
+      <title>Erratum: Non-standard neutrino interactions at neutrino experiments and colliders</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)101</link>
+      <description />
+      <source url="https://doi.org/10.1007/JHEP09(2026)101">Journal of High Energy Physics</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)101</guid>
+    </item><item>
+      <title>3D gravity and double copy theory</title>
+      <link>https://doi.org/10.1103/mxjy-1chy</link>
+      <description>We introduce a novel reformulation of three-dimensional gravity in terms of divergenceless vector frames, inspired by the double copy for Chern-Simons theory. This formulation is on-shell equivalent to conventional 3D gravity and provides a transparent geometric interpretation of the double copy construction. We relate the resulting theory to a Chern-Simons–like action, propose a higher-dimensional origin, and explore extensions that give rise to AdS3 solutions.</description>
+      <source url="https://doi.org/10.1103/mxjy-1chy">Physical Review D</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mxjy-1chy</guid>
+    </item><item>
+      <title>Search for charginos and neutralinos with B−L R-parity violating decays in s=13 TeV and 13.6 TeV pp collisions with the ATLAS detector</title>
+      <link>https://doi.org/10.1103/rp69-xgkd</link>
+      <description>A search is performed for the electroweak pair production of charginos and associated production of a chargino and neutralino, each of which decays through an R-parity-violating coupling into a lepton and a W, Z, or Higgs boson. This search targets the Higgs boson decay channel of the charginos and neutralinos, using events with three or more b-tagged jets and one or two electrons or muons. The analyzed data corresponds to an integrated luminosity of 140 fb−1 and 56 fb−1 of proton-proton collision data produced by the Large Hadron Collider at center-of-mass energies of s=13 TeV and s=13.6 TeV, respectively, collected by the ATLAS experiment between 2015 and 2023. The data are found to be consistent with predictions from the Standard Model. The results are interpreted as limits at 95% confidence level on model-independent cross sections for processes beyond the Standard Model. Limits are also set on the production of charginos and neutralinos for a minimal supersymmetric Standard Model </description>
+      <source url="https://doi.org/10.1103/rp69-xgkd">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rp69-xgkd</guid>
+    </item><item>
+      <title>Quantum information at the electron-ion collider</title>
+      <link>https://doi.org/10.1103/xytf-nhkh</link>
+      <description>We investigate quantum information–theoretic observables in electron-proton scattering at the Electron-Ion Collider (EIC). Our analysis focuses on entanglement and magic, two complementary indicators of nonclassicality in quantum states. We show that while unpolarized and longitudinally polarized beams yield unentangled separable outcomes, transverse beam polarization enables the generation of entangled and nonstabilizer states. This result holds for both elastic and deep inelastic electron-proton scattering in QED. In the deep inelastic regime, the degree of quantum correlation is governed by the transversity parton distribution functions. Moreover, in the forward limit (Q2→0), the standard model predicts vanishing entanglement, furnishing a clean null test: any nonzero signal would indicate new physics, especially from helicity-flipping or chiral interactions. These results establish the EIC as a promising environment for generating entangled and nonstabilizer states in high-energy p</description>
+      <source url="https://doi.org/10.1103/xytf-nhkh">Physical Review D</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xytf-nhkh</guid>
+    </item><item>
+      <title>Charmonium radiative transitions to dileptons from lattice QCD: The case of hc→ηcℓ+ℓ− and χc1→J/ψℓ+ℓ−</title>
+      <link>https://doi.org/10.1103/bkbz-5wc3</link>
+      <description>We present a lattice QCD study of dilepton production in charmonium transitions, specifically focusing on the 1+−→0−+ and 1++→1−− processes: hc→ηcℓ+ℓ− and χc1→J/ψℓ+ℓ−, where ℓ=e, μ. The relevant hadronic matrix elements are computed using gauge field configurations generated by the Extended Twisted Mass Collaboration with Nf=2+1+1 dynamical Wilson-Clover twisted-mass fermions at four lattice spacings. Simulations are performed at physical dynamical u, d, s, and c quark masses, except for the coarsest lattice, where the lightest sea quark mass corresponds to a slightly heavier pion mass. A controlled continuum extrapolation is carried out. In the continuum limit for the hc decays, we obtain Γ(hc→ηce+e−)=5.45(19) keV, and Γ(hc→ηcμ+μ−)=0.635(22) keV. For the χc1 decays, we find Γ(χc1→J/ψe+e−)=2.869(90) keV and Γ(χc1→J/ψμ+μ−)=0.1993(72) keV. Our results for the χc1 decays show good compatibility with experimental data. However, our prediction for the hc→ηce+e− decay rate is approximately 3</description>
+      <source url="https://doi.org/10.1103/bkbz-5wc3">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/bkbz-5wc3</guid>
+    </item><item>
+      <title>Chiral electromagnetic surface waves on Chern-Simons interfaces</title>
+      <link>https://doi.org/10.1103/3d6y-s6sc</link>
+      <description>We show that Maxwell theory with a codimension-1 Chern-Simons interface may support chiral electromagnetic surface waves on the interface, even when the bulk theory on both sides is conventional vacuum electrodynamics in infinite space. Solving the exact boundary value problem, we find that the Chern-Simons interaction acts with opposite sign on the two helicities oriented along the interface, giving rise to one normalizable mode localized on the interface. This mode is a gapless chiral surface photon with linear dispersion and a frequency-independent index of refraction set by the Chern-Simons coefficient. This mode exists despite the absence of bulk ambient material response or geometric confinement.</description>
+      <source url="https://doi.org/10.1103/3d6y-s6sc">Physical Review D</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3d6y-s6sc</guid>
+    </item><item>
+      <title>Nucleon axial form factor from elementary target data</title>
+      <link>https://doi.org/10.1103/ptwr-t73j</link>
+      <description>Precise neutrino-nucleon amplitudes are essential ingredients for predicting neutrino event rates in current and upcoming long-baseline neutrino oscillation experiments. A common neutrino interaction with a low reaction threshold and with most of the energy carried by two final state particles is quasielastic scattering, for which the nucleon axial form factor, FA(Q2), is a dominant source of uncertainty. Improvements to the nucleon axial form factor rely on neutrino scattering data with elementary targets to reduce or eliminate the need for nuclear modeling systematics. This work examines constraints on the nucleon axial form factor that can be achieved from datasets of neutrino scattering on deuterium targets, Lattice QCD predictions, and from the recent hydrogen target data from the MINERvA Collaboration. Significant tension is found between hydrogen and deuterium target data, suggesting that extractions from deuterium underestimate both the central value and uncertainty of the form</description>
+      <source url="https://doi.org/10.1103/ptwr-t73j">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ptwr-t73j</guid>
+    </item><item>
+      <title>Search for charginos and neutralinos with B−L R-parity violating decays in s=13 TeV and 13.6 TeV pp collisions with the ATLAS detector</title>
+      <link>https://doi.org/10.1103/rp69-xgkd</link>
+      <description>A search is performed for the electroweak pair production of charginos and associated production of a chargino and neutralino, each of which decays through an R-parity-violating coupling into a lepton and a W, Z, or Higgs boson. This search targets the Higgs boson decay channel of the charginos and neutralinos, using events with three or more b-tagged jets and one or two electrons or muons. The analyzed data corresponds to an integrated luminosity of 140 fb−1 and 56 fb−1 of proton-proton collision data produced by the Large Hadron Collider at center-of-mass energies of s=13 TeV and s=13.6 TeV, respectively, collected by the ATLAS experiment between 2015 and 2023. The data are found to be consistent with predictions from the Standard Model. The results are interpreted as limits at 95% confidence level on model-independent cross sections for processes beyond the Standard Model. Limits are also set on the production of charginos and neutralinos for a minimal supersymmetric Standard Model </description>
+      <source url="https://doi.org/10.1103/rp69-xgkd">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rp69-xgkd</guid>
+    </item><item>
+      <title>Spontaneous spacetime parity breaking without thermal restoration</title>
+      <link>https://doi.org/10.1103/cc6w-syd1</link>
+      <description>We provide strong evidence for spontaneous breaking of spacetime parity persisting to arbitrarily high temperatures in a local, unitary, ultraviolet-complete quantum field theory in 2+1 dimensions. The theory is defined by a renormalization group trajectory, triggered by a relevant deformation of a conformal field theory, consisting of a critical biconical vector model and a free massless Dirac fermion. This deformation couples the fermion to the scalar sector, generating a renormalization group flow that terminates at a nontrivial infrared fixed point described by a conformal Gross-Neveu-Yukawa model and a decoupled critical vector model. By construction, the quantum field theory is parity invariant at zero temperature. However, we show that at sufficiently high temperatures, parity symmetry is spontaneously broken and remains so even in the infinite-temperature limit. Our analysis relies on both, perturbative renormalization group techniques in 4−ε dimensions and functional renormali</description>
+      <source url="https://doi.org/10.1103/cc6w-syd1">Physical Review D</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/cc6w-syd1</guid>
+    </item><item>
+      <title>Scale-invariant open quantum systems</title>
+      <link>https://doi.org/10.1103/z1tw-kzbb</link>
+      <description>We develop the complete theoretical framework for open quantum systems coupled to scale-invariant environments. Such environments, we show, are universally and uniquely described by unparticle baths [1] characterized by a single scaling dimension dU, which is a property of the bath operator entering the coupling, not of the probe. Different probes coupled to the same bath operator OE must yield the same dU, providing a nontrivial cross-probe consistency test for a fixed coupling channel. This companion paper provides the full proof of the uniqueness theorem, the mathematical formalism of the resulting non-Markovian dynamics, and worked applications to three physical realizations omitted from the shorter letter [2]. Starting from the uniqueness theorem, we derive the complete set of non-Markovian memory kernels, the exact noise kernel, including vacuum and thermal contributions via Matsubara summation, and the fractional generalization of the Caldeira-Leggett master equation for arbitra</description>
+      <source url="https://doi.org/10.1103/z1tw-kzbb">Physical Review D</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/z1tw-kzbb</guid>
+    </item><item>
+      <title>Searching for missing direct photons in heavy-ion collisions with P and CP violation</title>
+      <link>https://doi.org/10.1103/22sz-l456</link>
+      <description>We compute synchrotron radiation from a plasma in which P-and CP-violating parameters, a chiral chemical potential and a chiral gradient, couple to fermions. To do this, we compute exact wave functions for the fermions in the presence of these parameters and an external constant magnetic field. We find that these parameters increase the synchrotron radiation emitted by the fermions while also decreasing the traditionally large synchrotron radiation elliptic flow coefficient v2. We apply these results to the quark-gluon plasma, where just such a contribution could provide a solution to the missing direct photons puzzle. We also use our wave functions to give a derivation of the chiral magnetic effect.</description>
+      <source url="https://doi.org/10.1103/22sz-l456">Physical Review D</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/22sz-l456</guid>
+    </item><item>
+      <title>Isotensor πππ Scattering with a ρ-Resonant Subsystem from QCD</title>
+      <link>https://doi.org/10.1103/yyfr-j1yl</link>
+      <description>This Letter presents a lattice quantum chromodynamics (QCD) determination of πππ scattering amplitudes for the isospin-2 channel with angular momentum and parity JP=1+. The calculation is performed using unphysically heavy light-quark masses, corresponding to a pion mass of mπ≈400 MeV, for which the ρ meson manifests as a narrow resonance. The analysis employs a previously developed formalism that nonperturbatively relates the finite-volume spectra of two-and three-pion systems to their infinite-volume scattering amplitudes. We combine earlier lattice QCD results for ππ systems with isospins 1 and 2 with new determinations of the isospin-2 three-pion finite-volume spectrum, obtained for three cubic, periodic lattice volumes with box length ranging from ≈4/mπ to 6/mπ. These combined data constrain the low-lying partial waves of the infinite-volume three-pion K matrix, from which we solve a set of coupled integral equations to extract the corresponding scattering amplitudes.</description>
+      <source url="https://doi.org/10.1103/yyfr-j1yl">Physical Review Letters</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yyfr-j1yl</guid>
+    </item><item>
+      <title>Measurement of muon neutrino charged-current quasielasticlike cross section using off-axis NuMI beam at ICARUS</title>
+      <link>https://doi.org/10.1103/3jfl-dczc</link>
+      <description>This paper presents the first neutrino cross-section measurement from the ICARUS detector at Fermilab, using Neutrinos at the Main Injector (NuMI) beam data collected from two beam operation periods corresponding to 2.5×1020 protons-on-target in neutrino beam mode. The signal is defined by events with no pions produced in the final state, a topology dominated by charged-current quasielasticlike signatures. The measurement is reported as flux-averaged differential cross sections as functions of kinematic variables that provide sensitivity to the complex nuclear effects that often dominate the systematic uncertainty budgets of neutrino oscillation measurements. Specifically, this work reports cross sections in two angular variables—the angle of the outgoing lepton and the opening angle between the lepton and leading proton—and two variables characterizing the kinematic imbalance between the muon and proton in the plane transverse to the incoming neutrino. These results are compared again</description>
+      <source url="https://doi.org/10.1103/3jfl-dczc">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3jfl-dczc</guid>
+    </item><item>
+      <title>Generalized black hole entropy is von Neumann entropy. II. The complete symmetry group and edge modes</title>
+      <link>https://doi.org/10.1103/tb6y-lsfv</link>
+      <description>We consider the algebra of observables of perturbative quantum gravity in the exterior of a stationary black hole or the static patch of de Sitter spacetime. It was previously argued in Refs. [1–3] that the backreaction of gravitons on the spacetime perturbs the area of the horizon at second order, which gives rise to a nontrivial constraint on the algebra of physical observables in the subregion. The corresponding “dressed” algebra including fluctuations of the total horizon area admits a well-defined trace and is type II. In this paper we show that, at the same perturbative order at which the horizon area (and angular momentum) fluctuates, gravitational backreaction also perturbs the horizon area in an angle-dependent way. These fluctuations are encoded in horizon charges—i.e., “edge modes”—which are related to an infinite dimensional “boost supertranslation” symmetry of the horizon. Together, these charges impose an infinite family of nontrivial constraints on the gravitational alge</description>
+      <source url="https://doi.org/10.1103/tb6y-lsfv">Physical Review D</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tb6y-lsfv</guid>
+    </item><item>
+      <title>Isotensor πππ Scattering with a ρ-Resonant Subsystem from QCD</title>
+      <link>https://doi.org/10.1103/yyfr-j1yl</link>
+      <description>This Letter presents a lattice quantum chromodynamics (QCD) determination of πππ scattering amplitudes for the isospin-2 channel with angular momentum and parity JP=1+. The calculation is performed using unphysically heavy light-quark masses, corresponding to a pion mass of mπ≈400 MeV, for which the ρ meson manifests as a narrow resonance. The analysis employs a previously developed formalism that nonperturbatively relates the finite-volume spectra of two-and three-pion systems to their infinite-volume scattering amplitudes. We combine earlier lattice QCD results for ππ systems with isospins 1 and 2 with new determinations of the isospin-2 three-pion finite-volume spectrum, obtained for three cubic, periodic lattice volumes with box length ranging from ≈4/mπ to 6/mπ. These combined data constrain the low-lying partial waves of the infinite-volume three-pion K matrix, from which we solve a set of coupled integral equations to extract the corresponding scattering amplitudes.</description>
+      <source url="https://doi.org/10.1103/yyfr-j1yl">Physical Review Letters</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yyfr-j1yl</guid>
+    </item><item>
       <title>Radon-induced backgrounds in the NEXT-100 experiment</title>
       <link>https://doi.org/10.1007/JHEP09(2026)082</link>
       <description>The NEXT-100 detector at the LSC aims at the first competitive search for the 0νββ decay using a high-pressure Xe electroluminescent time projection chamber. The first low-background run of NEXT-100 at 3.95 bar has been devoted to the measurement of the radon-induced backgrounds impacting this search. The contributions from both the internal and external airborne radon have been evaluated. The internal Rn activity is found to be (0.95±0.04(stat)±0.09(sys)) Bq/m , while no traces of Rn have been observed. Most of the Rn progeny plate-out on the surface of the cathode of the detector, leading to a rate of Rn-induced Bi of (0.97±0.05(stat)±0.10(sys)) Hz for visible energies above 400 keV. The corresponding background index in the 0νββ region of interest is evaluated as (7.3±1.5(stat)±0.8(sys))×10 counts/(keV·kg·yr) after selection of the fully contained events. This background index is reduced to ∼4×10 counts/(keV·kg·yr) by applying a topological selection requiring only one double-electr</description>
@@ -21,138 +152,6 @@
       <source url="https://doi.org/10.1007/JHEP09(2026)086">Journal of High Energy Physics</source>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)086</guid>
-    </item><item>
-      <title>Reweighting underlying event and colour reconnection parameter variations in Sherpa</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)087</link>
-      <description>We propose and validate a new method to trace the impact of parameter variations in the simulation of multi-parton interactions and colour reconnections in the Sherpa event generator. They are reflected, at an event-by-event basis, through relative weights with respect to the central production parameters that give rise to the generated events and distributions. Our method facilitates the tuning of the Monte Carlo event generator at a dramatically reduced computational cost, alleviates parameter sensitivity studies, and enables robust quantification of parametric uncertainties on-the-fly, one of the missing ingredients for future simulations of high-energy particle collisions. The method can easily be adapted to and implemented in other event generators. To illustrate its potential, we here consider combined tunes of the multi-parton-interaction and colour-reconnection models in S using LHC proton-proton collision data at sqrts = 7 TeV. We furthermore calibrate the energy-scaling behav</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)087">Journal of High Energy Physics</source>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)087</guid>
-    </item><item>
-      <title>Unraveling TeV halos with the Cherenkov Telescope Array</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16259-x</link>
-      <description>Pulsars are observed to emit bright and spatially extended gamma-ray emission at multi-TeV energies. These so-called “TeV halos” are now understood to be a nearly universal feature of middle-aged pulsars. However, many of the key physical processes that govern these systems, particularly those affecting particle diffusion, remain poorly constrained. We aim to evaluate the ability of the Cherenkov Telescope Array (CTA) to probe the physical properties of TeV halos, with a focus on the nearby and well-studied case of the Geminga pulsar. We simulate gamma-ray emission from various TeV halo models, incorporating different assumptions for the injected electron spectrum, spin-down evolution, and energy-dependent diffusion. These models are then used to forecast CTA’s sensitivity to spectral and spatial differences, based on realistic mock observations and instrument response simulations. We find that CTA will be able to distinguish between a wide range of TeV halo models that are currently c</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16259-x">European Physical Journal C</source>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16259-x</guid>
-    </item><item>
-      <title>Black hole dynamics at fifth post-Newtonian order</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)075</link>
-      <description>Using the worldline in-in effective action obtained in [1], we derive the total even-in-velocity relative impulse, scattering angle, and time delay at fifth post-Newtonian (5PN) order, including radiation-reaction and hereditary contributions at (G ν ) and 𝒪(G ν ). We introduce an isotropic-like description which, together with the associated losses of energy and angular momentum, fixes the evolution of the system entirely from scattering data. This framework opens the door to an unambiguous characterization of the underlying two-body dynamics solely in terms of scattering observables. Following [1], we isolate a conservative component using Feynman’s i0 prescription. This sector contains both “tail-like” and “memory-like” contributions, the latter being intrinsically nonlocal in time and described by a double Principal-Value integral. Owing to the local-in-time character of the corresponding (in-in) action, we establish a systematic procedure that is consistent with Feynman’s prescrip</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)075">Journal of High Energy Physics</source>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)075</guid>
-    </item><item>
-      <title>The role of charm and unflavored mesons in prompt atmospheric lepton fluxes</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)066</link>
-      <description>The all-sky very-high-energy (10 − 10 GeV) atmospheric muon flux measured by IceCube shows a spectral hardening at the highest energies, indicating the presence of a prompt component. IceCube has also measured the atmospheric muon neutrino flux at high energy. However, since this flux is dominated by astrophysical neutrinos, only an upper bound can be placed on the prompt atmospheric νμ +overlineν μ contribution. In this work, we provide a new evaluation of the prompt atmospheric muon flux including an intrinsic charm component in the cosmic ray-air interactions. The latter enhances the forward production of overlineD ^0 , D , and Λ , which subsequently decay into final states containing muons and muon neutrinos. We show how the increase in the prompt muon flux due to intrinsic charm is accompanied by a corresponding enhancement in the prompt muon neutrino flux. We implement different intrinsic charm production models in MCEq to calculate the resulting lepton fluxes. We discuss the cha</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)066">Journal of High Energy Physics</source>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)066</guid>
-    </item><item>
-      <title>Energy correlator conformal blocks and positivity</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)055</link>
-      <description>Correlation functions of energy flow operators (energy-energy correlators) are one of the simplest observables in quantum field theory and gravity, with diverse applications ranging from real world collider physics to constraining the space of consistent theories. In this paper we further develop the conformal block decomposition of energy-energy correlators in conformal field theories (CFTs), focusing on the source-detector operator product expansion (OPE). We compute the general conformal blocks in this channel for traceless symmetric operators of arbitrary spin in the background of a scalar source, considering both parity-even and parity-odd contributions. Motivated by the availability of data from the conformal bootstrap, we analyze the convergence of this source-detector OPE, taking a tensor product of two decoupled CFTs as an elementary example. Finally, we use positivity of energy correlators to derive novel bounds on OPE coefficients involving the stress-energy tensor in generi</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)055">Journal of High Energy Physics</source>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)055</guid>
-    </item><item>
-      <title>Large neutrino-dark matter interactions: from effective field theory to ultraviolet completions</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)046</link>
-      <description>We develop a general effective field theory (EFT) framework for neutrino-dark matter (DM) interactions, and apply it to systematically find all possible gauge-invariant ultraviolet (UV) completions at a given EFT operator dimension. Our goal here is to find simple UV-complete models that can realize potentially large neutrino-DM interactions, while being consistent with all existing theoretical and experimental constraints. We first construct the leading non-derivative operator basis for neutrino-DM scattering in a low-energy effective theory with neutrinos and DM (DM-LEFT), together with its gauge-invariant embedding in the Standard Model EFT (DM-SMEFT). We then construct all renormalizable tree-level UV completions that generate the relevant DM-SMEFT operators up to dimension-8 using a topology-based classification. Using this framework, we present minimal UV-complete models for different DM types that can yield effective neutrino-DM couplings up to several orders of magnitude larger</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)046">Journal of High Energy Physics</source>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)046</guid>
-    </item><item>
-      <title>The role of the soft scale for J/ψ production in the transverse momentum dependent framework</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)061</link>
-      <description>We use vNRQCD to study power corrections in the v expansion due to soft gluon radiation during J/ψ production at small transverse momentum. We categorize four new J/ψ production operators that mediate the transition of perturbatively produced color-octet charm quark/anti-quark pairs to charm quarks in a ^3S₁^[1] state via soft gluon emission. We then use Soft Collinear Effective Theory and vNRQCD to derive a factorization theorem for J/ψ production in SIDIS in terms of the gluon transverse momentum dependent (TMD) PDFs in the proton and new objects which we call TMD soft transition functions. We show that the TMD soft transition function leads in the v power-counting with respect to the color-octet TMD shape functions that have been used in previous studies of J/ψ production at small transverse momentum.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)061">Journal of High Energy Physics</source>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)061</guid>
-    </item><item>
-      <title>Factorizing quarkonium production matrix elements using effective field theory</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)062</link>
-      <description>We use effective field theory to factorize production matrix elements that appear in quarkonium cross sections in NRQCD. By applying a Hubbard-Stratonovich transformation we show that the soft and ultrasoft sectors of NRQCD can be decoupled from the heavy quark and antiquark fields in a hybrid vNRQCD/pNRQCD Lagrangian at leading order in the velocity power counting. This enables us to separate quarkonium production matrix elements in terms of matrix elements of color-singlet composite fields, which we can write as the wavefunction at the origin, and state independent vacuum correlators of chromo-electric and chromo-magnetic gluon fields. This approach verifies powerful connections between the LDMEs of different S-wave vector quarkonium states, originally derived using pNRQCD. Additionally, we find new operator contributions for the color-octet P-wave mechanism, which satisfy a similar set of relationships. Finally, this approach allows us to factorize the production matrix elements tha</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)062">Journal of High Energy Physics</source>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)062</guid>
-    </item><item>
-      <title>Rescuing overabundant dark matter with a strongly first order phase transition in the dark sector</title>
-      <link>https://doi.org/10.1103/w6x5-cwbm</link>
-      <description>We consider a dark sector consisting of fermionic dark matter (DM) charged under a broken dark U(1)D gauge symmetry, interacting with the Standard Model through kinetic mixing. In such models, the DM annihilation cross section is typically suppressed by the small kinetic mixing and or a heavy mediator, often leading to an overabundant relic density. We show that the observed DM abundance can be achieved if the dark Higgs undergoes a strong first order phase transition after DM freeze-out. In this scenario, the relic abundance is set by thermal freeze-out in the symmetric phase and subsequently reduced by entropy injection from the phase transition, rather than by annihilation in the broken phase. We find that to reproduce the observed relic abundance, the required phase transition is generically supercooled. The resulting stochastic gravitational wave signal lies within the sensitivity of future experiments, providing a complementary probe of this framework. Moreover, a strongly superc</description>
-      <source url="https://doi.org/10.1103/w6x5-cwbm">Physical Review D</source>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/w6x5-cwbm</guid>
-    </item><item>
-      <title>Measuring charge transport in high-energy nuclear collisions with an energy scan of isobaric collisions</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16282-y</link>
-      <description>We present a method to measure electric-charge transport in high-energy nuclear collisions using a beam-energy scan of isobaric systems. Comparing collisions of nuclei with identical mass number but different atomic numbers allows the charge difference ( varDelta Q ) to be extracted with a double-ratio technique that suppresses most experimental systematic uncertainties. By varying the beam energy, the rapidity gap ( varDelta y ) over which electric charge is transported can be systematically scanned. Simulations of Ru+Ru and Zr+Zr collisions at sqrts_textrmNN=19.6 –200 GeV with UrQMD and 8 Angantyr show that midrapidity varDelta Q decreases exponentially with increasing varDelta y , with the slope parameter exhibiting strong model dependence. Comparisons to baryon-number transport reveal distinct patterns. In both UrQMD and 8 Angantyr (with and without final-state baryon junctions), where baryon number is carried solely by valence quarks, the rapidity slope for baryon transport is lar</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16282-y">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16282-y</guid>
-    </item><item>
-      <title>Observation of ηc→pp¯η via ψ(3686)→γpp¯η</title>
-      <link>https://doi.org/10.1103/qz3j-g5v5</link>
-      <description>The decay ηc→pp¯η is observed for the first time with a significance of exceeding 10σ. It is found by analyzing (2712.4±14.3)×106 ψ(3686) events accumulated at the BESIII detector. The measured branching fraction of ηc→pp¯η via ψ(3686)→γpp¯η is significantly influenced by the interference between the resonant ηc decay and the nonresonant process ψ(3686)→γpp¯η and is measured in both constructive-and destructive-interference scenarios. The joint branching fraction of ψ(3686)→γηc, ηc→pp¯η is measured to be (3.2±0.1±0.8)×10−6 or (8.7±0.3±1.7)×10−6 for constructive-or destructive-interference solutions, respectively, where the first uncertainties are statistical and the second systematic. The branching fraction of ηc→pp¯η is determined to be B(ηc→pp¯η)=(0.90±0.04±0.21±0.13)×10−3 or (2.42±0.07±0.48±0.34)×10−3 for the two solutions, respectively, where the third uncertainties are due to the uncertainty in the branching fraction of ψ(3686)→γηc.</description>
-      <source url="https://doi.org/10.1103/qz3j-g5v5">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qz3j-g5v5</guid>
-    </item><item>
-      <title>Measurement of Reactor Antineutrino Oscillations with 1.46 Kilotonne-Years of Data at SNO+</title>
-      <link>https://doi.org/10.1103/mv5z-pfb7</link>
-      <description>The SNO+ Collaboration reports new results on reactor antineutrino oscillations using data acquired from May 2022 through July 2025. The spectral analysis of a flux dominated by nuclear reactors at 240, 340, and 350 km yields the mass-squared difference Δm212=(7.91−0.25+0.22)×10−5 eV2. This result is compatible with and approaches the precision of the only other long-baseline reactor antineutrino measurement, by KamLAND. Combining these measurements, along with those from solar neutrino experiments, the global values of the neutrino mixing parameters become Δm212=(7.59±0.17)×10−5 eV2 and sin2θ12=0.310±0.012. The analysis of geoneutrinos at SNO+ is also improved, with a measured signal of 48−12+14 TNU.</description>
-      <source url="https://doi.org/10.1103/mv5z-pfb7">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mv5z-pfb7</guid>
-    </item><item>
-      <title>Highly boosted dielectron identification in proton-proton collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/hb72-vjj6</link>
-      <description>A new technique is developed to identify dielectrons (e+e−) with Lorentz boost γL&gt;20 that produce one single merged cluster in the electromagnetic calorimeter of the CMS detector. The identification uses two multivariate models: one for the case where both electron tracks are reconstructed, and another where only one of the tracks is reconstructed. The efficiency is determined using proton-proton collision data collected at a center-of-mass energy of 13 TeV. Boosted J/ψ mesons decaying into e+e− pairs are used to estimate the efficiency of the model with two tracks, yielding an overall efficiency of 80%. The Z→μ+μ−γ events, where the photon converts into a collimated dielectron, are used for the model with a single track, yielding an efficiency of about 60%. A dedicated energy correction for dielectron candidates is also developed using B±→J/ψK±→e+e−K± data.</description>
-      <source url="https://doi.org/10.1103/hb72-vjj6">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hb72-vjj6</guid>
-    </item><item>
-      <title>First nuclear ultraheavy dark matter search in argon time projection chambers with the DarkSide-50 experiment</title>
-      <link>https://doi.org/10.1103/r3zg-zlfg</link>
-      <description>We report on the first search for nuclear ultraheavy dark matter (UHDM) in a dual-phase liquid argon time projection chamber using the DarkSide-50 experiment. Unlike conventional weakly interacting massive particles, a nuclear UHDM model may be composed of many dark nucleons and scatter numerous times while passing through the detector. Accounting for energy loss through the Earth’s overburden, we apply selection criteria optimized for multiscatter event topologies using the 532-day low-radiation campaign of the DarkSide-50 detector. Excluded limits on the UHDM-nucleon scattering cross section for dark nucleon masses of mχ=10,50,100,500 GeV/c2 are presented.</description>
-      <source url="https://doi.org/10.1103/r3zg-zlfg">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/r3zg-zlfg</guid>
-    </item><item>
-      <title>Quantum chaos and pole skipping in two-dimensional conformal perturbation theory</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)044</link>
-      <description>We analyze pole skipping of stress tensor two-point functions in two-dimensional quantum field theories perturbed away from conformality by a relevant deformation. The retarded two-point Green’s function can be formally computed in conformal perturbation theory, though it results in singular expressions. We propose a natural interpretation of these expressions and compute the resulting Green’s function to leading nontrivial order in the deformation. As a check of our results, we compare the Lyapunov exponents and butterfly velocities we find from our computed skipped poles to those obtained from both a leading-order conformal field theory analysis using Ward identities, as well as to a holographic gravitational dual perturbed by a massive scalar field; we find precise agreement. We comment on extensions to sub-leading order, where agreement with holographic expectations would no longer be expected.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)044">Journal of High Energy Physics</source>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)044</guid>
-    </item><item>
-      <title>Simulating the non-unitary Yang-Lee conformal field theory on the fuzzy sphere</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)041</link>
-      <description>The fuzzy sphere method has enjoyed great success in the study of (2+1)-dimensional unitary conformal field theories (CFTs) by regularizing them as quantum Hall transitions on the sphere. Here, we extend this approach to the Yang-Lee CFT — the simplest non-unitary CFT. We use an Ising quantum-Hall ferromagnet Hamiltonian with a transverse field and an imaginary longitudinal field, the latter breaks the Hermiticity of the Hamiltonian and thus the unitarity of the associated quantum field theory. Non-unitary conformal field theories — particularly the Yang-Lee CFT — pose significant challenges to conventional fuzzy sphere approaches. To overcome these obstacles, here we utilize a different method for determining critical points that requires no a priori knowledge of CFT scaling dimensions. Our method instead leverages the state-operator correspondence while utilizing two complementary criteria: the conformality of the energy spectrum and its consistency with conformal perturbation theory</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)041">Journal of High Energy Physics</source>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)041</guid>
-    </item><item>
-      <title>One-loop effect in the charged 2D black hole near extremality</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)057</link>
-      <description>We study the one-loop correction to the near-extremal quantum entropy of the charged two-dimensional black hole introduced in [1]. In target space this background can be understood as arising from the dimensional reduction of a three-dimensional solution of the low-energy string effective action. On the other hand, its worldsheet description is provided by the dimensionally reduced fracSL(2,mathbbR)× U(1)U(1) WZW model. Using this latter formulation, we compute the torus partition function to extract the temperature dependence of the one-loop stringy correction to the quantum entropy arising from the short-string sector. We show that this result is under control as long as the black hole temperature satisfies the condition Tgtrsim frac14π sqrtk , where the saturation of this bound corresponds to the long-string contribution to the free energy becoming divergent. We speculate that this threshold behavior of the partition function can be interpreted as a signature of the black hole/strin</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)057">Journal of High Energy Physics</source>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)057</guid>
-    </item><item>
-      <title>Search for Associated Production of a Higgs Boson and Two Vector Bosons via Vector-Boson Scattering at s=13 TeV</title>
-      <link>https://doi.org/10.1103/gwj9-5bxm</link>
-      <description>A search for Higgs boson (H) production in association with two vector bosons (V=W, Z) via vector-boson scattering (VBS) is presented using proton-proton collision data collected at s=13 TeV by the CMS experiment, corresponding to an integrated luminosity of 138 fb−1. Events containing two forward jets consistent with VBS, a large-radius jet from the decay of a boosted H to a pair of b quarks, and zero, one, or two charged leptons coming from V decays are selected. The process is excluded at 95% confidence level for observed (expected) values of the VVHH coupling modifier κ2V outside the interval 0.40κ2V1.60 (0.34κ2V1.66), assuming standard model values for all other couplings, thus establishing a novel probe of the VVHH interaction. Constraints are also set on the individual κ2W and κ2Z coupling modifiers and on the allowed region in the κ2W−κ2Z plane.</description>
-      <source url="https://doi.org/10.1103/gwj9-5bxm">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/gwj9-5bxm</guid>
     </item>
   </channel>
 </rss>
