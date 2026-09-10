@@ -5,35 +5,57 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:00:40 +0000</lastBuildDate>
     <item>
-      <title>Transverse force tomography inside a proton from basis light-front quantization</title>
-      <link>https://doi.org/10.1103/sk7p-w8mg</link>
-      <description>The twist-3 transverse spin-dependent nucleon structure function g2 arises in high-energy processes involving a transversely polarized nucleon. Its connection to quark-gluon correlations allows for an interpretation in terms of the average transverse color Lorentz force acting on unpolarized quarks inside a transversely polarized nucleon. In this work, we investigate this force using light-front wave functions obtained by diagonalizing the light-front Hamiltonian with quantum chromodynamics inputs within the basis light-front quantization approach. We evolve our results to a common scale of 5 GeV2 and present the corresponding form factors in momentum space as well as the transverse force components in impact-parameter space. These distributions provide a complementary perspective on the Sivers asymmetry in transversely polarized deep-inelastic scattering. In the forward limit, we extract the twist-3 reduced matrix element d2, and our results are found to be comparable with those from </description>
-      <source url="https://doi.org/10.1103/sk7p-w8mg">Physical Review D</source>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/sk7p-w8mg</guid>
+      <title>Demonstration of sub-percent energy resolution in the NEXT-100 detector</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15948-x</link>
+      <description>NEXT-100 is a high-pressure xenon time projection chamber with electroluminescent amplification, designed to operate with up to sim 70.5 kg at 13.5 bar. It is the most recent detector developed by the NEXT collaboration to search for the neutrinoless double-beta decay ( β β 0ν ) of ^136mathrm Xe . The NEXT gas TPC technology offers the best energy resolution near the Q-value of the decay ( Q_β β = 2458 keV) among xenon detectors, which is set by design to be &lt;1% FWHM. We report here the high-energy calibration of the detector using a ^228textrmTh source, demonstrating excellent linear response and an energy resolution of (0.90 ± 0.02)% FWHM at the ^208 Tl photopeak (2615 keV). This performance extrapolates to a resolution at the double-beta decay end-point of R(Q_β β ) = (0.93 ± 0.02)% FWHM, confirming the detector’s capability for precision energy measurement in the search for β β 0ν .</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15948-x">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15948-x</guid>
     </item><item>
-      <title>Robin holography in AdS and BTZ: double-trace RG flow and exceptional points</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)090</link>
-      <description>We construct the exact Robin bulk-to-boundary propagator for a Breitenlöhner-Freedman scalar on AdS and the BTZ black hole, realizing the double-trace RG flow between standard and alternate quantization geometrically as a one-parameter family of bulk boundary conditions. We derive the UV and IR chain expansions of the kernel intrinsically from the boundary-value problem, without an auxiliary-field decoupling, and identify a branch split at each order that separates the local data the boundary CFT observes from finite-bulk-depth structure visible only to bulk probes — the part of K that distinguishes holographic reconstruction from boundary calculation.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)090">Journal of High Energy Physics</source>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)090</guid>
+      <title>Cluster bootstrap for cosmological correlators</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)121</link>
+      <description>We show that cosmological wavefunction coefficients associated with n-site chain and loop graphs for a cubic scalar theory in de Sitter spacetime have symbol alphabets given by subsets of A and B cluster variables, respectively, and satisfy the associated cluster adjacency properties. The key step in proving this is identifying a precise connection between graph “tubings” that appear in the kinematic flow equation and polygon “triangulations” that encode the combinatorics of cluster compatibility. Our results imply that cosmological wavefunction coefficients in a general power-law FRW cosmology satisfy cluster adjacency to all orders in the ϵ expansion around the de Sitter limit. We use this information as bootstrap input to show that de Sitter symbols for n ≤ 4 are uniquely determined by simple physical constraints.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)121">Journal of High Energy Physics</source>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)121</guid>
     </item><item>
-      <title>Hydrodynamics of perfect fluids with anomalies from the fermionic path integral</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)093</link>
-      <description>The path integral of the Dirac fermion with vector and axial gauge backgrounds is analyzed near the infrared limit in the presence of residual irrelevant current-current interaction. After integrating out fermions, a semiclassical low-energy effective action is obtained, written in terms of currents. Its expression is found to correspond to the hydro-dynamic action previously proposed for perfect barotropic fluids with anomalies at zero temperature. This approach also leads to two further hydrodynamic actions to be associated, respectively, with the Weyl fermion, and the Dirac fermion having independent vector and axial currents. These actions feature four-and five-dimensional bulk-boundary terms, owing to anomaly inflow, which are identified as being the so-called transgression forms. These are generalizations of Chern–Simons forms that involve two gauge fields: the dynamical field and the background field.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)093">Journal of High Energy Physics</source>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)093</guid>
+      <title>Cluster bootstrap for cosmological correlators</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)121</link>
+      <description>We show that cosmological wavefunction coefficients associated with n-site chain and loop graphs for a cubic scalar theory in de Sitter spacetime have symbol alphabets given by subsets of A and B cluster variables, respectively, and satisfy the associated cluster adjacency properties. The key step in proving this is identifying a precise connection between graph “tubings” that appear in the kinematic flow equation and polygon “triangulations” that encode the combinatorics of cluster compatibility. Our results imply that cosmological wavefunction coefficients in a general power-law FRW cosmology satisfy cluster adjacency to all orders in the ϵ expansion around the de Sitter limit. We use this information as bootstrap input to show that de Sitter symbols for n ≤ 4 are uniquely determined by simple physical constraints.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)121">Journal of High Energy Physics</source>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)121</guid>
     </item><item>
-      <title>Erratum: Non-standard neutrino interactions at neutrino experiments and colliders</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)101</link>
-      <description />
-      <source url="https://doi.org/10.1007/JHEP09(2026)101">Journal of High Energy Physics</source>
+      <title>Neutrino helicity oscillations in astrophysical environments: A many-body approach</title>
+      <link>https://doi.org/10.1103/2p4r-f1gs</link>
+      <description>Neutrino rest mass enables left-handed states to “flip” to right-handed states and vice versa. In-medium effects can enhance the probability for such spin flip. We demonstrate that a full many-body calculation of this process in neutrino-dense environments can lead to spin-flip probabilities that exceed by orders of magnitude those calculated with mean-field treatments. We study simple configurations with a few neutrinos in well-defined momentum states, for which we show that the helicity conversion enhancement is connected to many-body momentum exchange. Such an effect would therefore be missed in a calculation that considers only forward processes. We speculate on the potential astrophysical implications of these results and the range of applicability of our calculation and its limitations.</description>
+      <source url="https://doi.org/10.1103/2p4r-f1gs">Physical Review D</source>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)101</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/2p4r-f1gs</guid>
+    </item><item>
+      <title>Regge Spectral Generator and Form Factors from Hard Exclusive Amplitudes in Holographic QCD</title>
+      <link>https://doi.org/10.1103/55pw-29c6</link>
+      <description>We show that the infinite tower of hard exclusive amplitudes in holographic light-front QCD leads to a spectral generator G(α,λ) that encodes the full Regge spectrum. The construction assumes a Poisson distribution of Fock-state components, where λ represents the average parton multiplicity above the valence configuration. The resulting generator yields a Regge spectrum invariant under continuous λ deformations. Its even-and odd-twist projections yield the meson and baryon form factors with a single value of λ, fixed by the pion charge radius, which in turn determines the full Q2 dependence. The constituent counting rules for both sectors follow from the structure of the spectral generator, which also provides a compact analytic representation of parton distributions.</description>
+      <source url="https://doi.org/10.1103/55pw-29c6">Physical Review Letters</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/55pw-29c6</guid>
+    </item><item>
+      <title>Pati-Salam realization of the Nelson-Barr mechanism</title>
+      <link>https://doi.org/10.1103/9xq1-vym3</link>
+      <description>We present a UV completion of the Standard Model in which quarks and leptons are unified under color SU(4). A single fermionic representation, the real antisymmetric, provides the building blocks to address the strong CP problem via the Nelson-Barr mechanism, while simultaneously correcting the charged-lepton and down-quark mass relations predicted by Pati-Salam theories for the two heaviest generations. We show that the characteristic scales of the theory are strongly constrained by its phenomenology. The interplay between the quality of the Nelson-Barr mechanism and the nonobservation of baryon-number-violating processes determines the scale of spontaneous CP violation and the mass of the new vectorlike down quark. The theory predicts a distinctive baryon-number-violating decay mode of the neutron, n→K+ℓ− (with ℓ=e, μ), which lies within the projected sensitivity of upcoming nucleon-decay experiments such as Hyper-Kamiokande, Jiangmen Underground Neutrino Observatory, and the Deep Un</description>
+      <source url="https://doi.org/10.1103/9xq1-vym3">Physical Review D</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9xq1-vym3</guid>
+    </item><item>
+      <title>Heavy neutral lepton at same-sign muon collider</title>
+      <link>https://doi.org/10.1103/prx6-wnwr</link>
+      <description>We explore the discovery potential of heavy neutral leptons (HNLs), motivated by models addressing the origin of neutrino masses, at the proposed high-energy same-sign muon collider known as μTRISTAN. The study focuses on two complementary HNL-mediated signatures: (i) the lepton-flavor-violating (LFV) channel μ+μ+→W+τ+ν¯μ and (ii) the lepton-number-violating (LNV) channel μ+μ+→W+W+. The LNV process is the muon analogue of inverse neutrinoless double beta decay and, if observed, would provide strong evidence for Majorana neutrinos, while the LFV process offers a novel probe of flavor-changing neutral currents in the lepton sector. At the μTRISTAN collider with s∼O(10) TeV, the resulting sensitivity to the HNL mixing with muon and tau neutrinos, as a function of mass, can surpass current bounds from the measurements of electroweak precision observables over a broad mass range. In particular, for the mixing with muon neutrinos, the collider bound can improve by an order of magnitude for 5</description>
+      <source url="https://doi.org/10.1103/prx6-wnwr">Physical Review D</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/prx6-wnwr</guid>
     </item><item>
       <title>3D gravity and double copy theory</title>
       <link>https://doi.org/10.1103/mxjy-1chy</link>
@@ -64,6 +86,13 @@
       <author>et al.</author>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/bkbz-5wc3</guid>
+    </item><item>
+      <title>Influence of tides and self-gravity on ultralight dark matter bounds from dwarf galaxies</title>
+      <link>https://doi.org/10.1103/73g2-21l7</link>
+      <description>Dwarf spheroidal galaxies provide some of the most sensitive astrophysical probes of ultralight dark matter (ULDM), but the inferred constraints can be affected by two important systematics: tidal interactions with the Milky Way, which reduce ULDM-induced dynamical heating, and stellar self-gravity, which can become relevant if the stellar component was more compact at earlier times. In this work, we attempt to estimate both effects by reconstructing dwarf-galaxy orbital histories in a Milky Way potential, adopting a simple and approximate tidal-susceptibility diagnostic that we argue provides a conservative description of tidal stripping, and explicitly including stellar self-gravity in our numerical simulations. Within our framework, which we apply to five different dwarf galaxies, we find that ULDM with masses 5×10−22≲m/eV≲5×10−21 remains in tension with current data.</description>
+      <source url="https://doi.org/10.1103/73g2-21l7">Physical Review D</source>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/73g2-21l7</guid>
     </item><item>
       <title>Chiral electromagnetic surface waves on Chern-Simons interfaces</title>
       <link>https://doi.org/10.1103/3d6y-s6sc</link>
@@ -116,42 +145,12 @@
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/yyfr-j1yl</guid>
     </item><item>
-      <title>Measurement of muon neutrino charged-current quasielasticlike cross section using off-axis NuMI beam at ICARUS</title>
-      <link>https://doi.org/10.1103/3jfl-dczc</link>
-      <description>This paper presents the first neutrino cross-section measurement from the ICARUS detector at Fermilab, using Neutrinos at the Main Injector (NuMI) beam data collected from two beam operation periods corresponding to 2.5×1020 protons-on-target in neutrino beam mode. The signal is defined by events with no pions produced in the final state, a topology dominated by charged-current quasielasticlike signatures. The measurement is reported as flux-averaged differential cross sections as functions of kinematic variables that provide sensitivity to the complex nuclear effects that often dominate the systematic uncertainty budgets of neutrino oscillation measurements. Specifically, this work reports cross sections in two angular variables—the angle of the outgoing lepton and the opening angle between the lepton and leading proton—and two variables characterizing the kinematic imbalance between the muon and proton in the plane transverse to the incoming neutrino. These results are compared again</description>
-      <source url="https://doi.org/10.1103/3jfl-dczc">Physical Review D</source>
-      <author>et al.</author>
+      <title>Rydberg single photon detection for probing 0.1-10 meV dark matter with BREAD</title>
+      <link>https://doi.org/10.1103/yj2s-v785</link>
+      <description>We introduce a Rydberg-based single photon detector (SPD) for probing dark matter in the 0.1–10 meV mass range (20 GHz–2 THz). The Rydberg SPD absorbs photons produced and focused by the BREAD dish antenna and trades them for free, detectable electrons. At the lower end of the mass range, photons drive Rydberg-Rydberg transitions, which are read out via state-selective ionization. At higher masses, they directly ionize the Rydberg atoms.</description>
+      <source url="https://doi.org/10.1103/yj2s-v785">Physical Review D</source>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3jfl-dczc</guid>
-    </item><item>
-      <title>Generalized black hole entropy is von Neumann entropy. II. The complete symmetry group and edge modes</title>
-      <link>https://doi.org/10.1103/tb6y-lsfv</link>
-      <description>We consider the algebra of observables of perturbative quantum gravity in the exterior of a stationary black hole or the static patch of de Sitter spacetime. It was previously argued in Refs. [1–3] that the backreaction of gravitons on the spacetime perturbs the area of the horizon at second order, which gives rise to a nontrivial constraint on the algebra of physical observables in the subregion. The corresponding “dressed” algebra including fluctuations of the total horizon area admits a well-defined trace and is type II. In this paper we show that, at the same perturbative order at which the horizon area (and angular momentum) fluctuates, gravitational backreaction also perturbs the horizon area in an angle-dependent way. These fluctuations are encoded in horizon charges—i.e., “edge modes”—which are related to an infinite dimensional “boost supertranslation” symmetry of the horizon. Together, these charges impose an infinite family of nontrivial constraints on the gravitational alge</description>
-      <source url="https://doi.org/10.1103/tb6y-lsfv">Physical Review D</source>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tb6y-lsfv</guid>
-    </item><item>
-      <title>Isotensor πππ Scattering with a ρ-Resonant Subsystem from QCD</title>
-      <link>https://doi.org/10.1103/yyfr-j1yl</link>
-      <description>This Letter presents a lattice quantum chromodynamics (QCD) determination of πππ scattering amplitudes for the isospin-2 channel with angular momentum and parity JP=1+. The calculation is performed using unphysically heavy light-quark masses, corresponding to a pion mass of mπ≈400 MeV, for which the ρ meson manifests as a narrow resonance. The analysis employs a previously developed formalism that nonperturbatively relates the finite-volume spectra of two-and three-pion systems to their infinite-volume scattering amplitudes. We combine earlier lattice QCD results for ππ systems with isospins 1 and 2 with new determinations of the isospin-2 three-pion finite-volume spectrum, obtained for three cubic, periodic lattice volumes with box length ranging from ≈4/mπ to 6/mπ. These combined data constrain the low-lying partial waves of the infinite-volume three-pion K matrix, from which we solve a set of coupled integral equations to extract the corresponding scattering amplitudes.</description>
-      <source url="https://doi.org/10.1103/yyfr-j1yl">Physical Review Letters</source>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yyfr-j1yl</guid>
-    </item><item>
-      <title>Radon-induced backgrounds in the NEXT-100 experiment</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)082</link>
-      <description>The NEXT-100 detector at the LSC aims at the first competitive search for the 0νββ decay using a high-pressure Xe electroluminescent time projection chamber. The first low-background run of NEXT-100 at 3.95 bar has been devoted to the measurement of the radon-induced backgrounds impacting this search. The contributions from both the internal and external airborne radon have been evaluated. The internal Rn activity is found to be (0.95±0.04(stat)±0.09(sys)) Bq/m , while no traces of Rn have been observed. Most of the Rn progeny plate-out on the surface of the cathode of the detector, leading to a rate of Rn-induced Bi of (0.97±0.05(stat)±0.10(sys)) Hz for visible energies above 400 keV. The corresponding background index in the 0νββ region of interest is evaluated as (7.3±1.5(stat)±0.8(sys))×10 counts/(keV·kg·yr) after selection of the fully contained events. This background index is reduced to ∼4×10 counts/(keV·kg·yr) by applying a topological selection requiring only one double-electr</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)082">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)082</guid>
-    </item><item>
-      <title>Relativistic single-electron wavepacket in quantum electromagnetic fields. Part II. Quantum radiation emitted by a uniformly accelerated electron</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)086</link>
-      <description>We compute the quantum radiation emitted by wavepackets of relativistic single electrons, both at rest and undergoing uniform acceleration in the Minkowski vacuum of the electromagnetic field. We find that the cubic terms in the original nonlinear action of electrodynamics should be considered in obtaining the quantum radiation to the leading order. We show that the quantum radiation from a single-electron wavepacket at rest vanishes exactly. For a uniformly accelerated electron, the quantum radiated power has secular growth in the long-time regime. We demonstrate that this secular growth has a classical interpretation, and argue that the resummed quantum radiation at late times would not diverge. Regarding experimental proposals for the detection of the Unruh effect from the quantum radiation in the ‘blind spots’ of classical radiation we ascertain that quantum corrections in the two blind spots are fully contributed by the transverse-deviation correlators, where the dominant contribu</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)086">Journal of High Energy Physics</source>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)086</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/yj2s-v785</guid>
     </item>
   </channel>
 </rss>
