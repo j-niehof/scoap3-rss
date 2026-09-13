@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:01:17 +0000</lastBuildDate>
     <item>
       <title>Z boson radiative decay Z → μ + μ − γ at the LHC</title>
       <link>https://doi.org/10.1007/JHEP09(2026)154</link>
@@ -51,13 +51,6 @@
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/fd9b-clnl</guid>
     </item><item>
-      <title>Uncharted Logarithmic Structures in QCD Transverse-Energy Flow</title>
-      <link>https://doi.org/10.1103/6bv2-ybsg</link>
-      <description>We investigate the QCD transverse-energy (ET) flow distribution within an azimuthal region of phase space, defined by an angular interval Δϕ on the plane transverse to a chosen reference axis. Vetoes on the resulting ET are widely employed at the LHC to isolate missing transverse momentum in final states with invisible particles. We show that this observable has logarithmic structures never seen before in QCD calculations. Notably, its description involves the resummation of nonglobal and coherence-violating logarithmic contributions that are more singular than any reported to date. We analyze its all-orders behavior, providing analytical resummation for pp collisions at next-to-double-logarithmic accuracy and numerical resummation at leading-logarithmic accuracy in the Veneziano limit. We further present a computation of the leading coherence-violating correction, highlighting its novel structure. The intricate structure of vetoes in azimuthal gaps reveals new aspects of QCD dynamics </description>
-      <source url="https://doi.org/10.1103/6bv2-ybsg">Physical Review Letters</source>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/6bv2-ybsg</guid>
-    </item><item>
       <title>Pushing the limits of pulse shape discrimination in a large liquid xenon detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16216-8</link>
       <description>The LUX-ZEPLIN (LZ) experiment is a direct-detection dark matter experiment, optimized to search for weakly interacting massive particles (WIMPs) through WIMP-nucleon interactions. The main challenge in dark matter detection is differentiating between WIMP signals and background events. In LZ, the ratio of ionization to scintillation signals (charge-to-light) is the primary method for rejecting electronic recoil (ER) background. Pulse shape discrimination (PSD) offers a method for additional ER backgrounds rejection in liquid xenon detectors. In this paper, the discrimination power of PSD with the LZ experiment is discussed. To precisely characterize the scintillation pulse shape, an analysis framework is developed to reconstruct the detection time of individual photons. Using LZ calibration data, the photon-timing tail fraction discriminator is optimized and achieves ER leakage as low as 15% . For specific background processes such as ^124 Xe double electron capture, the leakage is re</description>
@@ -65,6 +58,21 @@
       <author>et al.</author>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16216-8</guid>
+    </item><item>
+      <title>tt¯ production as a probe of dimension-six SMEFT at higher orders</title>
+      <link>https://doi.org/10.1103/fd9b-clnl</link>
+      <description>We study top-antitop pair production in proton-proton collisions within the Standard Model effective field theory (SMEFT) at dimension six. We focus on the top chromomagnetic operator CtG together with the four-quark operators relevant for unpolarized tt¯ production. We analyze the top-quark single-differential transverse-momentum (pT) and rapidity (y) distributions and the double-differential distributions in pT and y (pT×y) at 13 TeV, and we present projections for 13.6 TeV using the same binning. Our highest-order setup combines next-to-next-to-leading-order (NNLO) Standard Model (SM) predictions with approximate NNLO SM-SMEFT interference corrections. We find that higher-order QCD effects are essential for a stable SMEFT interpretation, yielding substantially more robust bounds and milder parameter degeneracies. The strongest sensitivity is obtained for CtG. In the combined highest-order analysis of the 13-TeV results and 13.6-TeV projections, we obtain sensitivity to effective sca</description>
+      <source url="https://doi.org/10.1103/fd9b-clnl">Physical Review D</source>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/fd9b-clnl</guid>
+    </item><item>
+      <title>First Energy-Scan Measurement of e+e−→K+K− around the ψ(2S) Resonance</title>
+      <link>https://doi.org/10.1103/q72k-vdtp</link>
+      <description>We report the precise energy scan measurement of the cross section line shape of ψ(2S)→K+K−. The analysis is based on e+e− collision data corresponding to an integrated luminosity of 495 pb−1 collected with the BESIII detector at BEPCII. By analyzing the cross section line shape, we extract the relative phase Φ between the strong and electromagnetic amplitudes of the ψ(2S) resonance, a fundamental parameter in charmonium physics, based on the assumption that the relative phase between the electromagnetic amplitude of the ψ(2S) resonance and the continuum is zero. Two distinct solutions for the branching fraction B of ψ(2S)→K+K− are observed: a constructive interference solution with B=(7.49±0.41)×10−5 and Φ=(110.1±6.7)°, and a destructive interference solution with B=(10.94±0.48)×10−5 and Φ=(−106.8±5.7)°. A significant correlation between Φ and B is established, demonstrating that interference effects must be taken into account in the ψ(2S) branching fraction measurements. Additionally</description>
+      <source url="https://doi.org/10.1103/q72k-vdtp">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/q72k-vdtp</guid>
     </item><item>
       <title>Measurements of Z-Boson Pair Entanglement in Decays of Higgs Bosons at the ATLAS Experiment</title>
       <link>https://doi.org/10.1103/y1nh-1b82</link>
@@ -126,6 +134,13 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/vgg4-wnhr</guid>
     </item><item>
+      <title>Majoron dark matter, high-scale seesaw framework, and leptogenesis</title>
+      <link>https://doi.org/10.1103/qjrh-r2tv</link>
+      <description>We study the cosmology and observational probes of majoron dark matter in a high-scale seesaw framework with spontaneously broken lepton number. Right-handed neutrinos naturally generate light neutrino masses and can realize thermal leptogenesis, while the associated majoron is a light pseudo-Nambu-Goldstone boson that can be cosmologically stable and serve as a viable dark matter candidate for sub-MeV masses. We analyze both preinflationary and postinflationary histories of lepton number breaking. In the preinflationary scenario, majoron dark matter is produced by misalignment and constrained by CMB isocurvature. In the postinflationary scenario, the majoron abundance receives nonthermal contributions from spatially averaged misalignment, majoron radiation from global cosmic strings, and the collapse of the string-domain wall network, as well as a thermally produced component. This scenario can also be probed by future searches for the stochastic gravitational wave background produced</description>
+      <source url="https://doi.org/10.1103/qjrh-r2tv">Physical Review D</source>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/qjrh-r2tv</guid>
+    </item><item>
       <title>Primordial black hole dark matter: A quantitative parameter sensitivity comparison across formation mechanisms and particle candidates</title>
       <link>https://doi.org/10.1103/nk1q-5k51</link>
       <description>Primordial black holes (PBHs) in the asteroid-mass window (1017–1022 g) can account for all of the dark matter without violating any observational constraint, yet are routinely dismissed as fine-tuned. I put that dismissal to the test by applying three complementary sensitivity measures uniformly across a broad landscape: three noninflationary PBH production mechanisms, six classes of inflationary PBH models, and seven particle dark matter benchmarks, all evaluated against the same observable target. Three distinct naturalness universality classes emerge, determined entirely by the analytic structure of the abundance map rather than by the nature of the dark matter candidate. Biased-domain-wall PBHs, in their least model-dependent (free-Vb) form, have the same low sensitivity, Δ=4.5, as off-resonance weakly interacting massive particles and freeze-in particles (Δ=2), a sensitivity that, because it is constant over the entire parameter space of the construction, also coincides trivially</description>
@@ -133,28 +148,12 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/nk1q-5k51</guid>
     </item><item>
-      <title>Precision Measurement of the Muon Charge Asymmetry from W-Boson Decays in pp Collisions at s=13 TeV in the Forward Region</title>
-      <link>https://doi.org/10.1103/vgg4-wnhr</link>
-      <description>A precision measurement of the muon charge asymmetry from W-boson decays in proton-proton collisions at s=13 TeV is presented. The analysis utilizes data corresponding to an integrated luminosity of 5.1 fb−1, recorded by the LHCb detector during 2016, 2017, and 2018. The asymmetry is measured for muons with transverse momentum between 25 and 55 GeV and pseudorapidity between 2.0 and 4.5. This result represents the most precise determination of the muon charge asymmetry in the forward region to date, exhibiting excellent agreement with next-to-next-to-leading-order predictions in perturbative quantum chromodynamics. The measured asymmetries are corrected for experimental efficiencies, resolution, and final-state photon radiation.</description>
-      <source url="https://doi.org/10.1103/vgg4-wnhr">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vgg4-wnhr</guid>
-    </item><item>
-      <title>Measurement of the W-boson production cross sections in pp collisions at s=13 TeV in the forward region</title>
-      <link>https://doi.org/10.1103/5wwg-frcg</link>
-      <description>A precision measurement of the W-boson production cross section is performed using the W→μν decay channel, based on a sample of proton-proton collision data collected by the LHCb experiment at s=13 TeV and corresponding to an integrated luminosity of 5.1 fb−1. The cross section is measured for muons with transverse momentum between 25 and 55 GeV and pseudorapidity between 2.0 and 4.5. The total production cross sections of W bosons are measured to be σW+→μ+ν=1754.2±1.5±11.8±35.1 pb σW−→μ−ν¯=1178.1±1.3±9.7±23.6 pb where uncertainties are statistical, systematic, and due to the luminosity determination, respectively. Differential distributions dσW±→μ±ν/dημ± are also presented. The total and differential cross sections are in good agreement with theoretical predictions at next-to-next-to-leading order in perturbative quantum chromodynamics. This measurement is significantly more precise than previous results in this kinematic regime.</description>
-      <source url="https://doi.org/10.1103/5wwg-frcg">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5wwg-frcg</guid>
-    </item><item>
-      <title>Quantum computing hadron fragmentation functions in light-front chromodynamics</title>
-      <link>https://doi.org/10.1103/4grj-x7xv</link>
-      <description>We deploy quantum chromodynamics in light-front quantization (and gauge), discretized and truncated in both Fock and momentum spaces with a particle-register encoding suited for quantum simulation; we show for the first time how to calculate fragmentation functions, a problem heretofore untractable in general from ab initio approaches. We provide a classical-simulator-based proof of concept by computing the charm-to-charmonium fragmentation, c→J/ψ, in a simplified setup, an interesting case where we can (reasonably) compare with the known 1993 perturbative evaluation (and a more recent one at next-to-leading order) within nonrelativistic QCD.</description>
-      <source url="https://doi.org/10.1103/4grj-x7xv">Physical Review D</source>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4grj-x7xv</guid>
+      <title>Neutrino helicity oscillations in astrophysical environments: A many-body approach</title>
+      <link>https://doi.org/10.1103/2p4r-f1gs</link>
+      <description>Neutrino rest mass enables left-handed states to “flip” to right-handed states and vice versa. In-medium effects can enhance the probability for such spin flip. We demonstrate that a full many-body calculation of this process in neutrino-dense environments can lead to spin-flip probabilities that exceed by orders of magnitude those calculated with mean-field treatments. We study simple configurations with a few neutrinos in well-defined momentum states, for which we show that the helicity conversion enhancement is connected to many-body momentum exchange. Such an effect would therefore be missed in a calculation that considers only forward processes. We speculate on the potential astrophysical implications of these results and the range of applicability of our calculation and its limitations.</description>
+      <source url="https://doi.org/10.1103/2p4r-f1gs">Physical Review D</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2p4r-f1gs</guid>
     </item>
   </channel>
 </rss>
