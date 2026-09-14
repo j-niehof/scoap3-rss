@@ -5,15 +5,8 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 14:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:06:45 +0000</lastBuildDate>
     <item>
-      <title>Z boson radiative decay Z → μ + μ − γ at the LHC</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)154</link>
-      <description>We study the radiative decay of the Z boson, Z → μ μ γ, at the LHC, providing both Standard Model (SM) precision analysis and new physics projections. With detailed analysis of Run-2 and future HL-LHC performances, we demonstrate that this decay mode can be measured with a statistical precision at the sub-percentage level. From existing Run-1 data, we extract Br (Z → μμγ) = (3.34 ± 0.016) × 10 . We further explore the sensitivity of this channel to axion-like particles (ALPs) and to an anomalous U(1) gauge boson coupled to the muon. Both scenarios feature resonant structures in the dimuon invariant mass spectrum within the Z → a/X + γ → μ μ γ final state. Our results show that the radiative Z decay provides a clean and statistically powerful probe of such leptophilic new physics, extending the current collider reach for ALPs and anomalous gauge forces down to g ~ 𝒪(10 ). This study highlights the potential of rare electroweak gauge boson decays as precision tests of the SM and sensitiv</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)154">Journal of High Energy Physics</source>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)154</guid>
-    </item><item>
       <title>EFT at JADE: a case study</title>
       <link>https://doi.org/10.1007/JHEP09(2026)153</link>
       <description>As we use the standard model effective field theory to search for signs of new physics beyond the direct reach of the LHC, we often wonder what we may learn from the effective field theory, and what it would look like to make a discovery via effective field theory. This article presents a case study that provides some answers to these questions. We apply the low-energy effective field theory to e e → μ μ data below the Z boson mass from the JADE experiment at DESY. The low-energy effective field theory allows the observation of physics beyond QED in the JADE data and furthermore, by matching the Wilson coefficients to the electroweak theory, a rough measurement of the masses of the W and Z bosons is possible. The ability to make this rough measurement challenges the conventional wisdom that an observation of new physics via EFT tells us nothing about the nature of that new physics. A measurement of this quality would have been sufficient to guide the construction of colliders such as t</description>
@@ -36,20 +29,12 @@
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/pwj2-q35c</guid>
     </item><item>
-      <title>First Energy-Scan Measurement of e+e−→K+K− around the ψ(2S) Resonance</title>
-      <link>https://doi.org/10.1103/q72k-vdtp</link>
-      <description>We report the precise energy scan measurement of the cross section line shape of ψ(2S)→K+K−. The analysis is based on e+e− collision data corresponding to an integrated luminosity of 495 pb−1 collected with the BESIII detector at BEPCII. By analyzing the cross section line shape, we extract the relative phase Φ between the strong and electromagnetic amplitudes of the ψ(2S) resonance, a fundamental parameter in charmonium physics, based on the assumption that the relative phase between the electromagnetic amplitude of the ψ(2S) resonance and the continuum is zero. Two distinct solutions for the branching fraction B of ψ(2S)→K+K− are observed: a constructive interference solution with B=(7.49±0.41)×10−5 and Φ=(110.1±6.7)°, and a destructive interference solution with B=(10.94±0.48)×10−5 and Φ=(−106.8±5.7)°. A significant correlation between Φ and B is established, demonstrating that interference effects must be taken into account in the ψ(2S) branching fraction measurements. Additionally</description>
-      <source url="https://doi.org/10.1103/q72k-vdtp">Physical Review Letters</source>
-      <author>et al.</author>
+      <title>Uncharted Logarithmic Structures in QCD Transverse-Energy Flow</title>
+      <link>https://doi.org/10.1103/6bv2-ybsg</link>
+      <description>We investigate the QCD transverse-energy (ET) flow distribution within an azimuthal region of phase space, defined by an angular interval Δϕ on the plane transverse to a chosen reference axis. Vetoes on the resulting ET are widely employed at the LHC to isolate missing transverse momentum in final states with invisible particles. We show that this observable has logarithmic structures never seen before in QCD calculations. Notably, its description involves the resummation of nonglobal and coherence-violating logarithmic contributions that are more singular than any reported to date. We analyze its all-orders behavior, providing analytical resummation for pp collisions at next-to-double-logarithmic accuracy and numerical resummation at leading-logarithmic accuracy in the Veneziano limit. We further present a computation of the leading coherence-violating correction, highlighting its novel structure. The intricate structure of vetoes in azimuthal gaps reveals new aspects of QCD dynamics </description>
+      <source url="https://doi.org/10.1103/6bv2-ybsg">Physical Review Letters</source>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/q72k-vdtp</guid>
-    </item><item>
-      <title>tt¯ production as a probe of dimension-six SMEFT at higher orders</title>
-      <link>https://doi.org/10.1103/fd9b-clnl</link>
-      <description>We study top-antitop pair production in proton-proton collisions within the Standard Model effective field theory (SMEFT) at dimension six. We focus on the top chromomagnetic operator CtG together with the four-quark operators relevant for unpolarized tt¯ production. We analyze the top-quark single-differential transverse-momentum (pT) and rapidity (y) distributions and the double-differential distributions in pT and y (pT×y) at 13 TeV, and we present projections for 13.6 TeV using the same binning. Our highest-order setup combines next-to-next-to-leading-order (NNLO) Standard Model (SM) predictions with approximate NNLO SM-SMEFT interference corrections. We find that higher-order QCD effects are essential for a stable SMEFT interpretation, yielding substantially more robust bounds and milder parameter degeneracies. The strongest sensitivity is obtained for CtG. In the combined highest-order analysis of the 13-TeV results and 13.6-TeV projections, we obtain sensitivity to effective sca</description>
-      <source url="https://doi.org/10.1103/fd9b-clnl">Physical Review D</source>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/fd9b-clnl</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/6bv2-ybsg</guid>
     </item><item>
       <title>Pushing the limits of pulse shape discrimination in a large liquid xenon detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16216-8</link>
@@ -154,6 +139,20 @@
       <source url="https://doi.org/10.1103/2p4r-f1gs">Physical Review D</source>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/2p4r-f1gs</guid>
+    </item><item>
+      <title>Regge Spectral Generator and Form Factors from Hard Exclusive Amplitudes in Holographic QCD</title>
+      <link>https://doi.org/10.1103/55pw-29c6</link>
+      <description>We show that the infinite tower of hard exclusive amplitudes in holographic light-front QCD leads to a spectral generator G(α,λ) that encodes the full Regge spectrum. The construction assumes a Poisson distribution of Fock-state components, where λ represents the average parton multiplicity above the valence configuration. The resulting generator yields a Regge spectrum invariant under continuous λ deformations. Its even-and odd-twist projections yield the meson and baryon form factors with a single value of λ, fixed by the pion charge radius, which in turn determines the full Q2 dependence. The constituent counting rules for both sectors follow from the structure of the spectral generator, which also provides a compact analytic representation of parton distributions.</description>
+      <source url="https://doi.org/10.1103/55pw-29c6">Physical Review Letters</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/55pw-29c6</guid>
+    </item><item>
+      <title>Regge Spectral Generator and Form Factors from Hard Exclusive Amplitudes in Holographic QCD</title>
+      <link>https://doi.org/10.1103/55pw-29c6</link>
+      <description>We show that the infinite tower of hard exclusive amplitudes in holographic light-front QCD leads to a spectral generator G(α,λ) that encodes the full Regge spectrum. The construction assumes a Poisson distribution of Fock-state components, where λ represents the average parton multiplicity above the valence configuration. The resulting generator yields a Regge spectrum invariant under continuous λ deformations. Its even-and odd-twist projections yield the meson and baryon form factors with a single value of λ, fixed by the pion charge radius, which in turn determines the full Q2 dependence. The constituent counting rules for both sectors follow from the structure of the spectral generator, which also provides a compact analytic representation of parton distributions.</description>
+      <source url="https://doi.org/10.1103/55pw-29c6">Physical Review Letters</source>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/55pw-29c6</guid>
     </item>
   </channel>
 </rss>
