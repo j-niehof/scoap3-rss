@@ -5,14 +5,117 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:35:44 +0000</lastBuildDate>
     <item>
-      <title>EFT at JADE: a case study</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)153</link>
-      <description>As we use the standard model effective field theory to search for signs of new physics beyond the direct reach of the LHC, we often wonder what we may learn from the effective field theory, and what it would look like to make a discovery via effective field theory. This article presents a case study that provides some answers to these questions. We apply the low-energy effective field theory to e e → μ μ data below the Z boson mass from the JADE experiment at DESY. The low-energy effective field theory allows the observation of physics beyond QED in the JADE data and furthermore, by matching the Wilson coefficients to the electroweak theory, a rough measurement of the masses of the W and Z bosons is possible. The ability to make this rough measurement challenges the conventional wisdom that an observation of new physics via EFT tells us nothing about the nature of that new physics. A measurement of this quality would have been sufficient to guide the construction of colliders such as t</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)153">Journal of High Energy Physics</source>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)153</guid>
+      <title>Search for the reaction channel e+e−→ηηJ/ψ and the isospin partner of the Zc(3900) at center-of-mass energies s=4.226 − 4.950 GeV</title>
+      <link>https://doi.org/10.1103/x4k2-zy7t</link>
+      <description>We search for the reaction channel e+e−→ηηJ/ψ in a data sample with center-of-mass energies from 4.226 to 4.950 GeV that was collected by the BESIII detector operating at the Beijing Electron Positron Collider (BEPCII). The data analysis is performed with two different reconstruction methods, exclusive and semi-inclusive, enabling a comparison and combination of the results. Only at a few energy points is a nonzero cross section observed with a statistical significance of more than 3σ using one of the methods. Therefore, the corresponding upper limits of the cross section at the 90% confidence level are determined. The energy-dependent results show clear deviations from the line shape expected from three-body phase space alone. Since the statistical significance for almost all center-of-mass energies is low, the upper limits for the reaction channel e+e−→ηηJ/ψ also serve as limits for the existence of a possible isospin partner to the charmonium-like isospin triplet Zc(3900) which deca</description>
+      <source url="https://doi.org/10.1103/x4k2-zy7t">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/x4k2-zy7t</guid>
+    </item><item>
+      <title>Constraints on Solar Reflected Dark Matter from XENON1T and XENONnT Data</title>
+      <link>https://doi.org/10.1103/yknv-rhw9</link>
+      <description>We report on a search for sub-GeV dark matter upscattered via the solar reflection mechanism in the heavy mediator scenario. Under the standard halo model, keV–MeV dark matter produces nuclear recoils with energies below the detection threshold of liquid xenon time projection chambers. We enhance sensitivity to low-mass dark matter (DM) by considering dark matter–electron scattering, employing dedicated event selections to reduce the detection threshold and exploiting the additional kinetic energy imparted to the dark matter particle by solar upscattering. Using XENON1T ionization-only and XENONnT low-energy electronic recoil datasets, we exclude previously unconstrained DM-electron scattering cross section for masses between 4.6 and 20 keV/c2 and between 0.2 and 2 MeV/c2, reaching a minimum of 3.41×10−39 cm2 for a mass of 0.3 MeV/c2 at 90% confidence level.</description>
+      <source url="https://doi.org/10.1103/yknv-rhw9">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yknv-rhw9</guid>
+    </item><item>
+      <title>Search for the reaction channel e+e−→ηηJ/ψ and the isospin partner of the Zc(3900) at center-of-mass energies s=4.226 − 4.950 GeV</title>
+      <link>https://doi.org/10.1103/x4k2-zy7t</link>
+      <description>We search for the reaction channel e+e−→ηηJ/ψ in a data sample with center-of-mass energies from 4.226 to 4.950 GeV that was collected by the BESIII detector operating at the Beijing Electron Positron Collider (BEPCII). The data analysis is performed with two different reconstruction methods, exclusive and semi-inclusive, enabling a comparison and combination of the results. Only at a few energy points is a nonzero cross section observed with a statistical significance of more than 3σ using one of the methods. Therefore, the corresponding upper limits of the cross section at the 90% confidence level are determined. The energy-dependent results show clear deviations from the line shape expected from three-body phase space alone. Since the statistical significance for almost all center-of-mass energies is low, the upper limits for the reaction channel e+e−→ηηJ/ψ also serve as limits for the existence of a possible isospin partner to the charmonium-like isospin triplet Zc(3900) which deca</description>
+      <source url="https://doi.org/10.1103/x4k2-zy7t">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/x4k2-zy7t</guid>
+    </item><item>
+      <title>Constraints on Solar Reflected Dark Matter from XENON1T and XENONnT Data</title>
+      <link>https://doi.org/10.1103/yknv-rhw9</link>
+      <description>We report on a search for sub-GeV dark matter upscattered via the solar reflection mechanism in the heavy mediator scenario. Under the standard halo model, keV–MeV dark matter produces nuclear recoils with energies below the detection threshold of liquid xenon time projection chambers. We enhance sensitivity to low-mass dark matter (DM) by considering dark matter–electron scattering, employing dedicated event selections to reduce the detection threshold and exploiting the additional kinetic energy imparted to the dark matter particle by solar upscattering. Using XENON1T ionization-only and XENONnT low-energy electronic recoil datasets, we exclude previously unconstrained DM-electron scattering cross section for masses between 4.6 and 20 keV/c2 and between 0.2 and 2 MeV/c2, reaching a minimum of 3.41×10−39 cm2 for a mass of 0.3 MeV/c2 at 90% confidence level.</description>
+      <source url="https://doi.org/10.1103/yknv-rhw9">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yknv-rhw9</guid>
+    </item><item>
+      <title>Closing the loop on Φ4 in AdS3</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)170</link>
+      <description>We compute the one-loop correction to the CFT data of all double-trace operators [ϕϕ] for a Φ theory in AdS , for arbitrary values of n, ℓ, and of the scaling dimension ∆ &gt; 1. Working in the spectral representation, the t-channel one-loop bubble diagram is reduced to a product of spectral integrals dressed by the conformal 6j symbol. Both the spectral integrals and the subsequent sums over residues are performed analytically, yielding finite closed-form expressions for the anomalous dimensions in terms of higher hypergeometric functions. We discuss the structure of the results, including their large-spin and high-energy behaviors, and show that the anomalous dimensions are completely monotonic in spin.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)170">Journal of High Energy Physics</source>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)170</guid>
+    </item><item>
+      <title>TMD factorization in diffractive heavy quark production in photon-nucleus collisions</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)169</link>
+      <description>Using the Colour Glass Condensate effective theory, we study the diffractive production of a massive quark-antiquark pair accompanied by a gluon in coherent photon-nucleus collisions at high energy. This partonic configuration provides the leading twist contribution to the cross section in the correlation limit where two of the partons are hard and nearly back to back in the transverse plane, while the third one is semi-hard, with a transverse momentum of the order of the nuclear saturation momentum. We consider two scenarios: (i) a hard quark-antiquark pair together with a semi-hard gluon; in this case we demonstrate transverse momentum dependent (TMD) factorisation with a mass-dependent “hard” factor and the standard expression for the gluon diffractive TMD, and (ii) a hard antiquark-gluon pair and a semi-hard quark; in this case we find TMD factorisation with a mass-independent “hard” factor and a mass-dependent quark diffractive TMD, which represents a new result. We show that incr</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)169">Journal of High Energy Physics</source>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)169</guid>
+    </item><item>
+      <title>Modular self-duality, symmetrized relative entropy, and Bogoliubov-Kubo-Mori susceptibility in quantum field theory</title>
+      <link>https://doi.org/10.1103/vxkq-xb7l</link>
+      <description>We develop an operator-algebraic framework for modular self-duality, symmetrized relative entropy, and Bogoliubov-Kubo-Mori (BKM) susceptibility of local states in quantum field theory. In finite dimensions, modular self-duality singles out fixed points at which a state coincides with its modularly reflected partner. At such points, the natural comparison functional is the symmetrized Umegaki relative entropy. It vanishes at coincidence, and its Hessian is governed by the BKM quantum Fisher information along the reflected tangent direction. We then extend this fixed-point construction to the local type III von Neumann algebras that arise in quantum field theory. Here, a local state is compared with the modular pullback of its commutant restriction, and the intrinsic comparison functional is the symmetrized Araki relative entropy. For sufficiently regular state deformations, the fixed-localization Hessian at the self-dual point defines a type III BKM susceptibility. This coefficient is </description>
+      <source url="https://doi.org/10.1103/vxkq-xb7l">Physical Review D</source>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vxkq-xb7l</guid>
+    </item><item>
+      <title>DD¯ interactions are weak near threshold in QCD</title>
+      <link>https://doi.org/10.1103/s3p2-552r</link>
+      <description>We study near-threshold DD¯ scattering in S-and D-wave to determine whether or not resonances or bound states are present. Working in the approximation where charm annihilation is forbidden, with two degenerate light-quark flavors and a heavier strange quark, isospin is a good quantum number, and the only other channel that is kinematically open is ηcη. Using lattice QCD we compute, as a function of varying light-quark mass, the S-matrix for coupled-channel ηcη−DD¯ scattering and find only weakly interacting meson pairs. In contrast to several other studies, we find no evidence for any bound-state or resonance singularity in the energy region between the deeply bound χc0(1P) state and the DsD¯s threshold.</description>
+      <source url="https://doi.org/10.1103/s3p2-552r">Physical Review D</source>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/s3p2-552r</guid>
+    </item><item>
+      <title>Quadrupole spectra derived from 2.76-TeV Pb-Pb identified-hadron v2(pt) data</title>
+      <link>https://doi.org/10.1103/sw4r-4nxr</link>
+      <description>pt-differential quantity v2(pt) is meant to measure elliptic flow manifested by a dense QCD medium formed in high-energy nucleus-nucleus collisions. Elliptic flow may be referred to more neutrally as a cylindrical quadrupole component of the transverse motion of particle sources within a collision. As defined, v2(pt) relies on an implicit assumption that almost all produced particles emerge from a single source. This article describes a detailed study of the algebraic structure of v2(pt). A procedure is developed to derive a common monopole boost (“radial flow”) value and quadrupole pt spectra for several hadron species. The method is applied to v2(pt) data for four hadron species from 2.76-TeV Pb-Pb collisions. According to available v2(pt) data the assumption of a single dominant particle source within A−A collisions is unjustified. Combined with a previous study of quadrupole amplitude variation for 200-GeV p−p collisions these results demonstrate that quadrupole structure is relate</description>
+      <source url="https://doi.org/10.1103/sw4r-4nxr">Physical Review C</source>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/sw4r-4nxr</guid>
+    </item><item>
+      <title>Measurement of Charged-Particle Production in sNN=9.62 TeV Proton-Oxygen Collisions as a Probe of Cosmic-Ray Air Showers with the ATLAS Detector</title>
+      <link>https://doi.org/10.1103/f3nk-5lt9</link>
+      <description>This Letter presents a measurement of prompt charged-particle production in proton-oxygen interactions at sNN=9.62 TeV center-of-mass energy with the ATLAS detector, corresponding to 634 μb−1 of integrated luminosity. A total of 246×106 selected events have at least one track with transverse momentum pT&gt;500 MeV and pseudorapidity |η|2.5. The measured fiducial proton-oxygen cross section is σfid.pO=396±6(exp.)±9(lumi.) mb and the extrapolated inelastic proton-air cross section is σinel.p+air=406±6(exp.)±9(lumi.)±28(th.) mb. Measurements of charged-particle multiplicity, pT, and η distributions are an order-of-magnitude more precise than differences between hadronic-interaction models. These results enable improved modeling of cosmic-ray air showers, which is important for astroparticle physics.</description>
+      <source url="https://doi.org/10.1103/f3nk-5lt9">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/f3nk-5lt9</guid>
+    </item><item>
+      <title>Detector performance at SHiP for cascade-produced long-lived particles</title>
+      <link>https://doi.org/10.1103/h9gk-mjjh</link>
+      <description>Previous studies have shown that cascade production in the thick target of the Search for Hidden Particles (SHiP) experiment may substantially enhance the number of light long-lived particles (LLPs) decaying in the fiducial volume. However, cascade-produced LLPs are typically soft, so daughter-level acceptance and reconstruction effects can strongly suppress the observable event rate. We quantify this suppression for two representative cases: photophilic axionlike particles (ALPs) produced in electromagnetic cascades and heavy neutral leptons (HNLs) produced in decays of secondary kaons. We combine a semianalytic event-rate calculation with a detector-level study of ALP reconstruction in the electromagnetic calorimeter. For the nominal SHiP detector design, cascade ALPs give at most a moderate enhancement over primary production and only at the lightest masses; at higher masses, the cascade contribution becomes subdominant or negligible. For HNLs from secondary kaons, the cascade contr</description>
+      <source url="https://doi.org/10.1103/h9gk-mjjh">Physical Review D</source>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/h9gk-mjjh</guid>
+    </item><item>
+      <title>Quantum walks and exact RG in de Sitter space</title>
+      <link>https://doi.org/10.1103/jz1v-8lfy</link>
+      <description>The local physics of light scalar fields in de Sitter space is well described by classical random walks, as expressed through the framework of stochastic inflation. Recent work has clarified how this formalism arises from quantum field theory and the renormalization group (RG), allowing for corrections to this formalism to be determined order by order. Yet, this description is incomplete. For example, the quantum dynamics of these fields are expected to become important when determining the tail of the probability distribution for the fluctuations. In this paper, we develop the understanding of fields in de Sitter as a quantum walk in order to bridge the gap between the classical and quantum description. We use the framework of exact RG to calculate the evolution equation for the reduced density matrix of the long wavelength fields. This master equation provides the direct map from light fields to models of quantum walks. We show how to reduce the master equation to stochastic inflatio</description>
+      <source url="https://doi.org/10.1103/jz1v-8lfy">Physical Review D</source>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jz1v-8lfy</guid>
+    </item><item>
+      <title>DD¯ interactions are weak near threshold in QCD</title>
+      <link>https://doi.org/10.1103/s3p2-552r</link>
+      <description>We study near-threshold DD¯ scattering in S-and D-wave to determine whether or not resonances or bound states are present. Working in the approximation where charm annihilation is forbidden, with two degenerate light-quark flavors and a heavier strange quark, isospin is a good quantum number, and the only other channel that is kinematically open is ηcη. Using lattice QCD we compute, as a function of varying light-quark mass, the S-matrix for coupled-channel ηcη−DD¯ scattering and find only weakly interacting meson pairs. In contrast to several other studies, we find no evidence for any bound-state or resonance singularity in the energy region between the deeply bound χc0(1P) state and the DsD¯s threshold.</description>
+      <source url="https://doi.org/10.1103/s3p2-552r">Physical Review D</source>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/s3p2-552r</guid>
+    </item><item>
+      <title>Quadrupole spectra derived from 2.76-TeV Pb-Pb identified-hadron v2(pt) data</title>
+      <link>https://doi.org/10.1103/sw4r-4nxr</link>
+      <description>pt-differential quantity v2(pt) is meant to measure elliptic flow manifested by a dense QCD medium formed in high-energy nucleus-nucleus collisions. Elliptic flow may be referred to more neutrally as a cylindrical quadrupole component of the transverse motion of particle sources within a collision. As defined, v2(pt) relies on an implicit assumption that almost all produced particles emerge from a single source. This article describes a detailed study of the algebraic structure of v2(pt). A procedure is developed to derive a common monopole boost (“radial flow”) value and quadrupole pt spectra for several hadron species. The method is applied to v2(pt) data for four hadron species from 2.76-TeV Pb-Pb collisions. According to available v2(pt) data the assumption of a single dominant particle source within A−A collisions is unjustified. Combined with a previous study of quadrupole amplitude variation for 200-GeV p−p collisions these results demonstrate that quadrupole structure is relate</description>
+      <source url="https://doi.org/10.1103/sw4r-4nxr">Physical Review C</source>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/sw4r-4nxr</guid>
+    </item><item>
+      <title>Glueballs, constituent gluons, and instantons</title>
+      <link>https://doi.org/10.1103/8rdr-ymbp</link>
+      <description>We present a constituent two-gluon description of the lowest-lying glueball states in pure Yang-Mills theory, calibrated against quenched lattice results. The framework incorporates an instanton-induced dynamical gluon mass, Casimir-scaled adjoint confinement, the short-distance adjoint Coulomb interaction, and instanton-induced central and tensor forces. The scalar 0++ glueball is found to be exceptionally compact, with a radius of order the instanton size, ρ∼13 fm, consistent with lattice indications. By contrast, the tensor 2++ state remains spatially extended due to the centrifugal barrier. We also discuss the role of S–D mixing. A semiclassical analysis further supports Regge behavior for excited states, in agreement with lattice results.</description>
+      <source url="https://doi.org/10.1103/8rdr-ymbp">Physical Review D</source>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/8rdr-ymbp</guid>
     </item><item>
       <title>Z boson radiative decay Z → μ + μ − γ at the LHC</title>
       <link>https://doi.org/10.1007/JHEP09(2026)154</link>
@@ -21,6 +124,13 @@
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)154</guid>
     </item><item>
+      <title>EFT at JADE: a case study</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)153</link>
+      <description>As we use the standard model effective field theory to search for signs of new physics beyond the direct reach of the LHC, we often wonder what we may learn from the effective field theory, and what it would look like to make a discovery via effective field theory. This article presents a case study that provides some answers to these questions. We apply the low-energy effective field theory to e e → μ μ data below the Z boson mass from the JADE experiment at DESY. The low-energy effective field theory allows the observation of physics beyond QED in the JADE data and furthermore, by matching the Wilson coefficients to the electroweak theory, a rough measurement of the masses of the W and Z bosons is possible. The ability to make this rough measurement challenges the conventional wisdom that an observation of new physics via EFT tells us nothing about the nature of that new physics. A measurement of this quality would have been sufficient to guide the construction of colliders such as t</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)153">Journal of High Energy Physics</source>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)153</guid>
+    </item><item>
       <title>Measurement of the Born cross section for e+e−→KS0Ξ¯+Σ− at s=3.51–4.95 GeV</title>
       <link>https://doi.org/10.1103/pwj2-q35c</link>
       <description>Using e+e− collision data collected with the BESIII detector at the BEPCII collider corresponding to a total integrated luminosity of 44 fb−1, we present the first measurement of the Born cross sections for the process e+e−→KS0Ξ¯+Σ− at 56 center-of-mass energies from 3.510 to 4.951 GeV. By fitting the dressed cross sections of e+e−→KS0Ξ¯+Σ− with the assumption of a power-law function plus a charmonium(-like) resonance, i.e., ψ(3770), ψ(4040), ψ(4160), Y(4230), Y(4360), ψ(4415), Y(4500), Y(4660), and Y(4710), no significant signal of any charmonium(-like) state decaying into the KS0Ξ¯+Σ− is observed. Upper limits on the product of the electronic width and branching fraction at the 90% confidence level are given for each resonance. Combining this result with the previous measurement of the isospin-symmetric process e+e−→K−Ξ¯+Σ0, the ratio of the Born cross sections, R=σB(e+e−→KS0Ξ¯+Σ−)/σB(e+e−→K−Ξ¯+Σ0), is found to be consistent with unity.</description>
@@ -28,13 +138,6 @@
       <author>et al.</author>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/pwj2-q35c</guid>
-    </item><item>
-      <title>Uncharted Logarithmic Structures in QCD Transverse-Energy Flow</title>
-      <link>https://doi.org/10.1103/6bv2-ybsg</link>
-      <description>We investigate the QCD transverse-energy (ET) flow distribution within an azimuthal region of phase space, defined by an angular interval Δϕ on the plane transverse to a chosen reference axis. Vetoes on the resulting ET are widely employed at the LHC to isolate missing transverse momentum in final states with invisible particles. We show that this observable has logarithmic structures never seen before in QCD calculations. Notably, its description involves the resummation of nonglobal and coherence-violating logarithmic contributions that are more singular than any reported to date. We analyze its all-orders behavior, providing analytical resummation for pp collisions at next-to-double-logarithmic accuracy and numerical resummation at leading-logarithmic accuracy in the Veneziano limit. We further present a computation of the leading coherence-violating correction, highlighting its novel structure. The intricate structure of vetoes in azimuthal gaps reveals new aspects of QCD dynamics </description>
-      <source url="https://doi.org/10.1103/6bv2-ybsg">Physical Review Letters</source>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/6bv2-ybsg</guid>
     </item><item>
       <title>Pushing the limits of pulse shape discrimination in a large liquid xenon detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16216-8</link>
@@ -50,109 +153,6 @@
       <source url="https://doi.org/10.1103/fd9b-clnl">Physical Review D</source>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/fd9b-clnl</guid>
-    </item><item>
-      <title>First Energy-Scan Measurement of e+e−→K+K− around the ψ(2S) Resonance</title>
-      <link>https://doi.org/10.1103/q72k-vdtp</link>
-      <description>We report the precise energy scan measurement of the cross section line shape of ψ(2S)→K+K−. The analysis is based on e+e− collision data corresponding to an integrated luminosity of 495 pb−1 collected with the BESIII detector at BEPCII. By analyzing the cross section line shape, we extract the relative phase Φ between the strong and electromagnetic amplitudes of the ψ(2S) resonance, a fundamental parameter in charmonium physics, based on the assumption that the relative phase between the electromagnetic amplitude of the ψ(2S) resonance and the continuum is zero. Two distinct solutions for the branching fraction B of ψ(2S)→K+K− are observed: a constructive interference solution with B=(7.49±0.41)×10−5 and Φ=(110.1±6.7)°, and a destructive interference solution with B=(10.94±0.48)×10−5 and Φ=(−106.8±5.7)°. A significant correlation between Φ and B is established, demonstrating that interference effects must be taken into account in the ψ(2S) branching fraction measurements. Additionally</description>
-      <source url="https://doi.org/10.1103/q72k-vdtp">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/q72k-vdtp</guid>
-    </item><item>
-      <title>Measurements of Z-Boson Pair Entanglement in Decays of Higgs Bosons at the ATLAS Experiment</title>
-      <link>https://doi.org/10.1103/y1nh-1b82</link>
-      <description>Entanglement is a key property of quantum systems. In this Letter the first measurements of quantum entanglement between spins in pairs of Z bosons are reported, using proton-proton collision data from the Large Hadron Collider (LHC) at center-of-mass energies of 13 and 13.6 TeV, recorded with the ATLAS detector. Measurements of angular observables sensitive to ZZ* spin-density-matrix elements in the H→ZZ*→ℓ+ℓ−ℓ+ℓ− process yield coefficients C2,1,2,−1=−0.71±0.45 and C2,2,2,−2=0.08±0.44, consistent with their Standard Model predictions. A complementary hypothesis test using the full angular distribution, and relying on several Standard Model assumptions in the decays, provides substantially higher sensitivity to quantum correlations and disfavors the separable-state hypothesis at a significance of 4.7 standard deviations (expected 4.9σ) relative to the entangled Standard Model hypothesis. These results provide strong evidence of quantum entanglement between massive bosons (spin qutrits)</description>
-      <source url="https://doi.org/10.1103/y1nh-1b82">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/y1nh-1b82</guid>
-    </item><item>
-      <title>A LENS on DUNE-PRISM: characterizing a neutrino beam with off-axis measurements</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)145</link>
-      <description>Upcoming precision long-baseline neutrino oscillation experiments will be severely limited by the large systematic uncertainties associated with neutrino flux predictions and neutrino-nucleus cross sections. A promising remedy is the PRISM (Precision Reaction Independent Spectrum Measurement) technique, whereby the near detector measures the neutrino spectrum at different angles with respect to the beam axis. These measurements are then linearly combined into a prediction of the oscillated neutrino flux at the far detector. This prediction is data-driven, but still dependent on some theoretical knowledge about the neutrino flux. In this paper, we study to what extent off-axis measurements themselves can be used to directly constrain neutrino flux models. In particular, we use them to extract separately the fluxes and spectra of different meson species in the beam. We call this measurement LENS ( ateral xtraction of eutrino pectra). Second, we demonstrate how the thus improved flux mode</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)145">Journal of High Energy Physics</source>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)145</guid>
-    </item><item>
-      <title>Confinement in holographic theories at finite theta</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)134</link>
-      <description>A strongly coupled confining gauge theory with a non-zero vacuum angle undergoing a deconfinement to confinement phase transition is studied in the holographic gravitational description. A simplified five-dimensional setup is constructed where a bulk scalar models the effect of the vacuum angle, and the suitable boundary conditions on the ultra-violet (UV) and the infra-red (IR) boundaries are identified. The IR boundary condition is motivated by higher dimensional examples where the bulk scalar comes from a Wilson loop on a shrinking cycle. In this five-dimensional dual geometry, and in the limit of small backreaction in the infra-red, the critical temperature for the phase transition is shown to reduce quadratically with the vacuum angle, matching lattice results. The topological susceptibility has a sharp reduction across the critical temperature, also matching lattice results. The rate for the phase transition is estimated as a function of the vacuum angle, and is seen to be enhanc</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)134">Journal of High Energy Physics</source>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)134</guid>
-    </item><item>
-      <title>Upper bound on Parity breaking scale for doublet WIMP dark matter</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)136</link>
-      <description>We consider weakly interacting massive particle (WIMP) dark matter in a Parity solution to the strong CP problem. The WIMP phenomenology can be drastically affected by the presence of Parity partners of the WIMP and electroweak gauge bosons. We focus on a Parity extension of SU(2)-doublet fermion dark matter, identify the viable parameter space, and derive the predictions of the theory. We find that the Parity symmetry breaking scale is bounded from above, with the bound given by 25–60 TeV, depending on whether or not dark matter and its Parity partner coannihilate with each other. The High-Luminosity Large Hadron Collider, future colliders, and direct and indirect detection experiments can probe the parameter space further, with correlated signal rates.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)136">Journal of High Energy Physics</source>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)136</guid>
-    </item><item>
-      <title>Demonstration of sub-percent energy resolution in the NEXT-100 detector</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15948-x</link>
-      <description>NEXT-100 is a high-pressure xenon time projection chamber with electroluminescent amplification, designed to operate with up to sim 70.5 kg at 13.5 bar. It is the most recent detector developed by the NEXT collaboration to search for the neutrinoless double-beta decay ( β β 0ν ) of ^136mathrm Xe . The NEXT gas TPC technology offers the best energy resolution near the Q-value of the decay ( Q_β β = 2458 keV) among xenon detectors, which is set by design to be &lt;1% FWHM. We report here the high-energy calibration of the detector using a ^228textrmTh source, demonstrating excellent linear response and an energy resolution of (0.90 ± 0.02)% FWHM at the ^208 Tl photopeak (2615 keV). This performance extrapolates to a resolution at the double-beta decay end-point of R(Q_β β ) = (0.93 ± 0.02)% FWHM, confirming the detector’s capability for precision energy measurement in the search for β β 0ν .</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15948-x">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15948-x</guid>
-    </item><item>
-      <title>Measurement of the W-boson production cross sections in pp collisions at s=13 TeV in the forward region</title>
-      <link>https://doi.org/10.1103/5wwg-frcg</link>
-      <description>A precision measurement of the W-boson production cross section is performed using the W→μν decay channel, based on a sample of proton-proton collision data collected by the LHCb experiment at s=13 TeV and corresponding to an integrated luminosity of 5.1 fb−1. The cross section is measured for muons with transverse momentum between 25 and 55 GeV and pseudorapidity between 2.0 and 4.5. The total production cross sections of W bosons are measured to be σW+→μ+ν=1754.2±1.5±11.8±35.1 pb σW−→μ−ν¯=1178.1±1.3±9.7±23.6 pb where uncertainties are statistical, systematic, and due to the luminosity determination, respectively. Differential distributions dσW±→μ±ν/dημ± are also presented. The total and differential cross sections are in good agreement with theoretical predictions at next-to-next-to-leading order in perturbative quantum chromodynamics. This measurement is significantly more precise than previous results in this kinematic regime.</description>
-      <source url="https://doi.org/10.1103/5wwg-frcg">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5wwg-frcg</guid>
-    </item><item>
-      <title>Quantum computing hadron fragmentation functions in light-front chromodynamics</title>
-      <link>https://doi.org/10.1103/4grj-x7xv</link>
-      <description>We deploy quantum chromodynamics in light-front quantization (and gauge), discretized and truncated in both Fock and momentum spaces with a particle-register encoding suited for quantum simulation; we show for the first time how to calculate fragmentation functions, a problem heretofore untractable in general from ab initio approaches. We provide a classical-simulator-based proof of concept by computing the charm-to-charmonium fragmentation, c→J/ψ, in a simplified setup, an interesting case where we can (reasonably) compare with the known 1993 perturbative evaluation (and a more recent one at next-to-leading order) within nonrelativistic QCD.</description>
-      <source url="https://doi.org/10.1103/4grj-x7xv">Physical Review D</source>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4grj-x7xv</guid>
-    </item><item>
-      <title>Precision Measurement of the Muon Charge Asymmetry from W-Boson Decays in pp Collisions at s=13 TeV in the Forward Region</title>
-      <link>https://doi.org/10.1103/vgg4-wnhr</link>
-      <description>A precision measurement of the muon charge asymmetry from W-boson decays in proton-proton collisions at s=13 TeV is presented. The analysis utilizes data corresponding to an integrated luminosity of 5.1 fb−1, recorded by the LHCb detector during 2016, 2017, and 2018. The asymmetry is measured for muons with transverse momentum between 25 and 55 GeV and pseudorapidity between 2.0 and 4.5. This result represents the most precise determination of the muon charge asymmetry in the forward region to date, exhibiting excellent agreement with next-to-next-to-leading-order predictions in perturbative quantum chromodynamics. The measured asymmetries are corrected for experimental efficiencies, resolution, and final-state photon radiation.</description>
-      <source url="https://doi.org/10.1103/vgg4-wnhr">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vgg4-wnhr</guid>
-    </item><item>
-      <title>Majoron dark matter, high-scale seesaw framework, and leptogenesis</title>
-      <link>https://doi.org/10.1103/qjrh-r2tv</link>
-      <description>We study the cosmology and observational probes of majoron dark matter in a high-scale seesaw framework with spontaneously broken lepton number. Right-handed neutrinos naturally generate light neutrino masses and can realize thermal leptogenesis, while the associated majoron is a light pseudo-Nambu-Goldstone boson that can be cosmologically stable and serve as a viable dark matter candidate for sub-MeV masses. We analyze both preinflationary and postinflationary histories of lepton number breaking. In the preinflationary scenario, majoron dark matter is produced by misalignment and constrained by CMB isocurvature. In the postinflationary scenario, the majoron abundance receives nonthermal contributions from spatially averaged misalignment, majoron radiation from global cosmic strings, and the collapse of the string-domain wall network, as well as a thermally produced component. This scenario can also be probed by future searches for the stochastic gravitational wave background produced</description>
-      <source url="https://doi.org/10.1103/qjrh-r2tv">Physical Review D</source>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qjrh-r2tv</guid>
-    </item><item>
-      <title>Primordial black hole dark matter: A quantitative parameter sensitivity comparison across formation mechanisms and particle candidates</title>
-      <link>https://doi.org/10.1103/nk1q-5k51</link>
-      <description>Primordial black holes (PBHs) in the asteroid-mass window (1017–1022 g) can account for all of the dark matter without violating any observational constraint, yet are routinely dismissed as fine-tuned. I put that dismissal to the test by applying three complementary sensitivity measures uniformly across a broad landscape: three noninflationary PBH production mechanisms, six classes of inflationary PBH models, and seven particle dark matter benchmarks, all evaluated against the same observable target. Three distinct naturalness universality classes emerge, determined entirely by the analytic structure of the abundance map rather than by the nature of the dark matter candidate. Biased-domain-wall PBHs, in their least model-dependent (free-Vb) form, have the same low sensitivity, Δ=4.5, as off-resonance weakly interacting massive particles and freeze-in particles (Δ=2), a sensitivity that, because it is constant over the entire parameter space of the construction, also coincides trivially</description>
-      <source url="https://doi.org/10.1103/nk1q-5k51">Physical Review D</source>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nk1q-5k51</guid>
-    </item><item>
-      <title>Neutrino helicity oscillations in astrophysical environments: A many-body approach</title>
-      <link>https://doi.org/10.1103/2p4r-f1gs</link>
-      <description>Neutrino rest mass enables left-handed states to “flip” to right-handed states and vice versa. In-medium effects can enhance the probability for such spin flip. We demonstrate that a full many-body calculation of this process in neutrino-dense environments can lead to spin-flip probabilities that exceed by orders of magnitude those calculated with mean-field treatments. We study simple configurations with a few neutrinos in well-defined momentum states, for which we show that the helicity conversion enhancement is connected to many-body momentum exchange. Such an effect would therefore be missed in a calculation that considers only forward processes. We speculate on the potential astrophysical implications of these results and the range of applicability of our calculation and its limitations.</description>
-      <source url="https://doi.org/10.1103/2p4r-f1gs">Physical Review D</source>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2p4r-f1gs</guid>
-    </item><item>
-      <title>Regge Spectral Generator and Form Factors from Hard Exclusive Amplitudes in Holographic QCD</title>
-      <link>https://doi.org/10.1103/55pw-29c6</link>
-      <description>We show that the infinite tower of hard exclusive amplitudes in holographic light-front QCD leads to a spectral generator G(α,λ) that encodes the full Regge spectrum. The construction assumes a Poisson distribution of Fock-state components, where λ represents the average parton multiplicity above the valence configuration. The resulting generator yields a Regge spectrum invariant under continuous λ deformations. Its even-and odd-twist projections yield the meson and baryon form factors with a single value of λ, fixed by the pion charge radius, which in turn determines the full Q2 dependence. The constituent counting rules for both sectors follow from the structure of the spectral generator, which also provides a compact analytic representation of parton distributions.</description>
-      <source url="https://doi.org/10.1103/55pw-29c6">Physical Review Letters</source>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/55pw-29c6</guid>
-    </item><item>
-      <title>Regge Spectral Generator and Form Factors from Hard Exclusive Amplitudes in Holographic QCD</title>
-      <link>https://doi.org/10.1103/55pw-29c6</link>
-      <description>We show that the infinite tower of hard exclusive amplitudes in holographic light-front QCD leads to a spectral generator G(α,λ) that encodes the full Regge spectrum. The construction assumes a Poisson distribution of Fock-state components, where λ represents the average parton multiplicity above the valence configuration. The resulting generator yields a Regge spectrum invariant under continuous λ deformations. Its even-and odd-twist projections yield the meson and baryon form factors with a single value of λ, fixed by the pion charge radius, which in turn determines the full Q2 dependence. The constituent counting rules for both sectors follow from the structure of the spectral generator, which also provides a compact analytic representation of parton distributions.</description>
-      <source url="https://doi.org/10.1103/55pw-29c6">Physical Review Letters</source>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/55pw-29c6</guid>
     </item>
   </channel>
 </rss>
