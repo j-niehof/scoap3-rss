@@ -5,8 +5,44 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:32:00 +0000</lastBuildDate>
     <item>
+      <title>Unshadowing the constituent quark number scaling of harmonic flow in heavy-ion collisions</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.140954</link>
+      <description>Constituent quark number scaling of elliptic flow has been proposed as one key observable to identify the phase transition or the absence of the Quark-Gluon Plasma (QGP) in heavy-ion collisions. At the fixed target program at RHIC the STAR collaboration has recently reported that NCQ scaling breaks when decreasing the collision energy from sNN=4.5 to 3.0 GeV. However, the generation of elliptic flow is dominated by a highly intricate interplay of spectator shadowing, squeeze-out and geometry dependent hadron emission governed by their cross sections. Therefore in this article we will disentangle the shadowing contribution from the harmonic flow signal of the particle emitting source, effectively “unshadowing” the source. We introduce Fourier coefficients that quantify the azimuthal absorption rate of hadrons decoupling from the system. We benchmark the derived results using a toy model based on a ballistic Glauber description of the penetrating nuclei and calculate how shadowing qualit</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.140954">Physics Letters B</source>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140954</guid>
+    </item><item>
+      <title>Rotating the Color Glass Condensate</title>
+      <link>https://doi.org/10.1103/k59p-5nb6</link>
+      <description>High-energy QCD evolution beyond leading order suffers from instabilities driven by large collinear logarithms. We present a framework, consistent with the standard high-energy operator product expansion, that restores perturbative stability order by order. The method involves a change of basis in the space of high-energy operators, which modifies both the evolution kernel and the coefficient functions while leaving physical observables invariant. Within this factorization scheme, we derive a next-to-leading-order renormalization-group equation whose numerical solution exhibits stable evolution up to large rapidities, paving the way for a systematic framework for precision studies of gluon saturation at current and future colliders.</description>
+      <source url="https://doi.org/10.1103/k59p-5nb6">Physical Review Letters</source>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/k59p-5nb6</guid>
+    </item><item>
+      <title>Measurement of the branching fraction of Ds*+→e+e−Ds+</title>
+      <link>https://doi.org/10.1103/jgyn-jxmt</link>
+      <description>The branching fraction of the electromagnetic Dalitz decay Ds*+→e+e−Ds+ is measured with an e+e− collision data sample collected by the BESIII experiment at center-of-mass energies between 4.128 and 4.226 GeV, corresponding to a total integrated luminosity of 7.33 fb−1. The measurement yields the branching fraction B(Ds*+→e+e−Ds+)=(7.28±0.61stat±0.31syst)×10−3. The result is consistent with the previous one, with a 2.5-fold improvement in precision. This provides an important input for constraining the parameters of theoretical models and for determining the absolute branching fractions of Ds*+→π0Ds+ and Ds*+→γDs+, measured with a relative method that assumes Ds*+ decays only via channels Ds*+→e+e−Ds+, Ds*+→π0Ds+ and Ds*+→γDs+.</description>
+      <source url="https://doi.org/10.1103/jgyn-jxmt">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jgyn-jxmt</guid>
+    </item><item>
+      <title>Spectator-field-triggered phase transition during inflation and its anisotropic gravitational wave signals</title>
+      <link>https://doi.org/10.1103/z1ws-kb9z</link>
+      <description>We propose a general framework in which a phase transition is triggered during cosmic inflation by the slow-roll dynamics of a spectator field. The topological defects formed at the transition are inflated outside the horizon, reenter it after inflation, and can subsequently generate characteristic gravitational wave (GW) signals. Quantum fluctuations of the spectator field modulate the timing of the transition, imprinting large-scale anisotropies in the resulting GW background. As an explicit realization, the spectator field may be identified with the Higgs field in a supersymmetric Standard Model. More generally, our framework applies to a wide class of spectator-modulated phenomena, providing a generic mechanism for producing anisotropic GW signals.</description>
+      <source url="https://doi.org/10.1103/z1ws-kb9z">Physical Review D</source>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/z1ws-kb9z</guid>
+    </item><item>
+      <title>Collinear structure of nonlinear small-x evolution</title>
+      <link>https://doi.org/10.1103/p5jl-fyqc</link>
+      <description>We introduce a novel approach to high-energy QCD factorization of cross sections for processes involving a dilute projectile and a dense target. Our method preserves the factorization between “fast” and “slow” modes in the longitudinal momentum k+ for a projectile moving along the positive light cone direction, making it compatible with higher-order loop computations done within the standard formulation of the color glass condensate (CGC) effective field theory. Moreover, it eliminates the anomalous double collinear logarithms that typically hinder the convergence of perturbation theory at small-x. Our scheme amounts to a change of basis in the space of CGC operators, introducing an arbitrary transverse scale dependence while leaving physical cross sections invariant. Implementing this scheme requires a modification of the high-energy renormalization group equation for the CGC operators, which we explicitly derive at next-to-leading order and in the nonlinear regime for the case of the</description>
+      <source url="https://doi.org/10.1103/p5jl-fyqc">Physical Review D</source>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/p5jl-fyqc</guid>
+    </item><item>
       <title>Search for the reaction channel e+e−→ηηJ/ψ and the isospin partner of the Zc(3900) at center-of-mass energies s=4.226 − 4.950 GeV</title>
       <link>https://doi.org/10.1103/x4k2-zy7t</link>
       <description>We search for the reaction channel e+e−→ηηJ/ψ in a data sample with center-of-mass energies from 4.226 to 4.950 GeV that was collected by the BESIII detector operating at the Beijing Electron Positron Collider (BEPCII). The data analysis is performed with two different reconstruction methods, exclusive and semi-inclusive, enabling a comparison and combination of the results. Only at a few energy points is a nonzero cross section observed with a statistical significance of more than 3σ using one of the methods. Therefore, the corresponding upper limits of the cross section at the 90% confidence level are determined. The energy-dependent results show clear deviations from the line shape expected from three-body phase space alone. Since the statistical significance for almost all center-of-mass energies is low, the upper limits for the reaction channel e+e−→ηηJ/ψ also serve as limits for the existence of a possible isospin partner to the charmonium-like isospin triplet Zc(3900) which deca</description>
@@ -23,21 +59,12 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/yknv-rhw9</guid>
     </item><item>
-      <title>Search for the reaction channel e+e−→ηηJ/ψ and the isospin partner of the Zc(3900) at center-of-mass energies s=4.226 − 4.950 GeV</title>
-      <link>https://doi.org/10.1103/x4k2-zy7t</link>
-      <description>We search for the reaction channel e+e−→ηηJ/ψ in a data sample with center-of-mass energies from 4.226 to 4.950 GeV that was collected by the BESIII detector operating at the Beijing Electron Positron Collider (BEPCII). The data analysis is performed with two different reconstruction methods, exclusive and semi-inclusive, enabling a comparison and combination of the results. Only at a few energy points is a nonzero cross section observed with a statistical significance of more than 3σ using one of the methods. Therefore, the corresponding upper limits of the cross section at the 90% confidence level are determined. The energy-dependent results show clear deviations from the line shape expected from three-body phase space alone. Since the statistical significance for almost all center-of-mass energies is low, the upper limits for the reaction channel e+e−→ηηJ/ψ also serve as limits for the existence of a possible isospin partner to the charmonium-like isospin triplet Zc(3900) which deca</description>
-      <source url="https://doi.org/10.1103/x4k2-zy7t">Physical Review D</source>
-      <author>et al.</author>
+      <title>Resonance-and width-aware parton shower evolution and NLO matching</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)176</link>
+      <description>We introduce a technique for the next-to-leading order accurate simulation of e^+e^-→ W^+W^-boverlineb that respects the resonant nature of the process above and near the top-quark pair production threshold. The parton-shower evolution, infrared subtraction and NLO matching account in particular for finite width effects beyond those considered in resonance-aware approaches. We present first phenomenological results relevant to a potential future electron-positron collider and provide a publicly available simulator based on the Alaric parton shower and the S event generator.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)176">Journal of High Energy Physics</source>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/x4k2-zy7t</guid>
-    </item><item>
-      <title>Constraints on Solar Reflected Dark Matter from XENON1T and XENONnT Data</title>
-      <link>https://doi.org/10.1103/yknv-rhw9</link>
-      <description>We report on a search for sub-GeV dark matter upscattered via the solar reflection mechanism in the heavy mediator scenario. Under the standard halo model, keV–MeV dark matter produces nuclear recoils with energies below the detection threshold of liquid xenon time projection chambers. We enhance sensitivity to low-mass dark matter (DM) by considering dark matter–electron scattering, employing dedicated event selections to reduce the detection threshold and exploiting the additional kinetic energy imparted to the dark matter particle by solar upscattering. Using XENON1T ionization-only and XENONnT low-energy electronic recoil datasets, we exclude previously unconstrained DM-electron scattering cross section for masses between 4.6 and 20 keV/c2 and between 0.2 and 2 MeV/c2, reaching a minimum of 3.41×10−39 cm2 for a mass of 0.3 MeV/c2 at 90% confidence level.</description>
-      <source url="https://doi.org/10.1103/yknv-rhw9">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yknv-rhw9</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)176</guid>
     </item><item>
       <title>Closing the loop on Φ4 in AdS3</title>
       <link>https://doi.org/10.1007/JHEP09(2026)170</link>
@@ -46,12 +73,12 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)170</guid>
     </item><item>
-      <title>TMD factorization in diffractive heavy quark production in photon-nucleus collisions</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)169</link>
-      <description>Using the Colour Glass Condensate effective theory, we study the diffractive production of a massive quark-antiquark pair accompanied by a gluon in coherent photon-nucleus collisions at high energy. This partonic configuration provides the leading twist contribution to the cross section in the correlation limit where two of the partons are hard and nearly back to back in the transverse plane, while the third one is semi-hard, with a transverse momentum of the order of the nuclear saturation momentum. We consider two scenarios: (i) a hard quark-antiquark pair together with a semi-hard gluon; in this case we demonstrate transverse momentum dependent (TMD) factorisation with a mass-dependent “hard” factor and the standard expression for the gluon diffractive TMD, and (ii) a hard antiquark-gluon pair and a semi-hard quark; in this case we find TMD factorisation with a mass-independent “hard” factor and a mass-dependent quark diffractive TMD, which represents a new result. We show that incr</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)169">Journal of High Energy Physics</source>
+      <title>Resonance-and width-aware parton shower evolution and NLO matching</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)176</link>
+      <description>We introduce a technique for the next-to-leading order accurate simulation of e^+e^-→ W^+W^-boverlineb that respects the resonant nature of the process above and near the top-quark pair production threshold. The parton-shower evolution, infrared subtraction and NLO matching account in particular for finite width effects beyond those considered in resonance-aware approaches. We present first phenomenological results relevant to a potential future electron-positron collider and provide a publicly available simulator based on the Alaric parton shower and the S event generator.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)176">Journal of High Energy Physics</source>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)169</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)176</guid>
     </item><item>
       <title>Modular self-duality, symmetrized relative entropy, and Bogoliubov-Kubo-Mori susceptibility in quantum field theory</title>
       <link>https://doi.org/10.1103/vxkq-xb7l</link>
@@ -110,49 +137,19 @@
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/sw4r-4nxr</guid>
     </item><item>
+      <title>Scalar nonstandard neutrino interactions in galactic supernovae</title>
+      <link>https://doi.org/10.1103/lgkg-tf2y</link>
+      <description>We analyze the prospects for studying scalar nonstandard interactions (SNSI) using the neutrino burst from a galactic supernova (SN). SNSI modifies the resonant flavor conversion and, correspondingly, the neutronization burst signal, and may be identifiable in future multi-tonne-scale experiments, such as Deep Underground Neutrino Experiment (DUNE). Notably, in the normal mass ordering, SNSI can lead to an anomalous (re)appearance of the neutronization-burst νe peak at Earth, a feature otherwise strongly suppressed in the Standard Model. We show that, in the presence of SNSI, neutrinos propagating out of the dense SN environment acquire a density-squared-dependent contribution to their mass-squared differences, which in turn modifies the energy levels of the neutrino matter eigenstates. This density-squared effect is absent in less dense environments such as the Earth or the Sun and is precisely what enables SN neutrinos to probe SNSI parameters up to 4 orders of magnitude below the va</description>
+      <source url="https://doi.org/10.1103/lgkg-tf2y">Physical Review D</source>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/lgkg-tf2y</guid>
+    </item><item>
       <title>Glueballs, constituent gluons, and instantons</title>
       <link>https://doi.org/10.1103/8rdr-ymbp</link>
       <description>We present a constituent two-gluon description of the lowest-lying glueball states in pure Yang-Mills theory, calibrated against quenched lattice results. The framework incorporates an instanton-induced dynamical gluon mass, Casimir-scaled adjoint confinement, the short-distance adjoint Coulomb interaction, and instanton-induced central and tensor forces. The scalar 0++ glueball is found to be exceptionally compact, with a radius of order the instanton size, ρ∼13 fm, consistent with lattice indications. By contrast, the tensor 2++ state remains spatially extended due to the centrifugal barrier. We also discuss the role of S–D mixing. A semiclassical analysis further supports Regge behavior for excited states, in agreement with lattice results.</description>
       <source url="https://doi.org/10.1103/8rdr-ymbp">Physical Review D</source>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/8rdr-ymbp</guid>
-    </item><item>
-      <title>Z boson radiative decay Z → μ + μ − γ at the LHC</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)154</link>
-      <description>We study the radiative decay of the Z boson, Z → μ μ γ, at the LHC, providing both Standard Model (SM) precision analysis and new physics projections. With detailed analysis of Run-2 and future HL-LHC performances, we demonstrate that this decay mode can be measured with a statistical precision at the sub-percentage level. From existing Run-1 data, we extract Br (Z → μμγ) = (3.34 ± 0.016) × 10 . We further explore the sensitivity of this channel to axion-like particles (ALPs) and to an anomalous U(1) gauge boson coupled to the muon. Both scenarios feature resonant structures in the dimuon invariant mass spectrum within the Z → a/X + γ → μ μ γ final state. Our results show that the radiative Z decay provides a clean and statistically powerful probe of such leptophilic new physics, extending the current collider reach for ALPs and anomalous gauge forces down to g ~ 𝒪(10 ). This study highlights the potential of rare electroweak gauge boson decays as precision tests of the SM and sensitiv</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)154">Journal of High Energy Physics</source>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)154</guid>
-    </item><item>
-      <title>EFT at JADE: a case study</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)153</link>
-      <description>As we use the standard model effective field theory to search for signs of new physics beyond the direct reach of the LHC, we often wonder what we may learn from the effective field theory, and what it would look like to make a discovery via effective field theory. This article presents a case study that provides some answers to these questions. We apply the low-energy effective field theory to e e → μ μ data below the Z boson mass from the JADE experiment at DESY. The low-energy effective field theory allows the observation of physics beyond QED in the JADE data and furthermore, by matching the Wilson coefficients to the electroweak theory, a rough measurement of the masses of the W and Z bosons is possible. The ability to make this rough measurement challenges the conventional wisdom that an observation of new physics via EFT tells us nothing about the nature of that new physics. A measurement of this quality would have been sufficient to guide the construction of colliders such as t</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)153">Journal of High Energy Physics</source>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)153</guid>
-    </item><item>
-      <title>Measurement of the Born cross section for e+e−→KS0Ξ¯+Σ− at s=3.51–4.95 GeV</title>
-      <link>https://doi.org/10.1103/pwj2-q35c</link>
-      <description>Using e+e− collision data collected with the BESIII detector at the BEPCII collider corresponding to a total integrated luminosity of 44 fb−1, we present the first measurement of the Born cross sections for the process e+e−→KS0Ξ¯+Σ− at 56 center-of-mass energies from 3.510 to 4.951 GeV. By fitting the dressed cross sections of e+e−→KS0Ξ¯+Σ− with the assumption of a power-law function plus a charmonium(-like) resonance, i.e., ψ(3770), ψ(4040), ψ(4160), Y(4230), Y(4360), ψ(4415), Y(4500), Y(4660), and Y(4710), no significant signal of any charmonium(-like) state decaying into the KS0Ξ¯+Σ− is observed. Upper limits on the product of the electronic width and branching fraction at the 90% confidence level are given for each resonance. Combining this result with the previous measurement of the isospin-symmetric process e+e−→K−Ξ¯+Σ0, the ratio of the Born cross sections, R=σB(e+e−→KS0Ξ¯+Σ−)/σB(e+e−→K−Ξ¯+Σ0), is found to be consistent with unity.</description>
-      <source url="https://doi.org/10.1103/pwj2-q35c">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pwj2-q35c</guid>
-    </item><item>
-      <title>Pushing the limits of pulse shape discrimination in a large liquid xenon detector</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16216-8</link>
-      <description>The LUX-ZEPLIN (LZ) experiment is a direct-detection dark matter experiment, optimized to search for weakly interacting massive particles (WIMPs) through WIMP-nucleon interactions. The main challenge in dark matter detection is differentiating between WIMP signals and background events. In LZ, the ratio of ionization to scintillation signals (charge-to-light) is the primary method for rejecting electronic recoil (ER) background. Pulse shape discrimination (PSD) offers a method for additional ER backgrounds rejection in liquid xenon detectors. In this paper, the discrimination power of PSD with the LZ experiment is discussed. To precisely characterize the scintillation pulse shape, an analysis framework is developed to reconstruct the detection time of individual photons. Using LZ calibration data, the photon-timing tail fraction discriminator is optimized and achieves ER leakage as low as 15% . For specific background processes such as ^124 Xe double electron capture, the leakage is re</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16216-8">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16216-8</guid>
-    </item><item>
-      <title>tt¯ production as a probe of dimension-six SMEFT at higher orders</title>
-      <link>https://doi.org/10.1103/fd9b-clnl</link>
-      <description>We study top-antitop pair production in proton-proton collisions within the Standard Model effective field theory (SMEFT) at dimension six. We focus on the top chromomagnetic operator CtG together with the four-quark operators relevant for unpolarized tt¯ production. We analyze the top-quark single-differential transverse-momentum (pT) and rapidity (y) distributions and the double-differential distributions in pT and y (pT×y) at 13 TeV, and we present projections for 13.6 TeV using the same binning. Our highest-order setup combines next-to-next-to-leading-order (NNLO) Standard Model (SM) predictions with approximate NNLO SM-SMEFT interference corrections. We find that higher-order QCD effects are essential for a stable SMEFT interpretation, yielding substantially more robust bounds and milder parameter degeneracies. The strongest sensitivity is obtained for CtG. In the combined highest-order analysis of the 13-TeV results and 13.6-TeV projections, we obtain sensitivity to effective sca</description>
-      <source url="https://doi.org/10.1103/fd9b-clnl">Physical Review D</source>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/fd9b-clnl</guid>
     </item>
   </channel>
 </rss>
