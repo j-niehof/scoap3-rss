@@ -5,14 +5,43 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:35:49 +0000</lastBuildDate>
     <item>
-      <title>Unshadowing the constituent quark number scaling of harmonic flow in heavy-ion collisions</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.140954</link>
-      <description>Constituent quark number scaling of elliptic flow has been proposed as one key observable to identify the phase transition or the absence of the Quark-Gluon Plasma (QGP) in heavy-ion collisions. At the fixed target program at RHIC the STAR collaboration has recently reported that NCQ scaling breaks when decreasing the collision energy from sNN=4.5 to 3.0 GeV. However, the generation of elliptic flow is dominated by a highly intricate interplay of spectator shadowing, squeeze-out and geometry dependent hadron emission governed by their cross sections. Therefore in this article we will disentangle the shadowing contribution from the harmonic flow signal of the particle emitting source, effectively “unshadowing” the source. We introduce Fourier coefficients that quantify the azimuthal absorption rate of hadrons decoupling from the system. We benchmark the derived results using a toy model based on a ballistic Glauber description of the penetrating nuclei and calculate how shadowing qualit</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.140954">Physics Letters B</source>
+      <title>Influence of finite-temperature effects on CMB power spectrum</title>
+      <link>https://doi.org/10.1016/j.nuclphysb.2026.117661</link>
+      <description>We explore the implications of finite-temperature quantum field theory effects on cosmological parameters within the framework of the ΛCDM model and its modification. By incorporating temperature-dependent corrections to the cosmological constant, we extend the standard cosmological model to include additional density parameters, ΩΛ2 and ΩΛ3, which arise from finite-T quantum gravitational effects. Using the Cosmic Linear Anisotropy Solving System (CLASS), we analyze the impact of these corrections on the cosmic microwave background power spectrum and compare the results with the Planck 2018 data. Through brute-force parameter scans and advanced machine learning techniques, including quartic regression, we demonstrate that the inclusion of ΩΛ2 and ΩΛ3 improves the model’s fit to the fine structure of the reference power spectrum. Because ΩΛ2 and ΩΛ3 originate from finite-temperature quantum (loop) corrections rather than being introduced as free dark-energy components, they are expecte</description>
+      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117661">Nuclear Physics B</source>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117661</guid>
+    </item><item>
+      <title>Systematic Search for Conformal Field Theories in Very Small Spaces</title>
+      <link>https://doi.org/10.1103/j8v5-kyd6</link>
+      <description>Ground states of 1+1d conformal field theories (CFTs) satisfy a local entropic condition called the vector fixed point equation. This condition is surprisingly well satisfied by ground states of quantum critical lattice models even at small system sizes. We perform a search in the space of states of very small systems (4 qubits and 4 qutrits) and examine the states that satisfy this condition. By reconstructing a local Hamiltonian from each state, we are able to identify many of these solutions with known CFTs; others are gapped fixed points or involve large relevant perturbations, and others are CFTs we have not yet identified. These ideas are also useful for identifying continuous quantum phase transitions in a given family of Hamiltonians and for identifying the nature of the critical theory in small systems.</description>
+      <source url="https://doi.org/10.1103/j8v5-kyd6">Physical Review Letters</source>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140954</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/j8v5-kyd6</guid>
+    </item><item>
+      <title>Factorization beyond Coherence</title>
+      <link>https://doi.org/10.1103/q3m4-bcpl</link>
+      <description>We propose a novel factorization theorem for N-jettiness at hadron colliders, which incorporates coherence-violating effects induced by Glauber gluons and several new momentum modes. Their interplay generates coherence-violating logarithms starting at four-loop (N≥1) or five-loop order (N=0). We calculate the anomalous dimensions required for the resummation of coherence-violating logarithms and establish a general framework for the systematic treatment of coherence violation. Our findings imply that most existing factorization formulas for global LHC observables must be revised.</description>
+      <source url="https://doi.org/10.1103/q3m4-bcpl">Physical Review Letters</source>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/q3m4-bcpl</guid>
+    </item><item>
+      <title>Probing solar symmetrons with direct detection</title>
+      <link>https://doi.org/10.1103/89fw-fqqr</link>
+      <description>We provide the first investigation of the solar production of symmetrons, a well-motivated class of screened scalar fields with density dependent couplings to the Standard Model, and their subsequent absorption in underground direct detection experiments. We compute the flux of symmetrons produced through photon conversion in the magnetic field of the solar tachocline, and constrain the resulting luminosity to not exceed 3% of the observed solar output. Even under the conservative assumption that production occurs only in the tachocline, this criterion yields robust astrophysical bounds on previously uncharted regions of symmetron parameter space, and predicts a keV-scale symmetron spectrum at Earth. We then derive the corresponding absorption signal in liquid xenon detectors, where symmetrons can interact with electrons through both conformal and disformal couplings. Using binned data from XENONnT, we obtain new direct-detection limits that are complementary to the solar luminosity co</description>
+      <source url="https://doi.org/10.1103/89fw-fqqr">Physical Review D</source>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/89fw-fqqr</guid>
+    </item><item>
+      <title>Black hole scalar sirens in the Milky Way</title>
+      <link>https://doi.org/10.1103/ctc7-421t</link>
+      <description>Hypothetical light scalar particles trigger the superradiant instability around spinning black holes (BHs), causing clouds of scalars to grow around the BH. In the presence of sufficiently strong particle self-interactions (characterized by the decay constant f), scalars are ejected from BH orbits, resulting in coherent, nonrelativistic emissions that continuously carry away the BH’s angular momentum. Parameters exist for which cloud growth is much faster, and scalar depletion is much slower, than the age of the Galaxy. This defines a distinct class of astrophysical sources of scalars, which we call BH scalar sirens; BHs that persistently emit scalars effectively forever. We compute the scalar background from the expected population of NBH∼108 isolated stellar-mass BHs in the Milky Way, which are sirens for scalars in the mass range 10−13−10−11 eV and f≲1014−109 GeV. This provides a detection target independent of early-universe scalar production or cosmological initial conditions. The</description>
+      <source url="https://doi.org/10.1103/ctc7-421t">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ctc7-421t</guid>
     </item><item>
       <title>Rotating the Color Glass Condensate</title>
       <link>https://doi.org/10.1103/k59p-5nb6</link>
@@ -21,13 +50,12 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/k59p-5nb6</guid>
     </item><item>
-      <title>Measurement of the branching fraction of Ds*+→e+e−Ds+</title>
-      <link>https://doi.org/10.1103/jgyn-jxmt</link>
-      <description>The branching fraction of the electromagnetic Dalitz decay Ds*+→e+e−Ds+ is measured with an e+e− collision data sample collected by the BESIII experiment at center-of-mass energies between 4.128 and 4.226 GeV, corresponding to a total integrated luminosity of 7.33 fb−1. The measurement yields the branching fraction B(Ds*+→e+e−Ds+)=(7.28±0.61stat±0.31syst)×10−3. The result is consistent with the previous one, with a 2.5-fold improvement in precision. This provides an important input for constraining the parameters of theoretical models and for determining the absolute branching fractions of Ds*+→π0Ds+ and Ds*+→γDs+, measured with a relative method that assumes Ds*+ decays only via channels Ds*+→e+e−Ds+, Ds*+→π0Ds+ and Ds*+→γDs+.</description>
-      <source url="https://doi.org/10.1103/jgyn-jxmt">Physical Review D</source>
-      <author>et al.</author>
+      <title>Rotating the Color Glass Condensate</title>
+      <link>https://doi.org/10.1103/k59p-5nb6</link>
+      <description>High-energy QCD evolution beyond leading order suffers from instabilities driven by large collinear logarithms. We present a framework, consistent with the standard high-energy operator product expansion, that restores perturbative stability order by order. The method involves a change of basis in the space of high-energy operators, which modifies both the evolution kernel and the coefficient functions while leaving physical observables invariant. Within this factorization scheme, we derive a next-to-leading-order renormalization-group equation whose numerical solution exhibits stable evolution up to large rapidities, paving the way for a systematic framework for precision studies of gluon saturation at current and future colliders.</description>
+      <source url="https://doi.org/10.1103/k59p-5nb6">Physical Review Letters</source>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jgyn-jxmt</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/k59p-5nb6</guid>
     </item><item>
       <title>Spectator-field-triggered phase transition during inflation and its anisotropic gravitational wave signals</title>
       <link>https://doi.org/10.1103/z1ws-kb9z</link>
@@ -59,12 +87,21 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/yknv-rhw9</guid>
     </item><item>
-      <title>Resonance-and width-aware parton shower evolution and NLO matching</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)176</link>
-      <description>We introduce a technique for the next-to-leading order accurate simulation of e^+e^-→ W^+W^-boverlineb that respects the resonant nature of the process above and near the top-quark pair production threshold. The parton-shower evolution, infrared subtraction and NLO matching account in particular for finite width effects beyond those considered in resonance-aware approaches. We present first phenomenological results relevant to a potential future electron-positron collider and provide a publicly available simulator based on the Alaric parton shower and the S event generator.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)176">Journal of High Energy Physics</source>
+      <title>Search for the reaction channel e+e−→ηηJ/ψ and the isospin partner of the Zc(3900) at center-of-mass energies s=4.226 − 4.950 GeV</title>
+      <link>https://doi.org/10.1103/x4k2-zy7t</link>
+      <description>We search for the reaction channel e+e−→ηηJ/ψ in a data sample with center-of-mass energies from 4.226 to 4.950 GeV that was collected by the BESIII detector operating at the Beijing Electron Positron Collider (BEPCII). The data analysis is performed with two different reconstruction methods, exclusive and semi-inclusive, enabling a comparison and combination of the results. Only at a few energy points is a nonzero cross section observed with a statistical significance of more than 3σ using one of the methods. Therefore, the corresponding upper limits of the cross section at the 90% confidence level are determined. The energy-dependent results show clear deviations from the line shape expected from three-body phase space alone. Since the statistical significance for almost all center-of-mass energies is low, the upper limits for the reaction channel e+e−→ηηJ/ψ also serve as limits for the existence of a possible isospin partner to the charmonium-like isospin triplet Zc(3900) which deca</description>
+      <source url="https://doi.org/10.1103/x4k2-zy7t">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)176</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/x4k2-zy7t</guid>
+    </item><item>
+      <title>Constraints on Solar Reflected Dark Matter from XENON1T and XENONnT Data</title>
+      <link>https://doi.org/10.1103/yknv-rhw9</link>
+      <description>We report on a search for sub-GeV dark matter upscattered via the solar reflection mechanism in the heavy mediator scenario. Under the standard halo model, keV–MeV dark matter produces nuclear recoils with energies below the detection threshold of liquid xenon time projection chambers. We enhance sensitivity to low-mass dark matter (DM) by considering dark matter–electron scattering, employing dedicated event selections to reduce the detection threshold and exploiting the additional kinetic energy imparted to the dark matter particle by solar upscattering. Using XENON1T ionization-only and XENONnT low-energy electronic recoil datasets, we exclude previously unconstrained DM-electron scattering cross section for masses between 4.6 and 20 keV/c2 and between 0.2 and 2 MeV/c2, reaching a minimum of 3.41×10−39 cm2 for a mass of 0.3 MeV/c2 at 90% confidence level.</description>
+      <source url="https://doi.org/10.1103/yknv-rhw9">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yknv-rhw9</guid>
     </item><item>
       <title>Closing the loop on Φ4 in AdS3</title>
       <link>https://doi.org/10.1007/JHEP09(2026)170</link>
@@ -73,12 +110,12 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)170</guid>
     </item><item>
-      <title>Resonance-and width-aware parton shower evolution and NLO matching</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)176</link>
-      <description>We introduce a technique for the next-to-leading order accurate simulation of e^+e^-→ W^+W^-boverlineb that respects the resonant nature of the process above and near the top-quark pair production threshold. The parton-shower evolution, infrared subtraction and NLO matching account in particular for finite width effects beyond those considered in resonance-aware approaches. We present first phenomenological results relevant to a potential future electron-positron collider and provide a publicly available simulator based on the Alaric parton shower and the S event generator.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)176">Journal of High Energy Physics</source>
+      <title>TMD factorization in diffractive heavy quark production in photon-nucleus collisions</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)169</link>
+      <description>Using the Colour Glass Condensate effective theory, we study the diffractive production of a massive quark-antiquark pair accompanied by a gluon in coherent photon-nucleus collisions at high energy. This partonic configuration provides the leading twist contribution to the cross section in the correlation limit where two of the partons are hard and nearly back to back in the transverse plane, while the third one is semi-hard, with a transverse momentum of the order of the nuclear saturation momentum. We consider two scenarios: (i) a hard quark-antiquark pair together with a semi-hard gluon; in this case we demonstrate transverse momentum dependent (TMD) factorisation with a mass-dependent “hard” factor and the standard expression for the gluon diffractive TMD, and (ii) a hard antiquark-gluon pair and a semi-hard quark; in this case we find TMD factorisation with a mass-independent “hard” factor and a mass-dependent quark diffractive TMD, which represents a new result. We show that incr</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)169">Journal of High Energy Physics</source>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)176</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)169</guid>
     </item><item>
       <title>Modular self-duality, symmetrized relative entropy, and Bogoliubov-Kubo-Mori susceptibility in quantum field theory</title>
       <link>https://doi.org/10.1103/vxkq-xb7l</link>
@@ -115,41 +152,6 @@
       <source url="https://doi.org/10.1103/h9gk-mjjh">Physical Review D</source>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/h9gk-mjjh</guid>
-    </item><item>
-      <title>Quantum walks and exact RG in de Sitter space</title>
-      <link>https://doi.org/10.1103/jz1v-8lfy</link>
-      <description>The local physics of light scalar fields in de Sitter space is well described by classical random walks, as expressed through the framework of stochastic inflation. Recent work has clarified how this formalism arises from quantum field theory and the renormalization group (RG), allowing for corrections to this formalism to be determined order by order. Yet, this description is incomplete. For example, the quantum dynamics of these fields are expected to become important when determining the tail of the probability distribution for the fluctuations. In this paper, we develop the understanding of fields in de Sitter as a quantum walk in order to bridge the gap between the classical and quantum description. We use the framework of exact RG to calculate the evolution equation for the reduced density matrix of the long wavelength fields. This master equation provides the direct map from light fields to models of quantum walks. We show how to reduce the master equation to stochastic inflatio</description>
-      <source url="https://doi.org/10.1103/jz1v-8lfy">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jz1v-8lfy</guid>
-    </item><item>
-      <title>DD¯ interactions are weak near threshold in QCD</title>
-      <link>https://doi.org/10.1103/s3p2-552r</link>
-      <description>We study near-threshold DD¯ scattering in S-and D-wave to determine whether or not resonances or bound states are present. Working in the approximation where charm annihilation is forbidden, with two degenerate light-quark flavors and a heavier strange quark, isospin is a good quantum number, and the only other channel that is kinematically open is ηcη. Using lattice QCD we compute, as a function of varying light-quark mass, the S-matrix for coupled-channel ηcη−DD¯ scattering and find only weakly interacting meson pairs. In contrast to several other studies, we find no evidence for any bound-state or resonance singularity in the energy region between the deeply bound χc0(1P) state and the DsD¯s threshold.</description>
-      <source url="https://doi.org/10.1103/s3p2-552r">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/s3p2-552r</guid>
-    </item><item>
-      <title>Quadrupole spectra derived from 2.76-TeV Pb-Pb identified-hadron v2(pt) data</title>
-      <link>https://doi.org/10.1103/sw4r-4nxr</link>
-      <description>pt-differential quantity v2(pt) is meant to measure elliptic flow manifested by a dense QCD medium formed in high-energy nucleus-nucleus collisions. Elliptic flow may be referred to more neutrally as a cylindrical quadrupole component of the transverse motion of particle sources within a collision. As defined, v2(pt) relies on an implicit assumption that almost all produced particles emerge from a single source. This article describes a detailed study of the algebraic structure of v2(pt). A procedure is developed to derive a common monopole boost (“radial flow”) value and quadrupole pt spectra for several hadron species. The method is applied to v2(pt) data for four hadron species from 2.76-TeV Pb-Pb collisions. According to available v2(pt) data the assumption of a single dominant particle source within A−A collisions is unjustified. Combined with a previous study of quadrupole amplitude variation for 200-GeV p−p collisions these results demonstrate that quadrupole structure is relate</description>
-      <source url="https://doi.org/10.1103/sw4r-4nxr">Physical Review C</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/sw4r-4nxr</guid>
-    </item><item>
-      <title>Scalar nonstandard neutrino interactions in galactic supernovae</title>
-      <link>https://doi.org/10.1103/lgkg-tf2y</link>
-      <description>We analyze the prospects for studying scalar nonstandard interactions (SNSI) using the neutrino burst from a galactic supernova (SN). SNSI modifies the resonant flavor conversion and, correspondingly, the neutronization burst signal, and may be identifiable in future multi-tonne-scale experiments, such as Deep Underground Neutrino Experiment (DUNE). Notably, in the normal mass ordering, SNSI can lead to an anomalous (re)appearance of the neutronization-burst νe peak at Earth, a feature otherwise strongly suppressed in the Standard Model. We show that, in the presence of SNSI, neutrinos propagating out of the dense SN environment acquire a density-squared-dependent contribution to their mass-squared differences, which in turn modifies the energy levels of the neutrino matter eigenstates. This density-squared effect is absent in less dense environments such as the Earth or the Sun and is precisely what enables SN neutrinos to probe SNSI parameters up to 4 orders of magnitude below the va</description>
-      <source url="https://doi.org/10.1103/lgkg-tf2y">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/lgkg-tf2y</guid>
-    </item><item>
-      <title>Glueballs, constituent gluons, and instantons</title>
-      <link>https://doi.org/10.1103/8rdr-ymbp</link>
-      <description>We present a constituent two-gluon description of the lowest-lying glueball states in pure Yang-Mills theory, calibrated against quenched lattice results. The framework incorporates an instanton-induced dynamical gluon mass, Casimir-scaled adjoint confinement, the short-distance adjoint Coulomb interaction, and instanton-induced central and tensor forces. The scalar 0++ glueball is found to be exceptionally compact, with a radius of order the instanton size, ρ∼13 fm, consistent with lattice indications. By contrast, the tensor 2++ state remains spatially extended due to the centrifugal barrier. We also discuss the role of S–D mixing. A semiclassical analysis further supports Regge behavior for excited states, in agreement with lattice results.</description>
-      <source url="https://doi.org/10.1103/8rdr-ymbp">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8rdr-ymbp</guid>
     </item>
   </channel>
 </rss>
