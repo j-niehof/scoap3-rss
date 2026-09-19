@@ -5,14 +5,93 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:38:52 +0000</lastBuildDate>
     <item>
+      <title>Curvature regularization and dynamical vacuum structure in pseudo-complex general relativity</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16331-6</link>
+      <description>Whether classical spacetime remains well-defined at arbitrarily high curvature is a central question. In general relativity, singularities signal the breakdown of the classical description, motivating modifications of spacetime’s short-distance structure. Pseudo-complex general relativity (pcGR) extends spacetime geometry to pseudo-complex coordinates, naturally introducing two metric sectors, the physical metric gμ ν and an auxiliary field fμ ν . The magnitude of the pseudo-imaginary component defines the invariant acceleration scale a₀ , a direct consequence of the pseudo-complex structure. The simultaneity condition, requiring both idempotent sectors to satisfy the pseudo-complex Einstein equations independently, fixes the auxiliary field algebraically, with no new propagating degrees of freedom, and sets a lower bound on the lapse that regularizes curvature. The regularization is achieved through the combined effect of the lapse-gap condition e^ν (r) &gt; a₀ , which ensures the radial</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16331-6">European Physical Journal C</source>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16331-6</guid>
+    </item><item>
+      <title>Brane networks and the cobordism conjecture</title>
+      <link>https://doi.org/10.1103/dk2b-rgkf</link>
+      <description>The absence of global symmetries in a quantum gravity theory often requires the introduction of (new) symmetry-breaking defects, which appear as singular objects in the low-energy description. This has been formalized in the cobordism conjecture, which further relates the asymptotics of these defects to nontrivial deformation classes of the effective theory. In this work we investigate the symmetry-breaking defects for theories with a discrete symmetry G encoded in the bordism groups Ω2ξ(BG) and, in particular, its subclass described in terms of the homology groups H2(BG;Z). Contrary to expectations, we find that the defects are naturally described in terms of networks of codimension-two objects rather than isolated objects in codimension three. While in special situations linking configurations of defects are sufficient, our strategy generically predicts the existence of junctions, thus suggesting an extended applicability of the cobordism conjecture. We demonstrate the viability of t</description>
+      <source url="https://doi.org/10.1103/dk2b-rgkf">Physical Review D</source>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/dk2b-rgkf</guid>
+    </item><item>
+      <title>Probing EFT breakdown in the tails of W^+ W^-observables</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16081-5</link>
+      <description>We test clipping effective field theory (EFT) simulations as a method of ensuring EFT validity. The procedure imposes that, at the level of the simulation, the invariant mass of a W^+W^-pair M_WW is less than the new physics scale Lambda . We compare this to two other methods, comparison bin by bin of dimension-6 and dimension-8 squared contributions and implementing a cut on data. We find that setting M_WW &lt; Lambda is not strict enough to ensure that the hierarchy of EFT operators is respected for dimension-6 and dimension-8 contributions. We also show that, even when using a stricter cut on M_WW , due to different correlations between M_WW and M_eμ at different EFT orders, the bins in M_eμ (the invariant mass of the leptons originating from W decays) used in an EFT fit may not truly be in the regime of EFT validity when performing a dimension-6 fit with M_WW &lt; Lambda . We also explore the correlations of three transverse mass observables: M_T1, M_T2 and M_T3 , finding that M_T1 and M</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16081-5">European Physical Journal C</source>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16081-5</guid>
+    </item><item>
+      <title>Effective strings and particles interacting in 3D: the Ising model</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)201</link>
+      <description>We study how a fluctuating domain wall in three dimensions modifies bulk observables in a gapped phase. We introduce an effective interaction between the wall and the lightest bulk massive mode, and identify the regime in which this description is controlled: nearly on-shell bulk exchange with small momentum along the wall. In this regime, several observables are controlled by a renormalized dimensionless coupling λ, including the large-L correction to the wall free energy and the large-|x | tail of two-point functions in the presence of the wall. Other observables, such as one-point functions and two-point functions in the nearby-regime, retain non-universal dependence on operator data and on the bulk spectral density. We test the universal kinematic consequences of wall fluctuations, and find good agreement with the predicted rough-wall broadening and nearby Gaussian behavior in Monte Carlo simulations of the 3D Ising model with anti-periodic boundary conditions.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)201">Journal of High Energy Physics</source>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)201</guid>
+    </item><item>
+      <title>Entanglement membrane in the Brownian SYK chain</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)207</link>
+      <description>There is mounting evidence that entanglement dynamics in chaotic many-body quantum systems in the limit of large subsystems and long times is described by an entanglement membrane effective theory. In this paper, we derive the membrane description in a solvable chaotic large-N model, the Brownian SYK chain. This model has a collective field description in terms of fermion bilinears connecting different folds of the multifold Schwinger-Keldysh path integral used to compute Rényi entropies. The entanglement membrane is a traveling wave solution of the saddle point equations governing these collective fields. The entanglement membrane is characterised by a velocity v and a membrane tension mathcalE(v) that we calculate. We find that the membrane has finite width for v v , the membrane splits into two wave fronts, each moving with the butterfly velocity. Our results provide a new viewpoint on the entanglement membrane and uncover new connections between quantum information dynamics and scr</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)207">Journal of High Energy Physics</source>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)207</guid>
+    </item><item>
+      <title>Calabi-Yau threefolds from vex triangulations</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)202</link>
+      <description>We study the birational geometry (i.e., Kähler moduli space) of Calabi-Yau (CY) threefold hypersurfaces in toric varieties arising from four-dimensional reflexive polytopes. In particular, it has been observed that the birational classes of these geometries are not exhausted by toric hypersurfaces arising from fine, regular, star triangulations (FRSTs). We begin by introducing a classification problem: enumeration of birational classes of toric varieties, which is equivalent to enumeration of certain triangulations/fans. We consider this problem from the complementary perspectives of triangulation theory and toric geometry, reviewing both theories in detail; this culminates in an explanation of how to generate all fine regular triangulations of a vector configuration (i.e., fine regular simplicial fans), which we implement in a Python package regfans [1]. We then apply this theory to the Kreuzer-Skarke (KS) database, where we encounter both FRSTs and vex triangulations. We study the no</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)202">Journal of High Energy Physics</source>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)202</guid>
+    </item><item>
+      <title>Improving parton shower predictions via precision moments of energy flow polynomials</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)191</link>
+      <description>In this paper, we study various conceptual and practical aspects of using maximum-entropy reweighting to upgrade parton-shower event samples based on higher-accuracy theoretical constraints. Our approach produces strictly positive per-event weights that improve parton-shower predictions while preserving full event-level exclusivity, allowing any observable to be computed on the reweighted sample without rebinning or regeneration. On the conceptual side, we explain how theoretical principles can help determine which constraints to use and which kinds of priors lead to efficient reweighting. On the practical side, we perform a proof-of-concept study with hemisphere observables in e e → hadrons, and show that even when the parton-shower prior is purposefully degraded by removing the non-singular parts of the QCD splitting functions, a small set of precision calculations can nevertheless restore the desired physical behavior. We use energy flow polynomials (EFPs) as a systematic basis to o</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)191">Journal of High Energy Physics</source>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)191</guid>
+    </item><item>
       <title>The pre-geometric origin of geometric trinity of gravity</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16359-8</link>
       <description>The so-called geometric trinity of gravity is based on three distinct geometric features of spacetime, i.e. curvature, torsion and non-metricity, which give rise to equivalent dynamics for general relativity (GR), teleparallel equivalent of general relativity (TEGR) and symmetric teleparallel equivalent of general relativity (STEGR). Pre-geometric gravity, on the other hand, offers a unifying framework from which all metric-affine theories can emerge. Starting from a gauge formulation à la Yang–Mills with a Higgs-like field, a mechanism of spontaneous symmetry breaking can give rise to an effective metric as well as to the classical dynamics of the gravitational field. In particular, the emergence of gravity in the spontaneously broken phase is shown to be consistent with all the different formulations of the geometric trinity of gravity, in terms both of actions and of gauge choices for the affine connection. This general result is achieved by deriving and analysing suitable expressio</description>
       <source url="https://doi.org/10.1140/epjc/s10052-026-16359-8">European Physical Journal C</source>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16359-8</guid>
+    </item><item>
+      <title>One-loop renormalization of quark TMD in the light-cone gauge: CSS evolution</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16305-8</link>
+      <description>We calculate the one-loop corrections to the quark TMD (focusing on the divergences) in the light-cone gauge using the background field formalism, testing different prescriptions for the extra singularity present in the light-cone gauge propagator. We use the pure rapidity regulator for rapidity divergences. The Collins-Soper-Sterman (CSS) evolution equations are indeed obtained from the one loop renormalization of the quark TMD with all the considered prescriptions. In this setup, in the case of the Mandelstam-Leibbrandt (ML) prescription, the double log contribution to the CSS resummation is found to come from the ghost-like zero-mode brought by the ML prescription, in the diagrams with a gluon propagator ending on the transverse part of the gauge link at infinity. By contrast, when using any prescription defined in terms of a single light-cone vector, such as the Principal Value prescription or retarded or advanced prescriptions, the CSS double log contribution is found to come enti</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16305-8">European Physical Journal C</source>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16305-8</guid>
+    </item><item>
+      <title>Updated flexible global parametrization of generalized parton distributions from elastic and deep inelastic inclusive scattering data</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15872-0</link>
+      <description>An updated flexible parametrization of the generalized parton distributions in the quark, antiquark and gluon sectors is presented using constraints from high precision electron nucleon deep inelastic scattering data, from the u and d flavor separated nucleon electromagnetic elastic form factors, and from the gluon form factors recently calculated in lattice QCD. The generalized parton distributions in the vector sector are H and E. We rigorously constrain the partonic components, H_u_v , H_d_v , H_baru , H_bard , H_bars and H_g , and the analogous quantities for E, with proper uncertainty quantification. These distributions obey leading order perturbative QCD evolution equations in α _S . Parametric forms at the initial scale, Q_o^2 = 0.58 textrmGeV^2 , for both quarks and gluon distributions are presented as a function of the relevant kinematic variables, namely, the parton momentum fraction, x, the skewness, xi , and the invariant, t. We also present the Compton form factors enterin</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15872-0">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15872-0</guid>
+    </item><item>
+      <title>Resolving the structure of bound states using lattice quantum field theories</title>
+      <link>https://doi.org/10.1103/nhbl-t2hv</link>
+      <description>This work presents the first calculation of a two-to-two particle matrix element of a local current within a lattice-regularized quantum field theory. This exploratory calculation is performed using a leading-order pionless effective field theory of two nucleons in a finite 3D spatial volume, where the Hamiltonian can be diagonalized exactly for moderate volumes. By considering a range of couplings where the theory supports a deuteronlike bound state, we determine the finite-volume spectra and matrix elements of the conserved local vector current. Using the Lüscher formalism, we constrain the infinite-volume, purely hadronic amplitude for this theory. Using previously derived formalism, we then map the finite-volume matrix elements to scattering amplitudes describing a reaction coupling two-particle states via a current insertion, 2+J→2. We then use a recently derived relation between this class of amplitudes and the bound-state elastic form factor to directly constrain the infinite-vo</description>
+      <source url="https://doi.org/10.1103/nhbl-t2hv">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/nhbl-t2hv</guid>
+    </item><item>
+      <title>Flat space fermionic wave-function coefficients</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)204</link>
+      <description>In this work we analyze the analytic structure of tree-level flat-space wavefunction coefficients (WFCs), with particular attention to fermionic operators, and derive cutting rules for internal-fermion lines. Building on these results, we set up an iterative procedure that, starting from the flat-space S-matrix, reconstructs the 3-and 4-point WFCs with the correct partial-and total-energy poles and satisfying the requisite cutting rules. Consequently, the “four-particle test” for flat-space WFCs imposes no additional constraints beyond the consistency of the flat-space S-matrix.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)204">Journal of High Energy Physics</source>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)204</guid>
     </item><item>
       <title>Stress-energy tensor of a scalar field on a product spacetime with a time-dependent compact dimension</title>
       <link>https://doi.org/10.1007/JHEP09(2026)188</link>
@@ -28,6 +107,13 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)186</guid>
     </item><item>
+      <title>Uniqueness of D=8 minimal supergravity with two vector multiplets</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)192</link>
+      <description>There exist only four known string theories with minimal supersymmetry in eight dimensions, whose low energy effective descriptions are given by minimal supergravity coupled to l = 18, 10, or 2 vector multiplets. It has been argued that these numbers are uniquely fixed by consistency conditions of the effective theory. In this work, we investigate the protected couplings of minimal supergravity coupled to two vector multiplets under the assumption that the theory admits a duality symmetry of the form Γ (N) × Γ (N) ⊂ SL(2, ℤ) × SL(2, ℤ) for some positive integer N. We show that consistency with anomaly cancellation, higher-dimensional uplifts, and gauge enhancement loci strongly constrains the allowed couplings and isolates a unique consistent theory in the BPS sector. In particular, we find that the Bianchi identity for the three-form flux cannot have gravitational contributions.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)192">Journal of High Energy Physics</source>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)192</guid>
+    </item><item>
       <title>Publisher Correction: Sensitivity of the Hyper-Kamiokande experiment to neutrino oscillation parameters using accelerator neutrinos</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15959-8</link>
       <description />
@@ -35,13 +121,6 @@
       <author>et al.</author>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15959-8</guid>
-    </item><item>
-      <title>Influence of finite-temperature effects on CMB power spectrum</title>
-      <link>https://doi.org/10.1016/j.nuclphysb.2026.117661</link>
-      <description>We explore the implications of finite-temperature quantum field theory effects on cosmological parameters within the framework of the ΛCDM model and its modification. By incorporating temperature-dependent corrections to the cosmological constant, we extend the standard cosmological model to include additional density parameters, ΩΛ2 and ΩΛ3, which arise from finite-T quantum gravitational effects. Using the Cosmic Linear Anisotropy Solving System (CLASS), we analyze the impact of these corrections on the cosmic microwave background power spectrum and compare the results with the Planck 2018 data. Through brute-force parameter scans and advanced machine learning techniques, including quartic regression, we demonstrate that the inclusion of ΩΛ2 and ΩΛ3 improves the model’s fit to the fine structure of the reference power spectrum. Because ΩΛ2 and ΩΛ3 originate from finite-temperature quantum (loop) corrections rather than being introduced as free dark-energy components, they are expecte</description>
-      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117661">Nuclear Physics B</source>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117661</guid>
     </item><item>
       <title>Systematic Search for Conformal Field Theories in Very Small Spaces</title>
       <link>https://doi.org/10.1103/j8v5-kyd6</link>
@@ -71,84 +150,6 @@
       <author>et al.</author>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ctc7-421t</guid>
-    </item><item>
-      <title>Measurement of the branching fraction of Ds*+→e+e−Ds+</title>
-      <link>https://doi.org/10.1103/jgyn-jxmt</link>
-      <description>The branching fraction of the electromagnetic Dalitz decay Ds*+→e+e−Ds+ is measured with an e+e− collision data sample collected by the BESIII experiment at center-of-mass energies between 4.128 and 4.226 GeV, corresponding to a total integrated luminosity of 7.33 fb−1. The measurement yields the branching fraction B(Ds*+→e+e−Ds+)=(7.28±0.61stat±0.31syst)×10−3. The result is consistent with the previous one, with a 2.5-fold improvement in precision. This provides an important input for constraining the parameters of theoretical models and for determining the absolute branching fractions of Ds*+→π0Ds+ and Ds*+→γDs+, measured with a relative method that assumes Ds*+ decays only via channels Ds*+→e+e−Ds+, Ds*+→π0Ds+ and Ds*+→γDs+.</description>
-      <source url="https://doi.org/10.1103/jgyn-jxmt">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jgyn-jxmt</guid>
-    </item><item>
-      <title>Rotating the Color Glass Condensate</title>
-      <link>https://doi.org/10.1103/k59p-5nb6</link>
-      <description>High-energy QCD evolution beyond leading order suffers from instabilities driven by large collinear logarithms. We present a framework, consistent with the standard high-energy operator product expansion, that restores perturbative stability order by order. The method involves a change of basis in the space of high-energy operators, which modifies both the evolution kernel and the coefficient functions while leaving physical observables invariant. Within this factorization scheme, we derive a next-to-leading-order renormalization-group equation whose numerical solution exhibits stable evolution up to large rapidities, paving the way for a systematic framework for precision studies of gluon saturation at current and future colliders.</description>
-      <source url="https://doi.org/10.1103/k59p-5nb6">Physical Review Letters</source>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/k59p-5nb6</guid>
-    </item><item>
-      <title>Spectator-field-triggered phase transition during inflation and its anisotropic gravitational wave signals</title>
-      <link>https://doi.org/10.1103/z1ws-kb9z</link>
-      <description>We propose a general framework in which a phase transition is triggered during cosmic inflation by the slow-roll dynamics of a spectator field. The topological defects formed at the transition are inflated outside the horizon, reenter it after inflation, and can subsequently generate characteristic gravitational wave (GW) signals. Quantum fluctuations of the spectator field modulate the timing of the transition, imprinting large-scale anisotropies in the resulting GW background. As an explicit realization, the spectator field may be identified with the Higgs field in a supersymmetric Standard Model. More generally, our framework applies to a wide class of spectator-modulated phenomena, providing a generic mechanism for producing anisotropic GW signals.</description>
-      <source url="https://doi.org/10.1103/z1ws-kb9z">Physical Review D</source>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/z1ws-kb9z</guid>
-    </item><item>
-      <title>Collinear structure of nonlinear small-x evolution</title>
-      <link>https://doi.org/10.1103/p5jl-fyqc</link>
-      <description>We introduce a novel approach to high-energy QCD factorization of cross sections for processes involving a dilute projectile and a dense target. Our method preserves the factorization between “fast” and “slow” modes in the longitudinal momentum k+ for a projectile moving along the positive light cone direction, making it compatible with higher-order loop computations done within the standard formulation of the color glass condensate (CGC) effective field theory. Moreover, it eliminates the anomalous double collinear logarithms that typically hinder the convergence of perturbation theory at small-x. Our scheme amounts to a change of basis in the space of CGC operators, introducing an arbitrary transverse scale dependence while leaving physical cross sections invariant. Implementing this scheme requires a modification of the high-energy renormalization group equation for the CGC operators, which we explicitly derive at next-to-leading order and in the nonlinear regime for the case of the</description>
-      <source url="https://doi.org/10.1103/p5jl-fyqc">Physical Review D</source>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p5jl-fyqc</guid>
-    </item><item>
-      <title>Modular self-duality, symmetrized relative entropy, and Bogoliubov-Kubo-Mori susceptibility in quantum field theory</title>
-      <link>https://doi.org/10.1103/vxkq-xb7l</link>
-      <description>We develop an operator-algebraic framework for modular self-duality, symmetrized relative entropy, and Bogoliubov-Kubo-Mori (BKM) susceptibility of local states in quantum field theory. In finite dimensions, modular self-duality singles out fixed points at which a state coincides with its modularly reflected partner. At such points, the natural comparison functional is the symmetrized Umegaki relative entropy. It vanishes at coincidence, and its Hessian is governed by the BKM quantum Fisher information along the reflected tangent direction. We then extend this fixed-point construction to the local type III von Neumann algebras that arise in quantum field theory. Here, a local state is compared with the modular pullback of its commutant restriction, and the intrinsic comparison functional is the symmetrized Araki relative entropy. For sufficiently regular state deformations, the fixed-localization Hessian at the self-dual point defines a type III BKM susceptibility. This coefficient is </description>
-      <source url="https://doi.org/10.1103/vxkq-xb7l">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vxkq-xb7l</guid>
-    </item><item>
-      <title>DD¯ interactions are weak near threshold in QCD</title>
-      <link>https://doi.org/10.1103/s3p2-552r</link>
-      <description>We study near-threshold DD¯ scattering in S-and D-wave to determine whether or not resonances or bound states are present. Working in the approximation where charm annihilation is forbidden, with two degenerate light-quark flavors and a heavier strange quark, isospin is a good quantum number, and the only other channel that is kinematically open is ηcη. Using lattice QCD we compute, as a function of varying light-quark mass, the S-matrix for coupled-channel ηcη−DD¯ scattering and find only weakly interacting meson pairs. In contrast to several other studies, we find no evidence for any bound-state or resonance singularity in the energy region between the deeply bound χc0(1P) state and the DsD¯s threshold.</description>
-      <source url="https://doi.org/10.1103/s3p2-552r">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/s3p2-552r</guid>
-    </item><item>
-      <title>Quadrupole spectra derived from 2.76-TeV Pb-Pb identified-hadron v2(pt) data</title>
-      <link>https://doi.org/10.1103/sw4r-4nxr</link>
-      <description>pt-differential quantity v2(pt) is meant to measure elliptic flow manifested by a dense QCD medium formed in high-energy nucleus-nucleus collisions. Elliptic flow may be referred to more neutrally as a cylindrical quadrupole component of the transverse motion of particle sources within a collision. As defined, v2(pt) relies on an implicit assumption that almost all produced particles emerge from a single source. This article describes a detailed study of the algebraic structure of v2(pt). A procedure is developed to derive a common monopole boost (“radial flow”) value and quadrupole pt spectra for several hadron species. The method is applied to v2(pt) data for four hadron species from 2.76-TeV Pb-Pb collisions. According to available v2(pt) data the assumption of a single dominant particle source within A−A collisions is unjustified. Combined with a previous study of quadrupole amplitude variation for 200-GeV p−p collisions these results demonstrate that quadrupole structure is relate</description>
-      <source url="https://doi.org/10.1103/sw4r-4nxr">Physical Review C</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/sw4r-4nxr</guid>
-    </item><item>
-      <title>Scalar nonstandard neutrino interactions in galactic supernovae</title>
-      <link>https://doi.org/10.1103/lgkg-tf2y</link>
-      <description>We analyze the prospects for studying scalar nonstandard interactions (SNSI) using the neutrino burst from a galactic supernova (SN). SNSI modifies the resonant flavor conversion and, correspondingly, the neutronization burst signal, and may be identifiable in future multi-tonne-scale experiments, such as Deep Underground Neutrino Experiment (DUNE). Notably, in the normal mass ordering, SNSI can lead to an anomalous (re)appearance of the neutronization-burst νe peak at Earth, a feature otherwise strongly suppressed in the Standard Model. We show that, in the presence of SNSI, neutrinos propagating out of the dense SN environment acquire a density-squared-dependent contribution to their mass-squared differences, which in turn modifies the energy levels of the neutrino matter eigenstates. This density-squared effect is absent in less dense environments such as the Earth or the Sun and is precisely what enables SN neutrinos to probe SNSI parameters up to 4 orders of magnitude below the va</description>
-      <source url="https://doi.org/10.1103/lgkg-tf2y">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/lgkg-tf2y</guid>
-    </item><item>
-      <title>Detector performance at SHiP for cascade-produced long-lived particles</title>
-      <link>https://doi.org/10.1103/h9gk-mjjh</link>
-      <description>Previous studies have shown that cascade production in the thick target of the Search for Hidden Particles (SHiP) experiment may substantially enhance the number of light long-lived particles (LLPs) decaying in the fiducial volume. However, cascade-produced LLPs are typically soft, so daughter-level acceptance and reconstruction effects can strongly suppress the observable event rate. We quantify this suppression for two representative cases: photophilic axionlike particles (ALPs) produced in electromagnetic cascades and heavy neutral leptons (HNLs) produced in decays of secondary kaons. We combine a semianalytic event-rate calculation with a detector-level study of ALP reconstruction in the electromagnetic calorimeter. For the nominal SHiP detector design, cascade ALPs give at most a moderate enhancement over primary production and only at the lightest masses; at higher masses, the cascade contribution becomes subdominant or negligible. For HNLs from secondary kaons, the cascade contr</description>
-      <source url="https://doi.org/10.1103/h9gk-mjjh">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/h9gk-mjjh</guid>
-    </item><item>
-      <title>Quantum walks and exact RG in de Sitter space</title>
-      <link>https://doi.org/10.1103/jz1v-8lfy</link>
-      <description>The local physics of light scalar fields in de Sitter space is well described by classical random walks, as expressed through the framework of stochastic inflation. Recent work has clarified how this formalism arises from quantum field theory and the renormalization group (RG), allowing for corrections to this formalism to be determined order by order. Yet, this description is incomplete. For example, the quantum dynamics of these fields are expected to become important when determining the tail of the probability distribution for the fluctuations. In this paper, we develop the understanding of fields in de Sitter as a quantum walk in order to bridge the gap between the classical and quantum description. We use the framework of exact RG to calculate the evolution equation for the reduced density matrix of the long wavelength fields. This master equation provides the direct map from light fields to models of quantum walks. We show how to reduce the master equation to stochastic inflatio</description>
-      <source url="https://doi.org/10.1103/jz1v-8lfy">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jz1v-8lfy</guid>
-    </item><item>
-      <title>Quantum walks and exact RG in de Sitter space</title>
-      <link>https://doi.org/10.1103/jz1v-8lfy</link>
-      <description>The local physics of light scalar fields in de Sitter space is well described by classical random walks, as expressed through the framework of stochastic inflation. Recent work has clarified how this formalism arises from quantum field theory and the renormalization group (RG), allowing for corrections to this formalism to be determined order by order. Yet, this description is incomplete. For example, the quantum dynamics of these fields are expected to become important when determining the tail of the probability distribution for the fluctuations. In this paper, we develop the understanding of fields in de Sitter as a quantum walk in order to bridge the gap between the classical and quantum description. We use the framework of exact RG to calculate the evolution equation for the reduced density matrix of the long wavelength fields. This master equation provides the direct map from light fields to models of quantum walks. We show how to reduce the master equation to stochastic inflatio</description>
-      <source url="https://doi.org/10.1103/jz1v-8lfy">Physical Review D</source>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jz1v-8lfy</guid>
     </item>
   </channel>
 </rss>
