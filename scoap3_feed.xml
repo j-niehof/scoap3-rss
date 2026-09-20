@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 13:38:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 13:53:16 +0000</lastBuildDate>
     <item>
       <title>Curvature regularization and dynamical vacuum structure in pseudo-complex general relativity</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16331-6</link>
@@ -28,6 +28,13 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16081-5</guid>
     </item><item>
+      <title>Calabi-Yau threefolds from vex triangulations</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)202</link>
+      <description>We study the birational geometry (i.e., Kähler moduli space) of Calabi-Yau (CY) threefold hypersurfaces in toric varieties arising from four-dimensional reflexive polytopes. In particular, it has been observed that the birational classes of these geometries are not exhausted by toric hypersurfaces arising from fine, regular, star triangulations (FRSTs). We begin by introducing a classification problem: enumeration of birational classes of toric varieties, which is equivalent to enumeration of certain triangulations/fans. We consider this problem from the complementary perspectives of triangulation theory and toric geometry, reviewing both theories in detail; this culminates in an explanation of how to generate all fine regular triangulations of a vector configuration (i.e., fine regular simplicial fans), which we implement in a Python package regfans [1]. We then apply this theory to the Kreuzer-Skarke (KS) database, where we encounter both FRSTs and vex triangulations. We study the no</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)202">Journal of High Energy Physics</source>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)202</guid>
+    </item><item>
       <title>Effective strings and particles interacting in 3D: the Ising model</title>
       <link>https://doi.org/10.1007/JHEP09(2026)201</link>
       <description>We study how a fluctuating domain wall in three dimensions modifies bulk observables in a gapped phase. We introduce an effective interaction between the wall and the lightest bulk massive mode, and identify the regime in which this description is controlled: nearly on-shell bulk exchange with small momentum along the wall. In this regime, several observables are controlled by a renormalized dimensionless coupling λ, including the large-L correction to the wall free energy and the large-|x | tail of two-point functions in the presence of the wall. Other observables, such as one-point functions and two-point functions in the nearby-regime, retain non-universal dependence on operator data and on the bulk spectral density. We test the universal kinematic consequences of wall fluctuations, and find good agreement with the predicted rough-wall broadening and nearby Gaussian behavior in Monte Carlo simulations of the 3D Ising model with anti-periodic boundary conditions.</description>
@@ -42,13 +49,6 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)207</guid>
     </item><item>
-      <title>Calabi-Yau threefolds from vex triangulations</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)202</link>
-      <description>We study the birational geometry (i.e., Kähler moduli space) of Calabi-Yau (CY) threefold hypersurfaces in toric varieties arising from four-dimensional reflexive polytopes. In particular, it has been observed that the birational classes of these geometries are not exhausted by toric hypersurfaces arising from fine, regular, star triangulations (FRSTs). We begin by introducing a classification problem: enumeration of birational classes of toric varieties, which is equivalent to enumeration of certain triangulations/fans. We consider this problem from the complementary perspectives of triangulation theory and toric geometry, reviewing both theories in detail; this culminates in an explanation of how to generate all fine regular triangulations of a vector configuration (i.e., fine regular simplicial fans), which we implement in a Python package regfans [1]. We then apply this theory to the Kreuzer-Skarke (KS) database, where we encounter both FRSTs and vex triangulations. We study the no</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)202">Journal of High Energy Physics</source>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)202</guid>
-    </item><item>
       <title>Improving parton shower predictions via precision moments of energy flow polynomials</title>
       <link>https://doi.org/10.1007/JHEP09(2026)191</link>
       <description>In this paper, we study various conceptual and practical aspects of using maximum-entropy reweighting to upgrade parton-shower event samples based on higher-accuracy theoretical constraints. Our approach produces strictly positive per-event weights that improve parton-shower predictions while preserving full event-level exclusivity, allowing any observable to be computed on the reweighted sample without rebinning or regeneration. On the conceptual side, we explain how theoretical principles can help determine which constraints to use and which kinds of priors lead to efficient reweighting. On the practical side, we perform a proof-of-concept study with hemisphere observables in e e → hadrons, and show that even when the parton-shower prior is purposefully degraded by removing the non-singular parts of the QCD splitting functions, a small set of precision calculations can nevertheless restore the desired physical behavior. We use energy flow polynomials (EFPs) as a systematic basis to o</description>
@@ -56,19 +56,19 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)191</guid>
     </item><item>
-      <title>The pre-geometric origin of geometric trinity of gravity</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16359-8</link>
-      <description>The so-called geometric trinity of gravity is based on three distinct geometric features of spacetime, i.e. curvature, torsion and non-metricity, which give rise to equivalent dynamics for general relativity (GR), teleparallel equivalent of general relativity (TEGR) and symmetric teleparallel equivalent of general relativity (STEGR). Pre-geometric gravity, on the other hand, offers a unifying framework from which all metric-affine theories can emerge. Starting from a gauge formulation à la Yang–Mills with a Higgs-like field, a mechanism of spontaneous symmetry breaking can give rise to an effective metric as well as to the classical dynamics of the gravitational field. In particular, the emergence of gravity in the spontaneously broken phase is shown to be consistent with all the different formulations of the geometric trinity of gravity, in terms both of actions and of gauge choices for the affine connection. This general result is achieved by deriving and analysing suitable expressio</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16359-8">European Physical Journal C</source>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16359-8</guid>
-    </item><item>
       <title>One-loop renormalization of quark TMD in the light-cone gauge: CSS evolution</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16305-8</link>
       <description>We calculate the one-loop corrections to the quark TMD (focusing on the divergences) in the light-cone gauge using the background field formalism, testing different prescriptions for the extra singularity present in the light-cone gauge propagator. We use the pure rapidity regulator for rapidity divergences. The Collins-Soper-Sterman (CSS) evolution equations are indeed obtained from the one loop renormalization of the quark TMD with all the considered prescriptions. In this setup, in the case of the Mandelstam-Leibbrandt (ML) prescription, the double log contribution to the CSS resummation is found to come from the ghost-like zero-mode brought by the ML prescription, in the diagrams with a gluon propagator ending on the transverse part of the gauge link at infinity. By contrast, when using any prescription defined in terms of a single light-cone vector, such as the Principal Value prescription or retarded or advanced prescriptions, the CSS double log contribution is found to come enti</description>
       <source url="https://doi.org/10.1140/epjc/s10052-026-16305-8">European Physical Journal C</source>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16305-8</guid>
+    </item><item>
+      <title>The pre-geometric origin of geometric trinity of gravity</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16359-8</link>
+      <description>The so-called geometric trinity of gravity is based on three distinct geometric features of spacetime, i.e. curvature, torsion and non-metricity, which give rise to equivalent dynamics for general relativity (GR), teleparallel equivalent of general relativity (TEGR) and symmetric teleparallel equivalent of general relativity (STEGR). Pre-geometric gravity, on the other hand, offers a unifying framework from which all metric-affine theories can emerge. Starting from a gauge formulation à la Yang–Mills with a Higgs-like field, a mechanism of spontaneous symmetry breaking can give rise to an effective metric as well as to the classical dynamics of the gravitational field. In particular, the emergence of gravity in the spontaneously broken phase is shown to be consistent with all the different formulations of the geometric trinity of gravity, in terms both of actions and of gauge choices for the affine connection. This general result is achieved by deriving and analysing suitable expressio</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16359-8">European Physical Journal C</source>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16359-8</guid>
     </item><item>
       <title>Updated flexible global parametrization of generalized parton distributions from elastic and deep inelastic inclusive scattering data</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15872-0</link>
