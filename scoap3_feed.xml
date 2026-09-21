@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 13:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:09:09 +0000</lastBuildDate>
     <item>
+      <title>Unveiling the Collins-Soper kernel in inclusive deep inelastic scattering at threshold</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.140970</link>
+      <description>We revisit the factorization of inclusive deep inelastic scattering (DIS) near the kinematic threshold in terms of collinear, off-light-cone operators. At threshold, particle production develops around two opposite near-light-cone directions in close analogy with transverse-momentum-dependent semi-inclusive DIS. The Collins-Soper kernel then emerges as the universal function governing the rapidity evolution of the relevant parton correlators in both cases. Our new framework also clarifies outstanding issues related to soft radiation and rapidity divergences at threshold.</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.140970">Physics Letters B</source>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140970</guid>
+    </item><item>
       <title>Curvature regularization and dynamical vacuum structure in pseudo-complex general relativity</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16331-6</link>
       <description>Whether classical spacetime remains well-defined at arbitrarily high curvature is a central question. In general relativity, singularities signal the breakdown of the classical description, motivating modifications of spacetime’s short-distance structure. Pseudo-complex general relativity (pcGR) extends spacetime geometry to pseudo-complex coordinates, naturally introducing two metric sectors, the physical metric gμ ν and an auxiliary field fμ ν . The magnitude of the pseudo-imaginary component defines the invariant acceleration scale a₀ , a direct consequence of the pseudo-complex structure. The simultaneity condition, requiring both idempotent sectors to satisfy the pseudo-complex Einstein equations independently, fixes the auxiliary field algebraically, with no new propagating degrees of freedom, and sets a lower bound on the lapse that regularizes curvature. The regularization is achieved through the combined effect of the lapse-gap condition e^ν (r) &gt; a₀ , which ensures the radial</description>
@@ -48,13 +55,6 @@
       <source url="https://doi.org/10.1007/JHEP09(2026)207">Journal of High Energy Physics</source>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)207</guid>
-    </item><item>
-      <title>Improving parton shower predictions via precision moments of energy flow polynomials</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)191</link>
-      <description>In this paper, we study various conceptual and practical aspects of using maximum-entropy reweighting to upgrade parton-shower event samples based on higher-accuracy theoretical constraints. Our approach produces strictly positive per-event weights that improve parton-shower predictions while preserving full event-level exclusivity, allowing any observable to be computed on the reweighted sample without rebinning or regeneration. On the conceptual side, we explain how theoretical principles can help determine which constraints to use and which kinds of priors lead to efficient reweighting. On the practical side, we perform a proof-of-concept study with hemisphere observables in e e → hadrons, and show that even when the parton-shower prior is purposefully degraded by removing the non-singular parts of the QCD splitting functions, a small set of precision calculations can nevertheless restore the desired physical behavior. We use energy flow polynomials (EFPs) as a systematic basis to o</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)191">Journal of High Energy Physics</source>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)191</guid>
     </item><item>
       <title>One-loop renormalization of quark TMD in the light-cone gauge: CSS evolution</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16305-8</link>
