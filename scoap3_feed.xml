@@ -5,8 +5,60 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 16:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:17:43 +0000</lastBuildDate>
     <item>
+      <title>Multi-kinks and composite oscillons in a commensurable and non degenerate double sine-Gordon model</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)218</link>
+      <description>In this paper, we introduce a commensurable and non-degenerate double sine-Gordon model, in which a partial breaking of vacuum degeneracy provides a mechanism for the emergence of static multi-kinks. These multi-kinks K are stable field configurations with internal structure, consisting of n localized energy packets with well-defined separations. The properties of the multi-kinks are thoroughly analyzed, including the novel phenomenology that arises during their collisions. In particular, we observe the emergence of long-lived composite oscillons that reflect the original structure of the multi-kinks. The sub-kink’s positions and their vibration modes provide collective coordinates that are used to construct a phenomenological model, which offers a good qualitative explanation of the observed oscillon properties. Linear radiation effects are consistently incorporated into the model, revealing their important role in the synchronization of the oscillon’s vibrational components. In contr</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)218">Journal of High Energy Physics</source>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)218</guid>
+    </item><item>
+      <title>The decay rate of metastable cosmic strings beyond the thin-string approximation</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)219</link>
+      <description>In the context of grand unified theories, any cosmic strings present in the post-inflationary universe are likely to be metastable, with a decay rate set by the spontaneous creation of monopole pairs on the string. Determining this decay rate is crucial in understanding the phenomenology of the cosmic string network, including a potentially observable gravitational wave background. The bounce action governing this rate has so far only been determined using the thin string approximation or specific ansätze for the field profiles in the monopole formation process. Here we solve this problem using classical lattice simulations, relying only on the inherent symmetries of the problem. Our results indicate a suppression of the bounce action and hence a faster string decay compared to previous estimates.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)219">Journal of High Energy Physics</source>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)219</guid>
+    </item><item>
+      <title>Construction and characterisation of the DarkSide-20k veto silicon photo-multiplier tiles</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16217-7</link>
+      <description>Silicon photo-multipliers (SiPMs) are state-of-the-art sensors capable of detecting a single photoelectron under cryogenic conditions, with potentially lower radioactivity than widely used photomultiplier tubes. The DarkSide-20k experiment, designed to perform direct dark matter searches using liquid argon as the target material, employs SiPM technology to detect interactions in the active detector volumes, including the central dual-phase Time Projection Chamber and the Inner and Outer Veto volumes. The vetoes are designed to discriminate against radiogenic neutron and cosmic muon backgrounds associated with the dark matter search. This paper describes the completed production and test protocols for the “Veto Tiles” (called vTiles, arrays of 24 SiPMs integrated on a printed circuit board providing the power distribution and signal amplification); 16 vTiles are grouped into “Veto Photo-Detector Units” to instrument the Inner Veto volume. Each vTile underwent detailed testing at room an</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16217-7">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16217-7</guid>
+    </item><item>
+      <title>Lepton number violation at the LHC in radiative neutrino mass models with leptoquarks</title>
+      <link>https://doi.org/10.1103/vbbz-98kg</link>
+      <description>We investigate the prospects for observing lepton number violation (LNV) by two units, |ΔL|=2, at the LHC within the leptoquark variant of the Zee Model, where Majorana neutrino masses arise radiatively at one loop. The model features an SU(2)L doublet and singlet leptoquarks, whose interactions produce a distinctive same-sign dilepton plus jets signature, pp→ℓ±ℓ′±+jets. Taking into account current experimental constraints, we identify the dominant production channels for this LNV signal and perform a detailed collider analysis. We find that the HL-LHC can probe leptoquark masses up to mLQ∼1.5 TeV with this process. Observation of this signal would provide a direct test of LNV and would unambiguously establish the Majorana nature of neutrinos.</description>
+      <source url="https://doi.org/10.1103/vbbz-98kg">Physical Review D</source>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vbbz-98kg</guid>
+    </item><item>
+      <title>Measurements of differential charged-current cross sections on argon for electron neutrinos with final-state protons in MicroBooNE</title>
+      <link>https://doi.org/10.1103/lwrr-98vx</link>
+      <description>This work presents single-differential electron-neutrino charged-current cross sections on argon measured using the MicroBooNE detector at the Fermi National Accelerator Laboratory. The analysis uses data recorded when the Neutrinos at the Main Injector beam was operating in both neutrino and antineutrino modes, with exposures of 2×1020 and 5×1020 protons on target, respectively. A selection algorithm targeting electron-neutrino charged-current interactions with at least one proton, one electron, and no pions in the final topology is used to measure differential cross sections as a function of outgoing electron energy, total visible energy, and the cosine of the opening angle between the electron and the most energetic proton. The interaction rate as a function of proton multiplicity is also reported. The total cross section is measured as [4.1±0.3 (stat)±1.1 (syst)]×10−39 cm2/nucleon. The unfolded cross-section measurements are compared to predictions from neutrino event generators co</description>
+      <source url="https://doi.org/10.1103/lwrr-98vx">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/lwrr-98vx</guid>
+    </item><item>
+      <title>Energy-energy correlators inside single inclusive jets in heavy-ion collisions with the CoLBT-hydro model</title>
+      <link>https://doi.org/10.1103/zpvs-4x68</link>
+      <description>The energy-energy correlator (EEC) inside jets is a sensitive observable for studying jet modification in the quark-gluon plasma. However, its interpretation in heavy-ion collisions remains challenging, requiring a consistent understanding of jet evolution across multiple dynamical scales together with a proper treatment of the background subtraction. In this work, we employ an updated CoLBT-hydro framework in which a medium scale QM=2.0 GeV is introduced to separate the vacuum and in-medium stages of the parton shower, enabling a more self-consistent treatment of jet evolution. Using a theoretical background subtraction within the model, the resulting simulation reproduces the recent CMS measurement of the in-jet EEC and, through a decomposition of the different contributions, highlights the impact of medium modification on the observable. To further validate the experimental procedure, we also implement the CMS mixed-event background-subtraction method directly in the simulation and </description>
+      <source url="https://doi.org/10.1103/zpvs-4x68">Physical Review C</source>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/zpvs-4x68</guid>
+    </item><item>
+      <title>Performance of the Eos detector with water</title>
+      <link>https://doi.org/10.1103/7qkt-mnqz</link>
+      <description>In this manuscript we present the first results from Eos, a four tonne optical detector located at the University of California, Berkeley. The primary goal of Eos is to demonstrate the performance capabilities of scintillation-based, “hybrid” detector technology for future neutrino detectors. The data presented were collected while both the inner target vessel and the outer buffer vessel were filled with water. The water target acts as a well-understood medium that produces only Cherenkov light, which can be used to calibrate and develop the detector model and reconstruction algorithms prior to the deployment of scintillating material. Using deployed optical and radioactive calibration sources, a series of detailed detector calibrations are performed. These enable a suite of tests for various reconstruction algorithms. Simulations that use calibrated models are compared with the data across a variety of different types of calibration sources, source positions, and rotations.</description>
+      <source url="https://doi.org/10.1103/7qkt-mnqz">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7qkt-mnqz</guid>
+    </item><item>
       <title>Unveiling the Collins-Soper kernel in inclusive deep inelastic scattering at threshold</title>
       <link>https://doi.org/10.1016/j.physletb.2026.140970</link>
       <description>We revisit the factorization of inclusive deep inelastic scattering (DIS) near the kinematic threshold in terms of collinear, off-light-cone operators. At threshold, particle production develops around two opposite near-light-cone directions in close analogy with transverse-momentum-dependent semi-inclusive DIS. The Collins-Soper kernel then emerges as the universal function governing the rapidity evolution of the relevant parton correlators in both cases. Our new framework also clarifies outstanding issues related to soft radiation and rapidity divergences at threshold.</description>
@@ -35,13 +87,6 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16081-5</guid>
     </item><item>
-      <title>Calabi-Yau threefolds from vex triangulations</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)202</link>
-      <description>We study the birational geometry (i.e., Kähler moduli space) of Calabi-Yau (CY) threefold hypersurfaces in toric varieties arising from four-dimensional reflexive polytopes. In particular, it has been observed that the birational classes of these geometries are not exhausted by toric hypersurfaces arising from fine, regular, star triangulations (FRSTs). We begin by introducing a classification problem: enumeration of birational classes of toric varieties, which is equivalent to enumeration of certain triangulations/fans. We consider this problem from the complementary perspectives of triangulation theory and toric geometry, reviewing both theories in detail; this culminates in an explanation of how to generate all fine regular triangulations of a vector configuration (i.e., fine regular simplicial fans), which we implement in a Python package regfans [1]. We then apply this theory to the Kreuzer-Skarke (KS) database, where we encounter both FRSTs and vex triangulations. We study the no</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)202">Journal of High Energy Physics</source>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)202</guid>
-    </item><item>
       <title>Effective strings and particles interacting in 3D: the Ising model</title>
       <link>https://doi.org/10.1007/JHEP09(2026)201</link>
       <description>We study how a fluctuating domain wall in three dimensions modifies bulk observables in a gapped phase. We introduce an effective interaction between the wall and the lightest bulk massive mode, and identify the regime in which this description is controlled: nearly on-shell bulk exchange with small momentum along the wall. In this regime, several observables are controlled by a renormalized dimensionless coupling λ, including the large-L correction to the wall free energy and the large-|x | tail of two-point functions in the presence of the wall. Other observables, such as one-point functions and two-point functions in the nearby-regime, retain non-universal dependence on operator data and on the bulk spectral density. We test the universal kinematic consequences of wall fluctuations, and find good agreement with the predicted rough-wall broadening and nearby Gaussian behavior in Monte Carlo simulations of the 3D Ising model with anti-periodic boundary conditions.</description>
@@ -56,6 +101,13 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)207</guid>
     </item><item>
+      <title>Calabi-Yau threefolds from vex triangulations</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)202</link>
+      <description>We study the birational geometry (i.e., Kähler moduli space) of Calabi-Yau (CY) threefold hypersurfaces in toric varieties arising from four-dimensional reflexive polytopes. In particular, it has been observed that the birational classes of these geometries are not exhausted by toric hypersurfaces arising from fine, regular, star triangulations (FRSTs). We begin by introducing a classification problem: enumeration of birational classes of toric varieties, which is equivalent to enumeration of certain triangulations/fans. We consider this problem from the complementary perspectives of triangulation theory and toric geometry, reviewing both theories in detail; this culminates in an explanation of how to generate all fine regular triangulations of a vector configuration (i.e., fine regular simplicial fans), which we implement in a Python package regfans [1]. We then apply this theory to the Kreuzer-Skarke (KS) database, where we encounter both FRSTs and vex triangulations. We study the no</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)202">Journal of High Energy Physics</source>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)202</guid>
+    </item><item>
       <title>One-loop renormalization of quark TMD in the light-cone gauge: CSS evolution</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16305-8</link>
       <description>We calculate the one-loop corrections to the quark TMD (focusing on the divergences) in the light-cone gauge using the background field formalism, testing different prescriptions for the extra singularity present in the light-cone gauge propagator. We use the pure rapidity regulator for rapidity divergences. The Collins-Soper-Sterman (CSS) evolution equations are indeed obtained from the one loop renormalization of the quark TMD with all the considered prescriptions. In this setup, in the case of the Mandelstam-Leibbrandt (ML) prescription, the double log contribution to the CSS resummation is found to come from the ghost-like zero-mode brought by the ML prescription, in the diagrams with a gluon propagator ending on the transverse part of the gauge link at infinity. By contrast, when using any prescription defined in terms of a single light-cone vector, such as the Principal Value prescription or retarded or advanced prescriptions, the CSS double log contribution is found to come enti</description>
@@ -63,12 +115,12 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16305-8</guid>
     </item><item>
-      <title>The pre-geometric origin of geometric trinity of gravity</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16359-8</link>
-      <description>The so-called geometric trinity of gravity is based on three distinct geometric features of spacetime, i.e. curvature, torsion and non-metricity, which give rise to equivalent dynamics for general relativity (GR), teleparallel equivalent of general relativity (TEGR) and symmetric teleparallel equivalent of general relativity (STEGR). Pre-geometric gravity, on the other hand, offers a unifying framework from which all metric-affine theories can emerge. Starting from a gauge formulation à la Yang–Mills with a Higgs-like field, a mechanism of spontaneous symmetry breaking can give rise to an effective metric as well as to the classical dynamics of the gravitational field. In particular, the emergence of gravity in the spontaneously broken phase is shown to be consistent with all the different formulations of the geometric trinity of gravity, in terms both of actions and of gauge choices for the affine connection. This general result is achieved by deriving and analysing suitable expressio</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16359-8">European Physical Journal C</source>
+      <title>One-loop renormalization of quark TMD in the light-cone gauge: CSS evolution</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16305-8</link>
+      <description>We calculate the one-loop corrections to the quark TMD (focusing on the divergences) in the light-cone gauge using the background field formalism, testing different prescriptions for the extra singularity present in the light-cone gauge propagator. We use the pure rapidity regulator for rapidity divergences. The Collins-Soper-Sterman (CSS) evolution equations are indeed obtained from the one loop renormalization of the quark TMD with all the considered prescriptions. In this setup, in the case of the Mandelstam-Leibbrandt (ML) prescription, the double log contribution to the CSS resummation is found to come from the ghost-like zero-mode brought by the ML prescription, in the diagrams with a gluon propagator ending on the transverse part of the gauge link at infinity. By contrast, when using any prescription defined in terms of a single light-cone vector, such as the Principal Value prescription or retarded or advanced prescriptions, the CSS double log contribution is found to come enti</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16305-8">European Physical Journal C</source>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16359-8</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16305-8</guid>
     </item><item>
       <title>Updated flexible global parametrization of generalized parton distributions from elastic and deep inelastic inclusive scattering data</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15872-0</link>
@@ -93,27 +145,6 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)204</guid>
     </item><item>
-      <title>Stress-energy tensor of a scalar field on a product spacetime with a time-dependent compact dimension</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)188</link>
-      <description>We compute the vacuum expectation value of the stress-energy tensor of a scalar field on a product spacetime composed of an FLRW background times a compact dimension (ℳ × 𝒮 ), where the size of the latter is allowed to vary with time. We modify the standard adiabatic regularization prescription to obtain analytic expressions for both d = 3 and d = 4. In the massless and conformally coupled limit, the leading order time-dependent results are consistent with known time-independent Casimir contributions. Furthermore, in this limit, the higher-order time-dependent corrections, when the FLRW and compact-dimension scale factors coincide, match known results for (1 + d)-dimensional FLRW spacetime.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)188">Journal of High Energy Physics</source>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)188</guid>
-    </item><item>
-      <title>Anomaly-free spectra, unimodular lattices and 6D R-symmetry gauged supergravity</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)186</link>
-      <description>We study the classification problem for anomaly-free 6D 𝒩 = (1, 0) supergravities with a gauged abelian R-symmetry and one tensor multiplet. We present eleven new models with gauge group G × U(1) that satisfy the local Green-Schwarz factorization condition, together with several recently proposed global consistency conditions. In particular, the low-rank models we found are precisely where some of the recent enumeration literature is least directly applicable. These examples suggest that the landscape of anomaly-free gauged U(1) supergravities may be richer than previously recognized while still remaining highly constrained. We analyze the arithmetic structure of the anomaly coefficients, including their integral pairings, embeddability into rank-two unimodular charge lattices, the characteristic-vector condition and ghost-free gauge-field conditions. We show that n ≡ 8 (mod 12) is necessary and sufficient for the unimodular embeddability in the rank-two case, when the gauge group does</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)186">Journal of High Energy Physics</source>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)186</guid>
-    </item><item>
-      <title>Uniqueness of D=8 minimal supergravity with two vector multiplets</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)192</link>
-      <description>There exist only four known string theories with minimal supersymmetry in eight dimensions, whose low energy effective descriptions are given by minimal supergravity coupled to l = 18, 10, or 2 vector multiplets. It has been argued that these numbers are uniquely fixed by consistency conditions of the effective theory. In this work, we investigate the protected couplings of minimal supergravity coupled to two vector multiplets under the assumption that the theory admits a duality symmetry of the form Γ (N) × Γ (N) ⊂ SL(2, ℤ) × SL(2, ℤ) for some positive integer N. We show that consistency with anomaly cancellation, higher-dimensional uplifts, and gauge enhancement loci strongly constrains the allowed couplings and isolates a unique consistent theory in the BPS sector. In particular, we find that the Bianchi identity for the three-form flux cannot have gravitational contributions.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)192">Journal of High Energy Physics</source>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)192</guid>
-    </item><item>
       <title>Publisher Correction: Sensitivity of the Hyper-Kamiokande experiment to neutrino oscillation parameters using accelerator neutrinos</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-15959-8</link>
       <description />
@@ -121,35 +152,6 @@
       <author>et al.</author>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15959-8</guid>
-    </item><item>
-      <title>Systematic Search for Conformal Field Theories in Very Small Spaces</title>
-      <link>https://doi.org/10.1103/j8v5-kyd6</link>
-      <description>Ground states of 1+1d conformal field theories (CFTs) satisfy a local entropic condition called the vector fixed point equation. This condition is surprisingly well satisfied by ground states of quantum critical lattice models even at small system sizes. We perform a search in the space of states of very small systems (4 qubits and 4 qutrits) and examine the states that satisfy this condition. By reconstructing a local Hamiltonian from each state, we are able to identify many of these solutions with known CFTs; others are gapped fixed points or involve large relevant perturbations, and others are CFTs we have not yet identified. These ideas are also useful for identifying continuous quantum phase transitions in a given family of Hamiltonians and for identifying the nature of the critical theory in small systems.</description>
-      <source url="https://doi.org/10.1103/j8v5-kyd6">Physical Review Letters</source>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/j8v5-kyd6</guid>
-    </item><item>
-      <title>Factorization beyond Coherence</title>
-      <link>https://doi.org/10.1103/q3m4-bcpl</link>
-      <description>We propose a novel factorization theorem for N-jettiness at hadron colliders, which incorporates coherence-violating effects induced by Glauber gluons and several new momentum modes. Their interplay generates coherence-violating logarithms starting at four-loop (N≥1) or five-loop order (N=0). We calculate the anomalous dimensions required for the resummation of coherence-violating logarithms and establish a general framework for the systematic treatment of coherence violation. Our findings imply that most existing factorization formulas for global LHC observables must be revised.</description>
-      <source url="https://doi.org/10.1103/q3m4-bcpl">Physical Review Letters</source>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/q3m4-bcpl</guid>
-    </item><item>
-      <title>Probing solar symmetrons with direct detection</title>
-      <link>https://doi.org/10.1103/89fw-fqqr</link>
-      <description>We provide the first investigation of the solar production of symmetrons, a well-motivated class of screened scalar fields with density dependent couplings to the Standard Model, and their subsequent absorption in underground direct detection experiments. We compute the flux of symmetrons produced through photon conversion in the magnetic field of the solar tachocline, and constrain the resulting luminosity to not exceed 3% of the observed solar output. Even under the conservative assumption that production occurs only in the tachocline, this criterion yields robust astrophysical bounds on previously uncharted regions of symmetron parameter space, and predicts a keV-scale symmetron spectrum at Earth. We then derive the corresponding absorption signal in liquid xenon detectors, where symmetrons can interact with electrons through both conformal and disformal couplings. Using binned data from XENONnT, we obtain new direct-detection limits that are complementary to the solar luminosity co</description>
-      <source url="https://doi.org/10.1103/89fw-fqqr">Physical Review D</source>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/89fw-fqqr</guid>
-    </item><item>
-      <title>Black hole scalar sirens in the Milky Way</title>
-      <link>https://doi.org/10.1103/ctc7-421t</link>
-      <description>Hypothetical light scalar particles trigger the superradiant instability around spinning black holes (BHs), causing clouds of scalars to grow around the BH. In the presence of sufficiently strong particle self-interactions (characterized by the decay constant f), scalars are ejected from BH orbits, resulting in coherent, nonrelativistic emissions that continuously carry away the BH’s angular momentum. Parameters exist for which cloud growth is much faster, and scalar depletion is much slower, than the age of the Galaxy. This defines a distinct class of astrophysical sources of scalars, which we call BH scalar sirens; BHs that persistently emit scalars effectively forever. We compute the scalar background from the expected population of NBH∼108 isolated stellar-mass BHs in the Milky Way, which are sirens for scalars in the mass range 10−13−10−11 eV and f≲1014−109 GeV. This provides a detection target independent of early-universe scalar production or cosmological initial conditions. The</description>
-      <source url="https://doi.org/10.1103/ctc7-421t">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ctc7-421t</guid>
     </item>
   </channel>
 </rss>
