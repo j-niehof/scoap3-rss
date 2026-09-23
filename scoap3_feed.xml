@@ -5,8 +5,56 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:36:46 +0000</lastBuildDate>
     <item>
+      <title>Characterization of spurious-electron signals in the double-phase argon TPC of the DarkSide-50 experiment</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16193-y</link>
+      <description>Spurious-electron signals in dual-phase noble-liquid time projection chambers have been observed in both xenon and argon Time Projection Chambers (TPCs). This paper presents the first comprehensive study of spurious electrons in argon, using data collected by the DarkSide-50 experiment at the INFN Laboratori Nazionali del Gran Sasso (LNGS). Understanding these events is a key factor in improving the sensitivity of low-mass dark matter searches exploiting ionization signals in dual-phase noble liquid TPCs. We find that a significant fraction of spurious-electron events, ranging from 30 to 70% across the experiment’s lifetime, are caused by electrons captured from impurities and later released with delay time constants on the orders of 5 ms and 50 ms. The rate of spurious-electron events is found to correlate with the operational condition of the purification system and the total event rate in the detector. Finally, we present evidence that multi-electron spurious electron events may ori</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16193-y">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16193-y</guid>
+    </item><item>
+      <title>Characterization of spurious-electron signals in the double-phase argon TPC of the DarkSide-50 experiment</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16193-y</link>
+      <description>Spurious-electron signals in dual-phase noble-liquid time projection chambers have been observed in both xenon and argon Time Projection Chambers (TPCs). This paper presents the first comprehensive study of spurious electrons in argon, using data collected by the DarkSide-50 experiment at the INFN Laboratori Nazionali del Gran Sasso (LNGS). Understanding these events is a key factor in improving the sensitivity of low-mass dark matter searches exploiting ionization signals in dual-phase noble liquid TPCs. We find that a significant fraction of spurious-electron events, ranging from 30 to 70% across the experiment’s lifetime, are caused by electrons captured from impurities and later released with delay time constants on the orders of 5 ms and 50 ms. The rate of spurious-electron events is found to correlate with the operational condition of the purification system and the total event rate in the detector. Finally, we present evidence that multi-electron spurious electron events may ori</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16193-y">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16193-y</guid>
+    </item><item>
+      <title>Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/qydl-rlp7</link>
+      <description>A search is presented for the production of two additional Higgs bosons from an off-shell Z boson, where both additional particles decay to τ lepton pairs. The search is performed with a data sample collected with the CMS detector from proton-proton collisions at the LHC at s=13 TeV, corresponding to an integrated luminosity of 138 fb−1. No deviation from the standard model background is observed. Exclusion limits are set on the type-X two-Higgs-doublet model alignment scenario. These results exclude previously unexplored regions of parameter space and provide constraints complementary to those from earlier searches.</description>
+      <source url="https://doi.org/10.1103/qydl-rlp7">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/qydl-rlp7</guid>
+    </item><item>
+      <title>Search for Electroweakinos in Compressed-Spectrum Scenarios with Low-Momentum Isolated Tracks in Proton-Proton Collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/g4ym-rzkt</link>
+      <description>A search for supersymmetric electroweakinos is performed using events with a low-momentum (soft) isolated track and large missing transverse momentum, targeting nearly mass-degenerate higgsinolike charginos and neutralinos. For mass splittings of 0.3–1 GeV, the chargino decays to the lightest neutralino and a low-momentum pion, which can produce a soft, potentially displaced track. A parametrized neural network separates signal from background using kinematic and impact parameter information. The analysis uses 138 fb−1 of proton-proton collision data at a center-of-mass energy of 13 TeV recorded with the CMS detector. No significant excess above the standard model expectation is observed. At 95% confidence level, the considered higgsino model is excluded for mass splittings in the range 0.28–1.15 GeV and for chargino masses up to 185 GeV, setting stringent constraints on natural supersymmetry scenarios.</description>
+      <source url="https://doi.org/10.1103/g4ym-rzkt">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/g4ym-rzkt</guid>
+    </item><item>
+      <title>Axion hair and pulsar electrodynamics: Modeling, discharge dynamics, and particle-in-cell simulations</title>
+      <link>https://doi.org/10.1103/2pdn-3n31</link>
+      <description>In a companion paper, we demonstrated that static axion field gradients sourced by dense nuclear matter (axion hair) can dominate the near-field electrodynamics of old rotation-powered pulsars, leading to new constraints on light QCD axions and on CP-violating axion-nucleon interactions. This article provides the extended theoretical and numerical framework underlying those results. We begin by providing a detailed description of the sourcing of axion hair from dense nuclear matter, computing self-consistent field profiles for each interaction across the relevant parameter space. We then study the modification to the electrodynamics induced in the polar gap region by these axion gradients; this is done at the analytic level by studying the modification induced by axion field gradients on the effective discharge parameter (computed in the force-free limit of the split monopole magnetic field configuration, and looking at leading deviations from the force-free limit for dipolar field con</description>
+      <source url="https://doi.org/10.1103/2pdn-3n31">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2pdn-3n31</guid>
+    </item><item>
+      <title>Search for Electroweakinos in Compressed-Spectrum Scenarios with Low-Momentum Isolated Tracks in Proton-Proton Collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/g4ym-rzkt</link>
+      <description>A search for supersymmetric electroweakinos is performed using events with a low-momentum (soft) isolated track and large missing transverse momentum, targeting nearly mass-degenerate higgsinolike charginos and neutralinos. For mass splittings of 0.3–1 GeV, the chargino decays to the lightest neutralino and a low-momentum pion, which can produce a soft, potentially displaced track. A parametrized neural network separates signal from background using kinematic and impact parameter information. The analysis uses 138 fb−1 of proton-proton collision data at a center-of-mass energy of 13 TeV recorded with the CMS detector. No significant excess above the standard model expectation is observed. At 95% confidence level, the considered higgsino model is excluded for mass splittings in the range 0.28–1.15 GeV and for chargino masses up to 185 GeV, setting stringent constraints on natural supersymmetry scenarios.</description>
+      <source url="https://doi.org/10.1103/g4ym-rzkt">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/g4ym-rzkt</guid>
+    </item><item>
       <title>Multi-kinks and composite oscillons in a commensurable and non degenerate double sine-Gordon model</title>
       <link>https://doi.org/10.1007/JHEP09(2026)218</link>
       <description>In this paper, we introduce a commensurable and non-degenerate double sine-Gordon model, in which a partial breaking of vacuum degeneracy provides a mechanism for the emergence of static multi-kinks. These multi-kinks K are stable field configurations with internal structure, consisting of n localized energy packets with well-defined separations. The properties of the multi-kinks are thoroughly analyzed, including the novel phenomenology that arises during their collisions. In particular, we observe the emergence of long-lived composite oscillons that reflect the original structure of the multi-kinks. The sub-kink’s positions and their vibration modes provide collective coordinates that are used to construct a phenomenological model, which offers a good qualitative explanation of the observed oscillon properties. Linear radiation effects are consistently incorporated into the model, revealing their important role in the synchronization of the oscillon’s vibrational components. In contr</description>
@@ -20,6 +68,20 @@
       <source url="https://doi.org/10.1007/JHEP09(2026)219">Journal of High Energy Physics</source>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)219</guid>
+    </item><item>
+      <title>Supersymmetry and nonreciprocity</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)217</link>
+      <description>Nonreciprocal theories are used to model a broad array of non-equilibrium phenomena found in nature ranging from biological systems like networks of neurons to the behavior of overflowing water fountains. This includes systems broadly classified as active matter systems. We show that the stochastic theories which describe nonreciprocal interactions can be mapped into quantum field theories described by a supersymmetric action with a single supercharge. The theories are generically non-Hermitian. This generalizes the past work of Parisi and Sourlas on reciprocal theories, which model systems with interactions derived from potentials.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)217">Journal of High Energy Physics</source>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)217</guid>
+    </item><item>
+      <title>The fate of ultra-collinear modes in on-shell massive Sudakov form factors</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)221</link>
+      <description>Individual multi-loop diagrams for the massive Sudakov form factor contain an infinite tower of ultra-collinear momentum regions. We show that, for the on-shell form factor in QCD, these contributions cancel to all orders as a consequence of gauge invariance, so the leading-power SCET factorization formula is unchanged. Using the η rapidity regulator, we compute the soft function and the massive jet function of the quark and gluon Sudakov form factors through two loops and resum logarithms at NNLL accuracy, including hierarchies of fermion masses. We also show that with a gauge-boson mass regulator, the infinite tower of modes is truncated and ultra-collinear and ultra-soft modes become manifest and factorize explicitly, providing a direct EFT derivation of the regulated infrared dependence.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)221">Journal of High Energy Physics</source>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)221</guid>
     </item><item>
       <title>Construction and characterisation of the DarkSide-20k veto silicon photo-multiplier tiles</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16217-7</link>
@@ -80,33 +142,12 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/dk2b-rgkf</guid>
     </item><item>
-      <title>Probing EFT breakdown in the tails of W^+ W^-observables</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16081-5</link>
-      <description>We test clipping effective field theory (EFT) simulations as a method of ensuring EFT validity. The procedure imposes that, at the level of the simulation, the invariant mass of a W^+W^-pair M_WW is less than the new physics scale Lambda . We compare this to two other methods, comparison bin by bin of dimension-6 and dimension-8 squared contributions and implementing a cut on data. We find that setting M_WW &lt; Lambda is not strict enough to ensure that the hierarchy of EFT operators is respected for dimension-6 and dimension-8 contributions. We also show that, even when using a stricter cut on M_WW , due to different correlations between M_WW and M_eμ at different EFT orders, the bins in M_eμ (the invariant mass of the leptons originating from W decays) used in an EFT fit may not truly be in the regime of EFT validity when performing a dimension-6 fit with M_WW &lt; Lambda . We also explore the correlations of three transverse mass observables: M_T1, M_T2 and M_T3 , finding that M_T1 and M</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16081-5">European Physical Journal C</source>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16081-5</guid>
-    </item><item>
-      <title>Effective strings and particles interacting in 3D: the Ising model</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)201</link>
-      <description>We study how a fluctuating domain wall in three dimensions modifies bulk observables in a gapped phase. We introduce an effective interaction between the wall and the lightest bulk massive mode, and identify the regime in which this description is controlled: nearly on-shell bulk exchange with small momentum along the wall. In this regime, several observables are controlled by a renormalized dimensionless coupling λ, including the large-L correction to the wall free energy and the large-|x | tail of two-point functions in the presence of the wall. Other observables, such as one-point functions and two-point functions in the nearby-regime, retain non-universal dependence on operator data and on the bulk spectral density. We test the universal kinematic consequences of wall fluctuations, and find good agreement with the predicted rough-wall broadening and nearby Gaussian behavior in Monte Carlo simulations of the 3D Ising model with anti-periodic boundary conditions.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)201">Journal of High Energy Physics</source>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)201</guid>
-    </item><item>
-      <title>Entanglement membrane in the Brownian SYK chain</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)207</link>
-      <description>There is mounting evidence that entanglement dynamics in chaotic many-body quantum systems in the limit of large subsystems and long times is described by an entanglement membrane effective theory. In this paper, we derive the membrane description in a solvable chaotic large-N model, the Brownian SYK chain. This model has a collective field description in terms of fermion bilinears connecting different folds of the multifold Schwinger-Keldysh path integral used to compute Rényi entropies. The entanglement membrane is a traveling wave solution of the saddle point equations governing these collective fields. The entanglement membrane is characterised by a velocity v and a membrane tension mathcalE(v) that we calculate. We find that the membrane has finite width for v v , the membrane splits into two wave fronts, each moving with the butterfly velocity. Our results provide a new viewpoint on the entanglement membrane and uncover new connections between quantum information dynamics and scr</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)207">Journal of High Energy Physics</source>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)207</guid>
-    </item><item>
-      <title>Calabi-Yau threefolds from vex triangulations</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)202</link>
-      <description>We study the birational geometry (i.e., Kähler moduli space) of Calabi-Yau (CY) threefold hypersurfaces in toric varieties arising from four-dimensional reflexive polytopes. In particular, it has been observed that the birational classes of these geometries are not exhausted by toric hypersurfaces arising from fine, regular, star triangulations (FRSTs). We begin by introducing a classification problem: enumeration of birational classes of toric varieties, which is equivalent to enumeration of certain triangulations/fans. We consider this problem from the complementary perspectives of triangulation theory and toric geometry, reviewing both theories in detail; this culminates in an explanation of how to generate all fine regular triangulations of a vector configuration (i.e., fine regular simplicial fans), which we implement in a Python package regfans [1]. We then apply this theory to the Kreuzer-Skarke (KS) database, where we encounter both FRSTs and vex triangulations. We study the no</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)202">Journal of High Energy Physics</source>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)202</guid>
+      <title>The pre-geometric origin of geometric trinity of gravity</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16359-8</link>
+      <description>The so-called geometric trinity of gravity is based on three distinct geometric features of spacetime, i.e. curvature, torsion and non-metricity, which give rise to equivalent dynamics for general relativity (GR), teleparallel equivalent of general relativity (TEGR) and symmetric teleparallel equivalent of general relativity (STEGR). Pre-geometric gravity, on the other hand, offers a unifying framework from which all metric-affine theories can emerge. Starting from a gauge formulation à la Yang–Mills with a Higgs-like field, a mechanism of spontaneous symmetry breaking can give rise to an effective metric as well as to the classical dynamics of the gravitational field. In particular, the emergence of gravity in the spontaneously broken phase is shown to be consistent with all the different formulations of the geometric trinity of gravity, in terms both of actions and of gauge choices for the affine connection. This general result is achieved by deriving and analysing suitable expressio</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16359-8">European Physical Journal C</source>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16359-8</guid>
     </item><item>
       <title>One-loop renormalization of quark TMD in the light-cone gauge: CSS evolution</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16305-8</link>
@@ -114,44 +155,6 @@
       <source url="https://doi.org/10.1140/epjc/s10052-026-16305-8">European Physical Journal C</source>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16305-8</guid>
-    </item><item>
-      <title>One-loop renormalization of quark TMD in the light-cone gauge: CSS evolution</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16305-8</link>
-      <description>We calculate the one-loop corrections to the quark TMD (focusing on the divergences) in the light-cone gauge using the background field formalism, testing different prescriptions for the extra singularity present in the light-cone gauge propagator. We use the pure rapidity regulator for rapidity divergences. The Collins-Soper-Sterman (CSS) evolution equations are indeed obtained from the one loop renormalization of the quark TMD with all the considered prescriptions. In this setup, in the case of the Mandelstam-Leibbrandt (ML) prescription, the double log contribution to the CSS resummation is found to come from the ghost-like zero-mode brought by the ML prescription, in the diagrams with a gluon propagator ending on the transverse part of the gauge link at infinity. By contrast, when using any prescription defined in terms of a single light-cone vector, such as the Principal Value prescription or retarded or advanced prescriptions, the CSS double log contribution is found to come enti</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16305-8">European Physical Journal C</source>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16305-8</guid>
-    </item><item>
-      <title>Updated flexible global parametrization of generalized parton distributions from elastic and deep inelastic inclusive scattering data</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15872-0</link>
-      <description>An updated flexible parametrization of the generalized parton distributions in the quark, antiquark and gluon sectors is presented using constraints from high precision electron nucleon deep inelastic scattering data, from the u and d flavor separated nucleon electromagnetic elastic form factors, and from the gluon form factors recently calculated in lattice QCD. The generalized parton distributions in the vector sector are H and E. We rigorously constrain the partonic components, H_u_v , H_d_v , H_baru , H_bard , H_bars and H_g , and the analogous quantities for E, with proper uncertainty quantification. These distributions obey leading order perturbative QCD evolution equations in α _S . Parametric forms at the initial scale, Q_o^2 = 0.58 textrmGeV^2 , for both quarks and gluon distributions are presented as a function of the relevant kinematic variables, namely, the parton momentum fraction, x, the skewness, xi , and the invariant, t. We also present the Compton form factors enterin</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15872-0">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15872-0</guid>
-    </item><item>
-      <title>Resolving the structure of bound states using lattice quantum field theories</title>
-      <link>https://doi.org/10.1103/nhbl-t2hv</link>
-      <description>This work presents the first calculation of a two-to-two particle matrix element of a local current within a lattice-regularized quantum field theory. This exploratory calculation is performed using a leading-order pionless effective field theory of two nucleons in a finite 3D spatial volume, where the Hamiltonian can be diagonalized exactly for moderate volumes. By considering a range of couplings where the theory supports a deuteronlike bound state, we determine the finite-volume spectra and matrix elements of the conserved local vector current. Using the Lüscher formalism, we constrain the infinite-volume, purely hadronic amplitude for this theory. Using previously derived formalism, we then map the finite-volume matrix elements to scattering amplitudes describing a reaction coupling two-particle states via a current insertion, 2+J→2. We then use a recently derived relation between this class of amplitudes and the bound-state elastic form factor to directly constrain the infinite-vo</description>
-      <source url="https://doi.org/10.1103/nhbl-t2hv">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nhbl-t2hv</guid>
-    </item><item>
-      <title>Flat space fermionic wave-function coefficients</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)204</link>
-      <description>In this work we analyze the analytic structure of tree-level flat-space wavefunction coefficients (WFCs), with particular attention to fermionic operators, and derive cutting rules for internal-fermion lines. Building on these results, we set up an iterative procedure that, starting from the flat-space S-matrix, reconstructs the 3-and 4-point WFCs with the correct partial-and total-energy poles and satisfying the requisite cutting rules. Consequently, the “four-particle test” for flat-space WFCs imposes no additional constraints beyond the consistency of the flat-space S-matrix.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)204">Journal of High Energy Physics</source>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)204</guid>
-    </item><item>
-      <title>Publisher Correction: Sensitivity of the Hyper-Kamiokande experiment to neutrino oscillation parameters using accelerator neutrinos</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15959-8</link>
-      <description />
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15959-8">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15959-8</guid>
     </item>
   </channel>
 </rss>
