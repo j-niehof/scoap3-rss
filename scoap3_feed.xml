@@ -5,15 +5,38 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:34:56 +0000</lastBuildDate>
     <item>
-      <title>Characterization of spurious-electron signals in the double-phase argon TPC of the DarkSide-50 experiment</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16193-y</link>
-      <description>Spurious-electron signals in dual-phase noble-liquid time projection chambers have been observed in both xenon and argon Time Projection Chambers (TPCs). This paper presents the first comprehensive study of spurious electrons in argon, using data collected by the DarkSide-50 experiment at the INFN Laboratori Nazionali del Gran Sasso (LNGS). Understanding these events is a key factor in improving the sensitivity of low-mass dark matter searches exploiting ionization signals in dual-phase noble liquid TPCs. We find that a significant fraction of spurious-electron events, ranging from 30 to 70% across the experiment’s lifetime, are caused by electrons captured from impurities and later released with delay time constants on the orders of 5 ms and 50 ms. The rate of spurious-electron events is found to correlate with the operational condition of the purification system and the total event rate in the detector. Finally, we present evidence that multi-electron spurious electron events may ori</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16193-y">European Physical Journal C</source>
+      <title>Braking Protons at the Electron-Ion Collider: From Invisible Meson Decay to New Physics Searches</title>
+      <link>https://doi.org/10.1103/991b-9jp2</link>
+      <description>We investigate the sensitivity of the Electron-Ion Collider (EIC) to invisible final states in coherent exclusive electroproduction. The characteristic signal is a forward proton with reduced energy and little additional detector activity. Using the excellent particle detection capabilities and kinematics reconstruction at the EIC, we argue that backgrounds can be strongly suppressed. While our analysis applies to various states, we specifically focus on vector and pseudoscalar particles: (i) neutral mesons [P=π0,η(′),V=ρ0,ω,ϕ], whose invisible standard model decays are extremely suppressed, and (ii) gluon-coupled axionlike particles (ALPs) decaying invisibly to a dark sector. With the baseline detector and a conservative residual-background estimate, the EIC can improve the sensitivity to invisible η, η′, ω, and ϕ decays by factors of about 4–40 and probe invisible ρ0 decays for the first time. With further background reduction and optimized detector performance, the projected sensiti</description>
+      <source url="https://doi.org/10.1103/991b-9jp2">Physical Review Letters</source>
       <author>et al.</author>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16193-y</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/991b-9jp2</guid>
+    </item><item>
+      <title>Exclusive coherent production of bosons in electron-proton collisions</title>
+      <link>https://doi.org/10.1103/h9zj-6n84</link>
+      <description>We study the exclusive electroproduction process e+p→e′+p′+X, with X a single-particle final state, in the forward-proton kinematics relevant for the future Electron-Ion Collider. We develop a unified 2→3 framework that provides the full event kinematics and incorporates pseudoscalar and vector mesons as well as axionlike particles and vector mediators such as dark photons. It is based on phenomenological amplitudes constrained by existing photo-and electroproduction data and constructed to admit systematic refinement as new measurements become available. To benchmark the framework, we compare its predictions to flux-factorized descriptions based on the equivalent-photon approximation, demonstrating close agreement for total rates and selected single-differential distributions in the near-real regime while highlighting the role of finite-Q2 correlations for multidifferential observables at larger photon virtualities. As a case study, we perform a detailed kinematic analysis of the miss</description>
+      <source url="https://doi.org/10.1103/h9zj-6n84">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/h9zj-6n84</guid>
+    </item><item>
+      <title>Braking Protons at the Electron-Ion Collider: From Invisible Meson Decay to New Physics Searches</title>
+      <link>https://doi.org/10.1103/991b-9jp2</link>
+      <description>We investigate the sensitivity of the Electron-Ion Collider (EIC) to invisible final states in coherent exclusive electroproduction. The characteristic signal is a forward proton with reduced energy and little additional detector activity. Using the excellent particle detection capabilities and kinematics reconstruction at the EIC, we argue that backgrounds can be strongly suppressed. While our analysis applies to various states, we specifically focus on vector and pseudoscalar particles: (i) neutral mesons [P=π0,η(′),V=ρ0,ω,ϕ], whose invisible standard model decays are extremely suppressed, and (ii) gluon-coupled axionlike particles (ALPs) decaying invisibly to a dark sector. With the baseline detector and a conservative residual-background estimate, the EIC can improve the sensitivity to invisible η, η′, ω, and ϕ decays by factors of about 4–40 and probe invisible ρ0 decays for the first time. With further background reduction and optimized detector performance, the projected sensiti</description>
+      <source url="https://doi.org/10.1103/991b-9jp2">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/991b-9jp2</guid>
+    </item><item>
+      <title>Quark orbital angular momentum from chiral symmetry breaking in QCD</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.140980</link>
+      <description>The flavor-nonsinglet ( u−d) quark angular momentum (AM) in the proton is computed based on the effective spin-flavor dynamics emerging from chiral symmetry breaking by QCD instantons. The QCD AM operators are converted to effective spin-flavor operators expressing instanton-induced chiral interactions. A large negative orbital AM Lu−d arises from the interactions of the quarks with the chiral mean field in the proton in the large-Nc limit. It cancels part of the large positive spin AM Su−d and reduces the total AM Ju−d=Su−d+Lu−d, in agreement with lattice QCD calculations.</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.140980">Physics Letters B</source>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140980</guid>
     </item><item>
       <title>Characterization of spurious-electron signals in the double-phase argon TPC of the DarkSide-50 experiment</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16193-y</link>
@@ -23,13 +46,62 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16193-y</guid>
     </item><item>
-      <title>Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/qydl-rlp7</link>
-      <description>A search is presented for the production of two additional Higgs bosons from an off-shell Z boson, where both additional particles decay to τ lepton pairs. The search is performed with a data sample collected with the CMS detector from proton-proton collisions at the LHC at s=13 TeV, corresponding to an integrated luminosity of 138 fb−1. No deviation from the standard model background is observed. Exclusion limits are set on the type-X two-Higgs-doublet model alignment scenario. These results exclude previously unexplored regions of parameter space and provide constraints complementary to those from earlier searches.</description>
-      <source url="https://doi.org/10.1103/qydl-rlp7">Physical Review Letters</source>
+      <title>Mesogenesis through the ephemeral dark decay of B mesons</title>
+      <link>https://doi.org/10.1103/bf37-vb8h</link>
+      <description>Mesogenesis provides a path for generating the baryon asymmetry of the Universe, using only the CP violation furnished by the Standard Model in the decay of B mesons. While this is an intriguing possibility, it is largely constrained by the data on B meson branching fractions into baryons and missing energy carried into the dark sector. We point out that it is possible to make this branching fraction dominant only in the early Universe, through an ultralight scalar coupled to the dark sector and the Standard Model leptons. A scenario is examined where the thermal density of muons in the early Universe temporarily lowers the mass of a dark fermion, allowing for efficient B meson decays. This “dark” decay channel is shut off later when the muon number density falls, making the scenario compatible with flavor data. Our model can be consistent with the LHC constraints on color-charged heavy bosons required to implement mesogenesis; such states may be discovered in the future runs as their </description>
+      <source url="https://doi.org/10.1103/bf37-vb8h">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/bf37-vb8h</guid>
+    </item><item>
+      <title>Mesogenesis through the ephemeral dark decay of B mesons</title>
+      <link>https://doi.org/10.1103/bf37-vb8h</link>
+      <description>Mesogenesis provides a path for generating the baryon asymmetry of the Universe, using only the CP violation furnished by the Standard Model in the decay of B mesons. While this is an intriguing possibility, it is largely constrained by the data on B meson branching fractions into baryons and missing energy carried into the dark sector. We point out that it is possible to make this branching fraction dominant only in the early Universe, through an ultralight scalar coupled to the dark sector and the Standard Model leptons. A scenario is examined where the thermal density of muons in the early Universe temporarily lowers the mass of a dark fermion, allowing for efficient B meson decays. This “dark” decay channel is shut off later when the muon number density falls, making the scenario compatible with flavor data. Our model can be consistent with the LHC constraints on color-charged heavy bosons required to implement mesogenesis; such states may be discovered in the future runs as their </description>
+      <source url="https://doi.org/10.1103/bf37-vb8h">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/bf37-vb8h</guid>
+    </item><item>
+      <title>First limits on axion dark matter from a DALI prototype</title>
+      <link>https://doi.org/10.1103/q5yq-jj9m</link>
+      <description>We report a pilot dark matter search with a cryogenic, magnetized, scaled-down DALI prototype. An analysis of 36 hours of data reveals no statistically significant excess attributable to axionlike particles. We therefore set new exclusion limits in the 6.88691–6.91792 GHz band, reaching an axion-photon coupling sensitivity of gaγγ≲9.7×10−12 GeV−1 at 28.54 μeV. These results consolidate the DALI approach and motivate a next-stage haloscope to explore a broader mass range with upgraded instrumentation.</description>
+      <source url="https://doi.org/10.1103/q5yq-jj9m">Physical Review D</source>
       <author>et al.</author>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qydl-rlp7</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/q5yq-jj9m</guid>
+    </item><item>
+      <title>Cosmological limits on strong dark forces</title>
+      <link>https://doi.org/10.1103/pkkh-t861</link>
+      <description>We showcase cosmology’s ability to constrain long-range forces between dark matter particles. Specifically, we consider a fermionic dark matter interacting via a Yukawa-coupled light scalar, focusing on regimes where the dark forces are stronger than gravitational and yet unconstrained. We show that the dark sector dynamics, both at the background and perturbation levels, is far richer than what can be captured with just the static interparticle Yukawa potential. The background dynamics includes an attractor that funnels a wide range of initial conditions onto an evolution unique to each parameter space. In a large swath of parameter space beyond existing limits, the dark sector deviates drastically from cold dark matter in observable epochs. We rule out this parameter space using existing constraints on dark-sector equation of state and small-scale cosmic perturbations, thus setting the strongest constraints yet on dark matter self-interactions at length scales shorter than 100 kpc. I</description>
+      <source url="https://doi.org/10.1103/pkkh-t861">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pkkh-t861</guid>
+    </item><item>
+      <title>First estimation of model parameters for neutrino-induced nucleon knockout using simulation-based inference</title>
+      <link>https://doi.org/10.1103/tzhn-7tcq</link>
+      <description>To enable an accurate determination of oscillation parameters, accelerator-based neutrino experiments require detailed simulations of nuclear interaction physics in the GeV regime. While substantial effort from both theory and experiment is currently being invested to improve the fidelity of these simulations, their present deficiencies typically oblige experimental collaborations to resort to empirical tuning of simulation model parameters. As the precision requirements of the field continue to become more stringent, machine learning techniques may provide a powerful means of handling corresponding growth in the complexity of future neutrino interaction model tuning exercises. To study the suitability of simulation-based inference (SBI) for this physics application, in this paper we revisit a tuned configuration of the genie neutrino configuration generator that was originally developed by the MicroBooNE collaboration. Despite closely reproducing the adopted values of four physics par</description>
+      <source url="https://doi.org/10.1103/tzhn-7tcq">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tzhn-7tcq</guid>
+    </item><item>
+      <title>Mellin moments of pion and kaon unpolarized PDFs from nonlocal operators in lattice QCD</title>
+      <link>https://doi.org/10.1103/fw2x-3hl3</link>
+      <description>We present a first-principles lattice-QCD determination of Mellin moments of the unpolarized pion and kaon parton distribution functions using matrix elements of boosted mesons coupled to nonlocal operators containing a straight Wilson line. The calculation is performed on a single Nf=2+1+1 ensemble of maximally twisted-mass fermions with a clover term, with lattice volume 323×64, lattice spacing a=0.0934 fm, and pion mass mπ=260 MeV. Matrix elements are computed for hadron momenta P3=0, 0.41, 0.83, 1.25, 1.66, and 2.07 GeV and analyzed within the short-distance factorization framework. We investigate how the extracted moments depend on the truncation of the operator-product expansion, the coordinate-space fit window, and the perturbative accuracy of the Wilson coefficients, comparing next-to-leading-order and next-to-next-to-leading-order results. We also perform an RG-improved analysis as a consistency check of the perturbative treatment. Our final results are obtained from combined </description>
+      <source url="https://doi.org/10.1103/fw2x-3hl3">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/fw2x-3hl3</guid>
+    </item><item>
+      <title>Higher dimensional quantum Hall effect and the analog of W∞-algebra</title>
+      <link>https://doi.org/10.1103/l8nj-kpgg</link>
+      <description>We show that Abelian and non-Abelian gauge transformations are the analog of W∞ transformations for higher dimensional quantum Hall effect. The commutator anomaly and the extended algebra of such transformations on the edge modes of a droplet are obtained by purely topological arguments, basically utilizing the two-cocycle in the descent procedure for anomalies and using the fact that there is anomaly cancellation between the bulk and boundary actions. The method relies on the fact that bulk actions are easily constructed in general using the Dolbeault index theorem. The resulting algebras are shown to agree with explicit edge mode calculations for cases where they are available. We also comment on the similarities and differences in the nature of these transformations between two and higher dimensions.</description>
+      <source url="https://doi.org/10.1103/l8nj-kpgg">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/l8nj-kpgg</guid>
+    </item><item>
+      <title>Naturally small Dirac neutrino mass and B−L dark matter</title>
+      <link>https://doi.org/10.1103/386s-sj3r</link>
+      <description>In the conventional gauged B−L extension of the standard model, the B−L charge of the singlet scalar χ, responsible for the breaking of U(1)B−L symmetry, is taken to be 2, such that it can anchor type-I seesaw by giving Majorana masses to the right-handed neutrinos, νR. In this paper, we consider instead the cases χ∼3 or 4 under B−L, so that νR may not acquire any Majorana mass and neutrinos are Dirac fermions. We then consider a vectorlike fermion S with two units of B−L charge, which becomes a good candidate for dark matter, either Dirac for χ∼3 or Majorana for χ∼4. In both cases, spontaneous B−L breaking can induce a strong first-order phase transition, producing stochastic gravitational waves (GW), which can be tested at GW experiments. Moreover, the presence of light νRs gives rise to an additional contribution to the effective number of relativistic degrees of freedom, ΔNeff, providing complementary constraints from current and upcoming CMB observations.</description>
+      <source url="https://doi.org/10.1103/386s-sj3r">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/386s-sj3r</guid>
     </item><item>
       <title>Search for Electroweakinos in Compressed-Spectrum Scenarios with Low-Momentum Isolated Tracks in Proton-Proton Collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/g4ym-rzkt</link>
@@ -55,34 +127,6 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/g4ym-rzkt</guid>
     </item><item>
-      <title>Multi-kinks and composite oscillons in a commensurable and non degenerate double sine-Gordon model</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)218</link>
-      <description>In this paper, we introduce a commensurable and non-degenerate double sine-Gordon model, in which a partial breaking of vacuum degeneracy provides a mechanism for the emergence of static multi-kinks. These multi-kinks K are stable field configurations with internal structure, consisting of n localized energy packets with well-defined separations. The properties of the multi-kinks are thoroughly analyzed, including the novel phenomenology that arises during their collisions. In particular, we observe the emergence of long-lived composite oscillons that reflect the original structure of the multi-kinks. The sub-kink’s positions and their vibration modes provide collective coordinates that are used to construct a phenomenological model, which offers a good qualitative explanation of the observed oscillon properties. Linear radiation effects are consistently incorporated into the model, revealing their important role in the synchronization of the oscillon’s vibrational components. In contr</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)218">Journal of High Energy Physics</source>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)218</guid>
-    </item><item>
-      <title>The decay rate of metastable cosmic strings beyond the thin-string approximation</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)219</link>
-      <description>In the context of grand unified theories, any cosmic strings present in the post-inflationary universe are likely to be metastable, with a decay rate set by the spontaneous creation of monopole pairs on the string. Determining this decay rate is crucial in understanding the phenomenology of the cosmic string network, including a potentially observable gravitational wave background. The bounce action governing this rate has so far only been determined using the thin string approximation or specific ansätze for the field profiles in the monopole formation process. Here we solve this problem using classical lattice simulations, relying only on the inherent symmetries of the problem. Our results indicate a suppression of the bounce action and hence a faster string decay compared to previous estimates.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)219">Journal of High Energy Physics</source>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)219</guid>
-    </item><item>
-      <title>Supersymmetry and nonreciprocity</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)217</link>
-      <description>Nonreciprocal theories are used to model a broad array of non-equilibrium phenomena found in nature ranging from biological systems like networks of neurons to the behavior of overflowing water fountains. This includes systems broadly classified as active matter systems. We show that the stochastic theories which describe nonreciprocal interactions can be mapped into quantum field theories described by a supersymmetric action with a single supercharge. The theories are generically non-Hermitian. This generalizes the past work of Parisi and Sourlas on reciprocal theories, which model systems with interactions derived from potentials.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)217">Journal of High Energy Physics</source>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)217</guid>
-    </item><item>
-      <title>The fate of ultra-collinear modes in on-shell massive Sudakov form factors</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)221</link>
-      <description>Individual multi-loop diagrams for the massive Sudakov form factor contain an infinite tower of ultra-collinear momentum regions. We show that, for the on-shell form factor in QCD, these contributions cancel to all orders as a consequence of gauge invariance, so the leading-power SCET factorization formula is unchanged. Using the η rapidity regulator, we compute the soft function and the massive jet function of the quark and gluon Sudakov form factors through two loops and resum logarithms at NNLL accuracy, including hierarchies of fermion masses. We also show that with a gauge-boson mass regulator, the infinite tower of modes is truncated and ultra-collinear and ultra-soft modes become manifest and factorize explicitly, providing a direct EFT derivation of the regulated infrared dependence.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)221">Journal of High Energy Physics</source>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)221</guid>
-    </item><item>
       <title>Construction and characterisation of the DarkSide-20k veto silicon photo-multiplier tiles</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16217-7</link>
       <description>Silicon photo-multipliers (SiPMs) are state-of-the-art sensors capable of detecting a single photoelectron under cryogenic conditions, with potentially lower radioactivity than widely used photomultiplier tubes. The DarkSide-20k experiment, designed to perform direct dark matter searches using liquid argon as the target material, employs SiPM technology to detect interactions in the active detector volumes, including the central dual-phase Time Projection Chamber and the Inner and Outer Veto volumes. The vetoes are designed to discriminate against radiogenic neutron and cosmic muon backgrounds associated with the dark matter search. This paper describes the completed production and test protocols for the “Veto Tiles” (called vTiles, arrays of 24 SiPMs integrated on a printed circuit board providing the power distribution and signal amplification); 16 vTiles are grouped into “Veto Photo-Detector Units” to instrument the Inner Veto volume. Each vTile underwent detailed testing at room an</description>
@@ -91,20 +135,13 @@
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16217-7</guid>
     </item><item>
-      <title>Lepton number violation at the LHC in radiative neutrino mass models with leptoquarks</title>
-      <link>https://doi.org/10.1103/vbbz-98kg</link>
-      <description>We investigate the prospects for observing lepton number violation (LNV) by two units, |ΔL|=2, at the LHC within the leptoquark variant of the Zee Model, where Majorana neutrino masses arise radiatively at one loop. The model features an SU(2)L doublet and singlet leptoquarks, whose interactions produce a distinctive same-sign dilepton plus jets signature, pp→ℓ±ℓ′±+jets. Taking into account current experimental constraints, we identify the dominant production channels for this LNV signal and perform a detailed collider analysis. We find that the HL-LHC can probe leptoquark masses up to mLQ∼1.5 TeV with this process. Observation of this signal would provide a direct test of LNV and would unambiguously establish the Majorana nature of neutrinos.</description>
-      <source url="https://doi.org/10.1103/vbbz-98kg">Physical Review D</source>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vbbz-98kg</guid>
-    </item><item>
-      <title>Measurements of differential charged-current cross sections on argon for electron neutrinos with final-state protons in MicroBooNE</title>
-      <link>https://doi.org/10.1103/lwrr-98vx</link>
-      <description>This work presents single-differential electron-neutrino charged-current cross sections on argon measured using the MicroBooNE detector at the Fermi National Accelerator Laboratory. The analysis uses data recorded when the Neutrinos at the Main Injector beam was operating in both neutrino and antineutrino modes, with exposures of 2×1020 and 5×1020 protons on target, respectively. A selection algorithm targeting electron-neutrino charged-current interactions with at least one proton, one electron, and no pions in the final topology is used to measure differential cross sections as a function of outgoing electron energy, total visible energy, and the cosine of the opening angle between the electron and the most energetic proton. The interaction rate as a function of proton multiplicity is also reported. The total cross section is measured as [4.1±0.3 (stat)±1.1 (syst)]×10−39 cm2/nucleon. The unfolded cross-section measurements are compared to predictions from neutrino event generators co</description>
-      <source url="https://doi.org/10.1103/lwrr-98vx">Physical Review D</source>
+      <title>Performance of the Eos detector with water</title>
+      <link>https://doi.org/10.1103/7qkt-mnqz</link>
+      <description>In this manuscript we present the first results from Eos, a four tonne optical detector located at the University of California, Berkeley. The primary goal of Eos is to demonstrate the performance capabilities of scintillation-based, “hybrid” detector technology for future neutrino detectors. The data presented were collected while both the inner target vessel and the outer buffer vessel were filled with water. The water target acts as a well-understood medium that produces only Cherenkov light, which can be used to calibrate and develop the detector model and reconstruction algorithms prior to the deployment of scintillating material. Using deployed optical and radioactive calibration sources, a series of detailed detector calibrations are performed. These enable a suite of tests for various reconstruction algorithms. Simulations that use calibrated models are compared with the data across a variety of different types of calibration sources, source positions, and rotations.</description>
+      <source url="https://doi.org/10.1103/7qkt-mnqz">Physical Review D</source>
       <author>et al.</author>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/lwrr-98vx</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/7qkt-mnqz</guid>
     </item><item>
       <title>Energy-energy correlators inside single inclusive jets in heavy-ion collisions with the CoLBT-hydro model</title>
       <link>https://doi.org/10.1103/zpvs-4x68</link>
@@ -120,41 +157,6 @@
       <author>et al.</author>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/7qkt-mnqz</guid>
-    </item><item>
-      <title>Unveiling the Collins-Soper kernel in inclusive deep inelastic scattering at threshold</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.140970</link>
-      <description>We revisit the factorization of inclusive deep inelastic scattering (DIS) near the kinematic threshold in terms of collinear, off-light-cone operators. At threshold, particle production develops around two opposite near-light-cone directions in close analogy with transverse-momentum-dependent semi-inclusive DIS. The Collins-Soper kernel then emerges as the universal function governing the rapidity evolution of the relevant parton correlators in both cases. Our new framework also clarifies outstanding issues related to soft radiation and rapidity divergences at threshold.</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.140970">Physics Letters B</source>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140970</guid>
-    </item><item>
-      <title>Curvature regularization and dynamical vacuum structure in pseudo-complex general relativity</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16331-6</link>
-      <description>Whether classical spacetime remains well-defined at arbitrarily high curvature is a central question. In general relativity, singularities signal the breakdown of the classical description, motivating modifications of spacetime’s short-distance structure. Pseudo-complex general relativity (pcGR) extends spacetime geometry to pseudo-complex coordinates, naturally introducing two metric sectors, the physical metric gμ ν and an auxiliary field fμ ν . The magnitude of the pseudo-imaginary component defines the invariant acceleration scale a₀ , a direct consequence of the pseudo-complex structure. The simultaneity condition, requiring both idempotent sectors to satisfy the pseudo-complex Einstein equations independently, fixes the auxiliary field algebraically, with no new propagating degrees of freedom, and sets a lower bound on the lapse that regularizes curvature. The regularization is achieved through the combined effect of the lapse-gap condition e^ν (r) &gt; a₀ , which ensures the radial</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16331-6">European Physical Journal C</source>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16331-6</guid>
-    </item><item>
-      <title>Brane networks and the cobordism conjecture</title>
-      <link>https://doi.org/10.1103/dk2b-rgkf</link>
-      <description>The absence of global symmetries in a quantum gravity theory often requires the introduction of (new) symmetry-breaking defects, which appear as singular objects in the low-energy description. This has been formalized in the cobordism conjecture, which further relates the asymptotics of these defects to nontrivial deformation classes of the effective theory. In this work we investigate the symmetry-breaking defects for theories with a discrete symmetry G encoded in the bordism groups Ω2ξ(BG) and, in particular, its subclass described in terms of the homology groups H2(BG;Z). Contrary to expectations, we find that the defects are naturally described in terms of networks of codimension-two objects rather than isolated objects in codimension three. While in special situations linking configurations of defects are sufficient, our strategy generically predicts the existence of junctions, thus suggesting an extended applicability of the cobordism conjecture. We demonstrate the viability of t</description>
-      <source url="https://doi.org/10.1103/dk2b-rgkf">Physical Review D</source>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dk2b-rgkf</guid>
-    </item><item>
-      <title>The pre-geometric origin of geometric trinity of gravity</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16359-8</link>
-      <description>The so-called geometric trinity of gravity is based on three distinct geometric features of spacetime, i.e. curvature, torsion and non-metricity, which give rise to equivalent dynamics for general relativity (GR), teleparallel equivalent of general relativity (TEGR) and symmetric teleparallel equivalent of general relativity (STEGR). Pre-geometric gravity, on the other hand, offers a unifying framework from which all metric-affine theories can emerge. Starting from a gauge formulation à la Yang–Mills with a Higgs-like field, a mechanism of spontaneous symmetry breaking can give rise to an effective metric as well as to the classical dynamics of the gravitational field. In particular, the emergence of gravity in the spontaneously broken phase is shown to be consistent with all the different formulations of the geometric trinity of gravity, in terms both of actions and of gauge choices for the affine connection. This general result is achieved by deriving and analysing suitable expressio</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16359-8">European Physical Journal C</source>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16359-8</guid>
-    </item><item>
-      <title>One-loop renormalization of quark TMD in the light-cone gauge: CSS evolution</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16305-8</link>
-      <description>We calculate the one-loop corrections to the quark TMD (focusing on the divergences) in the light-cone gauge using the background field formalism, testing different prescriptions for the extra singularity present in the light-cone gauge propagator. We use the pure rapidity regulator for rapidity divergences. The Collins-Soper-Sterman (CSS) evolution equations are indeed obtained from the one loop renormalization of the quark TMD with all the considered prescriptions. In this setup, in the case of the Mandelstam-Leibbrandt (ML) prescription, the double log contribution to the CSS resummation is found to come from the ghost-like zero-mode brought by the ML prescription, in the diagrams with a gluon propagator ending on the transverse part of the gauge link at infinity. By contrast, when using any prescription defined in terms of a single light-cone vector, such as the Principal Value prescription or retarded or advanced prescriptions, the CSS double log contribution is found to come enti</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16305-8">European Physical Journal C</source>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16305-8</guid>
     </item>
   </channel>
 </rss>
