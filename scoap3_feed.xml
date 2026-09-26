@@ -5,8 +5,37 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 14:55:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:00:40 +0000</lastBuildDate>
     <item>
+      <title>Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at s=13 TeV</title>
+      <link>https://doi.org/10.1103/27s7-2frt</link>
+      <description>This Letter presents a combination of searches for Higgs boson pair (HH) production performed by the ATLAS and CMS Collaborations using proton-proton collision datasets recorded at s=13 TeV during the Large Hadron Collider Run 2, corresponding to integrated luminosities ranging between 126 and 140 fb−1. The upper limit at the 95% confidence level on the total HH signal strength, defined as the ratio of the measured cross section to the standard model (SM) prediction, corresponds to 2.5, with an expected value of 1.7 (2.8) assuming the absence (presence) of the SM HH signal. The strength of the HH signal is measured to be 0.8−0.7+0.9 relative to the SM prediction. The observed significance is found to be 1.1 standard deviations whereas 1.3 are expected for the SM HH signal. Constraints are set on the Higgs boson trilinear self-coupling and on the couplings of two Higgs bosons to two vector bosons, both normalized to the SM predictions and denoted as κλ and κ2V, respectively. The observe</description>
+      <source url="https://doi.org/10.1103/27s7-2frt">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/27s7-2frt</guid>
+    </item><item>
+      <title>Non-Gaussian hydrodynamic fluctuations in an expanding relativistic fluid</title>
+      <link>https://doi.org/10.1103/hzvz-yfg1</link>
+      <description>We consider nonequilibrium evolution of non-Gaussian fluctuations in a hydrodynamic system undergoing a boost-invariant expansion described by Bjorken flow. We derive the evolution equations for two-and three-point velocity correlators using the effective field-theory framework and present analytical solutions for them. We show that the average Landau frame is better suited for studying non-Gaussian fluctuations of velocity when relativistic effects are important. In the Bjorken background, the average Landau frame corresponds to the density frame. We demonstrate that the three-point correlators depend nonlinearly on the nonequilibrium dynamics of the two-point functions and exhibit nontrivial effects such as memory. The importance of these effects in the context of the search for the QCD critical point via fluctuations is discussed.</description>
+      <source url="https://doi.org/10.1103/hzvz-yfg1">Physical Review C</source>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hzvz-yfg1</guid>
+    </item><item>
+      <title>“It from Bit”: the Hartle-Hawking state and quantum mechanics for de Sitter observers</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)252</link>
+      <description>The one-state statement for closed universes has sparked considerable discussion. In this paper, we examine its physical meaning in the context of the Hartle-Hawking state and de Sitter space. We argue that the one-state property of closed universes is fully compatible with the finite-dimensional quantum mechanics experienced by observers inside de Sitter space, and that this compatibility requires neither mixing of α-sectors nor any modification of the rules of the gravitational path integral. The apparent tension is resolved by sharply distinguishing the baby-universe Hilbert space (the space of closed universes viewed from the outside) from the bulk Hilbert space that governs quantum mechanics for an observer inside a single de Sitter universe.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)252">Journal of High Energy Physics</source>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)252</guid>
+    </item><item>
+      <title>“It from Bit”: the Hartle-Hawking state and quantum mechanics for de Sitter observers</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)252</link>
+      <description>The one-state statement for closed universes has sparked considerable discussion. In this paper, we examine its physical meaning in the context of the Hartle-Hawking state and de Sitter space. We argue that the one-state property of closed universes is fully compatible with the finite-dimensional quantum mechanics experienced by observers inside de Sitter space, and that this compatibility requires neither mixing of α-sectors nor any modification of the rules of the gravitational path integral. The apparent tension is resolved by sharply distinguishing the baby-universe Hilbert space (the space of closed universes viewed from the outside) from the bulk Hilbert space that governs quantum mechanics for an observer inside a single de Sitter universe.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)252">Journal of High Energy Physics</source>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)252</guid>
+    </item><item>
       <title>Precision Studies and Searches for CP Asymmetries in the Inclusive Decay Λc+→ΛX</title>
       <link>https://doi.org/10.1103/cxm9-mr48</link>
       <description>Based on e+e− annihilation data collected with the BESIII detector at center-of-mass energies from 4.600 to 4.699 GeV, corresponding to an integrated luminosity of 4.5 fb−1, we present the first measurement of the longitudinal polarization of Λ hyperon produced in the inclusive decay Λc+→ΛX, where X denotes any allowed final states. The polarizations are determined to be PΛ=−0.393±0.055stat±0.020syst and PΛ¯=0.288±0.056stat±0.017syst. A search for CP violation is performed using an asymmetry constructed from the Λ polarization and the Λ→pπ− decay asymmetry parameter, and ACPpol=0.15±0.12stat±0.03syst was obtained. Furthermore, an updated measurement of the absolute branching fraction is reported as B(Λc+→ΛX)=(38.07±0.38stat±0.49syst)%, representing a fourfold precision improvement over the previous BESIII measurement. A search for CP violation in the decay rate yields ACPdir=(1.5±1.0stat±1.0syst)%. No evidence for CP violation is observed in this inclusive charm baryon decay. The subsc</description>
@@ -14,22 +43,6 @@
       <author>et al.</author>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/cxm9-mr48</guid>
-    </item><item>
-      <title>Measurements of the production of W ^± and Z ^0 bosons in pp collisions at sqrts = 13 TeV</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15943-2</link>
-      <description>Measurements of the production of the W ^± and Z ^0 bosons at midrapidity in pp collisions at sqrts = 13 TeV with ALICE at the Large Hadron Collider (LHC) are presented. The W ^± and Z ^0 bosons are detected via their (di)electronic decay channels, with the electron reconstruction performed in the midrapidity region (|y|&lt; 0.6). The p_text T-integrated and p_textrmT-differential production cross sections of electrons from W ^± decays in the interval 30&lt;p_text T&lt; 60 GeV/c, as well as the p_text T-integrated production cross section of Z ^0 bosons, are measured. The results are described by perturbative QCD calculations using different sets of parton distribution functions. The production of W ^± bosons and azimuthally correlated associated hadrons is also measured as a function of the charged-particle multiplicity for the first time at the LHC. The former increases approximately linearly with the charged-particle multiplicity, while for the latter, there are hints of a faster-than-linear</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15943-2">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15943-2</guid>
-    </item><item>
-      <title>Braking Protons at the Electron-Ion Collider: From Invisible Meson Decay to New Physics Searches</title>
-      <link>https://doi.org/10.1103/991b-9jp2</link>
-      <description>We investigate the sensitivity of the Electron-Ion Collider (EIC) to invisible final states in coherent exclusive electroproduction. The characteristic signal is a forward proton with reduced energy and little additional detector activity. Using the excellent particle detection capabilities and kinematics reconstruction at the EIC, we argue that backgrounds can be strongly suppressed. While our analysis applies to various states, we specifically focus on vector and pseudoscalar particles: (i) neutral mesons [P=π0,η(′),V=ρ0,ω,ϕ], whose invisible standard model decays are extremely suppressed, and (ii) gluon-coupled axionlike particles (ALPs) decaying invisibly to a dark sector. With the baseline detector and a conservative residual-background estimate, the EIC can improve the sensitivity to invisible η, η′, ω, and ϕ decays by factors of about 4–40 and probe invisible ρ0 decays for the first time. With further background reduction and optimized detector performance, the projected sensiti</description>
-      <source url="https://doi.org/10.1103/991b-9jp2">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/991b-9jp2</guid>
     </item><item>
       <title>Exclusive coherent production of bosons in electron-proton collisions</title>
       <link>https://doi.org/10.1103/h9zj-6n84</link>
@@ -39,12 +52,13 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/h9zj-6n84</guid>
     </item><item>
-      <title>Neutrino dipole moments and radiative signatures from partial compositeness</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)234</link>
-      <description>We investigate composite neutrino models where heavy neutrinos emerge as bound states from a near-conformal strongly coupled sector. Standard Model neutrinos mix with these composite singlets via an inverse seesaw mechanism, where the anomalous scaling dimensions of the composite-sector operators naturally suppress light neutrino masses to sub-eV scales. Matching the conformal dynamics onto low-energy theory yields enhanced electromagnetic transition dipole operators with couplings d ~ 10 –10 GeV , parametrically larger than the loop-level predictions of minimal Dirac or Majorana models. We carry out a dedicated event-level simulation of the production-and-decay chain ν X→ mathcalUX→ ν γ X and compute the resulting event rates at MiniBooNE and MINERvA within the model, accounting for the composite production cross section and decay kinematics in detail. We further present predictions for the photon energy, angular, and multiplicity distributions. For the benchmark scenarios accessible </description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)234">Journal of High Energy Physics</source>
+      <title>Braking Protons at the Electron-Ion Collider: From Invisible Meson Decay to New Physics Searches</title>
+      <link>https://doi.org/10.1103/991b-9jp2</link>
+      <description>We investigate the sensitivity of the Electron-Ion Collider (EIC) to invisible final states in coherent exclusive electroproduction. The characteristic signal is a forward proton with reduced energy and little additional detector activity. Using the excellent particle detection capabilities and kinematics reconstruction at the EIC, we argue that backgrounds can be strongly suppressed. While our analysis applies to various states, we specifically focus on vector and pseudoscalar particles: (i) neutral mesons [P=π0,η(′),V=ρ0,ω,ϕ], whose invisible standard model decays are extremely suppressed, and (ii) gluon-coupled axionlike particles (ALPs) decaying invisibly to a dark sector. With the baseline detector and a conservative residual-background estimate, the EIC can improve the sensitivity to invisible η, η′, ω, and ϕ decays by factors of about 4–40 and probe invisible ρ0 decays for the first time. With further background reduction and optimized detector performance, the projected sensiti</description>
+      <source url="https://doi.org/10.1103/991b-9jp2">Physical Review Letters</source>
+      <author>et al.</author>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)234</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/991b-9jp2</guid>
     </item><item>
       <title>Classifying fibers and bases in toric hypersurface Calabi-Yau threefolds</title>
       <link>https://doi.org/10.1007/JHEP09(2026)228</link>
@@ -60,12 +74,12 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)239</guid>
     </item><item>
-      <title>Quark orbital angular momentum from chiral symmetry breaking in QCD</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.140980</link>
-      <description>The flavor-nonsinglet ( u−d) quark angular momentum (AM) in the proton is computed based on the effective spin-flavor dynamics emerging from chiral symmetry breaking by QCD instantons. The QCD AM operators are converted to effective spin-flavor operators expressing instanton-induced chiral interactions. A large negative orbital AM Lu−d arises from the interactions of the quarks with the chiral mean field in the proton in the large-Nc limit. It cancels part of the large positive spin AM Su−d and reduces the total AM Ju−d=Su−d+Lu−d, in agreement with lattice QCD calculations.</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.140980">Physics Letters B</source>
+      <title>Neutrino dipole moments and radiative signatures from partial compositeness</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)234</link>
+      <description>We investigate composite neutrino models where heavy neutrinos emerge as bound states from a near-conformal strongly coupled sector. Standard Model neutrinos mix with these composite singlets via an inverse seesaw mechanism, where the anomalous scaling dimensions of the composite-sector operators naturally suppress light neutrino masses to sub-eV scales. Matching the conformal dynamics onto low-energy theory yields enhanced electromagnetic transition dipole operators with couplings d ~ 10 –10 GeV , parametrically larger than the loop-level predictions of minimal Dirac or Majorana models. We carry out a dedicated event-level simulation of the production-and-decay chain ν X→ mathcalUX→ ν γ X and compute the resulting event rates at MiniBooNE and MINERvA within the model, accounting for the composite production cross section and decay kinematics in detail. We further present predictions for the photon energy, angular, and multiplicity distributions. For the benchmark scenarios accessible </description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)234">Journal of High Energy Physics</source>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140980</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)234</guid>
     </item><item>
       <title>Characterization of spurious-electron signals in the double-phase argon TPC of the DarkSide-50 experiment</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16193-y</link>
@@ -75,19 +89,19 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16193-y</guid>
     </item><item>
-      <title>Systematic study of the self-renormalized nucleon gluon PDF in large-momentum effective theory</title>
-      <link>https://doi.org/10.1103/qvdd-jgzz</link>
-      <description>We present a systematic study of the nucleon gluon parton distribution function (PDF) using the self-renormalized large-momentum effective theory (LaMET) approach in lattice QCD. This work extends previous gluon-PDF extractions by performing a detailed analysis of key systematic effects, including gauge-link smearing, lattice spacing, pion mass, and nucleon boost momentum. The self-renormalization framework mitigates ultraviolet divergences associated with Wilson-line self-energy and renormalon contributions by combining lattice matrix elements with perturbative short-distance information, thereby preserving the correct infrared structure. Calculations are performed on Nf=2+1+1 HISQ ensembles generated by the MILC Collaboration at three lattice spacings and two pion masses, with boosted nucleon states reaching momenta up to 2.2 GeV. We determine renormalization factors from zero-momentum matrix elements and apply hybrid renormalization to suppress discretization artifacts. After extrap</description>
-      <source url="https://doi.org/10.1103/qvdd-jgzz">Physical Review D</source>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qvdd-jgzz</guid>
-    </item><item>
       <title>Mesogenesis through the ephemeral dark decay of B mesons</title>
       <link>https://doi.org/10.1103/bf37-vb8h</link>
       <description>Mesogenesis provides a path for generating the baryon asymmetry of the Universe, using only the CP violation furnished by the Standard Model in the decay of B mesons. While this is an intriguing possibility, it is largely constrained by the data on B meson branching fractions into baryons and missing energy carried into the dark sector. We point out that it is possible to make this branching fraction dominant only in the early Universe, through an ultralight scalar coupled to the dark sector and the Standard Model leptons. A scenario is examined where the thermal density of muons in the early Universe temporarily lowers the mass of a dark fermion, allowing for efficient B meson decays. This “dark” decay channel is shut off later when the muon number density falls, making the scenario compatible with flavor data. Our model can be consistent with the LHC constraints on color-charged heavy bosons required to implement mesogenesis; such states may be discovered in the future runs as their </description>
       <source url="https://doi.org/10.1103/bf37-vb8h">Physical Review D</source>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/bf37-vb8h</guid>
+    </item><item>
+      <title>Systematic study of the self-renormalized nucleon gluon PDF in large-momentum effective theory</title>
+      <link>https://doi.org/10.1103/qvdd-jgzz</link>
+      <description>We present a systematic study of the nucleon gluon parton distribution function (PDF) using the self-renormalized large-momentum effective theory (LaMET) approach in lattice QCD. This work extends previous gluon-PDF extractions by performing a detailed analysis of key systematic effects, including gauge-link smearing, lattice spacing, pion mass, and nucleon boost momentum. The self-renormalization framework mitigates ultraviolet divergences associated with Wilson-line self-energy and renormalon contributions by combining lattice matrix elements with perturbative short-distance information, thereby preserving the correct infrared structure. Calculations are performed on Nf=2+1+1 HISQ ensembles generated by the MILC Collaboration at three lattice spacings and two pion masses, with boosted nucleon states reaching momenta up to 2.2 GeV. We determine renormalization factors from zero-momentum matrix elements and apply hybrid renormalization to suppress discretization artifacts. After extrap</description>
+      <source url="https://doi.org/10.1103/qvdd-jgzz">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/qvdd-jgzz</guid>
     </item><item>
       <title>First limits on axion dark matter from a DALI prototype</title>
       <link>https://doi.org/10.1103/q5yq-jj9m</link>
@@ -104,20 +118,6 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/d5yt-jql7</guid>
     </item><item>
-      <title>Higher dimensional quantum Hall effect and the analog of W∞-algebra</title>
-      <link>https://doi.org/10.1103/l8nj-kpgg</link>
-      <description>We show that Abelian and non-Abelian gauge transformations are the analog of W∞ transformations for higher dimensional quantum Hall effect. The commutator anomaly and the extended algebra of such transformations on the edge modes of a droplet are obtained by purely topological arguments, basically utilizing the two-cocycle in the descent procedure for anomalies and using the fact that there is anomaly cancellation between the bulk and boundary actions. The method relies on the fact that bulk actions are easily constructed in general using the Dolbeault index theorem. The resulting algebras are shown to agree with explicit edge mode calculations for cases where they are available. We also comment on the similarities and differences in the nature of these transformations between two and higher dimensions.</description>
-      <source url="https://doi.org/10.1103/l8nj-kpgg">Physical Review D</source>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/l8nj-kpgg</guid>
-    </item><item>
-      <title>Mellin moments of pion and kaon unpolarized PDFs from nonlocal operators in lattice QCD</title>
-      <link>https://doi.org/10.1103/fw2x-3hl3</link>
-      <description>We present a first-principles lattice-QCD determination of Mellin moments of the unpolarized pion and kaon parton distribution functions using matrix elements of boosted mesons coupled to nonlocal operators containing a straight Wilson line. The calculation is performed on a single Nf=2+1+1 ensemble of maximally twisted-mass fermions with a clover term, with lattice volume 323×64, lattice spacing a=0.0934 fm, and pion mass mπ=260 MeV. Matrix elements are computed for hadron momenta P3=0, 0.41, 0.83, 1.25, 1.66, and 2.07 GeV and analyzed within the short-distance factorization framework. We investigate how the extracted moments depend on the truncation of the operator-product expansion, the coordinate-space fit window, and the perturbative accuracy of the Wilson coefficients, comparing next-to-leading-order and next-to-next-to-leading-order results. We also perform an RG-improved analysis as a consistency check of the perturbative treatment. Our final results are obtained from combined </description>
-      <source url="https://doi.org/10.1103/fw2x-3hl3">Physical Review D</source>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/fw2x-3hl3</guid>
-    </item><item>
       <title>Cosmological limits on strong dark forces</title>
       <link>https://doi.org/10.1103/pkkh-t861</link>
       <description>We showcase cosmology’s ability to constrain long-range forces between dark matter particles. Specifically, we consider a fermionic dark matter interacting via a Yukawa-coupled light scalar, focusing on regimes where the dark forces are stronger than gravitational and yet unconstrained. We show that the dark sector dynamics, both at the background and perturbation levels, is far richer than what can be captured with just the static interparticle Yukawa potential. The background dynamics includes an attractor that funnels a wide range of initial conditions onto an evolution unique to each parameter space. In a large swath of parameter space beyond existing limits, the dark sector deviates drastically from cold dark matter in observable epochs. We rule out this parameter space using existing constraints on dark-sector equation of state and small-scale cosmic perturbations, thus setting the strongest constraints yet on dark matter self-interactions at length scales shorter than 100 kpc. I</description>
@@ -132,28 +132,26 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/tzhn-7tcq</guid>
     </item><item>
+      <title>Mellin moments of pion and kaon unpolarized PDFs from nonlocal operators in lattice QCD</title>
+      <link>https://doi.org/10.1103/fw2x-3hl3</link>
+      <description>We present a first-principles lattice-QCD determination of Mellin moments of the unpolarized pion and kaon parton distribution functions using matrix elements of boosted mesons coupled to nonlocal operators containing a straight Wilson line. The calculation is performed on a single Nf=2+1+1 ensemble of maximally twisted-mass fermions with a clover term, with lattice volume 323×64, lattice spacing a=0.0934 fm, and pion mass mπ=260 MeV. Matrix elements are computed for hadron momenta P3=0, 0.41, 0.83, 1.25, 1.66, and 2.07 GeV and analyzed within the short-distance factorization framework. We investigate how the extracted moments depend on the truncation of the operator-product expansion, the coordinate-space fit window, and the perturbative accuracy of the Wilson coefficients, comparing next-to-leading-order and next-to-next-to-leading-order results. We also perform an RG-improved analysis as a consistency check of the perturbative treatment. Our final results are obtained from combined </description>
+      <source url="https://doi.org/10.1103/fw2x-3hl3">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/fw2x-3hl3</guid>
+    </item><item>
+      <title>Higher dimensional quantum Hall effect and the analog of W∞-algebra</title>
+      <link>https://doi.org/10.1103/l8nj-kpgg</link>
+      <description>We show that Abelian and non-Abelian gauge transformations are the analog of W∞ transformations for higher dimensional quantum Hall effect. The commutator anomaly and the extended algebra of such transformations on the edge modes of a droplet are obtained by purely topological arguments, basically utilizing the two-cocycle in the descent procedure for anomalies and using the fact that there is anomaly cancellation between the bulk and boundary actions. The method relies on the fact that bulk actions are easily constructed in general using the Dolbeault index theorem. The resulting algebras are shown to agree with explicit edge mode calculations for cases where they are available. We also comment on the similarities and differences in the nature of these transformations between two and higher dimensions.</description>
+      <source url="https://doi.org/10.1103/l8nj-kpgg">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/l8nj-kpgg</guid>
+    </item><item>
       <title>Naturally small Dirac neutrino mass and B−L dark matter</title>
       <link>https://doi.org/10.1103/386s-sj3r</link>
       <description>In the conventional gauged B−L extension of the standard model, the B−L charge of the singlet scalar χ, responsible for the breaking of U(1)B−L symmetry, is taken to be 2, such that it can anchor type-I seesaw by giving Majorana masses to the right-handed neutrinos, νR. In this paper, we consider instead the cases χ∼3 or 4 under B−L, so that νR may not acquire any Majorana mass and neutrinos are Dirac fermions. We then consider a vectorlike fermion S with two units of B−L charge, which becomes a good candidate for dark matter, either Dirac for χ∼3 or Majorana for χ∼4. In both cases, spontaneous B−L breaking can induce a strong first-order phase transition, producing stochastic gravitational waves (GW), which can be tested at GW experiments. Moreover, the presence of light νRs gives rise to an additional contribution to the effective number of relativistic degrees of freedom, ΔNeff, providing complementary constraints from current and upcoming CMB observations.</description>
       <source url="https://doi.org/10.1103/386s-sj3r">Physical Review D</source>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/386s-sj3r</guid>
-    </item><item>
-      <title>Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/qydl-rlp7</link>
-      <description>A search is presented for the production of two additional Higgs bosons from an off-shell Z boson, where both additional particles decay to τ lepton pairs. The search is performed with a data sample collected with the CMS detector from proton-proton collisions at the LHC at s=13 TeV, corresponding to an integrated luminosity of 138 fb−1. No deviation from the standard model background is observed. Exclusion limits are set on the type-X two-Higgs-doublet model alignment scenario. These results exclude previously unexplored regions of parameter space and provide constraints complementary to those from earlier searches.</description>
-      <source url="https://doi.org/10.1103/qydl-rlp7">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qydl-rlp7</guid>
-    </item><item>
-      <title>Axion hair and pulsar electrodynamics: Modeling, discharge dynamics, and particle-in-cell simulations</title>
-      <link>https://doi.org/10.1103/2pdn-3n31</link>
-      <description>In a companion paper, we demonstrated that static axion field gradients sourced by dense nuclear matter (axion hair) can dominate the near-field electrodynamics of old rotation-powered pulsars, leading to new constraints on light QCD axions and on CP-violating axion-nucleon interactions. This article provides the extended theoretical and numerical framework underlying those results. We begin by providing a detailed description of the sourcing of axion hair from dense nuclear matter, computing self-consistent field profiles for each interaction across the relevant parameter space. We then study the modification to the electrodynamics induced in the polar gap region by these axion gradients; this is done at the analytic level by studying the modification induced by axion field gradients on the effective discharge parameter (computed in the force-free limit of the split monopole magnetic field configuration, and looking at leading deviations from the force-free limit for dipolar field con</description>
-      <source url="https://doi.org/10.1103/2pdn-3n31">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2pdn-3n31</guid>
     </item>
   </channel>
 </rss>
