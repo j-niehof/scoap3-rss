@@ -5,8 +5,29 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 14:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:57:20 +0000</lastBuildDate>
     <item>
+      <title>Emergent states and algebras from the double-scaling limit of pure states in SYK</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)263</link>
+      <description>Recent work has emphasized a subtlety of large-N limits in AdS/CFT: a sequence of pure states in the microscopic theory need not remain pure with respect to the emergent algebra of observables. We study this phenomenon for Kourkoulou-Maldacena (KM) states in the double-scaling limit of the SYK model, and show that their ensemble-averaged algebraic description depends crucially on which observables are retained in the limit. For fermionic operators of size p ∼ N , generic operators converge to the usual chord operators of double-scaled SYK. The resulting von Neumann algebra is the standard Type II factor, and the KM pure states at infinite temperature converge to the tracial state, so generic probes lose access to microscopic purity. We then identify a class of operators adapted to the KM state that also survive the double-scaling limit. Since the KM state may be viewed as a projection inside the tracial state, these operators become dressed chord creation and annihilation operators, wi</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)263">Journal of High Energy Physics</source>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)263</guid>
+    </item><item>
+      <title>Emergent states and algebras from the double-scaling limit of pure states in SYK</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)263</link>
+      <description>Recent work has emphasized a subtlety of large-N limits in AdS/CFT: a sequence of pure states in the microscopic theory need not remain pure with respect to the emergent algebra of observables. We study this phenomenon for Kourkoulou-Maldacena (KM) states in the double-scaling limit of the SYK model, and show that their ensemble-averaged algebraic description depends crucially on which observables are retained in the limit. For fermionic operators of size p ∼ N , generic operators converge to the usual chord operators of double-scaled SYK. The resulting von Neumann algebra is the standard Type II factor, and the KM pure states at infinite temperature converge to the tracial state, so generic probes lose access to microscopic purity. We then identify a class of operators adapted to the KM state that also survive the double-scaling limit. Since the KM state may be viewed as a projection inside the tracial state, these operators become dressed chord creation and annihilation operators, wi</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)263">Journal of High Energy Physics</source>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)263</guid>
+    </item><item>
+      <title>Timelike Liouville theory and AdS3 gravity at finite cutoff</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)264</link>
+      <description>We propose that AdS gravity with conformal boundary conditions is described by coupling the holographic CFT to timelike Liouville theory and deforming by an exactly marginal operator. In this description, the Liouville field controls the finite-cutoff radial wall in the bulk. We check this proposal in the semiclassical limit by matching the sphere and torus partition functions between the bulk and boundary theories. We also show that the Liouville field’s equation of motion gives the bulk Hamiltonian constraint. The strong coupling limit of our theory pushes the bulk description deep inside the interior of black hole geometries. This is also the flat-space limit, and it leads to a duality between 3d flat space and 2d CFT.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)264">Journal of High Energy Physics</source>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)264</guid>
+    </item><item>
       <title>Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at s=13 TeV</title>
       <link>https://doi.org/10.1103/27s7-2frt</link>
       <description>This Letter presents a combination of searches for Higgs boson pair (HH) production performed by the ATLAS and CMS Collaborations using proton-proton collision datasets recorded at s=13 TeV during the Large Hadron Collider Run 2, corresponding to integrated luminosities ranging between 126 and 140 fb−1. The upper limit at the 95% confidence level on the total HH signal strength, defined as the ratio of the measured cross section to the standard model (SM) prediction, corresponds to 2.5, with an expected value of 1.7 (2.8) assuming the absence (presence) of the SM HH signal. The strength of the HH signal is measured to be 0.8−0.7+0.9 relative to the SM prediction. The observed significance is found to be 1.1 standard deviations whereas 1.3 are expected for the SM HH signal. Constraints are set on the Higgs boson trilinear self-coupling and on the couplings of two Higgs bosons to two vector bosons, both normalized to the SM predictions and denoted as κλ and κ2V, respectively. The observe</description>
@@ -21,13 +42,6 @@
       <source url="https://doi.org/10.1103/hzvz-yfg1">Physical Review C</source>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/hzvz-yfg1</guid>
-    </item><item>
-      <title>“It from Bit”: the Hartle-Hawking state and quantum mechanics for de Sitter observers</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)252</link>
-      <description>The one-state statement for closed universes has sparked considerable discussion. In this paper, we examine its physical meaning in the context of the Hartle-Hawking state and de Sitter space. We argue that the one-state property of closed universes is fully compatible with the finite-dimensional quantum mechanics experienced by observers inside de Sitter space, and that this compatibility requires neither mixing of α-sectors nor any modification of the rules of the gravitational path integral. The apparent tension is resolved by sharply distinguishing the baby-universe Hilbert space (the space of closed universes viewed from the outside) from the bulk Hilbert space that governs quantum mechanics for an observer inside a single de Sitter universe.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)252">Journal of High Energy Physics</source>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)252</guid>
     </item><item>
       <title>“It from Bit”: the Hartle-Hawking state and quantum mechanics for de Sitter observers</title>
       <link>https://doi.org/10.1007/JHEP09(2026)252</link>
@@ -60,19 +74,13 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/991b-9jp2</guid>
     </item><item>
-      <title>Classifying fibers and bases in toric hypersurface Calabi-Yau threefolds</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)228</link>
-      <description>We carry out a complete analysis of the toric elliptic and genus-one fibrations of all 474 million reflexive polytopes in the Kreuzer-Skarke database. Earlier work with Huang showed that all but 29,223 of these polytopes have such a fibration. We identify 2,264,992,252 distinct fibrations, and determine the fiber and base structure in each case; after accounting for automorphisms of the ambient polytope, these fibrations furnish 2,250,744,657 equivalence classes. We summarize generic features and identify exotic special cases among these fibrations. These fibrations illustrate many features that have been explored in the context of 6D F-theory, including gauge groups hosted on non-toric divisors, automatic enhancement of gauge groups, and implicit non-toric bases and high-rank 6D SCFTs associated with non-flat fibers, as well as novel geometric features such as singular bases for genus-one fibrations with multisections. This analysis illustrates the power of elliptic and genus-one fibr</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)228">Journal of High Energy Physics</source>
+      <title>Exclusive coherent production of bosons in electron-proton collisions</title>
+      <link>https://doi.org/10.1103/h9zj-6n84</link>
+      <description>We study the exclusive electroproduction process e+p→e′+p′+X, with X a single-particle final state, in the forward-proton kinematics relevant for the future Electron-Ion Collider. We develop a unified 2→3 framework that provides the full event kinematics and incorporates pseudoscalar and vector mesons as well as axionlike particles and vector mediators such as dark photons. It is based on phenomenological amplitudes constrained by existing photo-and electroproduction data and constructed to admit systematic refinement as new measurements become available. To benchmark the framework, we compare its predictions to flux-factorized descriptions based on the equivalent-photon approximation, demonstrating close agreement for total rates and selected single-differential distributions in the near-real regime while highlighting the role of finite-Q2 correlations for multidifferential observables at larger photon virtualities. As a case study, we perform a detailed kinematic analysis of the miss</description>
+      <source url="https://doi.org/10.1103/h9zj-6n84">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)228</guid>
-    </item><item>
-      <title>Memory correlators and Ward identities in the ‘in-in’ formalism</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)239</link>
-      <description>The symmetries of asymptotically flat spacetimes impose constraints on observables at infinity. The consequences of this have been extensively explored for mathcalS-matrix elements, where soft theorems are known to be equivalent to Ward identities for asymptotic symmetries. However, recently there has been interest in broader classes of asymptotic observables. Here, we consider soft graviton insertions in the ‘in-in’ formalism. We derive a Ward identity for supertranslations and compute two point functions for the soft charges for ‘in-in’ correlators. We find that the connected memory correlators are non-trivial in this set up and can be straightforwardly inferred from the average null energy (ANEC) correlators using observations from celestial Conformal Field Theory (cCFT).</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)239">Journal of High Energy Physics</source>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)239</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/h9zj-6n84</guid>
     </item><item>
       <title>Neutrino dipole moments and radiative signatures from partial compositeness</title>
       <link>https://doi.org/10.1007/JHEP09(2026)234</link>
@@ -80,6 +88,13 @@
       <source url="https://doi.org/10.1007/JHEP09(2026)234">Journal of High Energy Physics</source>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)234</guid>
+    </item><item>
+      <title>Classifying fibers and bases in toric hypersurface Calabi-Yau threefolds</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)228</link>
+      <description>We carry out a complete analysis of the toric elliptic and genus-one fibrations of all 474 million reflexive polytopes in the Kreuzer-Skarke database. Earlier work with Huang showed that all but 29,223 of these polytopes have such a fibration. We identify 2,264,992,252 distinct fibrations, and determine the fiber and base structure in each case; after accounting for automorphisms of the ambient polytope, these fibrations furnish 2,250,744,657 equivalence classes. We summarize generic features and identify exotic special cases among these fibrations. These fibrations illustrate many features that have been explored in the context of 6D F-theory, including gauge groups hosted on non-toric divisors, automatic enhancement of gauge groups, and implicit non-toric bases and high-rank 6D SCFTs associated with non-flat fibers, as well as novel geometric features such as singular bases for genus-one fibrations with multisections. This analysis illustrates the power of elliptic and genus-one fibr</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)228">Journal of High Energy Physics</source>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)228</guid>
     </item><item>
       <title>Characterization of spurious-electron signals in the double-phase argon TPC of the DarkSide-50 experiment</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16193-y</link>
@@ -89,12 +104,12 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16193-y</guid>
     </item><item>
-      <title>Mesogenesis through the ephemeral dark decay of B mesons</title>
-      <link>https://doi.org/10.1103/bf37-vb8h</link>
-      <description>Mesogenesis provides a path for generating the baryon asymmetry of the Universe, using only the CP violation furnished by the Standard Model in the decay of B mesons. While this is an intriguing possibility, it is largely constrained by the data on B meson branching fractions into baryons and missing energy carried into the dark sector. We point out that it is possible to make this branching fraction dominant only in the early Universe, through an ultralight scalar coupled to the dark sector and the Standard Model leptons. A scenario is examined where the thermal density of muons in the early Universe temporarily lowers the mass of a dark fermion, allowing for efficient B meson decays. This “dark” decay channel is shut off later when the muon number density falls, making the scenario compatible with flavor data. Our model can be consistent with the LHC constraints on color-charged heavy bosons required to implement mesogenesis; such states may be discovered in the future runs as their </description>
-      <source url="https://doi.org/10.1103/bf37-vb8h">Physical Review D</source>
+      <title>Systematic study of the self-renormalized nucleon gluon PDF in large-momentum effective theory</title>
+      <link>https://doi.org/10.1103/qvdd-jgzz</link>
+      <description>We present a systematic study of the nucleon gluon parton distribution function (PDF) using the self-renormalized large-momentum effective theory (LaMET) approach in lattice QCD. This work extends previous gluon-PDF extractions by performing a detailed analysis of key systematic effects, including gauge-link smearing, lattice spacing, pion mass, and nucleon boost momentum. The self-renormalization framework mitigates ultraviolet divergences associated with Wilson-line self-energy and renormalon contributions by combining lattice matrix elements with perturbative short-distance information, thereby preserving the correct infrared structure. Calculations are performed on Nf=2+1+1 HISQ ensembles generated by the MILC Collaboration at three lattice spacings and two pion masses, with boosted nucleon states reaching momenta up to 2.2 GeV. We determine renormalization factors from zero-momentum matrix elements and apply hybrid renormalization to suppress discretization artifacts. After extrap</description>
+      <source url="https://doi.org/10.1103/qvdd-jgzz">Physical Review D</source>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/bf37-vb8h</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/qvdd-jgzz</guid>
     </item><item>
       <title>Systematic study of the self-renormalized nucleon gluon PDF in large-momentum effective theory</title>
       <link>https://doi.org/10.1103/qvdd-jgzz</link>
@@ -138,20 +153,6 @@
       <source url="https://doi.org/10.1103/fw2x-3hl3">Physical Review D</source>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/fw2x-3hl3</guid>
-    </item><item>
-      <title>Higher dimensional quantum Hall effect and the analog of W∞-algebra</title>
-      <link>https://doi.org/10.1103/l8nj-kpgg</link>
-      <description>We show that Abelian and non-Abelian gauge transformations are the analog of W∞ transformations for higher dimensional quantum Hall effect. The commutator anomaly and the extended algebra of such transformations on the edge modes of a droplet are obtained by purely topological arguments, basically utilizing the two-cocycle in the descent procedure for anomalies and using the fact that there is anomaly cancellation between the bulk and boundary actions. The method relies on the fact that bulk actions are easily constructed in general using the Dolbeault index theorem. The resulting algebras are shown to agree with explicit edge mode calculations for cases where they are available. We also comment on the similarities and differences in the nature of these transformations between two and higher dimensions.</description>
-      <source url="https://doi.org/10.1103/l8nj-kpgg">Physical Review D</source>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/l8nj-kpgg</guid>
-    </item><item>
-      <title>Naturally small Dirac neutrino mass and B−L dark matter</title>
-      <link>https://doi.org/10.1103/386s-sj3r</link>
-      <description>In the conventional gauged B−L extension of the standard model, the B−L charge of the singlet scalar χ, responsible for the breaking of U(1)B−L symmetry, is taken to be 2, such that it can anchor type-I seesaw by giving Majorana masses to the right-handed neutrinos, νR. In this paper, we consider instead the cases χ∼3 or 4 under B−L, so that νR may not acquire any Majorana mass and neutrinos are Dirac fermions. We then consider a vectorlike fermion S with two units of B−L charge, which becomes a good candidate for dark matter, either Dirac for χ∼3 or Majorana for χ∼4. In both cases, spontaneous B−L breaking can induce a strong first-order phase transition, producing stochastic gravitational waves (GW), which can be tested at GW experiments. Moreover, the presence of light νRs gives rise to an additional contribution to the effective number of relativistic degrees of freedom, ΔNeff, providing complementary constraints from current and upcoming CMB observations.</description>
-      <source url="https://doi.org/10.1103/386s-sj3r">Physical Review D</source>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/386s-sj3r</guid>
     </item>
   </channel>
 </rss>
