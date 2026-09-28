@@ -5,14 +5,38 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 14:57:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:55:35 +0000</lastBuildDate>
     <item>
-      <title>Emergent states and algebras from the double-scaling limit of pure states in SYK</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)263</link>
-      <description>Recent work has emphasized a subtlety of large-N limits in AdS/CFT: a sequence of pure states in the microscopic theory need not remain pure with respect to the emergent algebra of observables. We study this phenomenon for Kourkoulou-Maldacena (KM) states in the double-scaling limit of the SYK model, and show that their ensemble-averaged algebraic description depends crucially on which observables are retained in the limit. For fermionic operators of size p ∼ N , generic operators converge to the usual chord operators of double-scaled SYK. The resulting von Neumann algebra is the standard Type II factor, and the KM pure states at infinite temperature converge to the tracial state, so generic probes lose access to microscopic purity. We then identify a class of operators adapted to the KM state that also survive the double-scaling limit. Since the KM state may be viewed as a projection inside the tracial state, these operators become dressed chord creation and annihilation operators, wi</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)263">Journal of High Energy Physics</source>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)263</guid>
+      <title>Probing dark matter interactions with a RES–NOVA prototype cryogenic detector</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16215-9</link>
+      <description>We report on the operation of a 13 g PbWO _4 crystal, grown from archaeological Pb and operated as a cryogenic calorimeter in an underground environment. Read out with a Ge thermistor, the detector achieves a low energy threshold and, for the first time, enables the derivation of a dark matter exclusion limit using PbWO _4 as target material, for both spin-dependent interactions on neutrons and spin-independent interactions. Although limited in mass and not representative of the final RES–NOVA detector design, this prototype demonstrates effective control of mechanical vibrations and low-energy noise in a cryogenic system, which is a key requirement for rare-event searches. The experiment therefore provides a proof of principle for the RES–NOVA detection concept, validating the use of archaeological Pb-based PbWO _4 crystals, low-background operation, and robust data-analysis procedures. These results establish a solid technological and methodological foundation for future RES–NOVA det</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16215-9">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16215-9</guid>
+    </item><item>
+      <title>Resonant Enhancement for the transfer of baryon number from a CP-violating hidden sector</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16384-7</link>
+      <description>We consider a scenario where the baryon asymmetry in the SM arises from a portal coupling to a CP-violating hidden sector, without any explicit violation of baryon or lepton number in either sector. While no net baryon number is generated, equal and opposite baryon numbers can be sequestered between the two sectors in this scenario. The observed asymmetry must be generated below the electroweak scale in order to avoid washout. By considering a benchmark model incorporating the baryon portal and a minimal hidden sector, we review the prospects of this scenario. When the asymmetry is generated via the decay of top quarks, generic input parameters for the model are sufficient. If however the asymmetry is to be generated via the decay of bottom quarks, a resonant enhancement is needed to sequester the baryon number with maximal efficiency. The scenario of mesogenesis assisted by CP-violation in a hidden sector falls into this latter category. We use analytical and numerical methods to quan</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16384-7">European Physical Journal C</source>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16384-7</guid>
+    </item><item>
+      <title>π , K, and p production in high-multiplicity pp collisions at mathbf sqrt s = 13 TeV</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16235-5</link>
+      <description>This paper presents the measurement of π ^± , text K^± , and p( bartext p ) production in high-multiplicity proton–proton collisions at sqrts=13 TeV at midrapidity ( |y| &lt; 0.5 ) using the ALICE detector at the LHC. The transverse-momentum ( p_textrmT ) spectra of these particles are reported for three high-multiplicity classes. The results show a mass-and multiplicity-dependent hardening of the p_textrmT spectra and an enhancement of the p/ π ratio at intermediate p_textrmT . These features are similar to those observed in heavy-ion collisions, where quark–gluon plasma formation is expected. The new measurements have extended the highest average charged-particle multiplicity density per unit of pseudorapidity achieved in pp collisions, roughly a factor five higher than that in average inelastic pp collisions, thereby reducing the multiplicity gap between small and large collision systems. In addition, the results are further compared with previously published measurements and with mode</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16235-5">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16235-5</guid>
+    </item><item>
+      <title>Measurement of isolated-prompt photon–hadron correlations in Pb–Pb collisions at sqrts_textrmNN = 5.02 TeV</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16192-z</link>
+      <description>The ALICE Collaboration has measured the azimuthal correlation between trigger isolated-prompt photons and associated charged hadrons in Pb–Pb collisions at the CERN LHC, at a centre-of-mass energy per nucleon pair of sqrts_textrmNN~=~5.02 TeV. The trigger isolated-prompt photons are measured in the transverse-momentum range 18 1.8 GeV/c and pseudorapidity |eta ^textrmh| &lt;0.9 . The yield D( z_textrmT ) of associated hadrons per trigger, with z_textrmT = p_textrmT^textrmh/p_textrmT^γ , is measured in three Pb–Pb collision centrality classes: central (0–30%), semicentral (30–50%), and peripheral (50–90%). The D( z_textrmT ) measurement in pp collisions with the same p_textrmT^γ interval was too limited statistically, but at a lower p_textrmT^γ interval, showing agreement with theoretical predictions. Therefore, an approximation to the standard I_textrmAA is computed from the D( z_textrmT ) conditional yields, using NLO pQCD predictions as pp reference, the I_textrmpQCD . A strong suppres</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16192-z">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16192-z</guid>
     </item><item>
       <title>Emergent states and algebras from the double-scaling limit of pure states in SYK</title>
       <link>https://doi.org/10.1007/JHEP09(2026)263</link>
@@ -27,14 +51,6 @@
       <source url="https://doi.org/10.1007/JHEP09(2026)264">Journal of High Energy Physics</source>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)264</guid>
-    </item><item>
-      <title>Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at s=13 TeV</title>
-      <link>https://doi.org/10.1103/27s7-2frt</link>
-      <description>This Letter presents a combination of searches for Higgs boson pair (HH) production performed by the ATLAS and CMS Collaborations using proton-proton collision datasets recorded at s=13 TeV during the Large Hadron Collider Run 2, corresponding to integrated luminosities ranging between 126 and 140 fb−1. The upper limit at the 95% confidence level on the total HH signal strength, defined as the ratio of the measured cross section to the standard model (SM) prediction, corresponds to 2.5, with an expected value of 1.7 (2.8) assuming the absence (presence) of the SM HH signal. The strength of the HH signal is measured to be 0.8−0.7+0.9 relative to the SM prediction. The observed significance is found to be 1.1 standard deviations whereas 1.3 are expected for the SM HH signal. Constraints are set on the Higgs boson trilinear self-coupling and on the couplings of two Higgs bosons to two vector bosons, both normalized to the SM predictions and denoted as κλ and κ2V, respectively. The observe</description>
-      <source url="https://doi.org/10.1103/27s7-2frt">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/27s7-2frt</guid>
     </item><item>
       <title>Non-Gaussian hydrodynamic fluctuations in an expanding relativistic fluid</title>
       <link>https://doi.org/10.1103/hzvz-yfg1</link>
@@ -58,14 +74,6 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/cxm9-mr48</guid>
     </item><item>
-      <title>Exclusive coherent production of bosons in electron-proton collisions</title>
-      <link>https://doi.org/10.1103/h9zj-6n84</link>
-      <description>We study the exclusive electroproduction process e+p→e′+p′+X, with X a single-particle final state, in the forward-proton kinematics relevant for the future Electron-Ion Collider. We develop a unified 2→3 framework that provides the full event kinematics and incorporates pseudoscalar and vector mesons as well as axionlike particles and vector mediators such as dark photons. It is based on phenomenological amplitudes constrained by existing photo-and electroproduction data and constructed to admit systematic refinement as new measurements become available. To benchmark the framework, we compare its predictions to flux-factorized descriptions based on the equivalent-photon approximation, demonstrating close agreement for total rates and selected single-differential distributions in the near-real regime while highlighting the role of finite-Q2 correlations for multidifferential observables at larger photon virtualities. As a case study, we perform a detailed kinematic analysis of the miss</description>
-      <source url="https://doi.org/10.1103/h9zj-6n84">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/h9zj-6n84</guid>
-    </item><item>
       <title>Braking Protons at the Electron-Ion Collider: From Invisible Meson Decay to New Physics Searches</title>
       <link>https://doi.org/10.1103/991b-9jp2</link>
       <description>We investigate the sensitivity of the Electron-Ion Collider (EIC) to invisible final states in coherent exclusive electroproduction. The characteristic signal is a forward proton with reduced energy and little additional detector activity. Using the excellent particle detection capabilities and kinematics reconstruction at the EIC, we argue that backgrounds can be strongly suppressed. While our analysis applies to various states, we specifically focus on vector and pseudoscalar particles: (i) neutral mesons [P=π0,η(′),V=ρ0,ω,ϕ], whose invisible standard model decays are extremely suppressed, and (ii) gluon-coupled axionlike particles (ALPs) decaying invisibly to a dark sector. With the baseline detector and a conservative residual-background estimate, the EIC can improve the sensitivity to invisible η, η′, ω, and ϕ decays by factors of about 4–40 and probe invisible ρ0 decays for the first time. With further background reduction and optimized detector performance, the projected sensiti</description>
@@ -73,28 +81,6 @@
       <author>et al.</author>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/991b-9jp2</guid>
-    </item><item>
-      <title>Exclusive coherent production of bosons in electron-proton collisions</title>
-      <link>https://doi.org/10.1103/h9zj-6n84</link>
-      <description>We study the exclusive electroproduction process e+p→e′+p′+X, with X a single-particle final state, in the forward-proton kinematics relevant for the future Electron-Ion Collider. We develop a unified 2→3 framework that provides the full event kinematics and incorporates pseudoscalar and vector mesons as well as axionlike particles and vector mediators such as dark photons. It is based on phenomenological amplitudes constrained by existing photo-and electroproduction data and constructed to admit systematic refinement as new measurements become available. To benchmark the framework, we compare its predictions to flux-factorized descriptions based on the equivalent-photon approximation, demonstrating close agreement for total rates and selected single-differential distributions in the near-real regime while highlighting the role of finite-Q2 correlations for multidifferential observables at larger photon virtualities. As a case study, we perform a detailed kinematic analysis of the miss</description>
-      <source url="https://doi.org/10.1103/h9zj-6n84">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/h9zj-6n84</guid>
-    </item><item>
-      <title>Neutrino dipole moments and radiative signatures from partial compositeness</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)234</link>
-      <description>We investigate composite neutrino models where heavy neutrinos emerge as bound states from a near-conformal strongly coupled sector. Standard Model neutrinos mix with these composite singlets via an inverse seesaw mechanism, where the anomalous scaling dimensions of the composite-sector operators naturally suppress light neutrino masses to sub-eV scales. Matching the conformal dynamics onto low-energy theory yields enhanced electromagnetic transition dipole operators with couplings d ~ 10 –10 GeV , parametrically larger than the loop-level predictions of minimal Dirac or Majorana models. We carry out a dedicated event-level simulation of the production-and-decay chain ν X→ mathcalUX→ ν γ X and compute the resulting event rates at MiniBooNE and MINERvA within the model, accounting for the composite production cross section and decay kinematics in detail. We further present predictions for the photon energy, angular, and multiplicity distributions. For the benchmark scenarios accessible </description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)234">Journal of High Energy Physics</source>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)234</guid>
-    </item><item>
-      <title>Classifying fibers and bases in toric hypersurface Calabi-Yau threefolds</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)228</link>
-      <description>We carry out a complete analysis of the toric elliptic and genus-one fibrations of all 474 million reflexive polytopes in the Kreuzer-Skarke database. Earlier work with Huang showed that all but 29,223 of these polytopes have such a fibration. We identify 2,264,992,252 distinct fibrations, and determine the fiber and base structure in each case; after accounting for automorphisms of the ambient polytope, these fibrations furnish 2,250,744,657 equivalence classes. We summarize generic features and identify exotic special cases among these fibrations. These fibrations illustrate many features that have been explored in the context of 6D F-theory, including gauge groups hosted on non-toric divisors, automatic enhancement of gauge groups, and implicit non-toric bases and high-rank 6D SCFTs associated with non-flat fibers, as well as novel geometric features such as singular bases for genus-one fibrations with multisections. This analysis illustrates the power of elliptic and genus-one fibr</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)228">Journal of High Energy Physics</source>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)228</guid>
     </item><item>
       <title>Characterization of spurious-electron signals in the double-phase argon TPC of the DarkSide-50 experiment</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16193-y</link>
@@ -111,12 +97,12 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/qvdd-jgzz</guid>
     </item><item>
-      <title>Systematic study of the self-renormalized nucleon gluon PDF in large-momentum effective theory</title>
-      <link>https://doi.org/10.1103/qvdd-jgzz</link>
-      <description>We present a systematic study of the nucleon gluon parton distribution function (PDF) using the self-renormalized large-momentum effective theory (LaMET) approach in lattice QCD. This work extends previous gluon-PDF extractions by performing a detailed analysis of key systematic effects, including gauge-link smearing, lattice spacing, pion mass, and nucleon boost momentum. The self-renormalization framework mitigates ultraviolet divergences associated with Wilson-line self-energy and renormalon contributions by combining lattice matrix elements with perturbative short-distance information, thereby preserving the correct infrared structure. Calculations are performed on Nf=2+1+1 HISQ ensembles generated by the MILC Collaboration at three lattice spacings and two pion masses, with boosted nucleon states reaching momenta up to 2.2 GeV. We determine renormalization factors from zero-momentum matrix elements and apply hybrid renormalization to suppress discretization artifacts. After extrap</description>
-      <source url="https://doi.org/10.1103/qvdd-jgzz">Physical Review D</source>
+      <title>Mesogenesis through the ephemeral dark decay of B mesons</title>
+      <link>https://doi.org/10.1103/bf37-vb8h</link>
+      <description>Mesogenesis provides a path for generating the baryon asymmetry of the Universe, using only the CP violation furnished by the Standard Model in the decay of B mesons. While this is an intriguing possibility, it is largely constrained by the data on B meson branching fractions into baryons and missing energy carried into the dark sector. We point out that it is possible to make this branching fraction dominant only in the early Universe, through an ultralight scalar coupled to the dark sector and the Standard Model leptons. A scenario is examined where the thermal density of muons in the early Universe temporarily lowers the mass of a dark fermion, allowing for efficient B meson decays. This “dark” decay channel is shut off later when the muon number density falls, making the scenario compatible with flavor data. Our model can be consistent with the LHC constraints on color-charged heavy bosons required to implement mesogenesis; such states may be discovered in the future runs as their </description>
+      <source url="https://doi.org/10.1103/bf37-vb8h">Physical Review D</source>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/qvdd-jgzz</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/bf37-vb8h</guid>
     </item><item>
       <title>First limits on axion dark matter from a DALI prototype</title>
       <link>https://doi.org/10.1103/q5yq-jj9m</link>
@@ -133,19 +119,12 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/d5yt-jql7</guid>
     </item><item>
-      <title>Cosmological limits on strong dark forces</title>
-      <link>https://doi.org/10.1103/pkkh-t861</link>
-      <description>We showcase cosmology’s ability to constrain long-range forces between dark matter particles. Specifically, we consider a fermionic dark matter interacting via a Yukawa-coupled light scalar, focusing on regimes where the dark forces are stronger than gravitational and yet unconstrained. We show that the dark sector dynamics, both at the background and perturbation levels, is far richer than what can be captured with just the static interparticle Yukawa potential. The background dynamics includes an attractor that funnels a wide range of initial conditions onto an evolution unique to each parameter space. In a large swath of parameter space beyond existing limits, the dark sector deviates drastically from cold dark matter in observable epochs. We rule out this parameter space using existing constraints on dark-sector equation of state and small-scale cosmic perturbations, thus setting the strongest constraints yet on dark matter self-interactions at length scales shorter than 100 kpc. I</description>
-      <source url="https://doi.org/10.1103/pkkh-t861">Physical Review D</source>
+      <title>Higher dimensional quantum Hall effect and the analog of W∞-algebra</title>
+      <link>https://doi.org/10.1103/l8nj-kpgg</link>
+      <description>We show that Abelian and non-Abelian gauge transformations are the analog of W∞ transformations for higher dimensional quantum Hall effect. The commutator anomaly and the extended algebra of such transformations on the edge modes of a droplet are obtained by purely topological arguments, basically utilizing the two-cocycle in the descent procedure for anomalies and using the fact that there is anomaly cancellation between the bulk and boundary actions. The method relies on the fact that bulk actions are easily constructed in general using the Dolbeault index theorem. The resulting algebras are shown to agree with explicit edge mode calculations for cases where they are available. We also comment on the similarities and differences in the nature of these transformations between two and higher dimensions.</description>
+      <source url="https://doi.org/10.1103/l8nj-kpgg">Physical Review D</source>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pkkh-t861</guid>
-    </item><item>
-      <title>First estimation of model parameters for neutrino-induced nucleon knockout using simulation-based inference</title>
-      <link>https://doi.org/10.1103/tzhn-7tcq</link>
-      <description>To enable an accurate determination of oscillation parameters, accelerator-based neutrino experiments require detailed simulations of nuclear interaction physics in the GeV regime. While substantial effort from both theory and experiment is currently being invested to improve the fidelity of these simulations, their present deficiencies typically oblige experimental collaborations to resort to empirical tuning of simulation model parameters. As the precision requirements of the field continue to become more stringent, machine learning techniques may provide a powerful means of handling corresponding growth in the complexity of future neutrino interaction model tuning exercises. To study the suitability of simulation-based inference (SBI) for this physics application, in this paper we revisit a tuned configuration of the genie neutrino configuration generator that was originally developed by the MicroBooNE collaboration. Despite closely reproducing the adopted values of four physics par</description>
-      <source url="https://doi.org/10.1103/tzhn-7tcq">Physical Review D</source>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tzhn-7tcq</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/l8nj-kpgg</guid>
     </item><item>
       <title>Mellin moments of pion and kaon unpolarized PDFs from nonlocal operators in lattice QCD</title>
       <link>https://doi.org/10.1103/fw2x-3hl3</link>
@@ -153,6 +132,13 @@
       <source url="https://doi.org/10.1103/fw2x-3hl3">Physical Review D</source>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/fw2x-3hl3</guid>
+    </item><item>
+      <title>Cosmological limits on strong dark forces</title>
+      <link>https://doi.org/10.1103/pkkh-t861</link>
+      <description>We showcase cosmology’s ability to constrain long-range forces between dark matter particles. Specifically, we consider a fermionic dark matter interacting via a Yukawa-coupled light scalar, focusing on regimes where the dark forces are stronger than gravitational and yet unconstrained. We show that the dark sector dynamics, both at the background and perturbation levels, is far richer than what can be captured with just the static interparticle Yukawa potential. The background dynamics includes an attractor that funnels a wide range of initial conditions onto an evolution unique to each parameter space. In a large swath of parameter space beyond existing limits, the dark sector deviates drastically from cold dark matter in observable epochs. We rule out this parameter space using existing constraints on dark-sector equation of state and small-scale cosmic perturbations, thus setting the strongest constraints yet on dark matter self-interactions at length scales shorter than 100 kpc. I</description>
+      <source url="https://doi.org/10.1103/pkkh-t861">Physical Review D</source>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pkkh-t861</guid>
     </item>
   </channel>
 </rss>
