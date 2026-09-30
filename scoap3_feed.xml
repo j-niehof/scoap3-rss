@@ -5,8 +5,53 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 16:17:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:13:27 +0000</lastBuildDate>
     <item>
+      <title>Generalized parton distributions from symbolic regression</title>
+      <link>https://doi.org/10.1103/ynm6-znr4</link>
+      <description>Artificial intelligence/machine learning–informed symbolic regression is the next stage of scientific modeling. We utilize a highly customizable symbolic regression package “PySR” (python symbolic regression) to model the x and t dependence of the flavor isovector combination Hu−d(x,t,ξ) at ξ=0. These PySR models were trained on generalized parton distribution (GPD) results provided by both lattice QCD and phenomenological sources Goldstein Gonzalez Liuti, Goloskokov Kroll, and Vanderhaeghen Guichon Guidal. We demonstrate, for the first time, the consistency and systematic convergence of symbolic regression by quantifying the disparate models through their Taylor expansion coefficients. In addition to PySR penalizing models with higher complexity and mean-squared error, we implement schemes that test specific physics hypotheses, including force-factorized x and t dependence and Regge behavior in PySR GPDs. We show that PySR can identify factorizing GPD sources based on their response t</description>
+      <source url="https://doi.org/10.1103/ynm6-znr4">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ynm6-znr4</guid>
+    </item><item>
+      <title>Generalized parton distributions from symbolic regression</title>
+      <link>https://doi.org/10.1103/ynm6-znr4</link>
+      <description>Artificial intelligence/machine learning–informed symbolic regression is the next stage of scientific modeling. We utilize a highly customizable symbolic regression package “PySR” (python symbolic regression) to model the x and t dependence of the flavor isovector combination Hu−d(x,t,ξ) at ξ=0. These PySR models were trained on generalized parton distribution (GPD) results provided by both lattice QCD and phenomenological sources Goldstein Gonzalez Liuti, Goloskokov Kroll, and Vanderhaeghen Guichon Guidal. We demonstrate, for the first time, the consistency and systematic convergence of symbolic regression by quantifying the disparate models through their Taylor expansion coefficients. In addition to PySR penalizing models with higher complexity and mean-squared error, we implement schemes that test specific physics hypotheses, including force-factorized x and t dependence and Regge behavior in PySR GPDs. We show that PySR can identify factorizing GPD sources based on their response t</description>
+      <source url="https://doi.org/10.1103/ynm6-znr4">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ynm6-znr4</guid>
+    </item><item>
+      <title>14C resonant states revisited</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.140998</link>
+      <description>In neutron-rich nuclei clustering can form molecule-like structures, with neutrons acting like electrons in the covalent bonding to bind them. This can lead to predicted linear chains of α particles connected by neutron bonds analogous to π or σ atomic bonds. Here we present for the first time an experimental study of both the π-and σ-bond configurations in the neutron-rich 14C nucleus produced via the 10Be+ 4He reaction. We report elastic and inelastic scattering excitation functions measured over a broader energy range than previously available and, for the first time, provide the excitation function for the 4He( 10Be, 6He) 8Be reaction. The previously identified positive-parity π-bond linear-chain band in 14C is revisited. Possible signatures of a negative-parity clustered configuration with similar rotational characteristics are also examined. Moreover, new evidence for a possible σ-bond configuration is discussed. Furthermore, the broad structures observed near 19 and 22.5 MeV are</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.140998">Physics Letters B</source>
+      <author>et al.</author>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140998</guid>
+    </item><item>
+      <title>Universal SMEFT as a tool for discovery of universal new physics at the high luminosity LHC</title>
+      <link>https://doi.org/10.1103/jcs6-lbpq</link>
+      <description>We analyze the potential of the Universal SMEFT as a tool to study universal new physics in the neutral and charged Drell-Yan processes at the high-luminosity LHC. In order to do so, we generated pseudodata containing the contributions of beyond the standard model vector bosons to the dilepton production. Our results show that fits with the minimal theoretical bias can be used not only to unveil the existence of new physics but also to accurately extract its properties. Moreover, the results are rather stable with respect to the order of truncation of the effective field theory.</description>
+      <source url="https://doi.org/10.1103/jcs6-lbpq">Physical Review D</source>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jcs6-lbpq</guid>
+    </item><item>
+      <title>Calorimetric approach to paleodetection of dark matter</title>
+      <link>https://doi.org/10.1103/818g-2t94</link>
+      <description>We present the first paleodetector dark-matter sensitivity analysis based on a calorimetric readout, in which the number of stable lattice vacancies produced by each nuclear recoil is used as a per-event observable complementary to the track length. Using full-cascade srim simulations in olivine, we compute the expected sensitivity for a 100 g·1 Gyr exposure. We find that a vacancy-only readout reaches a sensitivity envelope very similar to that of state-of-the-art track-only analyses. The combination of the two observables provides an event-by-event proxy for |dE/dx| and hence for the recoiling nuclear species. Since the neutron-nucleus cross section is approximately flat in nuclear mass while the dark-matter–nucleus cross section scales as A2, this discrimination suppresses the dominant neutron background by more than an order of magnitude at moderate dark-matter masses. The combined-analysis sensitivity reaches spin-independent dark-matter–nucleon cross sections of order 10−48 cm2 a</description>
+      <source url="https://doi.org/10.1103/818g-2t94">Physical Review D</source>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/818g-2t94</guid>
+    </item><item>
+      <title>New approach to determine the thermodynamics of deconfined matter to high accuracy</title>
+      <link>https://doi.org/10.1103/wd4z-cqw3</link>
+      <description>We demonstrate that at finite density and sufficiently high temperatures, phase-quenched (PQ) lattice simulations combined with perturbation theory provide a new precision approach to determining the thermodynamics of QCD across a wide arc of the phase diagram where the strong coupling constant αs remains small. In this regime, nonperturbative pairing effects in the PQ theory are parametrically suppressed, so that the difference between the PQ and full QCD pressures becomes a small perturbative correction. We compute this correction up to and including O(αs7/2) using electrostatic QCD together with a novel numerical method to compute four-loop sum-integrals. This enables the determination of the perturbative QCD pressure with precision beyond the current state of the art while including nonperturbative pure-gluonic contributions from the lattice.</description>
+      <source url="https://doi.org/10.1103/wd4z-cqw3">Physical Review D</source>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/wd4z-cqw3</guid>
+    </item><item>
       <title>Observation of a Bc*+ Meson with the ATLAS Detector</title>
       <link>https://doi.org/10.1103/vrxp-zkbs</link>
       <description>The first observation of a new meson state decaying into Bc+ and a photon is presented using a dataset of pp collisions at a center-of-mass energy s=13 TeV collected by the ATLAS detector at the Large Hadron Collider, corresponding to an integrated luminosity of 140 fb−1. The Bc+ mesons are reconstructed from a three-muon final state from Bc+→J/ψ(μ+μ−)μ+νμX decays, along with photons reconstructed via conversions to electron-positron pairs in the detector material. The new state is observed with a significance that exceeds 8 standard deviations. The mass difference between the new meson state and the ground-state Bc+ meson is measured to be 64.5±1.4(stat) −1.4+1.0(syst) MeV. This corresponds to a mass for the observed state of 6339.0±1.4(stat) −1.4+1.0(syst)±0.3(mBc+) MeV, where the last uncertainty is due to the precision of the best knowledge of the Bc+ meson mass. The low mass difference value matches the theory expectations for the lowest vector state of the b¯c system, the Bc*+ me</description>
@@ -23,12 +68,12 @@
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ss6l-7c3r</guid>
     </item><item>
-      <title>Critical coupling with zero-mode corrections in discretized light-cone quantized ϕ 4 theory</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.140992</link>
-      <description>We present an advancement for solving the Discretized Light-Cone Quantization (DLCQ) Hamiltonian for mass spectra in 2D ϕ 4 theory that incorporates perturbative zero-mode contributions. We demonstrate that this correction accelerates numerical convergence of the mass eigenstates with increasing resolution and yields a critical coupling of comparable accuracy with a substantial reduction in computational costs. Specifically, with more than one order of magnitude reduction in basis space dimensionality we achieve an extrapolated critical coupling λc/ μ 2 of 23.10 ± 0.25 compared with 23.53 ± 0.26 in the larger basis but without zero-mode correction. We employ Gaussian Process Regression for extrapolation to the continuum limit. The approach we present here is prospective for studies of higher-dimensional gauge theories.</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.140992">Physics Letters B</source>
+      <title>On the physics of higher condensation defects</title>
+      <link>https://doi.org/10.1007/JHEP09(2026)272</link>
+      <description>We study the structure of topological defects for finite Abelian symmetries in quantum field theories, and argue on physical grounds that they satisfy the definition of a higher fusion category proposed by Johnson-Freyd. Our primary focus is on the requirement of Karoubi completeness, i.e. the factorization conditions on higher condensation defects. We demonstrate this on a tree of such defects, constructed by successive higher gauging, explicitly using Lagrangian techniques in a concrete four-dimensional example, before turning to more general field theories. Along the way we also comment on the phenomenon where decoupled topological field theories appear as fusion coefficients. We further discuss the categorical role of anomalies, and how they may affect the properties of (higher) condensation defects.</description>
+      <source url="https://doi.org/10.1007/JHEP09(2026)272">Journal of High Energy Physics</source>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140992</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)272</guid>
     </item><item>
       <title>Probing dark matter interactions with a RES–NOVA prototype cryogenic detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16215-9</link>
@@ -45,21 +90,26 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16384-7</guid>
     </item><item>
-      <title>Measurement of isolated-prompt photon–hadron correlations in Pb–Pb collisions at sqrts_textrmNN = 5.02 TeV</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16192-z</link>
-      <description>The ALICE Collaboration has measured the azimuthal correlation between trigger isolated-prompt photons and associated charged hadrons in Pb–Pb collisions at the CERN LHC, at a centre-of-mass energy per nucleon pair of sqrts_textrmNN~=~5.02 TeV. The trigger isolated-prompt photons are measured in the transverse-momentum range 18 1.8 GeV/c and pseudorapidity |eta ^textrmh| &lt;0.9 . The yield D( z_textrmT ) of associated hadrons per trigger, with z_textrmT = p_textrmT^textrmh/p_textrmT^γ , is measured in three Pb–Pb collision centrality classes: central (0–30%), semicentral (30–50%), and peripheral (50–90%). The D( z_textrmT ) measurement in pp collisions with the same p_textrmT^γ interval was too limited statistically, but at a lower p_textrmT^γ interval, showing agreement with theoretical predictions. Therefore, an approximation to the standard I_textrmAA is computed from the D( z_textrmT ) conditional yields, using NLO pQCD predictions as pp reference, the I_textrmpQCD . A strong suppres</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16192-z">European Physical Journal C</source>
-      <author>et al.</author>
+      <title>Resonant Enhancement for the transfer of baryon number from a CP-violating hidden sector</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16384-7</link>
+      <description>We consider a scenario where the baryon asymmetry in the SM arises from a portal coupling to a CP-violating hidden sector, without any explicit violation of baryon or lepton number in either sector. While no net baryon number is generated, equal and opposite baryon numbers can be sequestered between the two sectors in this scenario. The observed asymmetry must be generated below the electroweak scale in order to avoid washout. By considering a benchmark model incorporating the baryon portal and a minimal hidden sector, we review the prospects of this scenario. When the asymmetry is generated via the decay of top quarks, generic input parameters for the model are sufficient. If however the asymmetry is to be generated via the decay of bottom quarks, a resonant enhancement is needed to sequester the baryon number with maximal efficiency. The scenario of mesogenesis assisted by CP-violation in a hidden sector falls into this latter category. We use analytical and numerical methods to quan</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16384-7">European Physical Journal C</source>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16192-z</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16384-7</guid>
     </item><item>
-      <title>π , K, and p production in high-multiplicity pp collisions at mathbf sqrt s = 13 TeV</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16235-5</link>
-      <description>This paper presents the measurement of π ^± , text K^± , and p( bartext p ) production in high-multiplicity proton–proton collisions at sqrts=13 TeV at midrapidity ( |y| &lt; 0.5 ) using the ALICE detector at the LHC. The transverse-momentum ( p_textrmT ) spectra of these particles are reported for three high-multiplicity classes. The results show a mass-and multiplicity-dependent hardening of the p_textrmT spectra and an enhancement of the p/ π ratio at intermediate p_textrmT . These features are similar to those observed in heavy-ion collisions, where quark–gluon plasma formation is expected. The new measurements have extended the highest average charged-particle multiplicity density per unit of pseudorapidity achieved in pp collisions, roughly a factor five higher than that in average inelastic pp collisions, thereby reducing the multiplicity gap between small and large collision systems. In addition, the results are further compared with previously published measurements and with mode</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16235-5">European Physical Journal C</source>
-      <author>et al.</author>
+      <title>Primordial black holes are five dimensional</title>
+      <link>https://doi.org/10.1103/g12h-93th</link>
+      <description>We revisit well-established mechanisms for primordial black hole (PBH) production, namely inflation, phase transitions, and cosmic strings, in the context of the dark dimension scenario, which is motivated by swampland principles. Applying quantum gravity constraints, we demonstrate that any viable mechanism, barring exotic new physics at low energies, inevitably leads to the formation of five-dimensional PBHs. We further show that PBHs formed from cosmic strings can have lifetimes comparable to the age of the Universe. We comment on the observational implications of this result, including a potential connection to the recent detection of a high-energy neutrino by KM3NeT, whose energy is intriguingly close to the five-dimensional Planck scale in the dark dimension scenario.</description>
+      <source url="https://doi.org/10.1103/g12h-93th">Physical Review D</source>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16235-5</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/g12h-93th</guid>
+    </item><item>
+      <title>Revisiting fermion bound states in baby-Skyrme background with Dzyaloshinskii-Moriya interaction</title>
+      <link>https://doi.org/10.1103/vb8v-tytg</link>
+      <description>In this paper, we investigate a fermion coupled to a Skyrme model in 2+1 dimensions, where the skyrmion is stabilized by the Dzyaloshinskii-Moriya and Skyrme interactions under a quadratic potential. This framework interpolates between the magnetic skyrmion at the critical coupling and the baby-Skyrme limit. The Dirac equation is studied both analytically in a non-relativistic reduction and numerically for the full relativistic spectrum, and the parameter region admitting states bound to the skyrmion is determined. Localized solutions exist only for electrically charged fermions with positive charge and negative angular momentum, and are absent for neutral fermions. The lowest bound state in each angular momentum sector is characterized as a function of the fermion mass, charge, and the coupling h to the skyrmion isospin, and its behavior is compared across the magnetic, baby, and mixed skyrmion backgrounds. The resulting fermion-skyrmion composite constitutes an electrically charged s</description>
+      <source url="https://doi.org/10.1103/vb8v-tytg">Physical Review D</source>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vb8v-tytg</guid>
     </item><item>
       <title>Deep-learning denoising of radio signals for ultra-high-energy cosmic-ray detection</title>
       <link>https://doi.org/10.1103/29jx-bcgq</link>
@@ -75,13 +125,6 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/pc9s-b56k</guid>
     </item><item>
-      <title>Revisiting fermion bound states in baby-Skyrme background with Dzyaloshinskii-Moriya interaction</title>
-      <link>https://doi.org/10.1103/vb8v-tytg</link>
-      <description>In this paper, we investigate a fermion coupled to a Skyrme model in 2+1 dimensions, where the skyrmion is stabilized by the Dzyaloshinskii-Moriya and Skyrme interactions under a quadratic potential. This framework interpolates between the magnetic skyrmion at the critical coupling and the baby-Skyrme limit. The Dirac equation is studied both analytically in a non-relativistic reduction and numerically for the full relativistic spectrum, and the parameter region admitting states bound to the skyrmion is determined. Localized solutions exist only for electrically charged fermions with positive charge and negative angular momentum, and are absent for neutral fermions. The lowest bound state in each angular momentum sector is characterized as a function of the fermion mass, charge, and the coupling h to the skyrmion isospin, and its behavior is compared across the magnetic, baby, and mixed skyrmion backgrounds. The resulting fermion-skyrmion composite constitutes an electrically charged s</description>
-      <source url="https://doi.org/10.1103/vb8v-tytg">Physical Review D</source>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vb8v-tytg</guid>
-    </item><item>
       <title>Constraints on light QCD and CP-violating axions from the death line of rotation-powered pulsars</title>
       <link>https://doi.org/10.1103/jdmb-rws8</link>
       <description>Dense nuclear matter can modify the effective potential of axions, displacing them from their vacuum minimum and sourcing large external field gradients (“axion hair”). In the case of neutron stars, axion hair directly modifies the electrodynamic processes operating on the open field-line region, strongly enhancing or suppressing the acceleration experienced by ambient charges. As a result, the point in the neutron star lifetime at which pair cascades cease—known as pulsar “death”—can be dramatically altered, allowing for much older pulsars to emit observable radio emission. We study the pair discharge process in the presence of axion hair using semianalytic techniques and particle-in-cell simulations and use these results alongside pulsar demographics to derive new constraints on light QCD axions with non-negligible axion-photon coupling and CP-violating axion-nucleon interactions. We also illustrate how nearly orthogonal rotators, where emission is observed from both poles (such as i</description>
@@ -89,13 +132,6 @@
       <author>et al.</author>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/jdmb-rws8</guid>
-    </item><item>
-      <title>Refining gravitational wave and collider physics dialogue via singlet scalar extension</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)260</link>
-      <description>Employing effective field theory techniques, we advance computations of thermal parameters that enter predictions for the gravitational wave spectra from first-order electroweak phase transitions. Working with the real-singlet-extended Standard Model, we utilize recent lattice simulations to confirm the existence of first-order phase transitions across the free parameter space. For the first time, we account for several important two-loop corrections in the high-temperature expansion for determining thermal parameters, including the bubble wall velocity in the local thermal equilibrium approximation. We find that the requirement of completing bubble nucleation imposes stringent bounds on the new scalar boson mass. Moreover, the prospects for detection by LISA require first-order phase transitions in a two-step phase transition, which display strong sensitivity to the portal coupling between the Higgs and the singlet. Interestingly, signals from di-Higgs boson production at the HL-LHC p</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)260">Journal of High Energy Physics</source>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)260</guid>
     </item><item>
       <title>Emergent states and algebras from the double-scaling limit of pure states in SYK</title>
       <link>https://doi.org/10.1007/JHEP09(2026)263</link>
@@ -118,28 +154,6 @@
       <author>et al.</author>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/27s7-2frt</guid>
-    </item><item>
-      <title>Non-Gaussian hydrodynamic fluctuations in an expanding relativistic fluid</title>
-      <link>https://doi.org/10.1103/hzvz-yfg1</link>
-      <description>We consider nonequilibrium evolution of non-Gaussian fluctuations in a hydrodynamic system undergoing a boost-invariant expansion described by Bjorken flow. We derive the evolution equations for two-and three-point velocity correlators using the effective field-theory framework and present analytical solutions for them. We show that the average Landau frame is better suited for studying non-Gaussian fluctuations of velocity when relativistic effects are important. In the Bjorken background, the average Landau frame corresponds to the density frame. We demonstrate that the three-point correlators depend nonlinearly on the nonequilibrium dynamics of the two-point functions and exhibit nontrivial effects such as memory. The importance of these effects in the context of the search for the QCD critical point via fluctuations is discussed.</description>
-      <source url="https://doi.org/10.1103/hzvz-yfg1">Physical Review C</source>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hzvz-yfg1</guid>
-    </item><item>
-      <title>“It from Bit”: the Hartle-Hawking state and quantum mechanics for de Sitter observers</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)252</link>
-      <description>The one-state statement for closed universes has sparked considerable discussion. In this paper, we examine its physical meaning in the context of the Hartle-Hawking state and de Sitter space. We argue that the one-state property of closed universes is fully compatible with the finite-dimensional quantum mechanics experienced by observers inside de Sitter space, and that this compatibility requires neither mixing of α-sectors nor any modification of the rules of the gravitational path integral. The apparent tension is resolved by sharply distinguishing the baby-universe Hilbert space (the space of closed universes viewed from the outside) from the bulk Hilbert space that governs quantum mechanics for an observer inside a single de Sitter universe.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)252">Journal of High Energy Physics</source>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)252</guid>
-    </item><item>
-      <title>Precision Studies and Searches for CP Asymmetries in the Inclusive Decay Λc+→ΛX</title>
-      <link>https://doi.org/10.1103/cxm9-mr48</link>
-      <description>Based on e+e− annihilation data collected with the BESIII detector at center-of-mass energies from 4.600 to 4.699 GeV, corresponding to an integrated luminosity of 4.5 fb−1, we present the first measurement of the longitudinal polarization of Λ hyperon produced in the inclusive decay Λc+→ΛX, where X denotes any allowed final states. The polarizations are determined to be PΛ=−0.393±0.055stat±0.020syst and PΛ¯=0.288±0.056stat±0.017syst. A search for CP violation is performed using an asymmetry constructed from the Λ polarization and the Λ→pπ− decay asymmetry parameter, and ACPpol=0.15±0.12stat±0.03syst was obtained. Furthermore, an updated measurement of the absolute branching fraction is reported as B(Λc+→ΛX)=(38.07±0.38stat±0.49syst)%, representing a fourfold precision improvement over the previous BESIII measurement. A search for CP violation in the decay rate yields ACPdir=(1.5±1.0stat±1.0syst)%. No evidence for CP violation is observed in this inclusive charm baryon decay. The subsc</description>
-      <source url="https://doi.org/10.1103/cxm9-mr48">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cxm9-mr48</guid>
     </item>
   </channel>
 </rss>
