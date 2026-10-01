@@ -5,15 +5,44 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:50:25 +0000</lastBuildDate>
     <item>
-      <title>Generalized parton distributions from symbolic regression</title>
-      <link>https://doi.org/10.1103/ynm6-znr4</link>
-      <description>Artificial intelligence/machine learning–informed symbolic regression is the next stage of scientific modeling. We utilize a highly customizable symbolic regression package “PySR” (python symbolic regression) to model the x and t dependence of the flavor isovector combination Hu−d(x,t,ξ) at ξ=0. These PySR models were trained on generalized parton distribution (GPD) results provided by both lattice QCD and phenomenological sources Goldstein Gonzalez Liuti, Goloskokov Kroll, and Vanderhaeghen Guichon Guidal. We demonstrate, for the first time, the consistency and systematic convergence of symbolic regression by quantifying the disparate models through their Taylor expansion coefficients. In addition to PySR penalizing models with higher complexity and mean-squared error, we implement schemes that test specific physics hypotheses, including force-factorized x and t dependence and Regge behavior in PySR GPDs. We show that PySR can identify factorizing GPD sources based on their response t</description>
-      <source url="https://doi.org/10.1103/ynm6-znr4">Physical Review D</source>
+      <title>Interpolation between Sudakov and BFKL rapidity evolutions for TMD factorization at small x</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.141002</link>
+      <description>Within the framework of rapidity-only small-x TMD factorization, the evolution with respect to the rapidity cutoff is initially governed by Sudakov double logarithms and subsequently by BFKL/BK single logarithms. The evolution equation proposed in this paper correctly reproduces both the Sudakov and BFKL limits, while providing a consistent interpolation between these two regimes.</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.141002">Physics Letters B</source>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141002</guid>
+    </item><item>
+      <title>Measurement of branching fractions of Ds+→KS0KS0π+π0 and Ds+→KS0K+π0π0</title>
+      <link>https://doi.org/10.1103/7312-j4wm</link>
+      <description>By analyzing e+e− collision data corresponding to an integrated luminosity of 7.33 fb−1 collected with the BESIII detector at center-of-mass energies ranging from 4.128 to 4.226 GeV, we report the observations of the hadronic decays Ds+→KS0KS0π+π0 and Ds+→KS0K+π0π0. Their decay branching fractions are determined to be B(Ds+→KS0KS0π+π0)=(4.08±0.46stat±0.45syst)×10−3 and B(Ds+→KS0K+π0π0)=(3.32±0.64stat±0.31syst)×10−3, where the first uncertainties are statistical and the second are systematic.</description>
+      <source url="https://doi.org/10.1103/7312-j4wm">Physical Review D</source>
       <author>et al.</author>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ynm6-znr4</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/7312-j4wm</guid>
+    </item><item>
+      <title>Optimal architecture and fundamental bounds in neural network field theory</title>
+      <link>https://doi.org/10.1103/4fzf-tpsv</link>
+      <description>Neural network field theory (NNFT) represents fields as neural networks and samples field configurations by drawing network parameters from a probability distribution. We identify a previously unexplored architectural freedom in NNFT, parametrized by α, that leaves the infinite-width theory invariant but dramatically affects finite-width errors in the calculation of correlation functions. For a massive scalar field, we show that α=0, corresponding to propagator-weighted neuron momenta and constant neuron amplitudes, is optimal: it minimizes finite-width variance and uniquely removes IR-sensitive corrections in the interacting theory. Even at α=0, relative errors from both bias and variance grow exponentially with distance beyond the correlation length. The bias can be removed by extrapolating to infinite width, which we demonstrate numerically, while the variance imposes a fundamental bound on the achievable signal-to-noise ratio as in lattice field theory. These results chart a path t</description>
+      <source url="https://doi.org/10.1103/4fzf-tpsv">Physical Review D</source>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4fzf-tpsv</guid>
+    </item><item>
+      <title>CKM blind spot: Probing b-column rescaling with kaons</title>
+      <link>https://doi.org/10.1103/hynj-9y11</link>
+      <description>Cabibbo–Kobayashi–Maskawa unitarity triangle constraints are insensitive to new physics scenarios in which the b column is uniformly rescaled. This is because B physics data overconstrain the angles of the (bd) unitarity triangle, but only calibrate its normalization. We identify this flat direction and derive model-independent constraints on the rescaling. We find that |ϵK| already constrains the rescaling at the same level as the direct measurement of the b-column normalization, with current data allowing for O(4%) deviations. Projected inputs promote the kaon sector to be the leading probe. A toy model employing mixing with a vectorlike up-type singlet provides a proof of principle for a possible UV realization.</description>
+      <source url="https://doi.org/10.1103/hynj-9y11">Physical Review D</source>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hynj-9y11</guid>
+    </item><item>
+      <title>Enhancing electromagnetic calorimeter signal reconstruction with machine learning-based noise discrimination</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16346-z</link>
+      <description>Calorimeters operating in high-radiation environments are susceptible to damage, leading to increased noise that can significantly degrade energy resolution. A common way to mitigate noise is to apply a higher energy threshold on the calorimeter cells, typically set a few standard deviations above the noise level. However, this method risks discarding cells with genuine energy deposits, worsening the energy resolution and the energy deposit pattern. In this paper, we investigate graph neural network (GNN) based algorithms as an alternative to rigid energy thresholds. The proposed approach exploits the full pulse-shape information together with the correlations among energy deposits in individual cells within an electromagnetic cluster. The study is performed using a standalone Geant4 simulation of an 11× 11 matrix of lead tungstate crystals. To simulate it in a more realistic way, we demonstrate that the machine learning based method significantly outperforms a simple threshold based s</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16346-z">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16346-z</guid>
     </item><item>
       <title>Generalized parton distributions from symbolic regression</title>
       <link>https://doi.org/10.1103/ynm6-znr4</link>
@@ -23,13 +52,13 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ynm6-znr4</guid>
     </item><item>
-      <title>14C resonant states revisited</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.140998</link>
-      <description>In neutron-rich nuclei clustering can form molecule-like structures, with neutrons acting like electrons in the covalent bonding to bind them. This can lead to predicted linear chains of α particles connected by neutron bonds analogous to π or σ atomic bonds. Here we present for the first time an experimental study of both the π-and σ-bond configurations in the neutron-rich 14C nucleus produced via the 10Be+ 4He reaction. We report elastic and inelastic scattering excitation functions measured over a broader energy range than previously available and, for the first time, provide the excitation function for the 4He( 10Be, 6He) 8Be reaction. The previously identified positive-parity π-bond linear-chain band in 14C is revisited. Possible signatures of a negative-parity clustered configuration with similar rotational characteristics are also examined. Moreover, new evidence for a possible σ-bond configuration is discussed. Furthermore, the broad structures observed near 19 and 22.5 MeV are</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.140998">Physics Letters B</source>
+      <title>Observation of ϒ(1S)+Z Associated Production and Measurement of the Effective Double-Parton Scattering Cross Section in Proton-Proton Collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/hgvs-jplv</link>
+      <description>The observation of the associated production of an ϒ(1S) meson with a Z boson and a measurement of the ratio of its fiducial cross section to the fiducial cross section of the Z boson are presented. Both the ϒ(1S) meson and the Z boson are identified via decays into a pair of opposite-sign muons. The analysis is based on proton-proton (pp) collision data at s=13 TeV collected with the CMS detector in 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. Using the production of the Z boson decaying into four muons as a normalization channel, the ratio of the fiducial cross sections σ[pp→Z+ϒ(1S)]B(Z→μ+μ−)B[ϒ(1S)→μ+μ−] to σ(pp→Z)B(Z→4μ) is measured to be RZ+ϒ(1S)=[21.1±5.5(stat)±0.6(syst)]×10−3, where stat and syst denote the statistical and systematic uncertainties, respectively. The result is used to extract the effective double-parton scattering cross section σeff=13.0−3.4+7.7 mb. In addition, for the first time, σeff is measured in bins of the transverse momentum of the</description>
+      <source url="https://doi.org/10.1103/hgvs-jplv">Physical Review Letters</source>
       <author>et al.</author>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.140998</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hgvs-jplv</guid>
     </item><item>
       <title>Universal SMEFT as a tool for discovery of universal new physics at the high luminosity LHC</title>
       <link>https://doi.org/10.1103/jcs6-lbpq</link>
@@ -37,6 +66,21 @@
       <source url="https://doi.org/10.1103/jcs6-lbpq">Physical Review D</source>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/jcs6-lbpq</guid>
+    </item><item>
+      <title>Observation of ϒ(1S)+Z Associated Production and Measurement of the Effective Double-Parton Scattering Cross Section in Proton-Proton Collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/hgvs-jplv</link>
+      <description>The observation of the associated production of an ϒ(1S) meson with a Z boson and a measurement of the ratio of its fiducial cross section to the fiducial cross section of the Z boson are presented. Both the ϒ(1S) meson and the Z boson are identified via decays into a pair of opposite-sign muons. The analysis is based on proton-proton (pp) collision data at s=13 TeV collected with the CMS detector in 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. Using the production of the Z boson decaying into four muons as a normalization channel, the ratio of the fiducial cross sections σ[pp→Z+ϒ(1S)]B(Z→μ+μ−)B[ϒ(1S)→μ+μ−] to σ(pp→Z)B(Z→4μ) is measured to be RZ+ϒ(1S)=[21.1±5.5(stat)±0.6(syst)]×10−3, where stat and syst denote the statistical and systematic uncertainties, respectively. The result is used to extract the effective double-parton scattering cross section σeff=13.0−3.4+7.7 mb. In addition, for the first time, σeff is measured in bins of the transverse momentum of the</description>
+      <source url="https://doi.org/10.1103/hgvs-jplv">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hgvs-jplv</guid>
+    </item><item>
+      <title>Calorimetric approach to paleodetection of dark matter</title>
+      <link>https://doi.org/10.1103/818g-2t94</link>
+      <description>We present the first paleodetector dark-matter sensitivity analysis based on a calorimetric readout, in which the number of stable lattice vacancies produced by each nuclear recoil is used as a per-event observable complementary to the track length. Using full-cascade srim simulations in olivine, we compute the expected sensitivity for a 100 g·1 Gyr exposure. We find that a vacancy-only readout reaches a sensitivity envelope very similar to that of state-of-the-art track-only analyses. The combination of the two observables provides an event-by-event proxy for |dE/dx| and hence for the recoiling nuclear species. Since the neutron-nucleus cross section is approximately flat in nuclear mass while the dark-matter–nucleus cross section scales as A2, this discrimination suppresses the dominant neutron background by more than an order of magnitude at moderate dark-matter masses. The combined-analysis sensitivity reaches spin-independent dark-matter–nucleon cross sections of order 10−48 cm2 a</description>
+      <source url="https://doi.org/10.1103/818g-2t94">Physical Review D</source>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/818g-2t94</guid>
     </item><item>
       <title>Calorimetric approach to paleodetection of dark matter</title>
       <link>https://doi.org/10.1103/818g-2t94</link>
@@ -68,13 +112,6 @@
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ss6l-7c3r</guid>
     </item><item>
-      <title>On the physics of higher condensation defects</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)272</link>
-      <description>We study the structure of topological defects for finite Abelian symmetries in quantum field theories, and argue on physical grounds that they satisfy the definition of a higher fusion category proposed by Johnson-Freyd. Our primary focus is on the requirement of Karoubi completeness, i.e. the factorization conditions on higher condensation defects. We demonstrate this on a tree of such defects, constructed by successive higher gauging, explicitly using Lagrangian techniques in a concrete four-dimensional example, before turning to more general field theories. Along the way we also comment on the phenomenon where decoupled topological field theories appear as fusion coefficients. We further discuss the categorical role of anomalies, and how they may affect the properties of (higher) condensation defects.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)272">Journal of High Energy Physics</source>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)272</guid>
-    </item><item>
       <title>Probing dark matter interactions with a RES–NOVA prototype cryogenic detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16215-9</link>
       <description>We report on the operation of a 13 g PbWO _4 crystal, grown from archaeological Pb and operated as a cryogenic calorimeter in an underground environment. Read out with a Ge thermistor, the detector achieves a low energy threshold and, for the first time, enables the derivation of a dark matter exclusion limit using PbWO _4 as target material, for both spin-dependent interactions on neutrons and spin-independent interactions. Although limited in mass and not representative of the final RES–NOVA detector design, this prototype demonstrates effective control of mechanical vibrations and low-energy noise in a cryogenic system, which is a key requirement for rare-event searches. The experiment therefore provides a proof of principle for the RES–NOVA detection concept, validating the use of archaeological Pb-based PbWO _4 crystals, low-background operation, and robust data-analysis procedures. These results establish a solid technological and methodological foundation for future RES–NOVA det</description>
@@ -90,26 +127,21 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16384-7</guid>
     </item><item>
-      <title>Resonant Enhancement for the transfer of baryon number from a CP-violating hidden sector</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16384-7</link>
-      <description>We consider a scenario where the baryon asymmetry in the SM arises from a portal coupling to a CP-violating hidden sector, without any explicit violation of baryon or lepton number in either sector. While no net baryon number is generated, equal and opposite baryon numbers can be sequestered between the two sectors in this scenario. The observed asymmetry must be generated below the electroweak scale in order to avoid washout. By considering a benchmark model incorporating the baryon portal and a minimal hidden sector, we review the prospects of this scenario. When the asymmetry is generated via the decay of top quarks, generic input parameters for the model are sufficient. If however the asymmetry is to be generated via the decay of bottom quarks, a resonant enhancement is needed to sequester the baryon number with maximal efficiency. The scenario of mesogenesis assisted by CP-violation in a hidden sector falls into this latter category. We use analytical and numerical methods to quan</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16384-7">European Physical Journal C</source>
+      <title>Measurement of isolated-prompt photon–hadron correlations in Pb–Pb collisions at sqrts_textrmNN = 5.02 TeV</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16192-z</link>
+      <description>The ALICE Collaboration has measured the azimuthal correlation between trigger isolated-prompt photons and associated charged hadrons in Pb–Pb collisions at the CERN LHC, at a centre-of-mass energy per nucleon pair of sqrts_textrmNN~=~5.02 TeV. The trigger isolated-prompt photons are measured in the transverse-momentum range 18 1.8 GeV/c and pseudorapidity |eta ^textrmh| &lt;0.9 . The yield D( z_textrmT ) of associated hadrons per trigger, with z_textrmT = p_textrmT^textrmh/p_textrmT^γ , is measured in three Pb–Pb collision centrality classes: central (0–30%), semicentral (30–50%), and peripheral (50–90%). The D( z_textrmT ) measurement in pp collisions with the same p_textrmT^γ interval was too limited statistically, but at a lower p_textrmT^γ interval, showing agreement with theoretical predictions. Therefore, an approximation to the standard I_textrmAA is computed from the D( z_textrmT ) conditional yields, using NLO pQCD predictions as pp reference, the I_textrmpQCD . A strong suppres</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16192-z">European Physical Journal C</source>
+      <author>et al.</author>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16384-7</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16192-z</guid>
     </item><item>
-      <title>Primordial black holes are five dimensional</title>
-      <link>https://doi.org/10.1103/g12h-93th</link>
-      <description>We revisit well-established mechanisms for primordial black hole (PBH) production, namely inflation, phase transitions, and cosmic strings, in the context of the dark dimension scenario, which is motivated by swampland principles. Applying quantum gravity constraints, we demonstrate that any viable mechanism, barring exotic new physics at low energies, inevitably leads to the formation of five-dimensional PBHs. We further show that PBHs formed from cosmic strings can have lifetimes comparable to the age of the Universe. We comment on the observational implications of this result, including a potential connection to the recent detection of a high-energy neutrino by KM3NeT, whose energy is intriguingly close to the five-dimensional Planck scale in the dark dimension scenario.</description>
-      <source url="https://doi.org/10.1103/g12h-93th">Physical Review D</source>
+      <title>π , K, and p production in high-multiplicity pp collisions at mathbf sqrt s = 13 TeV</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16235-5</link>
+      <description>This paper presents the measurement of π ^± , text K^± , and p( bartext p ) production in high-multiplicity proton–proton collisions at sqrts=13 TeV at midrapidity ( |y| &lt; 0.5 ) using the ALICE detector at the LHC. The transverse-momentum ( p_textrmT ) spectra of these particles are reported for three high-multiplicity classes. The results show a mass-and multiplicity-dependent hardening of the p_textrmT spectra and an enhancement of the p/ π ratio at intermediate p_textrmT . These features are similar to those observed in heavy-ion collisions, where quark–gluon plasma formation is expected. The new measurements have extended the highest average charged-particle multiplicity density per unit of pseudorapidity achieved in pp collisions, roughly a factor five higher than that in average inelastic pp collisions, thereby reducing the multiplicity gap between small and large collision systems. In addition, the results are further compared with previously published measurements and with mode</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16235-5">European Physical Journal C</source>
+      <author>et al.</author>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/g12h-93th</guid>
-    </item><item>
-      <title>Revisiting fermion bound states in baby-Skyrme background with Dzyaloshinskii-Moriya interaction</title>
-      <link>https://doi.org/10.1103/vb8v-tytg</link>
-      <description>In this paper, we investigate a fermion coupled to a Skyrme model in 2+1 dimensions, where the skyrmion is stabilized by the Dzyaloshinskii-Moriya and Skyrme interactions under a quadratic potential. This framework interpolates between the magnetic skyrmion at the critical coupling and the baby-Skyrme limit. The Dirac equation is studied both analytically in a non-relativistic reduction and numerically for the full relativistic spectrum, and the parameter region admitting states bound to the skyrmion is determined. Localized solutions exist only for electrically charged fermions with positive charge and negative angular momentum, and are absent for neutral fermions. The lowest bound state in each angular momentum sector is characterized as a function of the fermion mass, charge, and the coupling h to the skyrmion isospin, and its behavior is compared across the magnetic, baby, and mixed skyrmion backgrounds. The resulting fermion-skyrmion composite constitutes an electrically charged s</description>
-      <source url="https://doi.org/10.1103/vb8v-tytg">Physical Review D</source>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vb8v-tytg</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16235-5</guid>
     </item><item>
       <title>Deep-learning denoising of radio signals for ultra-high-energy cosmic-ray detection</title>
       <link>https://doi.org/10.1103/29jx-bcgq</link>
@@ -118,42 +150,12 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/29jx-bcgq</guid>
     </item><item>
-      <title>Wino and real minimal dark matter disfavored by Fermi gamma-ray observations</title>
-      <link>https://doi.org/10.1103/pc9s-b56k</link>
-      <description>We show that minimal, fermionic dark matter (DM) models in the n-dimensional representation of the weak force with zero hypercharge that make up 100% of the DM under the standard cosmological history are strongly disfavored for n9. This includes the thermal wino, which we show is ruled out even allowing for DM core sizes up to ∼6.7 kpc with the preferred local DM density or ∼3.7 kpc in addition to the local DM density being half the preferred value, at less than 0.2 GeV/cm3. We reach these conclusions through dedicated searches with 14 years of Fermi gamma-ray data in the inner Galaxy between 30 GeV and 2 TeV for the continuum gamma-rays produced in the decays of unstable particles produced in DM annihilation and bound-state formation processes. We consider a variety of Milky Way DM profiles in our analyses, including those motivated by modern hydrodynamic cosmological simulations, and show that all the n9 minimal DM models are disfavored even under the most conservative assumptions fo</description>
-      <source url="https://doi.org/10.1103/pc9s-b56k">Physical Review D</source>
+      <title>Revisiting fermion bound states in baby-Skyrme background with Dzyaloshinskii-Moriya interaction</title>
+      <link>https://doi.org/10.1103/vb8v-tytg</link>
+      <description>In this paper, we investigate a fermion coupled to a Skyrme model in 2+1 dimensions, where the skyrmion is stabilized by the Dzyaloshinskii-Moriya and Skyrme interactions under a quadratic potential. This framework interpolates between the magnetic skyrmion at the critical coupling and the baby-Skyrme limit. The Dirac equation is studied both analytically in a non-relativistic reduction and numerically for the full relativistic spectrum, and the parameter region admitting states bound to the skyrmion is determined. Localized solutions exist only for electrically charged fermions with positive charge and negative angular momentum, and are absent for neutral fermions. The lowest bound state in each angular momentum sector is characterized as a function of the fermion mass, charge, and the coupling h to the skyrmion isospin, and its behavior is compared across the magnetic, baby, and mixed skyrmion backgrounds. The resulting fermion-skyrmion composite constitutes an electrically charged s</description>
+      <source url="https://doi.org/10.1103/vb8v-tytg">Physical Review D</source>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pc9s-b56k</guid>
-    </item><item>
-      <title>Constraints on light QCD and CP-violating axions from the death line of rotation-powered pulsars</title>
-      <link>https://doi.org/10.1103/jdmb-rws8</link>
-      <description>Dense nuclear matter can modify the effective potential of axions, displacing them from their vacuum minimum and sourcing large external field gradients (“axion hair”). In the case of neutron stars, axion hair directly modifies the electrodynamic processes operating on the open field-line region, strongly enhancing or suppressing the acceleration experienced by ambient charges. As a result, the point in the neutron star lifetime at which pair cascades cease—known as pulsar “death”—can be dramatically altered, allowing for much older pulsars to emit observable radio emission. We study the pair discharge process in the presence of axion hair using semianalytic techniques and particle-in-cell simulations and use these results alongside pulsar demographics to derive new constraints on light QCD axions with non-negligible axion-photon coupling and CP-violating axion-nucleon interactions. We also illustrate how nearly orthogonal rotators, where emission is observed from both poles (such as i</description>
-      <source url="https://doi.org/10.1103/jdmb-rws8">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jdmb-rws8</guid>
-    </item><item>
-      <title>Emergent states and algebras from the double-scaling limit of pure states in SYK</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)263</link>
-      <description>Recent work has emphasized a subtlety of large-N limits in AdS/CFT: a sequence of pure states in the microscopic theory need not remain pure with respect to the emergent algebra of observables. We study this phenomenon for Kourkoulou-Maldacena (KM) states in the double-scaling limit of the SYK model, and show that their ensemble-averaged algebraic description depends crucially on which observables are retained in the limit. For fermionic operators of size p ∼ N , generic operators converge to the usual chord operators of double-scaled SYK. The resulting von Neumann algebra is the standard Type II factor, and the KM pure states at infinite temperature converge to the tracial state, so generic probes lose access to microscopic purity. We then identify a class of operators adapted to the KM state that also survive the double-scaling limit. Since the KM state may be viewed as a projection inside the tracial state, these operators become dressed chord creation and annihilation operators, wi</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)263">Journal of High Energy Physics</source>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)263</guid>
-    </item><item>
-      <title>Timelike Liouville theory and AdS3 gravity at finite cutoff</title>
-      <link>https://doi.org/10.1007/JHEP09(2026)264</link>
-      <description>We propose that AdS gravity with conformal boundary conditions is described by coupling the holographic CFT to timelike Liouville theory and deforming by an exactly marginal operator. In this description, the Liouville field controls the finite-cutoff radial wall in the bulk. We check this proposal in the semiclassical limit by matching the sphere and torus partition functions between the bulk and boundary theories. We also show that the Liouville field’s equation of motion gives the bulk Hamiltonian constraint. The strong coupling limit of our theory pushes the bulk description deep inside the interior of black hole geometries. This is also the flat-space limit, and it leads to a duality between 3d flat space and 2d CFT.</description>
-      <source url="https://doi.org/10.1007/JHEP09(2026)264">Journal of High Energy Physics</source>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP09(2026)264</guid>
-    </item><item>
-      <title>Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at s=13 TeV</title>
-      <link>https://doi.org/10.1103/27s7-2frt</link>
-      <description>This Letter presents a combination of searches for Higgs boson pair (HH) production performed by the ATLAS and CMS Collaborations using proton-proton collision datasets recorded at s=13 TeV during the Large Hadron Collider Run 2, corresponding to integrated luminosities ranging between 126 and 140 fb−1. The upper limit at the 95% confidence level on the total HH signal strength, defined as the ratio of the measured cross section to the standard model (SM) prediction, corresponds to 2.5, with an expected value of 1.7 (2.8) assuming the absence (presence) of the SM HH signal. The strength of the HH signal is measured to be 0.8−0.7+0.9 relative to the SM prediction. The observed significance is found to be 1.1 standard deviations whereas 1.3 are expected for the SM HH signal. Constraints are set on the Higgs boson trilinear self-coupling and on the couplings of two Higgs bosons to two vector bosons, both normalized to the SM predictions and denoted as κλ and κ2V, respectively. The observe</description>
-      <source url="https://doi.org/10.1103/27s7-2frt">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/27s7-2frt</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/vb8v-tytg</guid>
     </item>
   </channel>
 </rss>
