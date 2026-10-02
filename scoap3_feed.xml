@@ -5,8 +5,59 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:50:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:03:24 +0000</lastBuildDate>
     <item>
+      <title>Three-gluon scattering amplitude in de Sitter spacetime</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)008</link>
+      <description>We study three-gluon scattering amplitudes in global de Sitter spacetime, in the angular momentum basis of SO(1, 4) symmetry representations. At the tree level, they are determined by the intertwiner integrals of harmonic one-forms on the three-sphere. We derive a general formula valid for all helicity configurations of incoming and outgoing gluons and express the amplitudes in terms of Wigner 3j symbols.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)008">Journal of High Energy Physics</source>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)008</guid>
+    </item><item>
+      <title>Powerful Yukawas</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)019</link>
+      <description>We introduce a class of models where the masses of the light Standard Model fermions are due to an Effective Field Theory operator that appears beyond dimension-4 in the power counting expansion, resulting in a ‘Powerful Yukawa’. The effective Yukawa coupling structure is UV-completed using a collective symmetry breaking pattern in the flavour sector, which we dub ‘Sprouting Symmetry Breaking’. The irreducible signature is an enhanced Higgs coupling to the light Standard Model fermions.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)019">Journal of High Energy Physics</source>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)019</guid>
+    </item><item>
+      <title>Anchored random clusters and SLE excursions</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)015</link>
+      <description>We provide a pedagogical review of CFT techniques to compute certain Schramm-Loewner Evolution (SLE) observables in the upper half-plane. The approach relies on the ability to express the observables as bulk-boundary correlation functions that involve degenerate boundary operators and, therefore, obey certain differential equations. In particular, we recover Schramm’s left-passage probability for SLE, the SLE Green’s functions, and the generalized densities of “anchored” critical percolation clusters first obtained by Kleban, Simmons, and Ziff. We also obtain new formulas corresponding to the densities of pivotal points between critical Fortuin-Kasteleyn (FK) clusters.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)015">Journal of High Energy Physics</source>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)015</guid>
+    </item><item>
+      <title>Thermal leptogenesis in the Babu-Nandi-Tavartkiladze model of neutrino mass</title>
+      <link>https://doi.org/10.1103/lj7k-5c1q</link>
+      <description>We investigate neutrino mass and thermal leptogenesis in the Babu-Nandi-Tavartkiladze model featuring a scalar quadruplet (Φ) and a pair of vectorlike fermion triplets (Σ). In this framework, neutrino masses are generated via an effective dimension-7 operator LLHH(H†H)/Λ3 at the tree level and via the dimension-5 operator LLHH/Λ at the one-loop level. It naturally accommodates sub-eV neutrino masses even if the new physics scale Λ is O(TeV), thus making the model a compelling target for experimental searches. We explore the viability of thermal leptogenesis in this model, which is distinct from the canonical seesaw-based leptogenesis due to the presence of vector-like fermions. We find that leptogenesis is viable for MΣ≳107 GeV for a hierarchical spectrum of fermion triplets. However, in the quasidegenerate regime, resonant enhancement of the CP asymmetry lowers this scale down to O(TeV), reconciling successful leptogenesis with the originally motivated TeV-scale phenomenology and test</description>
+      <source url="https://doi.org/10.1103/lj7k-5c1q">Physical Review D</source>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/lj7k-5c1q</guid>
+    </item><item>
+      <title>Analytical and machine learning methods for model discernment at CEνNS experiments</title>
+      <link>https://doi.org/10.1103/31x4-3z7h</link>
+      <description>Neutrino experiments are currently limited by low statistics, sizable systematic uncertainties, and coarse observable binning, which can hinder discrimination among competing beyond-the-Standard-Model (BSM) explanations of anomalous signals. In particular, analyses based primarily on total event-rate differences are vulnerable to source-normalization uncertainties and to degeneracies among models that induce similar inclusive yields. Using stopped-pion coherent elastic neutrino-nucleus scattering (CEνNS) as a benchmark environment, we study how much model-discrimination power can be obtained from correlations in baseline, recoil energy, and timing that are less sensitive to the total rate. As benchmark BSM scenarios, we consider a 3+1 sterile-neutrino framework and neutral-current nonstandard neutrino interactions (NSI). We show with a likelihood-based analysis that these scenarios can be distinguished in nontrivial regions of parameter space once multidimensional shape information is </description>
+      <source url="https://doi.org/10.1103/31x4-3z7h">Physical Review D</source>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/31x4-3z7h</guid>
+    </item><item>
+      <title>Measurement of the Ratio of Branching Fractions B(Bc+→J/ψτ+ντ)/B(Bc+→J/ψμ+νμ)</title>
+      <link>https://doi.org/10.1103/13fb-1gc2</link>
+      <description>A measurement of the ratio of semileptonic branching fractions R(J/ψ), defined as R(J/ψ)≡B(Bc+→J/ψτ+ντ)/B(Bc+→J/ψμ+νμ), is reported using a sample of proton-proton collision data corresponding to an integrated luminosity of 5.4 fb−1 recorded by the LHCb experiment in 2016–2018 at a center-of-mass energy of 13 TeV. The measured value is found to be R(J/ψ)=0.51±0.12(stat)±0.08(syst), which is within 1.8 standard deviations of the predictions from the standard model assuming lepton flavor universality.</description>
+      <source url="https://doi.org/10.1103/13fb-1gc2">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/13fb-1gc2</guid>
+    </item><item>
+      <title>Precise measurement of the form factors in D0→K*(892)−ℓ+νℓ and observation of D0→K2*(1430)−ℓ+νℓ</title>
+      <link>https://doi.org/10.1103/9mzg-5jvr</link>
+      <description>We report a study of the semileptonic decays D0→K¯0π−ℓ+νℓ (where ℓ=e, μ) based on a sample of 20.3 fb−1 of e+e− annihilation data collected at a center-of-mass energy of 3.773 GeV with the BESIII detector at the BEPCII collider. Based on an investigation of the decay dynamics in D0→K¯0π−ℓ+νℓ decays, a D-wave component of D0→K2*(1430)−ℓ+νℓ is observed for the first time with a statistical significance of 8.0σ, in addition to the dominant K*(892)− and S-wave components. The D-wave component is determined to account for (0.092±0.028stat±0.018syst)% of the total decay rate. The branching fractions of the dominant K*(892)− components are measured as B(D0→K*(892)−e+νe)=(2.043±0.018stat±0.012syst)% and B(D0→K*(892)−μ+νμ)=(1.964±0.018stat±0.012syst)%, which are the most precise measurements to date and represent significant improvements over the previous world averages. The hadronic form-factor parameters are measured to be rV=V(0)/A1(0)=1.444±0.026stat±0.010syst, r2=A2(0)/A1(0)=0.752±0.020sta</description>
+      <source url="https://doi.org/10.1103/9mzg-5jvr">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9mzg-5jvr</guid>
+    </item><item>
       <title>Interpolation between Sudakov and BFKL rapidity evolutions for TMD factorization at small x</title>
       <link>https://doi.org/10.1016/j.physletb.2026.141002</link>
       <description>Within the framework of rapidity-only small-x TMD factorization, the evolution with respect to the rapidity cutoff is initially governed by Sudakov double logarithms and subsequently by BFKL/BK single logarithms. The evolution equation proposed in this paper correctly reproduces both the Sudakov and BFKL limits, while providing a consistent interpolation between these two regimes.</description>
@@ -52,14 +103,6 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ynm6-znr4</guid>
     </item><item>
-      <title>Observation of ϒ(1S)+Z Associated Production and Measurement of the Effective Double-Parton Scattering Cross Section in Proton-Proton Collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/hgvs-jplv</link>
-      <description>The observation of the associated production of an ϒ(1S) meson with a Z boson and a measurement of the ratio of its fiducial cross section to the fiducial cross section of the Z boson are presented. Both the ϒ(1S) meson and the Z boson are identified via decays into a pair of opposite-sign muons. The analysis is based on proton-proton (pp) collision data at s=13 TeV collected with the CMS detector in 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. Using the production of the Z boson decaying into four muons as a normalization channel, the ratio of the fiducial cross sections σ[pp→Z+ϒ(1S)]B(Z→μ+μ−)B[ϒ(1S)→μ+μ−] to σ(pp→Z)B(Z→4μ) is measured to be RZ+ϒ(1S)=[21.1±5.5(stat)±0.6(syst)]×10−3, where stat and syst denote the statistical and systematic uncertainties, respectively. The result is used to extract the effective double-parton scattering cross section σeff=13.0−3.4+7.7 mb. In addition, for the first time, σeff is measured in bins of the transverse momentum of the</description>
-      <source url="https://doi.org/10.1103/hgvs-jplv">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hgvs-jplv</guid>
-    </item><item>
       <title>Universal SMEFT as a tool for discovery of universal new physics at the high luminosity LHC</title>
       <link>https://doi.org/10.1103/jcs6-lbpq</link>
       <description>We analyze the potential of the Universal SMEFT as a tool to study universal new physics in the neutral and charged Drell-Yan processes at the high-luminosity LHC. In order to do so, we generated pseudodata containing the contributions of beyond the standard model vector bosons to the dilepton production. Our results show that fits with the minimal theoretical bias can be used not only to unveil the existence of new physics but also to accurately extract its properties. Moreover, the results are rather stable with respect to the order of truncation of the effective field theory.</description>
@@ -82,35 +125,12 @@
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/818g-2t94</guid>
     </item><item>
-      <title>Calorimetric approach to paleodetection of dark matter</title>
-      <link>https://doi.org/10.1103/818g-2t94</link>
-      <description>We present the first paleodetector dark-matter sensitivity analysis based on a calorimetric readout, in which the number of stable lattice vacancies produced by each nuclear recoil is used as a per-event observable complementary to the track length. Using full-cascade srim simulations in olivine, we compute the expected sensitivity for a 100 g·1 Gyr exposure. We find that a vacancy-only readout reaches a sensitivity envelope very similar to that of state-of-the-art track-only analyses. The combination of the two observables provides an event-by-event proxy for |dE/dx| and hence for the recoiling nuclear species. Since the neutron-nucleus cross section is approximately flat in nuclear mass while the dark-matter–nucleus cross section scales as A2, this discrimination suppresses the dominant neutron background by more than an order of magnitude at moderate dark-matter masses. The combined-analysis sensitivity reaches spin-independent dark-matter–nucleon cross sections of order 10−48 cm2 a</description>
-      <source url="https://doi.org/10.1103/818g-2t94">Physical Review D</source>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/818g-2t94</guid>
-    </item><item>
       <title>New approach to determine the thermodynamics of deconfined matter to high accuracy</title>
       <link>https://doi.org/10.1103/wd4z-cqw3</link>
       <description>We demonstrate that at finite density and sufficiently high temperatures, phase-quenched (PQ) lattice simulations combined with perturbation theory provide a new precision approach to determining the thermodynamics of QCD across a wide arc of the phase diagram where the strong coupling constant αs remains small. In this regime, nonperturbative pairing effects in the PQ theory are parametrically suppressed, so that the difference between the PQ and full QCD pressures becomes a small perturbative correction. We compute this correction up to and including O(αs7/2) using electrostatic QCD together with a novel numerical method to compute four-loop sum-integrals. This enables the determination of the perturbative QCD pressure with precision beyond the current state of the art while including nonperturbative pure-gluonic contributions from the lattice.</description>
       <source url="https://doi.org/10.1103/wd4z-cqw3">Physical Review D</source>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/wd4z-cqw3</guid>
-    </item><item>
-      <title>Observation of a Bc*+ Meson with the ATLAS Detector</title>
-      <link>https://doi.org/10.1103/vrxp-zkbs</link>
-      <description>The first observation of a new meson state decaying into Bc+ and a photon is presented using a dataset of pp collisions at a center-of-mass energy s=13 TeV collected by the ATLAS detector at the Large Hadron Collider, corresponding to an integrated luminosity of 140 fb−1. The Bc+ mesons are reconstructed from a three-muon final state from Bc+→J/ψ(μ+μ−)μ+νμX decays, along with photons reconstructed via conversions to electron-positron pairs in the detector material. The new state is observed with a significance that exceeds 8 standard deviations. The mass difference between the new meson state and the ground-state Bc+ meson is measured to be 64.5±1.4(stat) −1.4+1.0(syst) MeV. This corresponds to a mass for the observed state of 6339.0±1.4(stat) −1.4+1.0(syst)±0.3(mBc+) MeV, where the last uncertainty is due to the precision of the best knowledge of the Bc+ meson mass. The low mass difference value matches the theory expectations for the lowest vector state of the b¯c system, the Bc*+ me</description>
-      <source url="https://doi.org/10.1103/vrxp-zkbs">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vrxp-zkbs</guid>
-    </item><item>
-      <title>Observation of the χcJ decays into pK−Λ¯η+c.c.</title>
-      <link>https://doi.org/10.1103/ss6l-7c3r</link>
-      <description>By analyzing (2712.4±14.3)×106 ψ(3686) events collected with the BESIII detector operating at the BEPCII collider, the decays χcJ→pK−Λ¯η+c.c. (J=0, 1, 2) are observed for the first time, with statistical significances exceeding 5σ for all three χcJ states. The measured branching fractions are B(χc0→pK−Λ¯η+c.c.)=(5.3±0.7±0.5)×10−5, B(χc1→pK−Λ¯η+c.c.)=(9.8±0.6±0.6)×10−5, and B(χc2→pK−Λ¯η+c.c.)=(9.3±0.6±0.6)×10−5, where the first uncertainties are statistical and the second are systematic. Structures consistent with the known hyperon resonances Λ(1520) and Λ¯(1690) are seen in the pK− and Λ¯η invariant mass spectra, respectively. The reported branching fractions include both resonant and nonresonant contributions. These results provide new experimental information on hadronic decays of P-wave charmonium states and contribute to the understanding of baryon production and hadronization dynamics in the nonperturbative QCD regime.</description>
-      <source url="https://doi.org/10.1103/ss6l-7c3r">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ss6l-7c3r</guid>
     </item><item>
       <title>Probing dark matter interactions with a RES–NOVA prototype cryogenic detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16215-9</link>
@@ -119,13 +139,6 @@
       <author>et al.</author>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16215-9</guid>
-    </item><item>
-      <title>Resonant Enhancement for the transfer of baryon number from a CP-violating hidden sector</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16384-7</link>
-      <description>We consider a scenario where the baryon asymmetry in the SM arises from a portal coupling to a CP-violating hidden sector, without any explicit violation of baryon or lepton number in either sector. While no net baryon number is generated, equal and opposite baryon numbers can be sequestered between the two sectors in this scenario. The observed asymmetry must be generated below the electroweak scale in order to avoid washout. By considering a benchmark model incorporating the baryon portal and a minimal hidden sector, we review the prospects of this scenario. When the asymmetry is generated via the decay of top quarks, generic input parameters for the model are sufficient. If however the asymmetry is to be generated via the decay of bottom quarks, a resonant enhancement is needed to sequester the baryon number with maximal efficiency. The scenario of mesogenesis assisted by CP-violation in a hidden sector falls into this latter category. We use analytical and numerical methods to quan</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16384-7">European Physical Journal C</source>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16384-7</guid>
     </item><item>
       <title>Measurement of isolated-prompt photon–hadron correlations in Pb–Pb collisions at sqrts_textrmNN = 5.02 TeV</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16192-z</link>
@@ -142,20 +155,6 @@
       <author>et al.</author>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16235-5</guid>
-    </item><item>
-      <title>Deep-learning denoising of radio signals for ultra-high-energy cosmic-ray detection</title>
-      <link>https://doi.org/10.1103/29jx-bcgq</link>
-      <description>Extensive air showers initiated by ultra-high-energy cosmic rays produce broadband radio pulses detectable over large areas, but Galactic and instrumental backgrounds limit sensitivity near threshold. The Giant Radio Array for Neutrino Detection (GRAND) will use large arrays of autonomous radio antennas to detect these air showers, requiring reliable recovery of weak pulses from background fluctuations. We develop a convolutional denoiser for GRAND-like antenna traces that combines the time-domain waveform with the magnitude and phase of its Fourier transform. The model is trained on 4.1×105 simulated traces constructed from zhaires air-shower emission, a reduced GRAND-like radio-frequency (RF) chain response, and broadband noise normalized to the expected Galactic-noise scale. In these simulations, denoising increases the detection probability at fixed false-positive rate and improves pulse-time recovery near threshold. The reconstructed peak amplitude is attenuated in the noise-domin</description>
-      <source url="https://doi.org/10.1103/29jx-bcgq">Physical Review D</source>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/29jx-bcgq</guid>
-    </item><item>
-      <title>Revisiting fermion bound states in baby-Skyrme background with Dzyaloshinskii-Moriya interaction</title>
-      <link>https://doi.org/10.1103/vb8v-tytg</link>
-      <description>In this paper, we investigate a fermion coupled to a Skyrme model in 2+1 dimensions, where the skyrmion is stabilized by the Dzyaloshinskii-Moriya and Skyrme interactions under a quadratic potential. This framework interpolates between the magnetic skyrmion at the critical coupling and the baby-Skyrme limit. The Dirac equation is studied both analytically in a non-relativistic reduction and numerically for the full relativistic spectrum, and the parameter region admitting states bound to the skyrmion is determined. Localized solutions exist only for electrically charged fermions with positive charge and negative angular momentum, and are absent for neutral fermions. The lowest bound state in each angular momentum sector is characterized as a function of the fermion mass, charge, and the coupling h to the skyrmion isospin, and its behavior is compared across the magnetic, baby, and mixed skyrmion backgrounds. The resulting fermion-skyrmion composite constitutes an electrically charged s</description>
-      <source url="https://doi.org/10.1103/vb8v-tytg">Physical Review D</source>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vb8v-tytg</guid>
     </item>
   </channel>
 </rss>
