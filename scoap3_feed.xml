@@ -5,8 +5,59 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:00:46 +0000</lastBuildDate>
     <item>
+      <title>Production of global vortices with quantum mediation</title>
+      <link>https://doi.org/10.1103/jn48-lmfk</link>
+      <description>We study global vortex production in (numerical) scattering experiments when the scatterer and the vortex degrees of freedom interact only due to intermediary quantum variables. We work in 2+1 dimensions with a complex scalar field, ϕ, that supports global vortices, a real scalar field, ψ, that is the scatterer, and a quantum field, ρ, that couples to both ϕ and ψ, acting as a mediator. We simulate the scattering of relativistic Gaussian wave packets of ψ and scan parameter space for regions where vortex-antivortex pairs are produced. The results show that vortex production is highly sensitive to the initial Gaussian parameters, and the parameter space is chaotic with “holes” and isolated regions of vortex production.</description>
+      <source url="https://doi.org/10.1103/jn48-lmfk">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jn48-lmfk</guid>
+    </item><item>
+      <title>Complexity and the Hilbert space dimension of 3D gravity</title>
+      <link>https://doi.org/10.1103/wklh-xqbr</link>
+      <description>A central problem in formulating a theory of quantum gravity is to determine the size and structure of the Hilbert space of black holes. Here we use a quantum dynamical Krylov complexity approach to calculate the Hilbert space dimension of a black hole in (2+1)-dimensional anti–de Sitter space. We achieve this by obtaining the spread of an initial thermofield double state over the Krylov basis. The associated Lanczos coefficients match those for chaotic motion on the SL(2,R) group. By including nonperturbative effects in the path integral, which computes coarse-grained ensemble averages, we find that the complexity saturates at late times. The saturation value is given by the exponential of the Bekenstein-Hawking entropy plus logarithmic corrections. Our results introduce a new way to compute the Hilbert space dimension of complex interacting systems from the saturating value of spread complexity.</description>
+      <source url="https://doi.org/10.1103/wklh-xqbr">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/wklh-xqbr</guid>
+    </item><item>
+      <title>GTMDs, orbital angular momentum, and pretzelosity</title>
+      <link>https://doi.org/10.1103/b6kc-fg77</link>
+      <description>The leading generalized transverse momentum dependent parton distributions (GTMDs) are studied in the bag model. The model description is shown to be theoretically consistent. The orbital angular momentum is studied in terms of the GTMD F1,4q and Ji sum rule. Analytical proofs of the associated sum rules are given. A deeper relationship between orbital angular momentum and the pretzelosity TMD is established in this model. Numerical results for quark GTMDs are given in dependence of all five variables for all values of x and ξ.</description>
+      <source url="https://doi.org/10.1103/b6kc-fg77">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/b6kc-fg77</guid>
+    </item><item>
+      <title>Measurement of charged-current νμ and ν¯μ cross sections on hydrocarbon in a shallow inelastic scattering region</title>
+      <link>https://doi.org/10.1103/vq38-kmxq</link>
+      <description>This MINERvA analysis is the first neutrino and antineutrino study of a shallow inelastic scattering region, which is the transition region between resonant production and deep inelastic scattering processes. This transition is explicitly included in this study by expanding the scope of shallow inelastic scattering to include not only the mainly lower-Q2 nonresonant pion production but also the kinematic region where pion production off quarks within the nucleon become significant with Q2 below the onset of the deep-inelastic scattering region defined in this analysis. To reduce the resonance background the kinematic region 1.5W2 GeV/c2 was chosen. In addition to the inclusive differential cross section measurements in this W region, a sample with Q2≥1 GeV/c2 was also analyzed to emphasize shallow inelastic scattering interactions off quarks within the nucleon. The measurements of one-dimensional cross sections at ⟨Eν⟩∼6 GeV on hydrocarbon of Q2, Bjorken x, and muon momentum variables </description>
+      <source url="https://doi.org/10.1103/vq38-kmxq">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vq38-kmxq</guid>
+    </item><item>
+      <title>Minimally truncated SU(3) lattice gauge theory and string tension</title>
+      <link>https://doi.org/10.1103/1qt7-3ywl</link>
+      <description>We study SU(3) gauge theory on small lattices in the minimal (qutrit) electric field truncation retaining only the 1,3,3¯ representations for the link variables. Explicit expressions are given for the Kogut-Susskind Hamiltonian for the square plaquette chain and the two-dimensional honeycomb lattice. Our formalism can be easily extended to the minimally truncated general SU(Nc) gauge theory. The addition of (static) quarks is discussed. We present results for the energy spectrum of the gauge field on these lattices by exact diagonalization of the Hamiltonian and analyze its statistical properties. We also compute the SU(3) string tension and discuss how it is modified by vacuum fluctuations. Finally, we calculate the potential energies of a static quark-antiquark pair and three static quarks and study their screening at finite temperature.</description>
+      <source url="https://doi.org/10.1103/1qt7-3ywl">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1qt7-3ywl</guid>
+    </item><item>
+      <title>Scale setting and strong coupling determination in the gradient flow scheme for 2+1 flavor lattice QCD</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)039</link>
+      <description>We report on the determination of the gradient flow scales in N = 2 + 1 QCD using highly improved staggered quark (HISQ) ensembles generated by the HotQCD Collaboration for bare gauge couplings ranging from β = 6.423 to 8.400. Using bottomonium splittings, kaon decay constant, the decay constant of unmixed η meson and the ϕ meson mass we obtained the values of the gradient flow scales in physical units, sqrtt₀ = 0.14446(76) fm and w = 0.17429(83) fm. Using the same physical inputs we revisit the determination of the potential r scale and find r = 0.3118(26) fm. As a byproduct of our study we obtain the running of the gauge coupling in the gradient flow scheme. We find that within the uncertainties the running of the gradient flow coupling obtained on the lattice is compatible with the perturbative results up to flow radius sqrt8τ_F = 0.15 fm.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)039">Journal of High Energy Physics</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)039</guid>
+    </item><item>
+      <title>Measurement of event shape variables using charged particles inside jets in proton-proton collisions at sqrts=13 TeV</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)001</link>
+      <description>Event shape variables, constructed from the four-momenta of the final-state objects in an event, are sensitive to the predictions of quantum chromodynamics in multijet production. A measurement of five event shape variables is presented, using proton-proton collision data collected at a centre-of-mass energy of 13 TeV with the CMS detector during 2016–2018, corresponding to an integrated luminosity of 138 fb . The variables are evaluated using the charged particles inside jets. After correcting for detector effects, their distributions are compared with the predictions from several models for multijet production. Overall, there is general agreement between several theoretical predictions and the data with scope for improvement of our understanding of QCD at different energy scales.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)001">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)001</guid>
+    </item><item>
       <title>Generalized replica manifolds. Part I. Surgery and averaging</title>
       <link>https://doi.org/10.1007/JHEP10(2026)023</link>
       <description>We develop a simple framework for implementing a type of path integral “surgery” through a correlated averaging over codimension-one defects/extended operators. This technique is then used to construct replica manifolds by effectively cutting and gluing the path integral without explicitly modifying the underlying manifold. We argue that restricted forms of this averaging may be used to calculate Rényi entanglement entropy corresponding to a wide range of choices of subsystem partitioning. When the entanglement entropy being calculated in this way does not simply correspond to entanglement between subregions, we call the resulting objects from this surgery “generalized replica manifolds”. We show how this framework extends to gauge theories and, in particular, how in non-Abelian gauge theories it establishes a connection between replica calculations of a gauge-invariant notion of entanglement between color degrees of freedom and a quiver gauge theory structure. Finally, we discuss how </description>
@@ -57,12 +108,13 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)015</guid>
     </item><item>
-      <title>Thermal leptogenesis in the Babu-Nandi-Tavartkiladze model of neutrino mass</title>
-      <link>https://doi.org/10.1103/lj7k-5c1q</link>
-      <description>We investigate neutrino mass and thermal leptogenesis in the Babu-Nandi-Tavartkiladze model featuring a scalar quadruplet (Φ) and a pair of vectorlike fermion triplets (Σ). In this framework, neutrino masses are generated via an effective dimension-7 operator LLHH(H†H)/Λ3 at the tree level and via the dimension-5 operator LLHH/Λ at the one-loop level. It naturally accommodates sub-eV neutrino masses even if the new physics scale Λ is O(TeV), thus making the model a compelling target for experimental searches. We explore the viability of thermal leptogenesis in this model, which is distinct from the canonical seesaw-based leptogenesis due to the presence of vector-like fermions. We find that leptogenesis is viable for MΣ≳107 GeV for a hierarchical spectrum of fermion triplets. However, in the quasidegenerate regime, resonant enhancement of the CP asymmetry lowers this scale down to O(TeV), reconciling successful leptogenesis with the originally motivated TeV-scale phenomenology and test</description>
-      <source url="https://doi.org/10.1103/lj7k-5c1q">Physical Review D</source>
+      <title>Precise measurement of the form factors in D0→K*(892)−ℓ+νℓ and observation of D0→K2*(1430)−ℓ+νℓ</title>
+      <link>https://doi.org/10.1103/9mzg-5jvr</link>
+      <description>We report a study of the semileptonic decays D0→K¯0π−ℓ+νℓ (where ℓ=e, μ) based on a sample of 20.3 fb−1 of e+e− annihilation data collected at a center-of-mass energy of 3.773 GeV with the BESIII detector at the BEPCII collider. Based on an investigation of the decay dynamics in D0→K¯0π−ℓ+νℓ decays, a D-wave component of D0→K2*(1430)−ℓ+νℓ is observed for the first time with a statistical significance of 8.0σ, in addition to the dominant K*(892)− and S-wave components. The D-wave component is determined to account for (0.092±0.028stat±0.018syst)% of the total decay rate. The branching fractions of the dominant K*(892)− components are measured as B(D0→K*(892)−e+νe)=(2.043±0.018stat±0.012syst)% and B(D0→K*(892)−μ+νμ)=(1.964±0.018stat±0.012syst)%, which are the most precise measurements to date and represent significant improvements over the previous world averages. The hadronic form-factor parameters are measured to be rV=V(0)/A1(0)=1.444±0.026stat±0.010syst, r2=A2(0)/A1(0)=0.752±0.020sta</description>
+      <source url="https://doi.org/10.1103/9mzg-5jvr">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/lj7k-5c1q</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/9mzg-5jvr</guid>
     </item><item>
       <title>Measurement of the Ratio of Branching Fractions B(Bc+→J/ψτ+ντ)/B(Bc+→J/ψμ+νμ)</title>
       <link>https://doi.org/10.1103/13fb-1gc2</link>
@@ -72,19 +124,28 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/13fb-1gc2</guid>
     </item><item>
-      <title>Thermal leptogenesis in the Babu-Nandi-Tavartkiladze model of neutrino mass</title>
-      <link>https://doi.org/10.1103/lj7k-5c1q</link>
-      <description>We investigate neutrino mass and thermal leptogenesis in the Babu-Nandi-Tavartkiladze model featuring a scalar quadruplet (Φ) and a pair of vectorlike fermion triplets (Σ). In this framework, neutrino masses are generated via an effective dimension-7 operator LLHH(H†H)/Λ3 at the tree level and via the dimension-5 operator LLHH/Λ at the one-loop level. It naturally accommodates sub-eV neutrino masses even if the new physics scale Λ is O(TeV), thus making the model a compelling target for experimental searches. We explore the viability of thermal leptogenesis in this model, which is distinct from the canonical seesaw-based leptogenesis due to the presence of vector-like fermions. We find that leptogenesis is viable for MΣ≳107 GeV for a hierarchical spectrum of fermion triplets. However, in the quasidegenerate regime, resonant enhancement of the CP asymmetry lowers this scale down to O(TeV), reconciling successful leptogenesis with the originally motivated TeV-scale phenomenology and test</description>
-      <source url="https://doi.org/10.1103/lj7k-5c1q">Physical Review D</source>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/lj7k-5c1q</guid>
-    </item><item>
       <title>Analytical and machine learning methods for model discernment at CEνNS experiments</title>
       <link>https://doi.org/10.1103/31x4-3z7h</link>
       <description>Neutrino experiments are currently limited by low statistics, sizable systematic uncertainties, and coarse observable binning, which can hinder discrimination among competing beyond-the-Standard-Model (BSM) explanations of anomalous signals. In particular, analyses based primarily on total event-rate differences are vulnerable to source-normalization uncertainties and to degeneracies among models that induce similar inclusive yields. Using stopped-pion coherent elastic neutrino-nucleus scattering (CEνNS) as a benchmark environment, we study how much model-discrimination power can be obtained from correlations in baseline, recoil energy, and timing that are less sensitive to the total rate. As benchmark BSM scenarios, we consider a 3+1 sterile-neutrino framework and neutral-current nonstandard neutrino interactions (NSI). We show with a likelihood-based analysis that these scenarios can be distinguished in nontrivial regions of parameter space once multidimensional shape information is </description>
       <source url="https://doi.org/10.1103/31x4-3z7h">Physical Review D</source>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/31x4-3z7h</guid>
+    </item><item>
+      <title>Measurement of the Ratio of Branching Fractions B(Bc+→J/ψτ+ντ)/B(Bc+→J/ψμ+νμ)</title>
+      <link>https://doi.org/10.1103/13fb-1gc2</link>
+      <description>A measurement of the ratio of semileptonic branching fractions R(J/ψ), defined as R(J/ψ)≡B(Bc+→J/ψτ+ντ)/B(Bc+→J/ψμ+νμ), is reported using a sample of proton-proton collision data corresponding to an integrated luminosity of 5.4 fb−1 recorded by the LHCb experiment in 2016–2018 at a center-of-mass energy of 13 TeV. The measured value is found to be R(J/ψ)=0.51±0.12(stat)±0.08(syst), which is within 1.8 standard deviations of the predictions from the standard model assuming lepton flavor universality.</description>
+      <source url="https://doi.org/10.1103/13fb-1gc2">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/13fb-1gc2</guid>
+    </item><item>
+      <title>Precise measurement of the form factors in D0→K*(892)−ℓ+νℓ and observation of D0→K2*(1430)−ℓ+νℓ</title>
+      <link>https://doi.org/10.1103/9mzg-5jvr</link>
+      <description>We report a study of the semileptonic decays D0→K¯0π−ℓ+νℓ (where ℓ=e, μ) based on a sample of 20.3 fb−1 of e+e− annihilation data collected at a center-of-mass energy of 3.773 GeV with the BESIII detector at the BEPCII collider. Based on an investigation of the decay dynamics in D0→K¯0π−ℓ+νℓ decays, a D-wave component of D0→K2*(1430)−ℓ+νℓ is observed for the first time with a statistical significance of 8.0σ, in addition to the dominant K*(892)− and S-wave components. The D-wave component is determined to account for (0.092±0.028stat±0.018syst)% of the total decay rate. The branching fractions of the dominant K*(892)− components are measured as B(D0→K*(892)−e+νe)=(2.043±0.018stat±0.012syst)% and B(D0→K*(892)−μ+νμ)=(1.964±0.018stat±0.012syst)%, which are the most precise measurements to date and represent significant improvements over the previous world averages. The hadronic form-factor parameters are measured to be rV=V(0)/A1(0)=1.444±0.026stat±0.010syst, r2=A2(0)/A1(0)=0.752±0.020sta</description>
+      <source url="https://doi.org/10.1103/9mzg-5jvr">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9mzg-5jvr</guid>
     </item><item>
       <title>Measurement of branching fractions of Ds+→KS0KS0π+π0 and Ds+→KS0K+π0π0</title>
       <link>https://doi.org/10.1103/7312-j4wm</link>
@@ -93,66 +154,6 @@
       <author>et al.</author>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/7312-j4wm</guid>
-    </item><item>
-      <title>Optimal architecture and fundamental bounds in neural network field theory</title>
-      <link>https://doi.org/10.1103/4fzf-tpsv</link>
-      <description>Neural network field theory (NNFT) represents fields as neural networks and samples field configurations by drawing network parameters from a probability distribution. We identify a previously unexplored architectural freedom in NNFT, parametrized by α, that leaves the infinite-width theory invariant but dramatically affects finite-width errors in the calculation of correlation functions. For a massive scalar field, we show that α=0, corresponding to propagator-weighted neuron momenta and constant neuron amplitudes, is optimal: it minimizes finite-width variance and uniquely removes IR-sensitive corrections in the interacting theory. Even at α=0, relative errors from both bias and variance grow exponentially with distance beyond the correlation length. The bias can be removed by extrapolating to infinite width, which we demonstrate numerically, while the variance imposes a fundamental bound on the achievable signal-to-noise ratio as in lattice field theory. These results chart a path t</description>
-      <source url="https://doi.org/10.1103/4fzf-tpsv">Physical Review D</source>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4fzf-tpsv</guid>
-    </item><item>
-      <title>CKM blind spot: Probing b-column rescaling with kaons</title>
-      <link>https://doi.org/10.1103/hynj-9y11</link>
-      <description>Cabibbo–Kobayashi–Maskawa unitarity triangle constraints are insensitive to new physics scenarios in which the b column is uniformly rescaled. This is because B physics data overconstrain the angles of the (bd) unitarity triangle, but only calibrate its normalization. We identify this flat direction and derive model-independent constraints on the rescaling. We find that |ϵK| already constrains the rescaling at the same level as the direct measurement of the b-column normalization, with current data allowing for O(4%) deviations. Projected inputs promote the kaon sector to be the leading probe. A toy model employing mixing with a vectorlike up-type singlet provides a proof of principle for a possible UV realization.</description>
-      <source url="https://doi.org/10.1103/hynj-9y11">Physical Review D</source>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hynj-9y11</guid>
-    </item><item>
-      <title>Enhancing electromagnetic calorimeter signal reconstruction with machine learning-based noise discrimination</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16346-z</link>
-      <description>Calorimeters operating in high-radiation environments are susceptible to damage, leading to increased noise that can significantly degrade energy resolution. A common way to mitigate noise is to apply a higher energy threshold on the calorimeter cells, typically set a few standard deviations above the noise level. However, this method risks discarding cells with genuine energy deposits, worsening the energy resolution and the energy deposit pattern. In this paper, we investigate graph neural network (GNN) based algorithms as an alternative to rigid energy thresholds. The proposed approach exploits the full pulse-shape information together with the correlations among energy deposits in individual cells within an electromagnetic cluster. The study is performed using a standalone Geant4 simulation of an 11× 11 matrix of lead tungstate crystals. To simulate it in a more realistic way, we demonstrate that the machine learning based method significantly outperforms a simple threshold based s</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16346-z">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16346-z</guid>
-    </item><item>
-      <title>Generalized parton distributions from symbolic regression</title>
-      <link>https://doi.org/10.1103/ynm6-znr4</link>
-      <description>Artificial intelligence/machine learning–informed symbolic regression is the next stage of scientific modeling. We utilize a highly customizable symbolic regression package “PySR” (python symbolic regression) to model the x and t dependence of the flavor isovector combination Hu−d(x,t,ξ) at ξ=0. These PySR models were trained on generalized parton distribution (GPD) results provided by both lattice QCD and phenomenological sources Goldstein Gonzalez Liuti, Goloskokov Kroll, and Vanderhaeghen Guichon Guidal. We demonstrate, for the first time, the consistency and systematic convergence of symbolic regression by quantifying the disparate models through their Taylor expansion coefficients. In addition to PySR penalizing models with higher complexity and mean-squared error, we implement schemes that test specific physics hypotheses, including force-factorized x and t dependence and Regge behavior in PySR GPDs. We show that PySR can identify factorizing GPD sources based on their response t</description>
-      <source url="https://doi.org/10.1103/ynm6-znr4">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ynm6-znr4</guid>
-    </item><item>
-      <title>Observation of ϒ(1S)+Z Associated Production and Measurement of the Effective Double-Parton Scattering Cross Section in Proton-Proton Collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/hgvs-jplv</link>
-      <description>The observation of the associated production of an ϒ(1S) meson with a Z boson and a measurement of the ratio of its fiducial cross section to the fiducial cross section of the Z boson are presented. Both the ϒ(1S) meson and the Z boson are identified via decays into a pair of opposite-sign muons. The analysis is based on proton-proton (pp) collision data at s=13 TeV collected with the CMS detector in 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. Using the production of the Z boson decaying into four muons as a normalization channel, the ratio of the fiducial cross sections σ[pp→Z+ϒ(1S)]B(Z→μ+μ−)B[ϒ(1S)→μ+μ−] to σ(pp→Z)B(Z→4μ) is measured to be RZ+ϒ(1S)=[21.1±5.5(stat)±0.6(syst)]×10−3, where stat and syst denote the statistical and systematic uncertainties, respectively. The result is used to extract the effective double-parton scattering cross section σeff=13.0−3.4+7.7 mb. In addition, for the first time, σeff is measured in bins of the transverse momentum of the</description>
-      <source url="https://doi.org/10.1103/hgvs-jplv">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hgvs-jplv</guid>
-    </item><item>
-      <title>Universal SMEFT as a tool for discovery of universal new physics at the high luminosity LHC</title>
-      <link>https://doi.org/10.1103/jcs6-lbpq</link>
-      <description>We analyze the potential of the Universal SMEFT as a tool to study universal new physics in the neutral and charged Drell-Yan processes at the high-luminosity LHC. In order to do so, we generated pseudodata containing the contributions of beyond the standard model vector bosons to the dilepton production. Our results show that fits with the minimal theoretical bias can be used not only to unveil the existence of new physics but also to accurately extract its properties. Moreover, the results are rather stable with respect to the order of truncation of the effective field theory.</description>
-      <source url="https://doi.org/10.1103/jcs6-lbpq">Physical Review D</source>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jcs6-lbpq</guid>
-    </item><item>
-      <title>Observation of ϒ(1S)+Z Associated Production and Measurement of the Effective Double-Parton Scattering Cross Section in Proton-Proton Collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/hgvs-jplv</link>
-      <description>The observation of the associated production of an ϒ(1S) meson with a Z boson and a measurement of the ratio of its fiducial cross section to the fiducial cross section of the Z boson are presented. Both the ϒ(1S) meson and the Z boson are identified via decays into a pair of opposite-sign muons. The analysis is based on proton-proton (pp) collision data at s=13 TeV collected with the CMS detector in 2016–2018 and corresponding to an integrated luminosity of 138 fb−1. Using the production of the Z boson decaying into four muons as a normalization channel, the ratio of the fiducial cross sections σ[pp→Z+ϒ(1S)]B(Z→μ+μ−)B[ϒ(1S)→μ+μ−] to σ(pp→Z)B(Z→4μ) is measured to be RZ+ϒ(1S)=[21.1±5.5(stat)±0.6(syst)]×10−3, where stat and syst denote the statistical and systematic uncertainties, respectively. The result is used to extract the effective double-parton scattering cross section σeff=13.0−3.4+7.7 mb. In addition, for the first time, σeff is measured in bins of the transverse momentum of the</description>
-      <source url="https://doi.org/10.1103/hgvs-jplv">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hgvs-jplv</guid>
-    </item><item>
-      <title>Calorimetric approach to paleodetection of dark matter</title>
-      <link>https://doi.org/10.1103/818g-2t94</link>
-      <description>We present the first paleodetector dark-matter sensitivity analysis based on a calorimetric readout, in which the number of stable lattice vacancies produced by each nuclear recoil is used as a per-event observable complementary to the track length. Using full-cascade srim simulations in olivine, we compute the expected sensitivity for a 100 g·1 Gyr exposure. We find that a vacancy-only readout reaches a sensitivity envelope very similar to that of state-of-the-art track-only analyses. The combination of the two observables provides an event-by-event proxy for |dE/dx| and hence for the recoiling nuclear species. Since the neutron-nucleus cross section is approximately flat in nuclear mass while the dark-matter–nucleus cross section scales as A2, this discrimination suppresses the dominant neutron background by more than an order of magnitude at moderate dark-matter masses. The combined-analysis sensitivity reaches spin-independent dark-matter–nucleon cross sections of order 10−48 cm2 a</description>
-      <source url="https://doi.org/10.1103/818g-2t94">Physical Review D</source>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/818g-2t94</guid>
     </item>
   </channel>
 </rss>
