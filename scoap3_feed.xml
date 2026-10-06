@@ -5,28 +5,21 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 19:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:26:56 +0000</lastBuildDate>
     <item>
-      <title>Production of global vortices with quantum mediation</title>
-      <link>https://doi.org/10.1103/jn48-lmfk</link>
-      <description>We study global vortex production in (numerical) scattering experiments when the scatterer and the vortex degrees of freedom interact only due to intermediary quantum variables. We work in 2+1 dimensions with a complex scalar field, ϕ, that supports global vortices, a real scalar field, ψ, that is the scatterer, and a quantum field, ρ, that couples to both ϕ and ψ, acting as a mediator. We simulate the scattering of relativistic Gaussian wave packets of ψ and scan parameter space for regions where vortex-antivortex pairs are produced. The results show that vortex production is highly sensitive to the initial Gaussian parameters, and the parameter space is chaotic with “holes” and isolated regions of vortex production.</description>
-      <source url="https://doi.org/10.1103/jn48-lmfk">Physical Review D</source>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jn48-lmfk</guid>
+      <title>On entropic gravity from BFSS matrix theory</title>
+      <link>https://doi.org/10.1016/j.nuclphysb.2026.117682</link>
+      <description>We study Matrix theory at strong coupling in a setting describing two static objects a fixed distance apart, using numerical techniques. We reproduce the exact general relativistic force law between the two objects as an entropic force in Matrix theory. This involves employing an operator algebra that represents an external observer measuring the relative positions and momenta of the two objects. We identify the location of the horizons of the objects from this entropic force and are led to a modification of the Schwarzschild spacetime inside the horizon. We find evidence that the inside of a black hole is instead to be described by AdS space. The conclusions constitute numerical validation of Verlinde’s entropic gravity proposition and the fuzzball paradigm.</description>
+      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117682">Nuclear Physics B</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117682</guid>
     </item><item>
-      <title>Complexity and the Hilbert space dimension of 3D gravity</title>
-      <link>https://doi.org/10.1103/wklh-xqbr</link>
-      <description>A central problem in formulating a theory of quantum gravity is to determine the size and structure of the Hilbert space of black holes. Here we use a quantum dynamical Krylov complexity approach to calculate the Hilbert space dimension of a black hole in (2+1)-dimensional anti–de Sitter space. We achieve this by obtaining the spread of an initial thermofield double state over the Krylov basis. The associated Lanczos coefficients match those for chaotic motion on the SL(2,R) group. By including nonperturbative effects in the path integral, which computes coarse-grained ensemble averages, we find that the complexity saturates at late times. The saturation value is given by the exponential of the Bekenstein-Hawking entropy plus logarithmic corrections. Our results introduce a new way to compute the Hilbert space dimension of complex interacting systems from the saturating value of spread complexity.</description>
-      <source url="https://doi.org/10.1103/wklh-xqbr">Physical Review D</source>
+      <title>Existence of a second phase transition in A−A collisions at energies available at the CERN Large Hadron Collider: A physical interpretation</title>
+      <link>https://doi.org/10.1103/c9q1-rmcm</link>
+      <description>The observed fluid behavior of the matter produced in heavy ion and pp collisions implies that the strings stretched between the constituents of the projectile and target should have a hard core giving rise to a repulsion between them. It is shown that in these collisions there are two critical string densities, one corresponding to the well-studied percolation of strings and another to the percolation of the hard core of the strings. These two critical densities are related to two critical temperatures, one T≈160 MeV would correspond to the restoration of chiral symmetry and partial deconfinement and a second transition T≈220 MeV form the fluid behavior of quantum chromodynamics matter strongly interacting to a quasi free gas of quarks and gluons. This argument is supported by the recently published results on the sudden increase in the degrees of freedom above the deconfinement temperature in pp and A−A collisions [Mishra et al., Nucl. Phys. A 1046, 122865 (2024)].</description>
+      <source url="https://doi.org/10.1103/c9q1-rmcm">Physical Review C</source>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wklh-xqbr</guid>
-    </item><item>
-      <title>GTMDs, orbital angular momentum, and pretzelosity</title>
-      <link>https://doi.org/10.1103/b6kc-fg77</link>
-      <description>The leading generalized transverse momentum dependent parton distributions (GTMDs) are studied in the bag model. The model description is shown to be theoretically consistent. The orbital angular momentum is studied in terms of the GTMD F1,4q and Ji sum rule. Analytical proofs of the associated sum rules are given. A deeper relationship between orbital angular momentum and the pretzelosity TMD is established in this model. Numerical results for quark GTMDs are given in dependence of all five variables for all values of x and ξ.</description>
-      <source url="https://doi.org/10.1103/b6kc-fg77">Physical Review D</source>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/b6kc-fg77</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/c9q1-rmcm</guid>
     </item><item>
       <title>Measurement of charged-current νμ and ν¯μ cross sections on hydrocarbon in a shallow inelastic scattering region</title>
       <link>https://doi.org/10.1103/vq38-kmxq</link>
@@ -43,20 +36,33 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/1qt7-3ywl</guid>
     </item><item>
+      <title>GTMDs, orbital angular momentum, and pretzelosity</title>
+      <link>https://doi.org/10.1103/b6kc-fg77</link>
+      <description>The leading generalized transverse momentum dependent parton distributions (GTMDs) are studied in the bag model. The model description is shown to be theoretically consistent. The orbital angular momentum is studied in terms of the GTMD F1,4q and Ji sum rule. Analytical proofs of the associated sum rules are given. A deeper relationship between orbital angular momentum and the pretzelosity TMD is established in this model. Numerical results for quark GTMDs are given in dependence of all five variables for all values of x and ξ.</description>
+      <source url="https://doi.org/10.1103/b6kc-fg77">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/b6kc-fg77</guid>
+    </item><item>
+      <title>Production of global vortices with quantum mediation</title>
+      <link>https://doi.org/10.1103/jn48-lmfk</link>
+      <description>We study global vortex production in (numerical) scattering experiments when the scatterer and the vortex degrees of freedom interact only due to intermediary quantum variables. We work in 2+1 dimensions with a complex scalar field, ϕ, that supports global vortices, a real scalar field, ψ, that is the scatterer, and a quantum field, ρ, that couples to both ϕ and ψ, acting as a mediator. We simulate the scattering of relativistic Gaussian wave packets of ψ and scan parameter space for regions where vortex-antivortex pairs are produced. The results show that vortex production is highly sensitive to the initial Gaussian parameters, and the parameter space is chaotic with “holes” and isolated regions of vortex production.</description>
+      <source url="https://doi.org/10.1103/jn48-lmfk">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jn48-lmfk</guid>
+    </item><item>
+      <title>Complexity and the Hilbert space dimension of 3D gravity</title>
+      <link>https://doi.org/10.1103/wklh-xqbr</link>
+      <description>A central problem in formulating a theory of quantum gravity is to determine the size and structure of the Hilbert space of black holes. Here we use a quantum dynamical Krylov complexity approach to calculate the Hilbert space dimension of a black hole in (2+1)-dimensional anti–de Sitter space. We achieve this by obtaining the spread of an initial thermofield double state over the Krylov basis. The associated Lanczos coefficients match those for chaotic motion on the SL(2,R) group. By including nonperturbative effects in the path integral, which computes coarse-grained ensemble averages, we find that the complexity saturates at late times. The saturation value is given by the exponential of the Bekenstein-Hawking entropy plus logarithmic corrections. Our results introduce a new way to compute the Hilbert space dimension of complex interacting systems from the saturating value of spread complexity.</description>
+      <source url="https://doi.org/10.1103/wklh-xqbr">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/wklh-xqbr</guid>
+    </item><item>
       <title>Scale setting and strong coupling determination in the gradient flow scheme for 2+1 flavor lattice QCD</title>
       <link>https://doi.org/10.1007/JHEP10(2026)039</link>
       <description>We report on the determination of the gradient flow scales in N = 2 + 1 QCD using highly improved staggered quark (HISQ) ensembles generated by the HotQCD Collaboration for bare gauge couplings ranging from β = 6.423 to 8.400. Using bottomonium splittings, kaon decay constant, the decay constant of unmixed η meson and the ϕ meson mass we obtained the values of the gradient flow scales in physical units, sqrtt₀ = 0.14446(76) fm and w = 0.17429(83) fm. Using the same physical inputs we revisit the determination of the potential r scale and find r = 0.3118(26) fm. As a byproduct of our study we obtain the running of the gauge coupling in the gradient flow scheme. We find that within the uncertainties the running of the gradient flow coupling obtained on the lattice is compatible with the perturbative results up to flow radius sqrt8τ_F = 0.15 fm.</description>
       <source url="https://doi.org/10.1007/JHEP10(2026)039">Journal of High Energy Physics</source>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)039</guid>
-    </item><item>
-      <title>Measurement of event shape variables using charged particles inside jets in proton-proton collisions at sqrts=13 TeV</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)001</link>
-      <description>Event shape variables, constructed from the four-momenta of the final-state objects in an event, are sensitive to the predictions of quantum chromodynamics in multijet production. A measurement of five event shape variables is presented, using proton-proton collision data collected at a centre-of-mass energy of 13 TeV with the CMS detector during 2016–2018, corresponding to an integrated luminosity of 138 fb . The variables are evaluated using the charged particles inside jets. After correcting for detector effects, their distributions are compared with the predictions from several models for multijet production. Overall, there is general agreement between several theoretical predictions and the data with scope for improvement of our understanding of QCD at different energy scales.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)001">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)001</guid>
     </item><item>
       <title>Generalized replica manifolds. Part I. Surgery and averaging</title>
       <link>https://doi.org/10.1007/JHEP10(2026)023</link>
@@ -86,6 +92,13 @@
       <author>et al.</author>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/z2yx-bbk5</guid>
+    </item><item>
+      <title>Three-gluon scattering amplitude in de Sitter spacetime</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)008</link>
+      <description>We study three-gluon scattering amplitudes in global de Sitter spacetime, in the angular momentum basis of SO(1, 4) symmetry representations. At the tree level, they are determined by the intertwiner integrals of harmonic one-forms on the three-sphere. We derive a general formula valid for all helicity configurations of incoming and outgoing gluons and express the amplitudes in terms of Wigner 3j symbols.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)008">Journal of High Energy Physics</source>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)008</guid>
     </item><item>
       <title>Three-gluon scattering amplitude in de Sitter spacetime</title>
       <link>https://doi.org/10.1007/JHEP10(2026)008</link>
@@ -124,36 +137,19 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/13fb-1gc2</guid>
     </item><item>
+      <title>Thermal leptogenesis in the Babu-Nandi-Tavartkiladze model of neutrino mass</title>
+      <link>https://doi.org/10.1103/lj7k-5c1q</link>
+      <description>We investigate neutrino mass and thermal leptogenesis in the Babu-Nandi-Tavartkiladze model featuring a scalar quadruplet (Φ) and a pair of vectorlike fermion triplets (Σ). In this framework, neutrino masses are generated via an effective dimension-7 operator LLHH(H†H)/Λ3 at the tree level and via the dimension-5 operator LLHH/Λ at the one-loop level. It naturally accommodates sub-eV neutrino masses even if the new physics scale Λ is O(TeV), thus making the model a compelling target for experimental searches. We explore the viability of thermal leptogenesis in this model, which is distinct from the canonical seesaw-based leptogenesis due to the presence of vector-like fermions. We find that leptogenesis is viable for MΣ≳107 GeV for a hierarchical spectrum of fermion triplets. However, in the quasidegenerate regime, resonant enhancement of the CP asymmetry lowers this scale down to O(TeV), reconciling successful leptogenesis with the originally motivated TeV-scale phenomenology and test</description>
+      <source url="https://doi.org/10.1103/lj7k-5c1q">Physical Review D</source>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/lj7k-5c1q</guid>
+    </item><item>
       <title>Analytical and machine learning methods for model discernment at CEνNS experiments</title>
       <link>https://doi.org/10.1103/31x4-3z7h</link>
       <description>Neutrino experiments are currently limited by low statistics, sizable systematic uncertainties, and coarse observable binning, which can hinder discrimination among competing beyond-the-Standard-Model (BSM) explanations of anomalous signals. In particular, analyses based primarily on total event-rate differences are vulnerable to source-normalization uncertainties and to degeneracies among models that induce similar inclusive yields. Using stopped-pion coherent elastic neutrino-nucleus scattering (CEνNS) as a benchmark environment, we study how much model-discrimination power can be obtained from correlations in baseline, recoil energy, and timing that are less sensitive to the total rate. As benchmark BSM scenarios, we consider a 3+1 sterile-neutrino framework and neutral-current nonstandard neutrino interactions (NSI). We show with a likelihood-based analysis that these scenarios can be distinguished in nontrivial regions of parameter space once multidimensional shape information is </description>
       <source url="https://doi.org/10.1103/31x4-3z7h">Physical Review D</source>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/31x4-3z7h</guid>
-    </item><item>
-      <title>Measurement of the Ratio of Branching Fractions B(Bc+→J/ψτ+ντ)/B(Bc+→J/ψμ+νμ)</title>
-      <link>https://doi.org/10.1103/13fb-1gc2</link>
-      <description>A measurement of the ratio of semileptonic branching fractions R(J/ψ), defined as R(J/ψ)≡B(Bc+→J/ψτ+ντ)/B(Bc+→J/ψμ+νμ), is reported using a sample of proton-proton collision data corresponding to an integrated luminosity of 5.4 fb−1 recorded by the LHCb experiment in 2016–2018 at a center-of-mass energy of 13 TeV. The measured value is found to be R(J/ψ)=0.51±0.12(stat)±0.08(syst), which is within 1.8 standard deviations of the predictions from the standard model assuming lepton flavor universality.</description>
-      <source url="https://doi.org/10.1103/13fb-1gc2">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/13fb-1gc2</guid>
-    </item><item>
-      <title>Precise measurement of the form factors in D0→K*(892)−ℓ+νℓ and observation of D0→K2*(1430)−ℓ+νℓ</title>
-      <link>https://doi.org/10.1103/9mzg-5jvr</link>
-      <description>We report a study of the semileptonic decays D0→K¯0π−ℓ+νℓ (where ℓ=e, μ) based on a sample of 20.3 fb−1 of e+e− annihilation data collected at a center-of-mass energy of 3.773 GeV with the BESIII detector at the BEPCII collider. Based on an investigation of the decay dynamics in D0→K¯0π−ℓ+νℓ decays, a D-wave component of D0→K2*(1430)−ℓ+νℓ is observed for the first time with a statistical significance of 8.0σ, in addition to the dominant K*(892)− and S-wave components. The D-wave component is determined to account for (0.092±0.028stat±0.018syst)% of the total decay rate. The branching fractions of the dominant K*(892)− components are measured as B(D0→K*(892)−e+νe)=(2.043±0.018stat±0.012syst)% and B(D0→K*(892)−μ+νμ)=(1.964±0.018stat±0.012syst)%, which are the most precise measurements to date and represent significant improvements over the previous world averages. The hadronic form-factor parameters are measured to be rV=V(0)/A1(0)=1.444±0.026stat±0.010syst, r2=A2(0)/A1(0)=0.752±0.020sta</description>
-      <source url="https://doi.org/10.1103/9mzg-5jvr">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9mzg-5jvr</guid>
-    </item><item>
-      <title>Measurement of branching fractions of Ds+→KS0KS0π+π0 and Ds+→KS0K+π0π0</title>
-      <link>https://doi.org/10.1103/7312-j4wm</link>
-      <description>By analyzing e+e− collision data corresponding to an integrated luminosity of 7.33 fb−1 collected with the BESIII detector at center-of-mass energies ranging from 4.128 to 4.226 GeV, we report the observations of the hadronic decays Ds+→KS0KS0π+π0 and Ds+→KS0K+π0π0. Their decay branching fractions are determined to be B(Ds+→KS0KS0π+π0)=(4.08±0.46stat±0.45syst)×10−3 and B(Ds+→KS0K+π0π0)=(3.32±0.64stat±0.31syst)×10−3, where the first uncertainties are statistical and the second are systematic.</description>
-      <source url="https://doi.org/10.1103/7312-j4wm">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7312-j4wm</guid>
     </item>
   </channel>
 </rss>
