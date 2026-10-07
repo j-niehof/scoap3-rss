@@ -5,14 +5,85 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:26:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:09:58 +0000</lastBuildDate>
     <item>
-      <title>On entropic gravity from BFSS matrix theory</title>
-      <link>https://doi.org/10.1016/j.nuclphysb.2026.117682</link>
-      <description>We study Matrix theory at strong coupling in a setting describing two static objects a fixed distance apart, using numerical techniques. We reproduce the exact general relativistic force law between the two objects as an entropic force in Matrix theory. This involves employing an operator algebra that represents an external observer measuring the relative positions and momenta of the two objects. We identify the location of the horizons of the objects from this entropic force and are led to a modification of the Schwarzschild spacetime inside the horizon. We find evidence that the inside of a black hole is instead to be described by AdS space. The conclusions constitute numerical validation of Verlinde’s entropic gravity proposition and the fuzzball paradigm.</description>
-      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117682">Nuclear Physics B</source>
+      <title>B c → η c form factors at large recoil: SCET analysis and a three-loop consistency check</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)050</link>
+      <description>The double-logarithmic series of non-relativistic B → η form factors at large recoil is governed by a coupled set of integral equations, reflecting an intricate interplay between arbitrarily many soft-quark and soft-gluon exchanges. Whereas we previously derived these integral equations with diagrammatic resummation techniques, we analyze the form factors with methods from Soft-Collinear Effective Theory (SCET) in this work. Although the resulting factorization theorem for the so-called soft-overlap contribution is known to be spoilt by endpoint divergences, it can still be used at the level of bare (regularized) quantities at any fixed order in perturbation theory. By calculating the required ingredients, we show that the SCET analysis confirms the predictions of the integral equations up to three-loop order. We also argue that the iterative structure and the intertwined soft-quark and soft-gluon effects can be derived from standard renormalization-group equations of the B-meson light</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)050">Journal of High Energy Physics</source>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)050</guid>
+    </item><item>
+      <title>π/12 model: Trimaximal first-column lepton mixing with charged-lepton μ–τ breaking</title>
+      <link>https://doi.org/10.1103/fyx3-zvg4</link>
+      <description>The first column of the lepton mixing matrix carries two independent magnitude conditions: the trimaximal norm |Ue1|2=2/3 and the μ–τ balance |Uμ1|=|Uτ1|. We parametrize their violation by ϵ1≡32|Ue1|2−1 and ϵ2≡3(|Uτ1|2−|Uμ1|2) and show that current data treat the two differently in central value: with the first JUNO measurement included, ϵ1=+0.014±0.010 is consistent with zero, while ϵ2=+0.29−0.13+0.07 is large but disfavors zero at only 1.5σ on the profile likelihood of the global fit, the phase that drives it being still poorly measured. This asymmetry selects a specific framework, which we call the π/12 model. Its neutrino sector is TM1, supplemented by the electron-row condition |Ue2|/|Ue3|=2+3 that fixes sin2θ13=(2−3)/12=0.02233 and sin2θ12=0.31811. A charged-lepton 2–3 rotation R23(θe,α) then leaves the electron row exactly invariant and generates ϵ2=sin2θecosα. In a concrete S4×C4×C3×C2 realization, the rotation arises from a single additional flavon whose alignment forces α=0; </description>
+      <source url="https://doi.org/10.1103/fyx3-zvg4">Physical Review D</source>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117682</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/fyx3-zvg4</guid>
+    </item><item>
+      <title>Horizons and soft quantum information</title>
+      <link>https://doi.org/10.1103/mk9b-3qzz</link>
+      <description>It was recently shown that black holes decohere any quantum superpositions in their vicinity. This decoherence is mediated by soft radiation through the horizon, and can be understood as the result of the fact that quantum states in the exterior source distinguishable states of long-range fields in the interior. To study this phenomenon and others, we extend Tomita-Takesaki theory to accommodate states of soft radiation such as arise in the electromagnetic and gravitational memory effects, and provide a general framework for computing the distinguishability of general coherent states. Applying these tools, we use the methods of unambiguous state discrimination and approximate quantum error correction to prove some new relations regarding the distinguishability of quantum states, and the quantum information content of soft radiation, and thereby show that a black hole (or, under the conditions stated below, any causal horizon) decoheres its environment as though its interior were full o</description>
+      <source url="https://doi.org/10.1103/mk9b-3qzz">Physical Review D</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mk9b-3qzz</guid>
+    </item><item>
+      <title>Vacuum polarization energy of a nonzero radius cosmic string induced spacetime</title>
+      <link>https://doi.org/10.1103/27bw-xzhb</link>
+      <description>We calculate the vacuum polarization energy (VPE) of a scalar field in the background of a nonsingular cosmic string in 2+1 spacetime dimensions. Our calculation expresses the VPE as a renormalized sum and integral over scattering data, which can be expressed in terms of Legendre and Bessel functions for the “ballpoint pen” model, analogous to a square well in curvature, and which can be obtained numerically for a generic string profile. We show how relationships between the local density of states, expressed in terms of the Green’s function, and the global density of states, expressed in terms of the Jost function, extend to this curved spacetime background and allow for precise implementation of perturbative renormalization conditions.</description>
+      <source url="https://doi.org/10.1103/27bw-xzhb">Physical Review D</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/27bw-xzhb</guid>
+    </item><item>
+      <title>Sterile neutrino mixing parameters from solar-neutrino coherent scattering</title>
+      <link>https://doi.org/10.1103/1pzz-hlqd</link>
+      <description>Recently, dark matter direct-detection experiments have begun their exploration of the “neutrino fog,” providing the first hints of detection of solar neutrinos scattering elastically with the nuclei in the detector. In this work, we investigate how such observations can be used to uniquely explore sterile-neutrino parameter space, specifically through mixing with νμ and ντ. While it is challenging to constrain these parameters with current observations—PandaX, XENONnT, and LZ—we demonstrate how future measurements (with modest improvements to exposure and systematic uncertainties) can provide useful, complementary information in the search for sterile neutrinos. With an ideal, next-generation direct-detection facility (∼3000 ton-yr), we can probe parameter space previously unexplored by other methods, including long-baseline and atmospheric searches for this class of new physics.</description>
+      <source url="https://doi.org/10.1103/1pzz-hlqd">Physical Review D</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1pzz-hlqd</guid>
+    </item><item>
+      <title>Sterile neutrino mixing parameters from solar-neutrino coherent scattering</title>
+      <link>https://doi.org/10.1103/1pzz-hlqd</link>
+      <description>Recently, dark matter direct-detection experiments have begun their exploration of the “neutrino fog,” providing the first hints of detection of solar neutrinos scattering elastically with the nuclei in the detector. In this work, we investigate how such observations can be used to uniquely explore sterile-neutrino parameter space, specifically through mixing with νμ and ντ. While it is challenging to constrain these parameters with current observations—PandaX, XENONnT, and LZ—we demonstrate how future measurements (with modest improvements to exposure and systematic uncertainties) can provide useful, complementary information in the search for sterile neutrinos. With an ideal, next-generation direct-detection facility (∼3000 ton-yr), we can probe parameter space previously unexplored by other methods, including long-baseline and atmospheric searches for this class of new physics.</description>
+      <source url="https://doi.org/10.1103/1pzz-hlqd">Physical Review D</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1pzz-hlqd</guid>
+    </item><item>
+      <title>Two R factors in the small-x shockwave formalism</title>
+      <link>https://doi.org/10.1103/lwft-5mt7</link>
+      <description>There are two R-factors frequently used in the phenomenology of exclusive processes at small values of the Bjorken x variable. One R-factor takes into account the effects of nonzero longitudinal momentum transfer, which is assumed to be zero in the dipole scattering amplitude. Another R-factor accounts for the real part of the elastic scattering amplitude which is often neglected, with the standard dipole scattering amplitude giving only the imaginary part of the elastic amplitude. In this work we present two new theoretical developments aimed at eliminating the need for the two R-factors. We argue that the R-factors can be replaced by (i) modifying the argument of the dipole scattering amplitude and by (ii) augmenting the initial conditions for its nonlinear small-x evolution. Specifically, we show that to account for the effects of nonzero skewness ξ, one has to replace the rapidity argument Y=ln(1/x) of the eikonal dipole amplitude N and the odderon dipole amplitude O by Y=ln min1/|</description>
+      <source url="https://doi.org/10.1103/lwft-5mt7">Physical Review D</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/lwft-5mt7</guid>
+    </item><item>
+      <title>The a 1(1420) in a unitary coupled-channel three-body approach</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)045</link>
+      <description>An enhancement in the three-pion energy at around sqrts ≈ 1.42 GeV with a quantum numbers was observed at the COMPASS experiment. This was later attributed to the triangle singularity mechanism involving an on-shell K (892), K and overlineK intermediate states. The alignment of the decay K with the spectator overlineK produces an f (980), resulting in a kinematic enhancement, which is classically explained by the Landau equations. However, this one-loop process forms only part of a non-diagonal transition in a much larger coupled-channel framework. This study demonstrates the feasibility of embedding one-loop triangle-singularity calculations into a unitary three-body amplitude allowing one to consistently incorporate final-state interactions and their potentially substantial effect. For this, up to P-wave isobars and all sub-channel isospins are combined in a nine-channel production amplitude that is fitted to COMPASS lineshapes at different momentum transfers. The fitted amplitude re</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)045">Journal of High Energy Physics</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)045</guid>
+    </item><item>
+      <title>Intersection bounds for BPS strings in six-dimensional supergravity</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)051</link>
+      <description>In six-dimensional mathcalN = (1, 0) supergravity, the structure of tensor moduli space is governed by primitive BPS string charges known as BPS generators and their intersection pairing. We derive bounds on the intersection numbers of these generators from a purely effective field theory (EFT) perspective. Although gauge anomaly cancellation constrains intersections between generators supporting gauge algebras, bounds for E-strings intersecting generators with self-intersection numbers −2 and −3 have previously remained incomplete. We show that the Zariski decomposition, interpreted as the charge lattice counterpart of the attractor mechanism, together with current algebra embeddings on the E-string worldsheet theory, yields strong universal bounds on these intersection numbers. These results establish the finiteness of tensor charge intersection data up to E-string sector. The underlying structure was identified through AI-guided investigation and is proven here analytically using EF</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)051">Journal of High Energy Physics</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)051</guid>
+    </item><item>
+      <title>Three-particle di-light-cone distribution amplitudes of the B-meson in heavy-quark effective theory</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)047</link>
+      <description>We present a systematic study of the three-particle di-light-cone distribution amplitudes (DLCDAs) of the B-meson. They are defined through B-meson-to-vacuum matrix elements of trilocal HQET operators, in which the light antiquark and the gluon field-strength tensor are located on two back-to-back light rays. In this sense, the DLCDAs generalise the conventional B-meson light-cone distribution amplitudes to configurations where soft fields couple to collinear degrees of freedom in two distinct directions. As such, they parametrise the non-perturbative dynamics associated with non-factorisable soft-gluon contributions in rare and non-leptonic exclusive B-meson decays. We derive the complete Lorentz decomposition of the matrix elements of generic trilocal operators, identify eight independent DLCDAs, and organise them in a basis of definite twist. Using local operator identities and equations-of-motion constraints, we obtain tree-level relations for their normalisation integrals and firs</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)047">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)047</guid>
+    </item><item>
+      <title>Schwinger and Schwinger-Thirring model on squashed S2</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)059</link>
+      <description>The Schwinger model is a model of a two-dimensional U (1) gauge theory coupled to a Dirac fermion. It is an interesting model that exhibits phenomena like confinement and chiral symmetry breaking. In this paper, we study the massless Schwinger and Schwinger-Thirring model on a squashed sphere, S_b^2 . These models are examples of interacting non-supersymmetric theories where the exact computations in the coupling parameter are possible. Squashing provides a smooth deformation of the metric away from the spherical geometry. We compute the partition function, and the expectation value of the Wilson loop and the fermion condensate exactly in the Schwinger and Schwinger-Thirring model as a function of the squashing parameter and the coupling constant. We then obtain variations in these quantities in response to the squashing deformation. These contain information about correlation functions involving the energy-momentum tensor. We evaluate these variations in the first order in the squashi</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)059">Journal of High Energy Physics</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)059</guid>
     </item><item>
       <title>Existence of a second phase transition in A−A collisions at energies available at the CERN Large Hadron Collider: A physical interpretation</title>
       <link>https://doi.org/10.1103/c9q1-rmcm</link>
@@ -28,6 +99,13 @@
       <author>et al.</author>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/vq38-kmxq</guid>
+    </item><item>
+      <title>Complexity and the Hilbert space dimension of 3D gravity</title>
+      <link>https://doi.org/10.1103/wklh-xqbr</link>
+      <description>A central problem in formulating a theory of quantum gravity is to determine the size and structure of the Hilbert space of black holes. Here we use a quantum dynamical Krylov complexity approach to calculate the Hilbert space dimension of a black hole in (2+1)-dimensional anti–de Sitter space. We achieve this by obtaining the spread of an initial thermofield double state over the Krylov basis. The associated Lanczos coefficients match those for chaotic motion on the SL(2,R) group. By including nonperturbative effects in the path integral, which computes coarse-grained ensemble averages, we find that the complexity saturates at late times. The saturation value is given by the exponential of the Bekenstein-Hawking entropy plus logarithmic corrections. Our results introduce a new way to compute the Hilbert space dimension of complex interacting systems from the saturating value of spread complexity.</description>
+      <source url="https://doi.org/10.1103/wklh-xqbr">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/wklh-xqbr</guid>
     </item><item>
       <title>Minimally truncated SU(3) lattice gauge theory and string tension</title>
       <link>https://doi.org/10.1103/1qt7-3ywl</link>
@@ -50,27 +128,6 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/jn48-lmfk</guid>
     </item><item>
-      <title>Complexity and the Hilbert space dimension of 3D gravity</title>
-      <link>https://doi.org/10.1103/wklh-xqbr</link>
-      <description>A central problem in formulating a theory of quantum gravity is to determine the size and structure of the Hilbert space of black holes. Here we use a quantum dynamical Krylov complexity approach to calculate the Hilbert space dimension of a black hole in (2+1)-dimensional anti–de Sitter space. We achieve this by obtaining the spread of an initial thermofield double state over the Krylov basis. The associated Lanczos coefficients match those for chaotic motion on the SL(2,R) group. By including nonperturbative effects in the path integral, which computes coarse-grained ensemble averages, we find that the complexity saturates at late times. The saturation value is given by the exponential of the Bekenstein-Hawking entropy plus logarithmic corrections. Our results introduce a new way to compute the Hilbert space dimension of complex interacting systems from the saturating value of spread complexity.</description>
-      <source url="https://doi.org/10.1103/wklh-xqbr">Physical Review D</source>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wklh-xqbr</guid>
-    </item><item>
-      <title>Scale setting and strong coupling determination in the gradient flow scheme for 2+1 flavor lattice QCD</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)039</link>
-      <description>We report on the determination of the gradient flow scales in N = 2 + 1 QCD using highly improved staggered quark (HISQ) ensembles generated by the HotQCD Collaboration for bare gauge couplings ranging from β = 6.423 to 8.400. Using bottomonium splittings, kaon decay constant, the decay constant of unmixed η meson and the ϕ meson mass we obtained the values of the gradient flow scales in physical units, sqrtt₀ = 0.14446(76) fm and w = 0.17429(83) fm. Using the same physical inputs we revisit the determination of the potential r scale and find r = 0.3118(26) fm. As a byproduct of our study we obtain the running of the gauge coupling in the gradient flow scheme. We find that within the uncertainties the running of the gradient flow coupling obtained on the lattice is compatible with the perturbative results up to flow radius sqrt8τ_F = 0.15 fm.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)039">Journal of High Energy Physics</source>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)039</guid>
-    </item><item>
-      <title>Generalized replica manifolds. Part I. Surgery and averaging</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)023</link>
-      <description>We develop a simple framework for implementing a type of path integral “surgery” through a correlated averaging over codimension-one defects/extended operators. This technique is then used to construct replica manifolds by effectively cutting and gluing the path integral without explicitly modifying the underlying manifold. We argue that restricted forms of this averaging may be used to calculate Rényi entanglement entropy corresponding to a wide range of choices of subsystem partitioning. When the entanglement entropy being calculated in this way does not simply correspond to entanglement between subregions, we call the resulting objects from this surgery “generalized replica manifolds”. We show how this framework extends to gauge theories and, in particular, how in non-Abelian gauge theories it establishes a connection between replica calculations of a gauge-invariant notion of entanglement between color degrees of freedom and a quiver gauge theory structure. Finally, we discuss how </description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)023">Journal of High Energy Physics</source>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)023</guid>
-    </item><item>
       <title>Axion couplings in orbifold GUTs</title>
       <link>https://doi.org/10.1007/JHEP10(2026)032</link>
       <description>We consider the coupling of axions to gauge bosons in higher-dimensional Grand Unified Theories (GUT) inspired by string theory constructions with D-branes on orbifold singularities, the so-called orbifold GUTs. Due to their topological properties, axion couplings to gauge bosons are independent of the gauge symmetry reduction mechanism and the background geometry — they only depend on the embedding of the SM into the UV gauge group. There are two kinds of axions in this class of theories: axions coming from gauge fields in the bulk and axions localised on the boundaries. The axion-photon coupling for the bulk axions coincide with the results from 4-dimensional GUTs, where axions which couple to photons necessarily couple also to QCD. The brane-localised axions can couple to photons independently of the QCD coupling, but if gauge couplings are approximately unified, they have a much more severe quality problem. We show that in generic UV completions they are expected to get large masse</description>
@@ -92,64 +149,6 @@
       <author>et al.</author>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/z2yx-bbk5</guid>
-    </item><item>
-      <title>Three-gluon scattering amplitude in de Sitter spacetime</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)008</link>
-      <description>We study three-gluon scattering amplitudes in global de Sitter spacetime, in the angular momentum basis of SO(1, 4) symmetry representations. At the tree level, they are determined by the intertwiner integrals of harmonic one-forms on the three-sphere. We derive a general formula valid for all helicity configurations of incoming and outgoing gluons and express the amplitudes in terms of Wigner 3j symbols.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)008">Journal of High Energy Physics</source>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)008</guid>
-    </item><item>
-      <title>Three-gluon scattering amplitude in de Sitter spacetime</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)008</link>
-      <description>We study three-gluon scattering amplitudes in global de Sitter spacetime, in the angular momentum basis of SO(1, 4) symmetry representations. At the tree level, they are determined by the intertwiner integrals of harmonic one-forms on the three-sphere. We derive a general formula valid for all helicity configurations of incoming and outgoing gluons and express the amplitudes in terms of Wigner 3j symbols.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)008">Journal of High Energy Physics</source>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)008</guid>
-    </item><item>
-      <title>Powerful Yukawas</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)019</link>
-      <description>We introduce a class of models where the masses of the light Standard Model fermions are due to an Effective Field Theory operator that appears beyond dimension-4 in the power counting expansion, resulting in a ‘Powerful Yukawa’. The effective Yukawa coupling structure is UV-completed using a collective symmetry breaking pattern in the flavour sector, which we dub ‘Sprouting Symmetry Breaking’. The irreducible signature is an enhanced Higgs coupling to the light Standard Model fermions.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)019">Journal of High Energy Physics</source>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)019</guid>
-    </item><item>
-      <title>Anchored random clusters and SLE excursions</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)015</link>
-      <description>We provide a pedagogical review of CFT techniques to compute certain Schramm-Loewner Evolution (SLE) observables in the upper half-plane. The approach relies on the ability to express the observables as bulk-boundary correlation functions that involve degenerate boundary operators and, therefore, obey certain differential equations. In particular, we recover Schramm’s left-passage probability for SLE, the SLE Green’s functions, and the generalized densities of “anchored” critical percolation clusters first obtained by Kleban, Simmons, and Ziff. We also obtain new formulas corresponding to the densities of pivotal points between critical Fortuin-Kasteleyn (FK) clusters.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)015">Journal of High Energy Physics</source>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)015</guid>
-    </item><item>
-      <title>Precise measurement of the form factors in D0→K*(892)−ℓ+νℓ and observation of D0→K2*(1430)−ℓ+νℓ</title>
-      <link>https://doi.org/10.1103/9mzg-5jvr</link>
-      <description>We report a study of the semileptonic decays D0→K¯0π−ℓ+νℓ (where ℓ=e, μ) based on a sample of 20.3 fb−1 of e+e− annihilation data collected at a center-of-mass energy of 3.773 GeV with the BESIII detector at the BEPCII collider. Based on an investigation of the decay dynamics in D0→K¯0π−ℓ+νℓ decays, a D-wave component of D0→K2*(1430)−ℓ+νℓ is observed for the first time with a statistical significance of 8.0σ, in addition to the dominant K*(892)− and S-wave components. The D-wave component is determined to account for (0.092±0.028stat±0.018syst)% of the total decay rate. The branching fractions of the dominant K*(892)− components are measured as B(D0→K*(892)−e+νe)=(2.043±0.018stat±0.012syst)% and B(D0→K*(892)−μ+νμ)=(1.964±0.018stat±0.012syst)%, which are the most precise measurements to date and represent significant improvements over the previous world averages. The hadronic form-factor parameters are measured to be rV=V(0)/A1(0)=1.444±0.026stat±0.010syst, r2=A2(0)/A1(0)=0.752±0.020sta</description>
-      <source url="https://doi.org/10.1103/9mzg-5jvr">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9mzg-5jvr</guid>
-    </item><item>
-      <title>Measurement of the Ratio of Branching Fractions B(Bc+→J/ψτ+ντ)/B(Bc+→J/ψμ+νμ)</title>
-      <link>https://doi.org/10.1103/13fb-1gc2</link>
-      <description>A measurement of the ratio of semileptonic branching fractions R(J/ψ), defined as R(J/ψ)≡B(Bc+→J/ψτ+ντ)/B(Bc+→J/ψμ+νμ), is reported using a sample of proton-proton collision data corresponding to an integrated luminosity of 5.4 fb−1 recorded by the LHCb experiment in 2016–2018 at a center-of-mass energy of 13 TeV. The measured value is found to be R(J/ψ)=0.51±0.12(stat)±0.08(syst), which is within 1.8 standard deviations of the predictions from the standard model assuming lepton flavor universality.</description>
-      <source url="https://doi.org/10.1103/13fb-1gc2">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/13fb-1gc2</guid>
-    </item><item>
-      <title>Thermal leptogenesis in the Babu-Nandi-Tavartkiladze model of neutrino mass</title>
-      <link>https://doi.org/10.1103/lj7k-5c1q</link>
-      <description>We investigate neutrino mass and thermal leptogenesis in the Babu-Nandi-Tavartkiladze model featuring a scalar quadruplet (Φ) and a pair of vectorlike fermion triplets (Σ). In this framework, neutrino masses are generated via an effective dimension-7 operator LLHH(H†H)/Λ3 at the tree level and via the dimension-5 operator LLHH/Λ at the one-loop level. It naturally accommodates sub-eV neutrino masses even if the new physics scale Λ is O(TeV), thus making the model a compelling target for experimental searches. We explore the viability of thermal leptogenesis in this model, which is distinct from the canonical seesaw-based leptogenesis due to the presence of vector-like fermions. We find that leptogenesis is viable for MΣ≳107 GeV for a hierarchical spectrum of fermion triplets. However, in the quasidegenerate regime, resonant enhancement of the CP asymmetry lowers this scale down to O(TeV), reconciling successful leptogenesis with the originally motivated TeV-scale phenomenology and test</description>
-      <source url="https://doi.org/10.1103/lj7k-5c1q">Physical Review D</source>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/lj7k-5c1q</guid>
-    </item><item>
-      <title>Analytical and machine learning methods for model discernment at CEνNS experiments</title>
-      <link>https://doi.org/10.1103/31x4-3z7h</link>
-      <description>Neutrino experiments are currently limited by low statistics, sizable systematic uncertainties, and coarse observable binning, which can hinder discrimination among competing beyond-the-Standard-Model (BSM) explanations of anomalous signals. In particular, analyses based primarily on total event-rate differences are vulnerable to source-normalization uncertainties and to degeneracies among models that induce similar inclusive yields. Using stopped-pion coherent elastic neutrino-nucleus scattering (CEνNS) as a benchmark environment, we study how much model-discrimination power can be obtained from correlations in baseline, recoil energy, and timing that are less sensitive to the total rate. As benchmark BSM scenarios, we consider a 3+1 sterile-neutrino framework and neutral-current nonstandard neutrino interactions (NSI). We show with a likelihood-based analysis that these scenarios can be distinguished in nontrivial regions of parameter space once multidimensional shape information is </description>
-      <source url="https://doi.org/10.1103/31x4-3z7h">Physical Review D</source>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/31x4-3z7h</guid>
     </item>
   </channel>
 </rss>
