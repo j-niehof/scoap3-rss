@@ -5,8 +5,23 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:46:04 +0000</lastBuildDate>
     <item>
+      <title>Search for single production of a vectorlike B′ quark decaying to a top quark and a W boson in the single-lepton final state in proton-proton collisions at s=13 TeV</title>
+      <link>https://doi.org/10.1103/ktbp-csd3</link>
+      <description>A search is presented for the production of a single narrow-width vectorlike B′ quark that decays to a t quark and a W boson. This search targets a single-lepton final state, where a muon or electron originates either from the semileptonic decay of the t quark or from the leptonic decay of the W boson, with the other particle decaying hadronically. The (semi)leptonic portion of the event is reconstructed from an electron or muon, missing transverse momentum, and a small-radius jet identified as a b quark jet if the muon or electron originates from the t quark. The hadronic portion of the event is reconstructed as a single large-radius jet. The originating particle of the large-radius jet is identified using a neural-network-based tagger, and the dominant background contributions are modeled from data using a neural autoregressive flow network. The data were collected from 2016 to 2018 by the CMS experiment at the LHC in proton-proton collisions at s=13 TeV, corresponding to an integrat</description>
+      <source url="https://doi.org/10.1103/ktbp-csd3">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ktbp-csd3</guid>
+    </item><item>
+      <title>Phase diagram of a lattice fermion model with symmetric mass generation</title>
+      <link>https://doi.org/10.1103/tjwn-p6jc</link>
+      <description>We study the phase structure of a model containing two flavors of massless staggered fermions interacting through two independent four-fermion couplings, UI and UB, formulated on a three-dimensional Euclidean space-time lattice. At UB=0, this model is known to exhibit a direct second-order quantum phase transition between a massless fermion (MF) phase and a phase in which fermions acquire masses through the mechanism commonly referred to as symmetric mass generation (SMG). We demonstrate that introducing a small nonzero value of UB qualitatively alters this structure: the single exotic transition at UB=0 splits into two distinct, conventional transitions, separated by an intermediate phase in which fermion masses arise through the standard mechanism of spontaneous symmetry breaking (SSB). The first of these is a Gross–Neveu transition separating the MF phase from the SSB-induced massive phase, while the second is a three-dimensional XY transition between the SSB phase and the SMG phase</description>
+      <source url="https://doi.org/10.1103/tjwn-p6jc">Physical Review D</source>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tjwn-p6jc</guid>
+    </item><item>
       <title>Further bounding the Kreuzer-Skarke landscape</title>
       <link>https://doi.org/10.1007/JHEP10(2026)062</link>
       <description>Batyrev’s construction provides a map from fine, regular, star triangulations (FRSTs) of 4D reflexive polytopes to smooth Calabi-Yau threefolds (CYs). We prove that there are at most 10 diffeomorphism classes of CYs produced in this manner, improving ref. [1]’s upper bound of 10 . To show this, we make use of the fact that any two FRSTs with the same 2-face restrictions give rise to diffeomorphic CYs and bound the number of such ‘2-face equivalence classes’ for all polytopes with Hodge number h ≥ 300. We also put a lower bound of 10 on the number of 2-face equivalence classes, but emphasize that this is not a lower bound on the number of diffeomorphism classes of CYs, as distinct 2-face equivalence classes may give rise to diffeomorphic threefolds.</description>
@@ -42,13 +57,19 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)080</guid>
     </item><item>
-      <title>Exclusive dimuon production and coherent charmonium photoproduction at forward rapidity in ultra-peripheral Pb–Pb collisions at sqrts_textNN=5.36 TeV</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)057</link>
-      <description>This Paper presents rapidity-differential measurements of coherent J/ψ and ψ(2S) photoproduction, as well as rapidity-and mass-differential measurements of exclusive dimuon production, in the forward rapidity region −4 &lt; y &lt; −2.5 in ultra-peripheral Pb–Pb collisions at sqrts_textNN=5.36 TeV using data recorded by the ALICE detector at the LHC in 2023, corresponding to an integrated luminosity of ℒ = 1170 ± 50 μb . The J/ψ and ψ(2S) results reveal the significant role of nuclear shadowing effects. The square root of the ratio of the measured quarkonium cross section to the impulse approximation prediction is about 0.76 for J/ψ and 0.71 for ψ(2S), at y ≈ −3, corresponding to typical Bjorken-x values of 10 . The exclusive dimuon results highlight the sensitivity of such measurements to precise modeling of the photon flux, particularly at impact parameters near the nuclear radius.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)057">Journal of High Energy Physics</source>
-      <author>et al.</author>
+      <title>CFTs on squashed spheres and the thermal effective action</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)079</link>
+      <description>We study three-dimensional CFTs on compact Euclidean manifolds in two complementary limits: small deformations of the round S and the small-fiber, large-squashing limit of Seifert manifolds. Near the round sphere, conformal perturbation theory expresses the free-energy response through integrated stress-tensor correlators. We derive a harmonic-space formula for the universal quadratic response to arbitrary metric squashing and show that it is proportional to the c coefficient of the stress-tensor two-point function. For unitary CFTs this establishes that the sphere free energy is a local maximum in the space of metric deformations. This result extends to conserved spin-s currents, whose quadratic response alternates in sign. For the specific case of squashing the Hopf fiber, we find an explicit form for the cubic response, and in addition obtain the leading correction to the two-point function of scalar operators. In the small-fiber limit, corresponding to the large temperature regime </description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)079">Journal of High Energy Physics</source>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)057</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)079</guid>
+    </item><item>
+      <title>Flavorful lepton number violation at the EIC</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)066</link>
+      <description>We explore the prospects of detecting flavorful lepton number violation at the Electron-Ion Collider (EIC) through resonant production of heavy neutral leptons (HNLs), resulting in e^-p→ ell_α^++k j+X , where α ∈ e, μ, τ and k denotes the number of jets. We work in the νSMEFT framework of the Standard Model Effective Field Theory augmented with n singlet HNLs, one of which is in the mass range 10−100ĠeV, within kinematic reach of the EIC. To explore the EIC sensitivity, we focus on the HNL production mechanism induced by mixing with light neutrinos. We study kinematic distributions for signal and backgrounds, including hadronization and detector effects, and suggest a set of cuts to minimize backgrounds. In the mass range considered, we find that the EIC with muon detection capabilities and an integrated luminosity of 100 fb can reach sensitivities comparable to the strongest direct (LHC) and indirect constraints, and is especially relevant in the νSMEFT framework beyond dimension four</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)066">Journal of High Energy Physics</source>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)066</guid>
     </item><item>
       <title>Simulating axion electrodynamics in magnetized plasmas: Energy transfer in the inhomogeneous and strongly varying limit</title>
       <link>https://doi.org/10.1103/4vhw-kc8c</link>
@@ -65,26 +86,13 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/2fyx-y5hr</guid>
     </item><item>
-      <title>B c → η c form factors at large recoil: SCET analysis and a three-loop consistency check</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)050</link>
-      <description>The double-logarithmic series of non-relativistic B → η form factors at large recoil is governed by a coupled set of integral equations, reflecting an intricate interplay between arbitrarily many soft-quark and soft-gluon exchanges. Whereas we previously derived these integral equations with diagrammatic resummation techniques, we analyze the form factors with methods from Soft-Collinear Effective Theory (SCET) in this work. Although the resulting factorization theorem for the so-called soft-overlap contribution is known to be spoilt by endpoint divergences, it can still be used at the level of bare (regularized) quantities at any fixed order in perturbation theory. By calculating the required ingredients, we show that the SCET analysis confirms the predictions of the integral equations up to three-loop order. We also argue that the iterative structure and the intertwined soft-quark and soft-gluon effects can be derived from standard renormalization-group equations of the B-meson light</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)050">Journal of High Energy Physics</source>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)050</guid>
-    </item><item>
-      <title>π/12 model: Trimaximal first-column lepton mixing with charged-lepton μ–τ breaking</title>
-      <link>https://doi.org/10.1103/fyx3-zvg4</link>
-      <description>The first column of the lepton mixing matrix carries two independent magnitude conditions: the trimaximal norm |Ue1|2=2/3 and the μ–τ balance |Uμ1|=|Uτ1|. We parametrize their violation by ϵ1≡32|Ue1|2−1 and ϵ2≡3(|Uτ1|2−|Uμ1|2) and show that current data treat the two differently in central value: with the first JUNO measurement included, ϵ1=+0.014±0.010 is consistent with zero, while ϵ2=+0.29−0.13+0.07 is large but disfavors zero at only 1.5σ on the profile likelihood of the global fit, the phase that drives it being still poorly measured. This asymmetry selects a specific framework, which we call the π/12 model. Its neutrino sector is TM1, supplemented by the electron-row condition |Ue2|/|Ue3|=2+3 that fixes sin2θ13=(2−3)/12=0.02233 and sin2θ12=0.31811. A charged-lepton 2–3 rotation R23(θe,α) then leaves the electron row exactly invariant and generates ϵ2=sin2θecosα. In a concrete S4×C4×C3×C2 realization, the rotation arises from a single additional flavon whose alignment forces α=0; </description>
-      <source url="https://doi.org/10.1103/fyx3-zvg4">Physical Review D</source>
+      <title>Measurements of the absolute branching fractions of D0→γK¯*0 and D0→γϕ</title>
+      <link>https://doi.org/10.1103/8x81-wkvd</link>
+      <description>By analyzing a sample of 20.3 fb−1 of e+e− annihilation data collected at the center-of-mass energy of 3.773 GeV with the BESIII detector, we have made a first measurement of the absolute branching fractions of the radiative decays D0→γK¯*0 and D0→γϕ to be (3.81±0.18stat±0.20syst)×10−4 and (2.51±0.44stat±0.11syst)×10−5, respectively. The statistical significances of D0→γK¯*0 and D0→γϕ are 26.8σ and 7.9σ, respectively. The obtained branching fractions are consistent with the corresponding world average values. In addition, the measured CP asymmetry ACP(D0→γK¯*0)=(−0.7±5.0stat±4.1syst)% is consistent with CP conservation.</description>
+      <source url="https://doi.org/10.1103/8x81-wkvd">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/fyx3-zvg4</guid>
-    </item><item>
-      <title>Horizons and soft quantum information</title>
-      <link>https://doi.org/10.1103/mk9b-3qzz</link>
-      <description>It was recently shown that black holes decohere any quantum superpositions in their vicinity. This decoherence is mediated by soft radiation through the horizon, and can be understood as the result of the fact that quantum states in the exterior source distinguishable states of long-range fields in the interior. To study this phenomenon and others, we extend Tomita-Takesaki theory to accommodate states of soft radiation such as arise in the electromagnetic and gravitational memory effects, and provide a general framework for computing the distinguishability of general coherent states. Applying these tools, we use the methods of unambiguous state discrimination and approximate quantum error correction to prove some new relations regarding the distinguishability of quantum states, and the quantum information content of soft radiation, and thereby show that a black hole (or, under the conditions stated below, any causal horizon) decoheres its environment as though its interior were full o</description>
-      <source url="https://doi.org/10.1103/mk9b-3qzz">Physical Review D</source>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mk9b-3qzz</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/8x81-wkvd</guid>
     </item><item>
       <title>Vacuum polarization energy of a nonzero radius cosmic string induced spacetime</title>
       <link>https://doi.org/10.1103/27bw-xzhb</link>
@@ -115,41 +123,34 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/lwft-5mt7</guid>
     </item><item>
-      <title>The a 1(1420) in a unitary coupled-channel three-body approach</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)045</link>
-      <description>An enhancement in the three-pion energy at around sqrts ≈ 1.42 GeV with a quantum numbers was observed at the COMPASS experiment. This was later attributed to the triangle singularity mechanism involving an on-shell K (892), K and overlineK intermediate states. The alignment of the decay K with the spectator overlineK produces an f (980), resulting in a kinematic enhancement, which is classically explained by the Landau equations. However, this one-loop process forms only part of a non-diagonal transition in a much larger coupled-channel framework. This study demonstrates the feasibility of embedding one-loop triangle-singularity calculations into a unitary three-body amplitude allowing one to consistently incorporate final-state interactions and their potentially substantial effect. For this, up to P-wave isobars and all sub-channel isospins are combined in a nine-channel production amplitude that is fitted to COMPASS lineshapes at different momentum transfers. The fitted amplitude re</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)045">Journal of High Energy Physics</source>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)045</guid>
-    </item><item>
-      <title>Intersection bounds for BPS strings in six-dimensional supergravity</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)051</link>
-      <description>In six-dimensional mathcalN = (1, 0) supergravity, the structure of tensor moduli space is governed by primitive BPS string charges known as BPS generators and their intersection pairing. We derive bounds on the intersection numbers of these generators from a purely effective field theory (EFT) perspective. Although gauge anomaly cancellation constrains intersections between generators supporting gauge algebras, bounds for E-strings intersecting generators with self-intersection numbers −2 and −3 have previously remained incomplete. We show that the Zariski decomposition, interpreted as the charge lattice counterpart of the attractor mechanism, together with current algebra embeddings on the E-string worldsheet theory, yields strong universal bounds on these intersection numbers. These results establish the finiteness of tensor charge intersection data up to E-string sector. The underlying structure was identified through AI-guided investigation and is proven here analytically using EF</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)051">Journal of High Energy Physics</source>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)051</guid>
-    </item><item>
-      <title>Three-particle di-light-cone distribution amplitudes of the B-meson in heavy-quark effective theory</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)047</link>
-      <description>We present a systematic study of the three-particle di-light-cone distribution amplitudes (DLCDAs) of the B-meson. They are defined through B-meson-to-vacuum matrix elements of trilocal HQET operators, in which the light antiquark and the gluon field-strength tensor are located on two back-to-back light rays. In this sense, the DLCDAs generalise the conventional B-meson light-cone distribution amplitudes to configurations where soft fields couple to collinear degrees of freedom in two distinct directions. As such, they parametrise the non-perturbative dynamics associated with non-factorisable soft-gluon contributions in rare and non-leptonic exclusive B-meson decays. We derive the complete Lorentz decomposition of the matrix elements of generic trilocal operators, identify eight independent DLCDAs, and organise them in a basis of definite twist. Using local operator identities and equations-of-motion constraints, we obtain tree-level relations for their normalisation integrals and firs</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)047">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)047</guid>
-    </item><item>
-      <title>Schwinger and Schwinger-Thirring model on squashed S2</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)059</link>
-      <description>The Schwinger model is a model of a two-dimensional U (1) gauge theory coupled to a Dirac fermion. It is an interesting model that exhibits phenomena like confinement and chiral symmetry breaking. In this paper, we study the massless Schwinger and Schwinger-Thirring model on a squashed sphere, S_b^2 . These models are examples of interacting non-supersymmetric theories where the exact computations in the coupling parameter are possible. Squashing provides a smooth deformation of the metric away from the spherical geometry. We compute the partition function, and the expectation value of the Wilson loop and the fermion condensate exactly in the Schwinger and Schwinger-Thirring model as a function of the squashing parameter and the coupling constant. We then obtain variations in these quantities in response to the squashing deformation. These contain information about correlation functions involving the energy-momentum tensor. We evaluate these variations in the first order in the squashi</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)059">Journal of High Energy Physics</source>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)059</guid>
-    </item><item>
       <title>Existence of a second phase transition in A−A collisions at energies available at the CERN Large Hadron Collider: A physical interpretation</title>
       <link>https://doi.org/10.1103/c9q1-rmcm</link>
       <description>The observed fluid behavior of the matter produced in heavy ion and pp collisions implies that the strings stretched between the constituents of the projectile and target should have a hard core giving rise to a repulsion between them. It is shown that in these collisions there are two critical string densities, one corresponding to the well-studied percolation of strings and another to the percolation of the hard core of the strings. These two critical densities are related to two critical temperatures, one T≈160 MeV would correspond to the restoration of chiral symmetry and partial deconfinement and a second transition T≈220 MeV form the fluid behavior of quantum chromodynamics matter strongly interacting to a quasi free gas of quarks and gluons. This argument is supported by the recently published results on the sudden increase in the degrees of freedom above the deconfinement temperature in pp and A−A collisions [Mishra et al., Nucl. Phys. A 1046, 122865 (2024)].</description>
       <source url="https://doi.org/10.1103/c9q1-rmcm">Physical Review C</source>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/c9q1-rmcm</guid>
+    </item><item>
+      <title>Measurement of charged-current νμ and ν¯μ cross sections on hydrocarbon in a shallow inelastic scattering region</title>
+      <link>https://doi.org/10.1103/vq38-kmxq</link>
+      <description>This MINERvA analysis is the first neutrino and antineutrino study of a shallow inelastic scattering region, which is the transition region between resonant production and deep inelastic scattering processes. This transition is explicitly included in this study by expanding the scope of shallow inelastic scattering to include not only the mainly lower-Q2 nonresonant pion production but also the kinematic region where pion production off quarks within the nucleon become significant with Q2 below the onset of the deep-inelastic scattering region defined in this analysis. To reduce the resonance background the kinematic region 1.5W2 GeV/c2 was chosen. In addition to the inclusive differential cross section measurements in this W region, a sample with Q2≥1 GeV/c2 was also analyzed to emphasize shallow inelastic scattering interactions off quarks within the nucleon. The measurements of one-dimensional cross sections at ⟨Eν⟩∼6 GeV on hydrocarbon of Q2, Bjorken x, and muon momentum variables </description>
+      <source url="https://doi.org/10.1103/vq38-kmxq">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vq38-kmxq</guid>
+    </item><item>
+      <title>Minimally truncated SU(3) lattice gauge theory and string tension</title>
+      <link>https://doi.org/10.1103/1qt7-3ywl</link>
+      <description>We study SU(3) gauge theory on small lattices in the minimal (qutrit) electric field truncation retaining only the 1,3,3¯ representations for the link variables. Explicit expressions are given for the Kogut-Susskind Hamiltonian for the square plaquette chain and the two-dimensional honeycomb lattice. Our formalism can be easily extended to the minimally truncated general SU(Nc) gauge theory. The addition of (static) quarks is discussed. We present results for the energy spectrum of the gauge field on these lattices by exact diagonalization of the Hamiltonian and analyze its statistical properties. We also compute the SU(3) string tension and discuss how it is modified by vacuum fluctuations. Finally, we calculate the potential energies of a static quark-antiquark pair and three static quarks and study their screening at finite temperature.</description>
+      <source url="https://doi.org/10.1103/1qt7-3ywl">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1qt7-3ywl</guid>
+    </item><item>
+      <title>GTMDs, orbital angular momentum, and pretzelosity</title>
+      <link>https://doi.org/10.1103/b6kc-fg77</link>
+      <description>The leading generalized transverse momentum dependent parton distributions (GTMDs) are studied in the bag model. The model description is shown to be theoretically consistent. The orbital angular momentum is studied in terms of the GTMD F1,4q and Ji sum rule. Analytical proofs of the associated sum rules are given. A deeper relationship between orbital angular momentum and the pretzelosity TMD is established in this model. Numerical results for quark GTMDs are given in dependence of all five variables for all values of x and ξ.</description>
+      <source url="https://doi.org/10.1103/b6kc-fg77">Physical Review D</source>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/b6kc-fg77</guid>
     </item>
   </channel>
 </rss>
