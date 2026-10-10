@@ -5,8 +5,36 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 15:39:53 +0000</lastBuildDate>
     <item>
+      <title>Probing Lorentz invariance via diphoton decays of the Higgs boson</title>
+      <link>https://doi.org/10.1103/ff78-jw1c</link>
+      <description>The prospects for observing small departures from Lorentz invariance are studied using effective interactions of the Higgs boson with photons. A single operator of mass-dimension five suffices to describe all leading signatures of Lorentz violation in the diphoton decay channel. Comparison of the theoretical modified decay rates with observed signal strengths measured by the ATLAS and CMS Collaborations at the Large Hadron Collider indicates an estimated attainable sensitivity to the corresponding coefficients for Lorentz violation of order 10−4 GeV−1.</description>
+      <source url="https://doi.org/10.1103/ff78-jw1c">Physical Review D</source>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ff78-jw1c</guid>
+    </item><item>
+      <title>Steinmann violation and minimal cuts</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)088</link>
+      <description>The Steinmann relations are known to be violated with respect to some — but not all — two-particle momentum channels in massless Feynman integrals. We trace the source of this Steinmann violation to a special class of singularities, which arise from partially-overlapping minimal cuts. This allows us to propose an efficient graphical test for predicting which Steinmann relations will be violated by massless Feynman integrals of a given topology, which can be applied at any loop order. We provide evidence for this test by correctly predicting all instances of Steinmann violation in the complete set of known two-loop integrals that contribute to five-particle scattering with one or two external masses.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)088">Journal of High Energy Physics</source>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)088</guid>
+    </item><item>
+      <title>Heterotic flux vacua with a small superpotential</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)085</link>
+      <description>We study heterotic Calabi-Yau compactifications with NSNS three-form flux in view of moduli stabilisation and investigate whether the value |W | of the flux superpotential evaluated at supersymmetric minima can be small. Unlike in type IIB string theory, heterotic compactifications lack a no-scale structure, so that a non-vanishing flux superpotential generically induces a tree-level scalar potential for all moduli. Controlled moduli stabilisation therefore requires the flux superpotential to be sufficiently small in order to compete with non-perturbative effects. Working within a four-dimensional effective field theory and exploiting the special geometry of Calabi-Yau complex structure moduli spaces, we analyse the complex structure F-term equations and derive two no-go theorems: (1) supersymmetric vacua with vanishing |W |, which would lead to a vanishing tree-level scalar potential as in type IIB, occur only at singular loci in moduli space, and (2) no supersymmetric vacua with smal</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)085">Journal of High Energy Physics</source>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)085</guid>
+    </item><item>
+      <title>Global forms of mathcalN = 4 theories and non-minimal Seiberg-Witten solutions</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)096</link>
+      <description>To each four dimensional mathcalN ≥ 2 supersymmetric quantum field theory, one can associate an algebraic completely integrable (ACI) system that encodes the low energy dynamics of theory. In this paper we explicitly derive the appropriate ACI systems for the global forms of mathcalN = 4 super Yang-Mills (sYM) using isogenies of polarised abelian varieties. In doing so, we relate the complex moduli of the resulting varieties to the exactly marginal coupling of the theory, thus allowing us to probe the S-duality groups of the global forms. Finally, we comment on whether the resulting varieties are the Jacobians of a minimal genus Riemann surface, coming to the conclusion that many global forms of mathcalN = 4 sYM do not admit a minimal genus Seiberg-Witten curve that correctly reproduces the global form.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)096">Journal of High Energy Physics</source>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)096</guid>
+    </item><item>
       <title>Search for single production of a vectorlike B′ quark decaying to a top quark and a W boson in the single-lepton final state in proton-proton collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/ktbp-csd3</link>
       <description>A search is presented for the production of a single narrow-width vectorlike B′ quark that decays to a t quark and a W boson. This search targets a single-lepton final state, where a muon or electron originates either from the semileptonic decay of the t quark or from the leptonic decay of the W boson, with the other particle decaying hadronically. The (semi)leptonic portion of the event is reconstructed from an electron or muon, missing transverse momentum, and a small-radius jet identified as a b quark jet if the muon or electron originates from the t quark. The hadronic portion of the event is reconstructed as a single large-radius jet. The originating particle of the large-radius jet is identified using a neural-network-based tagger, and the dominant background contributions are modeled from data using a neural autoregressive flow network. The data were collected from 2016 to 2018 by the CMS experiment at the LHC in proton-proton collisions at s=13 TeV, corresponding to an integrat</description>
@@ -22,6 +50,13 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/tjwn-p6jc</guid>
     </item><item>
+      <title>Symmetric Mass Generation as a Multicritical Point with Enhanced Symmetry</title>
+      <link>https://doi.org/10.1103/m3pf-j37b</link>
+      <description>We explore the phase diagram of a lattice fermion model that exhibits three distinct phases: a massless fermion phase, a massive fermion phase with spontaneous symmetry breaking induced by a fermion bilinear condensate, and a massive fermion phase with symmetric mass generation. Using the fermion-bag Monte Carlo method on large cubical lattices, we find evidence for traditional second-order critical points separating the first two and the latter two phases. Remarkably, these critical points appear to merge at a multicritical point with enhanced symmetry when the symmetry breaking parameter is tuned to zero, giving rise to the recently discovered direct second-order transition between the massless and symmetric massive fermion phases.</description>
+      <source url="https://doi.org/10.1103/m3pf-j37b">Physical Review Letters</source>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/m3pf-j37b</guid>
+    </item><item>
       <title>Further bounding the Kreuzer-Skarke landscape</title>
       <link>https://doi.org/10.1007/JHEP10(2026)062</link>
       <description>Batyrev’s construction provides a map from fine, regular, star triangulations (FRSTs) of 4D reflexive polytopes to smooth Calabi-Yau threefolds (CYs). We prove that there are at most 10 diffeomorphism classes of CYs produced in this manner, improving ref. [1]’s upper bound of 10 . To show this, we make use of the fact that any two FRSTs with the same 2-face restrictions give rise to diffeomorphic CYs and bound the number of such ‘2-face equivalence classes’ for all polytopes with Hodge number h ≥ 300. We also put a lower bound of 10 on the number of 2-face equivalence classes, but emphasize that this is not a lower bound on the number of diffeomorphism classes of CYs, as distinct 2-face equivalence classes may give rise to diffeomorphic threefolds.</description>
@@ -36,12 +71,12 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)061</guid>
     </item><item>
-      <title>Color-factor symmetry using perturbiner methods for tree-level amplitudes of Yang-Mills theory coupled to matter</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)072</link>
-      <description>Bern-Carrasco-Johansson relations are helicity-independent constraints among the partial amplitudes of tree-level processes containing gluons and possibly also matter fields. They are a consequence of color-kinematic duality, but alternatively can be derived using the color-factor symmetry of tree-level amplitudes. We use recursive perturbiner methods to present a general, streamlined proof of the color-factor symmetry of all tree-level amplitudes containing an arbitrary number of fundamental spin-zero or spin-one-half matter fields and at least one gluon.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)072">Journal of High Energy Physics</source>
+      <title>Analytic next-to-leading order electroweak corrections to Higgs boson pair production at high energies</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)076</link>
+      <description>We compute the complete top-quark-induced next-to-leading order electroweak corrections to the form factors entering gluon-induced Higgs boson pair production. We consider the top quark contribution in the limit where the Mandelstam variables are much larger than all other scales involved in the process and compute about a hundred expansion terms in analytic form. They are used to obtain precise numerical results even for fairly low values of the transverse momentum of the Higgs boson. We show that these electroweak corrections at high energies are of the order of −10%. We also discuss the leading logarithmic corrections of the analytic expressions.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)076">Journal of High Energy Physics</source>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)072</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)076</guid>
     </item><item>
       <title>Analytic next-to-leading order electroweak corrections to Higgs boson pair production at high energies</title>
       <link>https://doi.org/10.1007/JHEP10(2026)076</link>
@@ -78,14 +113,6 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/4vhw-kc8c</guid>
     </item><item>
-      <title>Inclusive jet cross section in pp collisions at s=200 and 510 GeV</title>
-      <link>https://doi.org/10.1103/2fyx-y5hr</link>
-      <description>Jets are collimated clusters of particles formed by the hadronization of partons following a hard interaction. In proton-proton (pp) collisions at the Relativistic Heavy Ion Collider (RHIC), jet production is dominated by gg and qg partonic processes, allowing us to directly probe the gluon parton distribution function (PDF) in the proton in a way complementary to deep inelastic scattering. In this paper, we report the double-differential inclusive jet cross sections as a function of jet transverse momentum, pT, and pseudorapidity, η, at center-of-mass energies s=200 and 510 GeV, from pp collisions studied with the STAR detector. The jet pT is corrected for underlying event contributions by applying an off-axis cone method. At mid-pseudorapidity, |η|0.9, the kinematic coverage of our data extends to 0.07xT(=2pT/s)0.5 and 0.03xT0.31 at s=200 and 510 GeV, respectively, where the gluon PDF is poorly constrained by the TeV-scale pp (pp¯) colliders. The inclusive jet cross sections are comp</description>
-      <source url="https://doi.org/10.1103/2fyx-y5hr">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2fyx-y5hr</guid>
-    </item><item>
       <title>Measurements of the absolute branching fractions of D0→γK¯*0 and D0→γϕ</title>
       <link>https://doi.org/10.1103/8x81-wkvd</link>
       <description>By analyzing a sample of 20.3 fb−1 of e+e− annihilation data collected at the center-of-mass energy of 3.773 GeV with the BESIII detector, we have made a first measurement of the absolute branching fractions of the radiative decays D0→γK¯*0 and D0→γϕ to be (3.81±0.18stat±0.20syst)×10−4 and (2.51±0.44stat±0.11syst)×10−5, respectively. The statistical significances of D0→γK¯*0 and D0→γϕ are 26.8σ and 7.9σ, respectively. The obtained branching fractions are consistent with the corresponding world average values. In addition, the measured CP asymmetry ACP(D0→γK¯*0)=(−0.7±5.0stat±4.1syst)% is consistent with CP conservation.</description>
@@ -100,57 +127,6 @@
       <source url="https://doi.org/10.1103/27bw-xzhb">Physical Review D</source>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/27bw-xzhb</guid>
-    </item><item>
-      <title>Sterile neutrino mixing parameters from solar-neutrino coherent scattering</title>
-      <link>https://doi.org/10.1103/1pzz-hlqd</link>
-      <description>Recently, dark matter direct-detection experiments have begun their exploration of the “neutrino fog,” providing the first hints of detection of solar neutrinos scattering elastically with the nuclei in the detector. In this work, we investigate how such observations can be used to uniquely explore sterile-neutrino parameter space, specifically through mixing with νμ and ντ. While it is challenging to constrain these parameters with current observations—PandaX, XENONnT, and LZ—we demonstrate how future measurements (with modest improvements to exposure and systematic uncertainties) can provide useful, complementary information in the search for sterile neutrinos. With an ideal, next-generation direct-detection facility (∼3000 ton-yr), we can probe parameter space previously unexplored by other methods, including long-baseline and atmospheric searches for this class of new physics.</description>
-      <source url="https://doi.org/10.1103/1pzz-hlqd">Physical Review D</source>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1pzz-hlqd</guid>
-    </item><item>
-      <title>Measurements of the absolute branching fractions of D0→γK¯*0 and D0→γϕ</title>
-      <link>https://doi.org/10.1103/8x81-wkvd</link>
-      <description>By analyzing a sample of 20.3 fb−1 of e+e− annihilation data collected at the center-of-mass energy of 3.773 GeV with the BESIII detector, we have made a first measurement of the absolute branching fractions of the radiative decays D0→γK¯*0 and D0→γϕ to be (3.81±0.18stat±0.20syst)×10−4 and (2.51±0.44stat±0.11syst)×10−5, respectively. The statistical significances of D0→γK¯*0 and D0→γϕ are 26.8σ and 7.9σ, respectively. The obtained branching fractions are consistent with the corresponding world average values. In addition, the measured CP asymmetry ACP(D0→γK¯*0)=(−0.7±5.0stat±4.1syst)% is consistent with CP conservation.</description>
-      <source url="https://doi.org/10.1103/8x81-wkvd">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8x81-wkvd</guid>
-    </item><item>
-      <title>Two R factors in the small-x shockwave formalism</title>
-      <link>https://doi.org/10.1103/lwft-5mt7</link>
-      <description>There are two R-factors frequently used in the phenomenology of exclusive processes at small values of the Bjorken x variable. One R-factor takes into account the effects of nonzero longitudinal momentum transfer, which is assumed to be zero in the dipole scattering amplitude. Another R-factor accounts for the real part of the elastic scattering amplitude which is often neglected, with the standard dipole scattering amplitude giving only the imaginary part of the elastic amplitude. In this work we present two new theoretical developments aimed at eliminating the need for the two R-factors. We argue that the R-factors can be replaced by (i) modifying the argument of the dipole scattering amplitude and by (ii) augmenting the initial conditions for its nonlinear small-x evolution. Specifically, we show that to account for the effects of nonzero skewness ξ, one has to replace the rapidity argument Y=ln(1/x) of the eikonal dipole amplitude N and the odderon dipole amplitude O by Y=ln min1/|</description>
-      <source url="https://doi.org/10.1103/lwft-5mt7">Physical Review D</source>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/lwft-5mt7</guid>
-    </item><item>
-      <title>Existence of a second phase transition in A−A collisions at energies available at the CERN Large Hadron Collider: A physical interpretation</title>
-      <link>https://doi.org/10.1103/c9q1-rmcm</link>
-      <description>The observed fluid behavior of the matter produced in heavy ion and pp collisions implies that the strings stretched between the constituents of the projectile and target should have a hard core giving rise to a repulsion between them. It is shown that in these collisions there are two critical string densities, one corresponding to the well-studied percolation of strings and another to the percolation of the hard core of the strings. These two critical densities are related to two critical temperatures, one T≈160 MeV would correspond to the restoration of chiral symmetry and partial deconfinement and a second transition T≈220 MeV form the fluid behavior of quantum chromodynamics matter strongly interacting to a quasi free gas of quarks and gluons. This argument is supported by the recently published results on the sudden increase in the degrees of freedom above the deconfinement temperature in pp and A−A collisions [Mishra et al., Nucl. Phys. A 1046, 122865 (2024)].</description>
-      <source url="https://doi.org/10.1103/c9q1-rmcm">Physical Review C</source>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/c9q1-rmcm</guid>
-    </item><item>
-      <title>Measurement of charged-current νμ and ν¯μ cross sections on hydrocarbon in a shallow inelastic scattering region</title>
-      <link>https://doi.org/10.1103/vq38-kmxq</link>
-      <description>This MINERvA analysis is the first neutrino and antineutrino study of a shallow inelastic scattering region, which is the transition region between resonant production and deep inelastic scattering processes. This transition is explicitly included in this study by expanding the scope of shallow inelastic scattering to include not only the mainly lower-Q2 nonresonant pion production but also the kinematic region where pion production off quarks within the nucleon become significant with Q2 below the onset of the deep-inelastic scattering region defined in this analysis. To reduce the resonance background the kinematic region 1.5W2 GeV/c2 was chosen. In addition to the inclusive differential cross section measurements in this W region, a sample with Q2≥1 GeV/c2 was also analyzed to emphasize shallow inelastic scattering interactions off quarks within the nucleon. The measurements of one-dimensional cross sections at ⟨Eν⟩∼6 GeV on hydrocarbon of Q2, Bjorken x, and muon momentum variables </description>
-      <source url="https://doi.org/10.1103/vq38-kmxq">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vq38-kmxq</guid>
-    </item><item>
-      <title>Minimally truncated SU(3) lattice gauge theory and string tension</title>
-      <link>https://doi.org/10.1103/1qt7-3ywl</link>
-      <description>We study SU(3) gauge theory on small lattices in the minimal (qutrit) electric field truncation retaining only the 1,3,3¯ representations for the link variables. Explicit expressions are given for the Kogut-Susskind Hamiltonian for the square plaquette chain and the two-dimensional honeycomb lattice. Our formalism can be easily extended to the minimally truncated general SU(Nc) gauge theory. The addition of (static) quarks is discussed. We present results for the energy spectrum of the gauge field on these lattices by exact diagonalization of the Hamiltonian and analyze its statistical properties. We also compute the SU(3) string tension and discuss how it is modified by vacuum fluctuations. Finally, we calculate the potential energies of a static quark-antiquark pair and three static quarks and study their screening at finite temperature.</description>
-      <source url="https://doi.org/10.1103/1qt7-3ywl">Physical Review D</source>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1qt7-3ywl</guid>
-    </item><item>
-      <title>GTMDs, orbital angular momentum, and pretzelosity</title>
-      <link>https://doi.org/10.1103/b6kc-fg77</link>
-      <description>The leading generalized transverse momentum dependent parton distributions (GTMDs) are studied in the bag model. The model description is shown to be theoretically consistent. The orbital angular momentum is studied in terms of the GTMD F1,4q and Ji sum rule. Analytical proofs of the associated sum rules are given. A deeper relationship between orbital angular momentum and the pretzelosity TMD is established in this model. Numerical results for quark GTMDs are given in dependence of all five variables for all values of x and ξ.</description>
-      <source url="https://doi.org/10.1103/b6kc-fg77">Physical Review D</source>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/b6kc-fg77</guid>
     </item>
   </channel>
 </rss>
