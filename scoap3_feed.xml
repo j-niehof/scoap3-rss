@@ -5,14 +5,49 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:06:18 +0000</lastBuildDate>
     <item>
+      <title>Recursion relations for classical gravity</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)118</link>
+      <description>We derive a set of recursion relations for the perturbative evaluation of the scattering of two black holes in Einstein gravity. To illustrate, we solve the equations up to third post-Minkowskian order in the gravitational coupling constant G, recovering the correct result, including the back-reaction from gravitational radiation.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)118">Journal of High Energy Physics</source>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)118</guid>
+    </item><item>
+      <title>Neutron skin from conserved charge measurements at collider experiments</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.141044</link>
+      <description>We propose a novel method for measuring the neutron skin of heavy nuclei using collider experiments. Specifically, we demonstrate that the neutron skin thickness of the lead nucleus can be extracted in p+ 208Pb collisions by analyzing a double ratio: The ratio of net electric charge to net baryon number measured in the lead-going direction, taken for high-multiplicity events and divided by the same ratio for low-multiplicity events. We compute the expected sensitivity of the double ratio to the neutron skin within a comprehensive (3+1)D relativistic hydrodynamic framework that incorporates multiple conserved charge currents and a charge-dependent lattice-QCD-based equation of state. We provide predictions for both p+ 208Pb collisions at sNN=72 GeV and sNN=5.02 TeV, corresponding to the center of mass energies realized in the SMOG2 fixed-target setup at LHCb and the LHC collider mode, respectively.</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.141044">Physics Letters B</source>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141044</guid>
+    </item><item>
+      <title>Random matrix product state models of gravitationally prepared states</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)097</link>
+      <description>Gravitationally prepared states are quantum field theoretic states prepared by gravitational path integrals with spatial boundaries that have fixed boundary conditions for gravity but not for matter fields. They can be interpreted as quantum field theoretic states of closed universes encoding quantum gravitational effects of the past. We propose a method of modeling gravitationally prepared states in two dimensions with random matrix product states (RMPS). Such RMPS models allow us to compute quantities which include contributions of higher topologies and replica geometries to all orders. The bra-ket wormhole phase transition is a crucial physical property of gravitationally prepared states. We show that a RMPS model shows behavior qualitatively similar to the bra-ket wormhole phase transition if it satisfies the spectral gapping property, which we define. We define a class of models called O(k) models satisfying this property. A novel advantage of RMPS models is that they allow us to </description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)097">Journal of High Energy Physics</source>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)097</guid>
+    </item><item>
+      <title>Line defects with a cusp in fermionic CFTs</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)102</link>
+      <description>We study line defects with a cusp in fermionic CFTs arising as fixed points of scalar-fermion theories with Yukawa interactions. These include the Gross-Neveu-Yukawa model and some of its generalizations with additional scalar fields, which can be thought of as UV completions of fermionic theories with quartic interactions. We compute the cusp anomalous dimension in these models to one-loop order in the epsilon expansion near four dimensions, and also to leading order in the large N expansion in 2 &lt; d &lt; 4. We discuss several observables that can be extracted from the cusp anomalous dimension, such as the dimensions of the defect changing and defect creation operators, the Casimir energy appearing in the fusion of defects, and the normalization coefficients of the two-point functions of displacement and tilt operators. We provide some estimates of the values of these observables in d = 3 using the one-loop epsilon expansion and Padé approximants.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)102">Journal of High Energy Physics</source>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)102</guid>
+    </item><item>
       <title>Probing Lorentz invariance via diphoton decays of the Higgs boson</title>
       <link>https://doi.org/10.1103/ff78-jw1c</link>
       <description>The prospects for observing small departures from Lorentz invariance are studied using effective interactions of the Higgs boson with photons. A single operator of mass-dimension five suffices to describe all leading signatures of Lorentz violation in the diphoton decay channel. Comparison of the theoretical modified decay rates with observed signal strengths measured by the ATLAS and CMS Collaborations at the Large Hadron Collider indicates an estimated attainable sensitivity to the corresponding coefficients for Lorentz violation of order 10−4 GeV−1.</description>
       <source url="https://doi.org/10.1103/ff78-jw1c">Physical Review D</source>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ff78-jw1c</guid>
+    </item><item>
+      <title>Line defects with a cusp in fermionic CFTs</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)102</link>
+      <description>We study line defects with a cusp in fermionic CFTs arising as fixed points of scalar-fermion theories with Yukawa interactions. These include the Gross-Neveu-Yukawa model and some of its generalizations with additional scalar fields, which can be thought of as UV completions of fermionic theories with quartic interactions. We compute the cusp anomalous dimension in these models to one-loop order in the epsilon expansion near four dimensions, and also to leading order in the large N expansion in 2 &lt; d &lt; 4. We discuss several observables that can be extracted from the cusp anomalous dimension, such as the dimensions of the defect changing and defect creation operators, the Casimir energy appearing in the fusion of defects, and the normalization coefficients of the two-point functions of displacement and tilt operators. We provide some estimates of the values of these observables in d = 3 using the one-loop epsilon expansion and Padé approximants.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)102">Journal of High Energy Physics</source>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)102</guid>
     </item><item>
       <title>Steinmann violation and minimal cuts</title>
       <link>https://doi.org/10.1007/JHEP10(2026)088</link>
@@ -34,6 +69,13 @@
       <source url="https://doi.org/10.1007/JHEP10(2026)096">Journal of High Energy Physics</source>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)096</guid>
+    </item><item>
+      <title>A surface integrand for the inverse KLT kernel</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)099</link>
+      <description>We propose a loop-level generalization of the inverse string theory Kawai-Lewellen-Tye (KLT) kernel: the planar inverse KLT integrand. The integrand is defined constructively via a novel Berends-Giele-like recursion that exposes the inverse KLT kernel as the simplest toy model of a “stringy amplitude”. We show that, to all loop orders, the inverse KLT integrand is structurally equivalent to integrands in the cubic scalar trϕ theory. This simplicity is obscured in the conventional Feynman diagram approach, where the inverse KLT integrand receives contributions from an infinity of infinite towers of contact interactions. The inverse KLT integrand is a rational function of stringified kinematic variables and is naturally defined on the kinematic surface proposed by Arkani-Hamed et al. [1, 2]. It provides an elementary analogue of the surfacehedron integrand for the trϕ theory involving only scalar resonances and unifies the scattering of cubic scalars and pions in the non-linear sigma mod</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)099">Journal of High Energy Physics</source>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)099</guid>
     </item><item>
       <title>Search for single production of a vectorlike B′ quark decaying to a top quark and a W boson in the single-lepton final state in proton-proton collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/ktbp-csd3</link>
@@ -71,12 +113,12 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)061</guid>
     </item><item>
-      <title>Analytic next-to-leading order electroweak corrections to Higgs boson pair production at high energies</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)076</link>
-      <description>We compute the complete top-quark-induced next-to-leading order electroweak corrections to the form factors entering gluon-induced Higgs boson pair production. We consider the top quark contribution in the limit where the Mandelstam variables are much larger than all other scales involved in the process and compute about a hundred expansion terms in analytic form. They are used to obtain precise numerical results even for fairly low values of the transverse momentum of the Higgs boson. We show that these electroweak corrections at high energies are of the order of −10%. We also discuss the leading logarithmic corrections of the analytic expressions.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)076">Journal of High Energy Physics</source>
+      <title>Color-factor symmetry using perturbiner methods for tree-level amplitudes of Yang-Mills theory coupled to matter</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)072</link>
+      <description>Bern-Carrasco-Johansson relations are helicity-independent constraints among the partial amplitudes of tree-level processes containing gluons and possibly also matter fields. They are a consequence of color-kinematic duality, but alternatively can be derived using the color-factor symmetry of tree-level amplitudes. We use recursive perturbiner methods to present a general, streamlined proof of the color-factor symmetry of all tree-level amplitudes containing an arbitrary number of fundamental spin-zero or spin-one-half matter fields and at least one gluon.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)072">Journal of High Energy Physics</source>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)076</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)072</guid>
     </item><item>
       <title>Analytic next-to-leading order electroweak corrections to Higgs boson pair production at high energies</title>
       <link>https://doi.org/10.1007/JHEP10(2026)076</link>
@@ -105,28 +147,6 @@
       <source url="https://doi.org/10.1007/JHEP10(2026)066">Journal of High Energy Physics</source>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)066</guid>
-    </item><item>
-      <title>Simulating axion electrodynamics in magnetized plasmas: Energy transfer in the inhomogeneous and strongly varying limit</title>
-      <link>https://doi.org/10.1103/4vhw-kc8c</link>
-      <description>In this work, we study the electromagnetic response induced by axions in a magnetized plasma, focusing specifically on characterizing energy transfer and energy losses from the ambient axion field in highly inhomogeneous and strongly varying backgrounds. Using a suite of both frequency-domain and time-domain simulations, we solve for the efficiency of photon excitation in a rapidly varying background; the indirect excitation of Alfvén modes, occurring when a Langmuir-Ordinary (LO) mode is resonantly excited near a combined cutoff-resonance of the dispersion relations of the LO and Alfvén modes; and the excitation of electric fields in small localized plasma underdensities. We identify a particularly interesting regime in which energy can be transferred into subluminal plasma modes (ωk) with an efficiency greater than that of superluminal modes (ω&gt;k). Our results highlight a variety of less conventional ways in which axions (and other light degrees of freedom that mix with electromagnet</description>
-      <source url="https://doi.org/10.1103/4vhw-kc8c">Physical Review D</source>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4vhw-kc8c</guid>
-    </item><item>
-      <title>Measurements of the absolute branching fractions of D0→γK¯*0 and D0→γϕ</title>
-      <link>https://doi.org/10.1103/8x81-wkvd</link>
-      <description>By analyzing a sample of 20.3 fb−1 of e+e− annihilation data collected at the center-of-mass energy of 3.773 GeV with the BESIII detector, we have made a first measurement of the absolute branching fractions of the radiative decays D0→γK¯*0 and D0→γϕ to be (3.81±0.18stat±0.20syst)×10−4 and (2.51±0.44stat±0.11syst)×10−5, respectively. The statistical significances of D0→γK¯*0 and D0→γϕ are 26.8σ and 7.9σ, respectively. The obtained branching fractions are consistent with the corresponding world average values. In addition, the measured CP asymmetry ACP(D0→γK¯*0)=(−0.7±5.0stat±4.1syst)% is consistent with CP conservation.</description>
-      <source url="https://doi.org/10.1103/8x81-wkvd">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8x81-wkvd</guid>
-    </item><item>
-      <title>Vacuum polarization energy of a nonzero radius cosmic string induced spacetime</title>
-      <link>https://doi.org/10.1103/27bw-xzhb</link>
-      <description>We calculate the vacuum polarization energy (VPE) of a scalar field in the background of a nonsingular cosmic string in 2+1 spacetime dimensions. Our calculation expresses the VPE as a renormalized sum and integral over scattering data, which can be expressed in terms of Legendre and Bessel functions for the “ballpoint pen” model, analogous to a square well in curvature, and which can be obtained numerically for a generic string profile. We show how relationships between the local density of states, expressed in terms of the Green’s function, and the global density of states, expressed in terms of the Jost function, extend to this curved spacetime background and allow for precise implementation of perturbative renormalization conditions.</description>
-      <source url="https://doi.org/10.1103/27bw-xzhb">Physical Review D</source>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/27bw-xzhb</guid>
     </item>
   </channel>
 </rss>
