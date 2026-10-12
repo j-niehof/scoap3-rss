@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:34:15 +0000</lastBuildDate>
     <item>
       <title>Recursion relations for classical gravity</title>
       <link>https://doi.org/10.1007/JHEP10(2026)118</link>
@@ -13,6 +13,13 @@
       <source url="https://doi.org/10.1007/JHEP10(2026)118">Journal of High Energy Physics</source>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)118</guid>
+    </item><item>
+      <title>Do null defects dream of conformal symmetry?</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)095</link>
+      <description>We initiate the study of null line defects in Lorentzian conformal field theories in various dimensions. We show that null lines geometrically preserve a larger set of conformal isometries than their timelike and spacelike counterparts, explain a connection to non-relativistic systems, and constrain correlation functions using conformal Ward identities. We argue that having conformal symmetry, and especially maximal conformal symmetry, is extremely constraining — nearly trivializing systems. We consider the (3+1)d scalar pinning field and null Wilson line examples in depth, compare their results to ultraboosted limits of timelike and spacelike systems, and argue that shockwave-type solutions are generic. A number of physical consistency conditions compel us to consider defect correlators as distributions on a restricted subspace of Schwartz test functions. Consequently, we provide a resolution to the longstanding problem of ultraboosted limits of gauge potentials in classical electroma</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)095">Journal of High Energy Physics</source>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)095</guid>
     </item><item>
       <title>Neutron skin from conserved charge measurements at collider experiments</title>
       <link>https://doi.org/10.1016/j.physletb.2026.141044</link>
@@ -41,13 +48,6 @@
       <source url="https://doi.org/10.1103/ff78-jw1c">Physical Review D</source>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ff78-jw1c</guid>
-    </item><item>
-      <title>Line defects with a cusp in fermionic CFTs</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)102</link>
-      <description>We study line defects with a cusp in fermionic CFTs arising as fixed points of scalar-fermion theories with Yukawa interactions. These include the Gross-Neveu-Yukawa model and some of its generalizations with additional scalar fields, which can be thought of as UV completions of fermionic theories with quartic interactions. We compute the cusp anomalous dimension in these models to one-loop order in the epsilon expansion near four dimensions, and also to leading order in the large N expansion in 2 &lt; d &lt; 4. We discuss several observables that can be extracted from the cusp anomalous dimension, such as the dimensions of the defect changing and defect creation operators, the Casimir energy appearing in the fusion of defects, and the normalization coefficients of the two-point functions of displacement and tilt operators. We provide some estimates of the values of these observables in d = 3 using the one-loop epsilon expansion and Padé approximants.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)102">Journal of High Energy Physics</source>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)102</guid>
     </item><item>
       <title>Steinmann violation and minimal cuts</title>
       <link>https://doi.org/10.1007/JHEP10(2026)088</link>
@@ -113,40 +113,27 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)061</guid>
     </item><item>
-      <title>Color-factor symmetry using perturbiner methods for tree-level amplitudes of Yang-Mills theory coupled to matter</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)072</link>
-      <description>Bern-Carrasco-Johansson relations are helicity-independent constraints among the partial amplitudes of tree-level processes containing gluons and possibly also matter fields. They are a consequence of color-kinematic duality, but alternatively can be derived using the color-factor symmetry of tree-level amplitudes. We use recursive perturbiner methods to present a general, streamlined proof of the color-factor symmetry of all tree-level amplitudes containing an arbitrary number of fundamental spin-zero or spin-one-half matter fields and at least one gluon.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)072">Journal of High Energy Physics</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)072</guid>
+      <title>Simulating axion electrodynamics in magnetized plasmas: Energy transfer in the inhomogeneous and strongly varying limit</title>
+      <link>https://doi.org/10.1103/4vhw-kc8c</link>
+      <description>In this work, we study the electromagnetic response induced by axions in a magnetized plasma, focusing specifically on characterizing energy transfer and energy losses from the ambient axion field in highly inhomogeneous and strongly varying backgrounds. Using a suite of both frequency-domain and time-domain simulations, we solve for the efficiency of photon excitation in a rapidly varying background; the indirect excitation of Alfvén modes, occurring when a Langmuir-Ordinary (LO) mode is resonantly excited near a combined cutoff-resonance of the dispersion relations of the LO and Alfvén modes; and the excitation of electric fields in small localized plasma underdensities. We identify a particularly interesting regime in which energy can be transferred into subluminal plasma modes (ωk) with an efficiency greater than that of superluminal modes (ω&gt;k). Our results highlight a variety of less conventional ways in which axions (and other light degrees of freedom that mix with electromagnet</description>
+      <source url="https://doi.org/10.1103/4vhw-kc8c">Physical Review D</source>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4vhw-kc8c</guid>
     </item><item>
-      <title>Analytic next-to-leading order electroweak corrections to Higgs boson pair production at high energies</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)076</link>
-      <description>We compute the complete top-quark-induced next-to-leading order electroweak corrections to the form factors entering gluon-induced Higgs boson pair production. We consider the top quark contribution in the limit where the Mandelstam variables are much larger than all other scales involved in the process and compute about a hundred expansion terms in analytic form. They are used to obtain precise numerical results even for fairly low values of the transverse momentum of the Higgs boson. We show that these electroweak corrections at high energies are of the order of −10%. We also discuss the leading logarithmic corrections of the analytic expressions.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)076">Journal of High Energy Physics</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)076</guid>
+      <title>Simulating axion electrodynamics in magnetized plasmas: Energy transfer in the inhomogeneous and strongly varying limit</title>
+      <link>https://doi.org/10.1103/4vhw-kc8c</link>
+      <description>In this work, we study the electromagnetic response induced by axions in a magnetized plasma, focusing specifically on characterizing energy transfer and energy losses from the ambient axion field in highly inhomogeneous and strongly varying backgrounds. Using a suite of both frequency-domain and time-domain simulations, we solve for the efficiency of photon excitation in a rapidly varying background; the indirect excitation of Alfvén modes, occurring when a Langmuir-Ordinary (LO) mode is resonantly excited near a combined cutoff-resonance of the dispersion relations of the LO and Alfvén modes; and the excitation of electric fields in small localized plasma underdensities. We identify a particularly interesting regime in which energy can be transferred into subluminal plasma modes (ωk) with an efficiency greater than that of superluminal modes (ω&gt;k). Our results highlight a variety of less conventional ways in which axions (and other light degrees of freedom that mix with electromagnet</description>
+      <source url="https://doi.org/10.1103/4vhw-kc8c">Physical Review D</source>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4vhw-kc8c</guid>
     </item><item>
-      <title>Subensemble acceptance method 3.0: general corrections to cumulants from exact conservation constraints</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)080</link>
-      <description>We present the subensemble acceptance method 3.0 (SAM-3.0), which corrects cumulants of an observable measured in a subsystem of a large system for the effect of exact global conservation of multiple charges. The required input is the set of joint grand-canonical cumulants of the acceptance observable with the total event charges, from which the canonical cumulants follow algebraically via a closed recursion based on (multivariate) partial exponential Bell polynomials. The framework accommodates any number of observables, including non-conserved quantities such as net protons, and any number of simultaneously conserved charges, including the total energy, which yields the microcanonical ensemble. The mapping contains SAM-1.0 and SAM-2.0 as special cases and, unlike SAM-2.0, reproduces the exact binomial-acceptance limit. We also derive the leading finite-size corrections from the saddle-point expansion. We apply the method to update the hydrodynamics-based non-critical baseline (Hydro-</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)080">Journal of High Energy Physics</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)080</guid>
-    </item><item>
-      <title>CFTs on squashed spheres and the thermal effective action</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)079</link>
-      <description>We study three-dimensional CFTs on compact Euclidean manifolds in two complementary limits: small deformations of the round S and the small-fiber, large-squashing limit of Seifert manifolds. Near the round sphere, conformal perturbation theory expresses the free-energy response through integrated stress-tensor correlators. We derive a harmonic-space formula for the universal quadratic response to arbitrary metric squashing and show that it is proportional to the c coefficient of the stress-tensor two-point function. For unitary CFTs this establishes that the sphere free energy is a local maximum in the space of metric deformations. This result extends to conserved spin-s currents, whose quadratic response alternates in sign. For the specific case of squashing the Hopf fiber, we find an explicit form for the cubic response, and in addition obtain the leading correction to the two-point function of scalar operators. In the small-fiber limit, corresponding to the large temperature regime </description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)079">Journal of High Energy Physics</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)079</guid>
-    </item><item>
-      <title>Flavorful lepton number violation at the EIC</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)066</link>
-      <description>We explore the prospects of detecting flavorful lepton number violation at the Electron-Ion Collider (EIC) through resonant production of heavy neutral leptons (HNLs), resulting in e^-p→ ell_α^++k j+X , where α ∈ e, μ, τ and k denotes the number of jets. We work in the νSMEFT framework of the Standard Model Effective Field Theory augmented with n singlet HNLs, one of which is in the mass range 10−100ĠeV, within kinematic reach of the EIC. To explore the EIC sensitivity, we focus on the HNL production mechanism induced by mixing with light neutrinos. We study kinematic distributions for signal and backgrounds, including hadronization and detector effects, and suggest a set of cuts to minimize backgrounds. In the mass range considered, we find that the EIC with muon detection capabilities and an integrated luminosity of 100 fb can reach sensitivities comparable to the strongest direct (LHC) and indirect constraints, and is especially relevant in the νSMEFT framework beyond dimension four</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)066">Journal of High Energy Physics</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)066</guid>
+      <title>Inclusive jet cross section in pp collisions at s=200 and 510 GeV</title>
+      <link>https://doi.org/10.1103/2fyx-y5hr</link>
+      <description>Jets are collimated clusters of particles formed by the hadronization of partons following a hard interaction. In proton-proton (pp) collisions at the Relativistic Heavy Ion Collider (RHIC), jet production is dominated by gg and qg partonic processes, allowing us to directly probe the gluon parton distribution function (PDF) in the proton in a way complementary to deep inelastic scattering. In this paper, we report the double-differential inclusive jet cross sections as a function of jet transverse momentum, pT, and pseudorapidity, η, at center-of-mass energies s=200 and 510 GeV, from pp collisions studied with the STAR detector. The jet pT is corrected for underlying event contributions by applying an off-axis cone method. At mid-pseudorapidity, |η|0.9, the kinematic coverage of our data extends to 0.07xT(=2pT/s)0.5 and 0.03xT0.31 at s=200 and 510 GeV, respectively, where the gluon PDF is poorly constrained by the TeV-scale pp (pp¯) colliders. The inclusive jet cross sections are comp</description>
+      <source url="https://doi.org/10.1103/2fyx-y5hr">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2fyx-y5hr</guid>
     </item>
   </channel>
 </rss>
