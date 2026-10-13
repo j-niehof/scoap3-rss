@@ -5,8 +5,36 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:34:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:18:13 +0000</lastBuildDate>
     <item>
+      <title>Prospects for K_L → π ^0ν barν , K_S→ μ ^+μ ^-, K_L→ π ^0 ell ^+ell ^-and varepsilon '/varepsilon after the new K^+ → π ^+ν barν result from NA62</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16418-0</link>
+      <description>The recently announced NA62 measurement of the K^+ → π ^+ν barν branching ratio, based on 2016–2024 data, is fully consistent with its very accurate Standard Model (SM) prediction. While it is not excluded that the final result based on 2016–2026 data will deviate from the SM prediction, the question arises whether a similar fate awaits the K_L → π ^0ν barν decay. This decay is currently being searched for by the KOTO experiment, with the present upper bound roughly two orders of magnitude above its very precise SM prediction. The proposed KOTO II experiment aims to provide the first discovery of the K_L → π ^0ν barν decay and measure its branching ratio. Building on the findings of several previous papers we demonstrate that in the presence of suitably chosen large new complex phases and of a small amount of new right-handed bars d couplings, in addition to the left-handed ones, the K_L → π ^0ν barν branching ratio can still be enhanced by one order of magnitude with respect to the SM</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16418-0">European Physical Journal C</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16418-0</guid>
+    </item><item>
+      <title>Local approximations of global Hamiltonian from inclusion of algebras</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)138</link>
+      <description>We write down the global Hamiltonian of conformal field theory (CFT) in finite volume in terms of the modular Hamiltonian of the vacuum reduced to a local ball-shaped region, and use it to propose local approximations to the global Minkowski Hamiltonian in quantum field theory (QFT). The proposed Hamiltonians are motivated by the operator-algebraic property of nuclearity. They are constructed from the characteristic operators of inclusions of algebras and can be viewed as regulators of the modular Hamiltonian of local algebras of QFT.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)138">Journal of High Energy Physics</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)138</guid>
+    </item><item>
+      <title>Optimal binning of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-phase space for experimental measurements</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)133</link>
+      <description>New binning schemes for the Dalitz plots of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-decays are presented. These are determined using a new figure of merit for optimisation that better represents the sensitivity to γ than previous metrics. Further augmentation comes from including consideration of degeneracy with other physics parameters determined simultaneously and a more accurate treatment of relevant backgrounds. The overall expected improvement in the precision of γ measurements using B → DK decays, followed by D→ K_textS^0π ^+π ^-, is estimated at around 5%. In addition, the first dedicated optimisation is performed for the observables relevant to charm mixing, x and ∆x, in D→ K_textS^0π ^+π ^-decays. This procedure accounts for both statistical sensitivity and the migration of events between bins due to detector resolution. The resulting binning scheme leads to an estimated gain of approximately 20% in statistical sensitivity, while maintaining the bias due to bin migration at </description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)133">Journal of High Energy Physics</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)133</guid>
+    </item><item>
+      <title>Erratum to: Higgs decays at NLO in the SMEFT</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)131</link>
+      <description>A correction to this paper has been published: https://doi.org/10.1007/JHEP05(2026)112</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)131">Journal of High Energy Physics</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)131</guid>
+    </item><item>
       <title>Recursion relations for classical gravity</title>
       <link>https://doi.org/10.1007/JHEP10(2026)118</link>
       <description>We derive a set of recursion relations for the perturbative evaluation of the scattering of two black holes in Einstein gravity. To illustrate, we solve the equations up to third post-Minkowskian order in the gravitational coupling constant G, recovering the correct result, including the back-reaction from gravitational radiation.</description>
@@ -92,6 +120,13 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/tjwn-p6jc</guid>
     </item><item>
+      <title>Phase diagram of a lattice fermion model with symmetric mass generation</title>
+      <link>https://doi.org/10.1103/tjwn-p6jc</link>
+      <description>We study the phase structure of a model containing two flavors of massless staggered fermions interacting through two independent four-fermion couplings, UI and UB, formulated on a three-dimensional Euclidean space-time lattice. At UB=0, this model is known to exhibit a direct second-order quantum phase transition between a massless fermion (MF) phase and a phase in which fermions acquire masses through the mechanism commonly referred to as symmetric mass generation (SMG). We demonstrate that introducing a small nonzero value of UB qualitatively alters this structure: the single exotic transition at UB=0 splits into two distinct, conventional transitions, separated by an intermediate phase in which fermion masses arise through the standard mechanism of spontaneous symmetry breaking (SSB). The first of these is a Gross–Neveu transition separating the MF phase from the SSB-induced massive phase, while the second is a three-dimensional XY transition between the SSB phase and the SMG phase</description>
+      <source url="https://doi.org/10.1103/tjwn-p6jc">Physical Review D</source>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tjwn-p6jc</guid>
+    </item><item>
       <title>Symmetric Mass Generation as a Multicritical Point with Enhanced Symmetry</title>
       <link>https://doi.org/10.1103/m3pf-j37b</link>
       <description>We explore the phase diagram of a lattice fermion model that exhibits three distinct phases: a massless fermion phase, a massive fermion phase with spontaneous symmetry breaking induced by a fermion bilinear condensate, and a massive fermion phase with symmetric mass generation. Using the fermion-bag Monte Carlo method on large cubical lattices, we find evidence for traditional second-order critical points separating the first two and the latter two phases. Remarkably, these critical points appear to merge at a multicritical point with enhanced symmetry when the symmetry breaking parameter is tuned to zero, giving rise to the recently discovered direct second-order transition between the massless and symmetric massive fermion phases.</description>
@@ -99,41 +134,12 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/m3pf-j37b</guid>
     </item><item>
-      <title>Further bounding the Kreuzer-Skarke landscape</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)062</link>
-      <description>Batyrev’s construction provides a map from fine, regular, star triangulations (FRSTs) of 4D reflexive polytopes to smooth Calabi-Yau threefolds (CYs). We prove that there are at most 10 diffeomorphism classes of CYs produced in this manner, improving ref. [1]’s upper bound of 10 . To show this, we make use of the fact that any two FRSTs with the same 2-face restrictions give rise to diffeomorphic CYs and bound the number of such ‘2-face equivalence classes’ for all polytopes with Hodge number h ≥ 300. We also put a lower bound of 10 on the number of 2-face equivalence classes, but emphasize that this is not a lower bound on the number of diffeomorphism classes of CYs, as distinct 2-face equivalence classes may give rise to diffeomorphic threefolds.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)062">Journal of High Energy Physics</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)062</guid>
-    </item><item>
-      <title>CP violation in neutral kaon mixing in D 0 → K S K S</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)061</link>
-      <description>We study CP violation induced by neutral kaon mixing in a (D → K K ). We show that the contribution from neutral kaon mixing arises only in connection with second-order weak interactions in D decays. We estimate this effect to be at the 10 level, and thus negligible compared to current experimental sensitivity and to the expected contribution from CP violation in the charm sector. Similar reasoning can be applied to other systems.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)061">Journal of High Energy Physics</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)061</guid>
-    </item><item>
       <title>Simulating axion electrodynamics in magnetized plasmas: Energy transfer in the inhomogeneous and strongly varying limit</title>
       <link>https://doi.org/10.1103/4vhw-kc8c</link>
       <description>In this work, we study the electromagnetic response induced by axions in a magnetized plasma, focusing specifically on characterizing energy transfer and energy losses from the ambient axion field in highly inhomogeneous and strongly varying backgrounds. Using a suite of both frequency-domain and time-domain simulations, we solve for the efficiency of photon excitation in a rapidly varying background; the indirect excitation of Alfvén modes, occurring when a Langmuir-Ordinary (LO) mode is resonantly excited near a combined cutoff-resonance of the dispersion relations of the LO and Alfvén modes; and the excitation of electric fields in small localized plasma underdensities. We identify a particularly interesting regime in which energy can be transferred into subluminal plasma modes (ωk) with an efficiency greater than that of superluminal modes (ω&gt;k). Our results highlight a variety of less conventional ways in which axions (and other light degrees of freedom that mix with electromagnet</description>
       <source url="https://doi.org/10.1103/4vhw-kc8c">Physical Review D</source>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/4vhw-kc8c</guid>
-    </item><item>
-      <title>Simulating axion electrodynamics in magnetized plasmas: Energy transfer in the inhomogeneous and strongly varying limit</title>
-      <link>https://doi.org/10.1103/4vhw-kc8c</link>
-      <description>In this work, we study the electromagnetic response induced by axions in a magnetized plasma, focusing specifically on characterizing energy transfer and energy losses from the ambient axion field in highly inhomogeneous and strongly varying backgrounds. Using a suite of both frequency-domain and time-domain simulations, we solve for the efficiency of photon excitation in a rapidly varying background; the indirect excitation of Alfvén modes, occurring when a Langmuir-Ordinary (LO) mode is resonantly excited near a combined cutoff-resonance of the dispersion relations of the LO and Alfvén modes; and the excitation of electric fields in small localized plasma underdensities. We identify a particularly interesting regime in which energy can be transferred into subluminal plasma modes (ωk) with an efficiency greater than that of superluminal modes (ω&gt;k). Our results highlight a variety of less conventional ways in which axions (and other light degrees of freedom that mix with electromagnet</description>
-      <source url="https://doi.org/10.1103/4vhw-kc8c">Physical Review D</source>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4vhw-kc8c</guid>
-    </item><item>
-      <title>Inclusive jet cross section in pp collisions at s=200 and 510 GeV</title>
-      <link>https://doi.org/10.1103/2fyx-y5hr</link>
-      <description>Jets are collimated clusters of particles formed by the hadronization of partons following a hard interaction. In proton-proton (pp) collisions at the Relativistic Heavy Ion Collider (RHIC), jet production is dominated by gg and qg partonic processes, allowing us to directly probe the gluon parton distribution function (PDF) in the proton in a way complementary to deep inelastic scattering. In this paper, we report the double-differential inclusive jet cross sections as a function of jet transverse momentum, pT, and pseudorapidity, η, at center-of-mass energies s=200 and 510 GeV, from pp collisions studied with the STAR detector. The jet pT is corrected for underlying event contributions by applying an off-axis cone method. At mid-pseudorapidity, |η|0.9, the kinematic coverage of our data extends to 0.07xT(=2pT/s)0.5 and 0.03xT0.31 at s=200 and 510 GeV, respectively, where the gluon PDF is poorly constrained by the TeV-scale pp (pp¯) colliders. The inclusive jet cross sections are comp</description>
-      <source url="https://doi.org/10.1103/2fyx-y5hr">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2fyx-y5hr</guid>
     </item>
   </channel>
 </rss>
