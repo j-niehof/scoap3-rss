@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 17:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:49:58 +0000</lastBuildDate>
     <item>
       <title>Prospects for K_L → π ^0ν barν , K_S→ μ ^+μ ^-, K_L→ π ^0 ell ^+ell ^-and varepsilon '/varepsilon after the new K^+ → π ^+ν barν result from NA62</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16418-0</link>
@@ -14,19 +14,55 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16418-0</guid>
     </item><item>
+      <title>Exact baryon-meson relation for b→sνν¯</title>
+      <link>https://doi.org/10.1103/19ml-r53z</link>
+      <description>We derive an exact relation among the normalized branching fractions of Λb→Λνν¯ and B→K(*)νν¯, within the lepton-number-conserving effective Hamiltonian in which only active neutrinos contribute to the invisible final state. Although the effective Hamiltonian contains 18 independent Wilson coefficients, the three normalized rates depend on only two independent combinations of them, leading to an exact algebraic relation. Remarkably, the central values of the coefficients of this baryon-meson relation are close to 1/4 and 3/4, which appear in the heavy-to-heavy b→c semileptonic sum rule among the branching fractions of Λb→Λcτν¯ and B→D(*)τν¯. Once the decay rate of B→K*νν¯ is measured, the decay rate of Λb→Λνν¯ can be determined in a model-independent manner for new-physics scenarios involving only active neutrino interactions, thereby providing a clean target prediction for future experiments. This clearly demonstrates that observables in baryonic and mesonic b→sνν¯ transitions will se</description>
+      <source url="https://doi.org/10.1103/19ml-r53z">Physical Review D</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/19ml-r53z</guid>
+    </item><item>
+      <title>Strong CP problem and its gauge axion solution as evidence for fundamental strings</title>
+      <link>https://doi.org/10.1103/14p4-bqrc</link>
+      <description>The topological susceptibility of the QCD vacuum provides an understanding of θ vacua as vacua of a Chern-Simons gauge theory. In this way, it gives an immediate proof of the physicality of the boundary θ-term. This makes the essence of the strong-CP puzzle very transparent and offers a solution in form of the gauge axion, which has exact quality. This axion represents an intrinsic part of the QCD gauge redundancy without any reference to an anomalous global symmetry. It is a two-form transforming under the QCD gauge symmetry. Because of its pure-gauge nature, the gauge axion represents a powerful tool to monitor physics of θ vacua in various regimes. Unlike the ordinary Peccei-Quinn axion, which is UV completed into a Goldstone phase of a complex scalar and thereby suffers from the quality problem, the gauge axion is UV completed directly into a fundamental theory of gravity. We study the domain wall and string structure of the gauge axion and show that the strings sourcing it must be</description>
+      <source url="https://doi.org/10.1103/14p4-bqrc">Physical Review D</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/14p4-bqrc</guid>
+    </item><item>
+      <title>What does it take to have Neff3 at CMB times?</title>
+      <link>https://doi.org/10.1103/c62k-ktdc</link>
+      <description>The vast majority of extensions of the Standard Model affecting the number of effective relativistic neutrino species (Neff) do so additively, namely, they enhance this quantity with some light state contributing to dark radiation. In this work, we consider precisely the opposite case: new physics scenarios that can lead to Neff3 that are consistent with all known cosmological, astrophysical, and laboratory data. We are motivated by three main reasons: (1) a recent measurement from Atacama Cosmology Telescope (ACT) and the South Pole Telescope (SPT) in combination with Planck that leads to Neff=2.81±0.12, (2) by a new and powerful measurement of the primordial helium abundance, which anchors Neff to be very close to the Standard Model value one second after the big bang, (3) by the deployment of the Simons Observatory which will provide precise tests of the radiation content in the Universe and which may detect with a high significance cosmologies with Neff3. We survey the main theoret</description>
+      <source url="https://doi.org/10.1103/c62k-ktdc">Physical Review D</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/c62k-ktdc</guid>
+    </item><item>
+      <title>Search for proton decay into a single charged antilepton and a massless invisible particle using the full pure water data set of Super-Kamiokande</title>
+      <link>https://doi.org/10.1103/rsr5-d3x2</link>
+      <description>A search for proton decay via p→l++X, where l+ is a positively charged lepton and X is an invisible, massless, neutral particle, was performed using a 401 kton·years exposure representing the entire pure water phase of Super-Kamiokande. No significant indication of a proton decay was observed beyond the expected atmospheric neutrino background. Lower limits on the partial lifetime of the proton were set to 1.72×1033 years for p→e++X and 0.61×1033 years for p→μ++X at the 90% confidence level. These results improve on previous limits by factors of 2 and 1.5, respectively.</description>
+      <source url="https://doi.org/10.1103/rsr5-d3x2">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rsr5-d3x2</guid>
+    </item><item>
+      <title>Holographic open-closed exchange in double deeply virtual Compton scattering: Fixed-j structural matching to the ±-basis Wilson kernels</title>
+      <link>https://doi.org/10.1103/xprh-hqqj</link>
+      <description>We show that fixed-j holographic double deeply virtual Compton scattering (DDVCS) and its DVCS limit give a fixed-scale structural match to the singlet conformal-operator product expansion Wilson-kernel family of QCD in the leading-twist unpolarized singlet vector channel. The open-string C1(δ,ϑ) hypergeometric kernel was derived by Nishio-Watari; the new closed-string result is that the Brower-Polchinski-Strassler-Tan (BPST) upper Witten vertex gives the same family with a different near-boundary power count, because Δc(j) is fixed by the BPST trajectory rather than by open-Regge data. The Mellin exponent is therefore derived as δc(j)=j+Δc(j)−2=2j+γc(j) rather than inserted by hand. The even open branch gives the parallel unprotected counterpart in the projected singlet vector amplitude. At Q=μ=μ0=μ*, the point is not merely that equal-endpoint evolution is trivial; it is that the ultraviolet Witten vertex has already produced the fixed-j conformal kernel before the lower conformal mo</description>
+      <source url="https://doi.org/10.1103/xprh-hqqj">Physical Review D</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xprh-hqqj</guid>
+    </item><item>
+      <title>One-point energy correlator for deep inelastic scattering at small x</title>
+      <link>https://doi.org/10.1103/1fr7-f99m</link>
+      <description>We derive the expressions for the one-point energy correlator (OPEC) in deep inelastic scattering in the high-energy (small-x) limit within the Color Glass Condensate (CGC) framework. The OPEC is computed as a function of the angle between the energy flow and the target proton or nucleus, enabling a systematic exploration of different momentum scales in the scattering process. Owing to the momentum sum rule, the dependence on fragmentation functions cancels, leaving the dipole amplitude as the only nonperturbative input. As a result, the OPEC provides a sensitive and promising probe of gluon saturation dynamics at small x. We present numerical results for representative kinematic configurations relevant to the future Electron-Ion Collider, demonstrating sizable nuclear suppression effects within the CGC framework and highlighting the consistency of this observable with predictions from gluon saturation.</description>
+      <source url="https://doi.org/10.1103/1fr7-f99m">Physical Review D</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1fr7-f99m</guid>
+    </item><item>
       <title>Local approximations of global Hamiltonian from inclusion of algebras</title>
       <link>https://doi.org/10.1007/JHEP10(2026)138</link>
       <description>We write down the global Hamiltonian of conformal field theory (CFT) in finite volume in terms of the modular Hamiltonian of the vacuum reduced to a local ball-shaped region, and use it to propose local approximations to the global Minkowski Hamiltonian in quantum field theory (QFT). The proposed Hamiltonians are motivated by the operator-algebraic property of nuclearity. They are constructed from the characteristic operators of inclusions of algebras and can be viewed as regulators of the modular Hamiltonian of local algebras of QFT.</description>
       <source url="https://doi.org/10.1007/JHEP10(2026)138">Journal of High Energy Physics</source>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)138</guid>
-    </item><item>
-      <title>Optimal binning of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-phase space for experimental measurements</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)133</link>
-      <description>New binning schemes for the Dalitz plots of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-decays are presented. These are determined using a new figure of merit for optimisation that better represents the sensitivity to γ than previous metrics. Further augmentation comes from including consideration of degeneracy with other physics parameters determined simultaneously and a more accurate treatment of relevant backgrounds. The overall expected improvement in the precision of γ measurements using B → DK decays, followed by D→ K_textS^0π ^+π ^-, is estimated at around 5%. In addition, the first dedicated optimisation is performed for the observables relevant to charm mixing, x and ∆x, in D→ K_textS^0π ^+π ^-decays. This procedure accounts for both statistical sensitivity and the migration of events between bins due to detector resolution. The resulting binning scheme leads to an estimated gain of approximately 20% in statistical sensitivity, while maintaining the bias due to bin migration at </description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)133">Journal of High Energy Physics</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)133</guid>
     </item><item>
       <title>Erratum to: Higgs decays at NLO in the SMEFT</title>
       <link>https://doi.org/10.1007/JHEP10(2026)131</link>
@@ -35,33 +71,19 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)131</guid>
     </item><item>
+      <title>Optimal binning of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-phase space for experimental measurements</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)133</link>
+      <description>New binning schemes for the Dalitz plots of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-decays are presented. These are determined using a new figure of merit for optimisation that better represents the sensitivity to γ than previous metrics. Further augmentation comes from including consideration of degeneracy with other physics parameters determined simultaneously and a more accurate treatment of relevant backgrounds. The overall expected improvement in the precision of γ measurements using B → DK decays, followed by D→ K_textS^0π ^+π ^-, is estimated at around 5%. In addition, the first dedicated optimisation is performed for the observables relevant to charm mixing, x and ∆x, in D→ K_textS^0π ^+π ^-decays. This procedure accounts for both statistical sensitivity and the migration of events between bins due to detector resolution. The resulting binning scheme leads to an estimated gain of approximately 20% in statistical sensitivity, while maintaining the bias due to bin migration at </description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)133">Journal of High Energy Physics</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)133</guid>
+    </item><item>
       <title>Recursion relations for classical gravity</title>
       <link>https://doi.org/10.1007/JHEP10(2026)118</link>
       <description>We derive a set of recursion relations for the perturbative evaluation of the scattering of two black holes in Einstein gravity. To illustrate, we solve the equations up to third post-Minkowskian order in the gravitational coupling constant G, recovering the correct result, including the back-reaction from gravitational radiation.</description>
       <source url="https://doi.org/10.1007/JHEP10(2026)118">Journal of High Energy Physics</source>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)118</guid>
-    </item><item>
-      <title>Do null defects dream of conformal symmetry?</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)095</link>
-      <description>We initiate the study of null line defects in Lorentzian conformal field theories in various dimensions. We show that null lines geometrically preserve a larger set of conformal isometries than their timelike and spacelike counterparts, explain a connection to non-relativistic systems, and constrain correlation functions using conformal Ward identities. We argue that having conformal symmetry, and especially maximal conformal symmetry, is extremely constraining — nearly trivializing systems. We consider the (3+1)d scalar pinning field and null Wilson line examples in depth, compare their results to ultraboosted limits of timelike and spacelike systems, and argue that shockwave-type solutions are generic. A number of physical consistency conditions compel us to consider defect correlators as distributions on a restricted subspace of Schwartz test functions. Consequently, we provide a resolution to the longstanding problem of ultraboosted limits of gauge potentials in classical electroma</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)095">Journal of High Energy Physics</source>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)095</guid>
-    </item><item>
-      <title>Neutron skin from conserved charge measurements at collider experiments</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.141044</link>
-      <description>We propose a novel method for measuring the neutron skin of heavy nuclei using collider experiments. Specifically, we demonstrate that the neutron skin thickness of the lead nucleus can be extracted in p+ 208Pb collisions by analyzing a double ratio: The ratio of net electric charge to net baryon number measured in the lead-going direction, taken for high-multiplicity events and divided by the same ratio for low-multiplicity events. We compute the expected sensitivity of the double ratio to the neutron skin within a comprehensive (3+1)D relativistic hydrodynamic framework that incorporates multiple conserved charge currents and a charge-dependent lattice-QCD-based equation of state. We provide predictions for both p+ 208Pb collisions at sNN=72 GeV and sNN=5.02 TeV, corresponding to the center of mass energies realized in the SMOG2 fixed-target setup at LHCb and the LHC collider mode, respectively.</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.141044">Physics Letters B</source>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141044</guid>
-    </item><item>
-      <title>Random matrix product state models of gravitationally prepared states</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)097</link>
-      <description>Gravitationally prepared states are quantum field theoretic states prepared by gravitational path integrals with spatial boundaries that have fixed boundary conditions for gravity but not for matter fields. They can be interpreted as quantum field theoretic states of closed universes encoding quantum gravitational effects of the past. We propose a method of modeling gravitationally prepared states in two dimensions with random matrix product states (RMPS). Such RMPS models allow us to compute quantities which include contributions of higher topologies and replica geometries to all orders. The bra-ket wormhole phase transition is a crucial physical property of gravitationally prepared states. We show that a RMPS model shows behavior qualitatively similar to the bra-ket wormhole phase transition if it satisfies the spectral gapping property, which we define. We define a class of models called O(k) models satisfying this property. A novel advantage of RMPS models is that they allow us to </description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)097">Journal of High Energy Physics</source>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)097</guid>
     </item><item>
       <title>Line defects with a cusp in fermionic CFTs</title>
       <link>https://doi.org/10.1007/JHEP10(2026)102</link>
@@ -77,33 +99,12 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ff78-jw1c</guid>
     </item><item>
-      <title>Steinmann violation and minimal cuts</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)088</link>
-      <description>The Steinmann relations are known to be violated with respect to some — but not all — two-particle momentum channels in massless Feynman integrals. We trace the source of this Steinmann violation to a special class of singularities, which arise from partially-overlapping minimal cuts. This allows us to propose an efficient graphical test for predicting which Steinmann relations will be violated by massless Feynman integrals of a given topology, which can be applied at any loop order. We provide evidence for this test by correctly predicting all instances of Steinmann violation in the complete set of known two-loop integrals that contribute to five-particle scattering with one or two external masses.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)088">Journal of High Energy Physics</source>
+      <title>Line defects with a cusp in fermionic CFTs</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)102</link>
+      <description>We study line defects with a cusp in fermionic CFTs arising as fixed points of scalar-fermion theories with Yukawa interactions. These include the Gross-Neveu-Yukawa model and some of its generalizations with additional scalar fields, which can be thought of as UV completions of fermionic theories with quartic interactions. We compute the cusp anomalous dimension in these models to one-loop order in the epsilon expansion near four dimensions, and also to leading order in the large N expansion in 2 &lt; d &lt; 4. We discuss several observables that can be extracted from the cusp anomalous dimension, such as the dimensions of the defect changing and defect creation operators, the Casimir energy appearing in the fusion of defects, and the normalization coefficients of the two-point functions of displacement and tilt operators. We provide some estimates of the values of these observables in d = 3 using the one-loop epsilon expansion and Padé approximants.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)102">Journal of High Energy Physics</source>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)088</guid>
-    </item><item>
-      <title>Heterotic flux vacua with a small superpotential</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)085</link>
-      <description>We study heterotic Calabi-Yau compactifications with NSNS three-form flux in view of moduli stabilisation and investigate whether the value |W | of the flux superpotential evaluated at supersymmetric minima can be small. Unlike in type IIB string theory, heterotic compactifications lack a no-scale structure, so that a non-vanishing flux superpotential generically induces a tree-level scalar potential for all moduli. Controlled moduli stabilisation therefore requires the flux superpotential to be sufficiently small in order to compete with non-perturbative effects. Working within a four-dimensional effective field theory and exploiting the special geometry of Calabi-Yau complex structure moduli spaces, we analyse the complex structure F-term equations and derive two no-go theorems: (1) supersymmetric vacua with vanishing |W |, which would lead to a vanishing tree-level scalar potential as in type IIB, occur only at singular loci in moduli space, and (2) no supersymmetric vacua with smal</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)085">Journal of High Energy Physics</source>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)085</guid>
-    </item><item>
-      <title>Global forms of mathcalN = 4 theories and non-minimal Seiberg-Witten solutions</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)096</link>
-      <description>To each four dimensional mathcalN ≥ 2 supersymmetric quantum field theory, one can associate an algebraic completely integrable (ACI) system that encodes the low energy dynamics of theory. In this paper we explicitly derive the appropriate ACI systems for the global forms of mathcalN = 4 super Yang-Mills (sYM) using isogenies of polarised abelian varieties. In doing so, we relate the complex moduli of the resulting varieties to the exactly marginal coupling of the theory, thus allowing us to probe the S-duality groups of the global forms. Finally, we comment on whether the resulting varieties are the Jacobians of a minimal genus Riemann surface, coming to the conclusion that many global forms of mathcalN = 4 sYM do not admit a minimal genus Seiberg-Witten curve that correctly reproduces the global form.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)096">Journal of High Energy Physics</source>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)096</guid>
-    </item><item>
-      <title>A surface integrand for the inverse KLT kernel</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)099</link>
-      <description>We propose a loop-level generalization of the inverse string theory Kawai-Lewellen-Tye (KLT) kernel: the planar inverse KLT integrand. The integrand is defined constructively via a novel Berends-Giele-like recursion that exposes the inverse KLT kernel as the simplest toy model of a “stringy amplitude”. We show that, to all loop orders, the inverse KLT integrand is structurally equivalent to integrands in the cubic scalar trϕ theory. This simplicity is obscured in the conventional Feynman diagram approach, where the inverse KLT integrand receives contributions from an infinity of infinite towers of contact interactions. The inverse KLT integrand is a rational function of stringified kinematic variables and is naturally defined on the kinematic surface proposed by Arkani-Hamed et al. [1, 2]. It provides an elementary analogue of the surfacehedron integrand for the trϕ theory involving only scalar resonances and unifies the scattering of cubic scalars and pions in the non-linear sigma mod</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)099">Journal of High Energy Physics</source>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)099</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)102</guid>
     </item><item>
       <title>Search for single production of a vectorlike B′ quark decaying to a top quark and a W boson in the single-lepton final state in proton-proton collisions at s=13 TeV</title>
       <link>https://doi.org/10.1103/ktbp-csd3</link>
@@ -133,13 +134,6 @@
       <source url="https://doi.org/10.1103/m3pf-j37b">Physical Review Letters</source>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/m3pf-j37b</guid>
-    </item><item>
-      <title>Simulating axion electrodynamics in magnetized plasmas: Energy transfer in the inhomogeneous and strongly varying limit</title>
-      <link>https://doi.org/10.1103/4vhw-kc8c</link>
-      <description>In this work, we study the electromagnetic response induced by axions in a magnetized plasma, focusing specifically on characterizing energy transfer and energy losses from the ambient axion field in highly inhomogeneous and strongly varying backgrounds. Using a suite of both frequency-domain and time-domain simulations, we solve for the efficiency of photon excitation in a rapidly varying background; the indirect excitation of Alfvén modes, occurring when a Langmuir-Ordinary (LO) mode is resonantly excited near a combined cutoff-resonance of the dispersion relations of the LO and Alfvén modes; and the excitation of electric fields in small localized plasma underdensities. We identify a particularly interesting regime in which energy can be transferred into subluminal plasma modes (ωk) with an efficiency greater than that of superluminal modes (ω&gt;k). Our results highlight a variety of less conventional ways in which axions (and other light degrees of freedom that mix with electromagnet</description>
-      <source url="https://doi.org/10.1103/4vhw-kc8c">Physical Review D</source>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4vhw-kc8c</guid>
     </item>
   </channel>
 </rss>
