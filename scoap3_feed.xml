@@ -5,8 +5,59 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:49:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:37:12 +0000</lastBuildDate>
     <item>
+      <title>Ground-state entanglement and preserved dynamical symmetry in the interacting boson model</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.141057</link>
+      <description>We introduce an exact bipartite entanglement entropy between the s-and d-boson degrees of freedom in the interacting boson model (IBM), evaluated from finite-N eigenstates with good angular momentum. Unlike coherent-state approaches, the present formulation avoids mixing different angular-momentum sectors. The entanglement entropy reproduces the expected signatures of the U(5)–SU(3) [ SU‾(3)] and U(5)–O(6) shape transitions, while revealing a pronounced minimum at the O(6) point along the SU(3)–O(6)– SU‾(3) path, in sharp contrast to previous coherent-state results. We show that critical quantum fluctuations govern the local enhancement of entanglement near transition regions, whereas the entanglement hierarchy at the dynamical-symmetry limits is governed by the preserved local dynamical symmetry of the Schmidt-partitioned s-d space. The entanglement is weakest at the U(5) limit, intermediate at the O(6) limit, and strongest at the SU(3) [ SU‾(3)] limits, revealing an inverse correlati</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.141057">Physics Letters B</source>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141057</guid>
+    </item><item>
+      <title>Third moments of nucleon unpolarized, polarized, and transversity parton distribution functions from physical-point lattice QCD</title>
+      <link>https://doi.org/10.1103/kknt-zxsw</link>
+      <description>Using forward matrix elements of local leading-twist operators, we present a determination of the isovector third Mellin moments ⟨x2⟩ of nucleon unpolarized, polarized, and transversity parton distribution functions. Two lattice QCD ensembles at the physical pion mass are used, which were generated using a tree-level Symanzik-improved gauge action and 2+1 flavor tree-level improved Wilson clover fermions coupling via two-level HEX smearing. Leveraging a wide set of operators, two extraction methods for the matrix elements, and the automatic inclusion of model uncertainties via bootstrapped model averages, we extract values of the third Mellin moments. This is the first direct calculation of these observables performed at the physical pion mass.</description>
+      <source url="https://doi.org/10.1103/kknt-zxsw">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/kknt-zxsw</guid>
+    </item><item>
+      <title>ΛΛ¯ spin correlations in high-energy collisions from quantum channels: An open quantum system view of hadronization</title>
+      <link>https://doi.org/10.1103/rxp7-gdng</link>
+      <description>We construct a quantum information-centered approach to describe the experimentally observed behavior of hyperon spin-pair correlations in high-energy collider experiments. The evolution of the spin density matrix of the hyperon pair is treated in the language of quantum channels, accounting both for the spin dynamics in C2⊗C2 and for the pair’s angular separation ΔR. We show that the experimental data are consistent with an evolution under a two-qubit depolarizing channel, from which a Lindblad master equation is derived. This provides an open quantum system picture of spin dynamics during the hadronization transition, which is not naturally captured by other quantum channels, and we discuss its microscopic origins. These results show that quantum information science can offer new insights into confinement dynamics beyond the classification of entanglement in the final particle states.</description>
+      <source url="https://doi.org/10.1103/rxp7-gdng">Physical Review D</source>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rxp7-gdng</guid>
+    </item><item>
+      <title>Quark-lepton color-flavor unification</title>
+      <link>https://doi.org/10.1103/9h7r-2zpr</link>
+      <description>We present an SU(12)×SU(2)L×U(1)R model unifying SU(9) quark color-flavor with SU(3) lepton flavor as a flavorful alternative to conventional theories of unification. We begin in the ultraviolet with a single Yukawa shared by the unified up-type quarks and neutrinos and no further new fermions. We show that gauged quark color-flavor and lepton-flavor instantons dynamically generate the bottom and tau Yukawas, which implements a massless quark solution to the strong CP problem and sets up a flavored type-I seesaw mechanism. Only two new scalar irreps are needed for the symmetry-breaking steps, which include quark color-flavor deconstruction and then infrared reunification, and the Standard Model (SM) gauge group in this theory emerges as GSM=SU(3)C×SU(2)L×U(1)Y×Z18XZ3×Γ×Z3, where Γ∈1,Z2 is the electroweak global structure and there is a discrete gauge symmetry X=B−3(Li+Lj−Lk) which brings additional Z3 global structure to the SM. This gauge symmetry acts as a flavorful upgrade of the Z1</description>
+      <source url="https://doi.org/10.1103/9h7r-2zpr">Physical Review D</source>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9h7r-2zpr</guid>
+    </item><item>
+      <title>Proton’s Isovector Parton Distribution Function with Updated Analysis of Large-Momentum Lattice Data</title>
+      <link>https://doi.org/10.1103/8ytm-zbf4</link>
+      <description>The proton’s unpolarized u(x)−d(x) parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF for the physical-limit-extrapolated dataset (MSULat20) is consistent with global fits within ∼1σ, while others are broadly compatible. This provides evidence that large momentum expansion is capable of accurately predicting the x dependence of the PDFs when ideal lattice data become available.</description>
+      <source url="https://doi.org/10.1103/8ytm-zbf4">Physical Review Letters</source>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/8ytm-zbf4</guid>
+    </item><item>
+      <title>Particle Correlations in Jets</title>
+      <link>https://doi.org/10.1103/yscq-npz8</link>
+      <description>We study particle correlations in high energy jets by comparing the measured energy-energy correlator with that constructed from two individual energy flows with respect to the jet axis. This comparison demonstrates that the genuine correlations are stronger at moderate or large angles across all jet energies, indicating that they are coming from correlated splitting. Meanwhile, at small angles, they increase with jet energy, exhibiting a peculiar pattern that can be used to explore jet energy loss in heavy-ion collisions. This method will provide a unique tool to disentangle different physics by comparing the genuine correlations in jet energy-energy correlators between heavy-ion collisions and proton-proton collisions.</description>
+      <source url="https://doi.org/10.1103/yscq-npz8">Physical Review Letters</source>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yscq-npz8</guid>
+    </item><item>
+      <title>Local thermalization of SU(2) lattice gauge fields on quantum computers</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)137</link>
+      <description>We simulate the local thermalization dynamics for minimally truncated SU(2) pure gauge theory on linear plaquette chains with up to 151 plaquettes using IBM quantum computers. We study the time dependence of the entanglement spectrum, Rényi-2 entropy and anti-flatness on small subsystems. The quantum hardware results obtained after error mitigation agree with classical simulator results for chains consisting of up to 101 plaquettes. Our results demonstrate the feasibility of local thermalization studies for chaotic quantum systems, such as nonabelian lattice gauge theories, on current noisy quantum computing platforms.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)137">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)137</guid>
+    </item><item>
       <title>Prospects for K_L → π ^0ν barν , K_S→ μ ^+μ ^-, K_L→ π ^0 ell ^+ell ^-and varepsilon '/varepsilon after the new K^+ → π ^+ν barν result from NA62</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16418-0</link>
       <description>The recently announced NA62 measurement of the K^+ → π ^+ν barν branching ratio, based on 2016–2024 data, is fully consistent with its very accurate Standard Model (SM) prediction. While it is not excluded that the final result based on 2016–2026 data will deviate from the SM prediction, the question arises whether a similar fate awaits the K_L → π ^0ν barν decay. This decay is currently being searched for by the KOTO experiment, with the present upper bound roughly two orders of magnitude above its very precise SM prediction. The proposed KOTO II experiment aims to provide the first discovery of the K_L → π ^0ν barν decay and measure its branching ratio. Building on the findings of several previous papers we demonstrate that in the presence of suitably chosen large new complex phases and of a small amount of new right-handed bars d couplings, in addition to the left-handed ones, the K_L → π ^0ν barν branching ratio can still be enhanced by one order of magnitude with respect to the SM</description>
@@ -14,12 +65,27 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16418-0</guid>
     </item><item>
-      <title>Exact baryon-meson relation for b→sνν¯</title>
-      <link>https://doi.org/10.1103/19ml-r53z</link>
-      <description>We derive an exact relation among the normalized branching fractions of Λb→Λνν¯ and B→K(*)νν¯, within the lepton-number-conserving effective Hamiltonian in which only active neutrinos contribute to the invisible final state. Although the effective Hamiltonian contains 18 independent Wilson coefficients, the three normalized rates depend on only two independent combinations of them, leading to an exact algebraic relation. Remarkably, the central values of the coefficients of this baryon-meson relation are close to 1/4 and 3/4, which appear in the heavy-to-heavy b→c semileptonic sum rule among the branching fractions of Λb→Λcτν¯ and B→D(*)τν¯. Once the decay rate of B→K*νν¯ is measured, the decay rate of Λb→Λνν¯ can be determined in a model-independent manner for new-physics scenarios involving only active neutrino interactions, thereby providing a clean target prediction for future experiments. This clearly demonstrates that observables in baryonic and mesonic b→sνν¯ transitions will se</description>
-      <source url="https://doi.org/10.1103/19ml-r53z">Physical Review D</source>
+      <title>Search for proton decay into a single charged antilepton and a massless invisible particle using the full pure water data set of Super-Kamiokande</title>
+      <link>https://doi.org/10.1103/rsr5-d3x2</link>
+      <description>A search for proton decay via p→l++X, where l+ is a positively charged lepton and X is an invisible, massless, neutral particle, was performed using a 401 kton·years exposure representing the entire pure water phase of Super-Kamiokande. No significant indication of a proton decay was observed beyond the expected atmospheric neutrino background. Lower limits on the partial lifetime of the proton were set to 1.72×1033 years for p→e++X and 0.61×1033 years for p→μ++X at the 90% confidence level. These results improve on previous limits by factors of 2 and 1.5, respectively.</description>
+      <source url="https://doi.org/10.1103/rsr5-d3x2">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/19ml-r53z</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/rsr5-d3x2</guid>
+    </item><item>
+      <title>What does it take to have Neff3 at CMB times?</title>
+      <link>https://doi.org/10.1103/c62k-ktdc</link>
+      <description>The vast majority of extensions of the Standard Model affecting the number of effective relativistic neutrino species (Neff) do so additively, namely, they enhance this quantity with some light state contributing to dark radiation. In this work, we consider precisely the opposite case: new physics scenarios that can lead to Neff3 that are consistent with all known cosmological, astrophysical, and laboratory data. We are motivated by three main reasons: (1) a recent measurement from Atacama Cosmology Telescope (ACT) and the South Pole Telescope (SPT) in combination with Planck that leads to Neff=2.81±0.12, (2) by a new and powerful measurement of the primordial helium abundance, which anchors Neff to be very close to the Standard Model value one second after the big bang, (3) by the deployment of the Simons Observatory which will provide precise tests of the radiation content in the Universe and which may detect with a high significance cosmologies with Neff3. We survey the main theoret</description>
+      <source url="https://doi.org/10.1103/c62k-ktdc">Physical Review D</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/c62k-ktdc</guid>
+    </item><item>
+      <title>Strong CP problem and its gauge axion solution as evidence for fundamental strings</title>
+      <link>https://doi.org/10.1103/14p4-bqrc</link>
+      <description>The topological susceptibility of the QCD vacuum provides an understanding of θ vacua as vacua of a Chern-Simons gauge theory. In this way, it gives an immediate proof of the physicality of the boundary θ-term. This makes the essence of the strong-CP puzzle very transparent and offers a solution in form of the gauge axion, which has exact quality. This axion represents an intrinsic part of the QCD gauge redundancy without any reference to an anomalous global symmetry. It is a two-form transforming under the QCD gauge symmetry. Because of its pure-gauge nature, the gauge axion represents a powerful tool to monitor physics of θ vacua in various regimes. Unlike the ordinary Peccei-Quinn axion, which is UV completed into a Goldstone phase of a complex scalar and thereby suffers from the quality problem, the gauge axion is UV completed directly into a fundamental theory of gravity. We study the domain wall and string structure of the gauge axion and show that the strings sourcing it must be</description>
+      <source url="https://doi.org/10.1103/14p4-bqrc">Physical Review D</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/14p4-bqrc</guid>
     </item><item>
       <title>Strong CP problem and its gauge axion solution as evidence for fundamental strings</title>
       <link>https://doi.org/10.1103/14p4-bqrc</link>
@@ -43,19 +109,19 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rsr5-d3x2</guid>
     </item><item>
-      <title>Holographic open-closed exchange in double deeply virtual Compton scattering: Fixed-j structural matching to the ±-basis Wilson kernels</title>
-      <link>https://doi.org/10.1103/xprh-hqqj</link>
-      <description>We show that fixed-j holographic double deeply virtual Compton scattering (DDVCS) and its DVCS limit give a fixed-scale structural match to the singlet conformal-operator product expansion Wilson-kernel family of QCD in the leading-twist unpolarized singlet vector channel. The open-string C1(δ,ϑ) hypergeometric kernel was derived by Nishio-Watari; the new closed-string result is that the Brower-Polchinski-Strassler-Tan (BPST) upper Witten vertex gives the same family with a different near-boundary power count, because Δc(j) is fixed by the BPST trajectory rather than by open-Regge data. The Mellin exponent is therefore derived as δc(j)=j+Δc(j)−2=2j+γc(j) rather than inserted by hand. The even open branch gives the parallel unprotected counterpart in the projected singlet vector amplitude. At Q=μ=μ0=μ*, the point is not merely that equal-endpoint evolution is trivial; it is that the ultraviolet Witten vertex has already produced the fixed-j conformal kernel before the lower conformal mo</description>
-      <source url="https://doi.org/10.1103/xprh-hqqj">Physical Review D</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xprh-hqqj</guid>
-    </item><item>
       <title>One-point energy correlator for deep inelastic scattering at small x</title>
       <link>https://doi.org/10.1103/1fr7-f99m</link>
       <description>We derive the expressions for the one-point energy correlator (OPEC) in deep inelastic scattering in the high-energy (small-x) limit within the Color Glass Condensate (CGC) framework. The OPEC is computed as a function of the angle between the energy flow and the target proton or nucleus, enabling a systematic exploration of different momentum scales in the scattering process. Owing to the momentum sum rule, the dependence on fragmentation functions cancels, leaving the dipole amplitude as the only nonperturbative input. As a result, the OPEC provides a sensitive and promising probe of gluon saturation dynamics at small x. We present numerical results for representative kinematic configurations relevant to the future Electron-Ion Collider, demonstrating sizable nuclear suppression effects within the CGC framework and highlighting the consistency of this observable with predictions from gluon saturation.</description>
       <source url="https://doi.org/10.1103/1fr7-f99m">Physical Review D</source>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/1fr7-f99m</guid>
+    </item><item>
+      <title>Holographic open-closed exchange in double deeply virtual Compton scattering: Fixed-j structural matching to the ±-basis Wilson kernels</title>
+      <link>https://doi.org/10.1103/xprh-hqqj</link>
+      <description>We show that fixed-j holographic double deeply virtual Compton scattering (DDVCS) and its DVCS limit give a fixed-scale structural match to the singlet conformal-operator product expansion Wilson-kernel family of QCD in the leading-twist unpolarized singlet vector channel. The open-string C1(δ,ϑ) hypergeometric kernel was derived by Nishio-Watari; the new closed-string result is that the Brower-Polchinski-Strassler-Tan (BPST) upper Witten vertex gives the same family with a different near-boundary power count, because Δc(j) is fixed by the BPST trajectory rather than by open-Regge data. The Mellin exponent is therefore derived as δc(j)=j+Δc(j)−2=2j+γc(j) rather than inserted by hand. The even open branch gives the parallel unprotected counterpart in the projected singlet vector amplitude. At Q=μ=μ0=μ*, the point is not merely that equal-endpoint evolution is trivial; it is that the ultraviolet Witten vertex has already produced the fixed-j conformal kernel before the lower conformal mo</description>
+      <source url="https://doi.org/10.1103/xprh-hqqj">Physical Review D</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xprh-hqqj</guid>
     </item><item>
       <title>Local approximations of global Hamiltonian from inclusion of algebras</title>
       <link>https://doi.org/10.1007/JHEP10(2026)138</link>
@@ -78,62 +144,12 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)133</guid>
     </item><item>
-      <title>Recursion relations for classical gravity</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)118</link>
-      <description>We derive a set of recursion relations for the perturbative evaluation of the scattering of two black holes in Einstein gravity. To illustrate, we solve the equations up to third post-Minkowskian order in the gravitational coupling constant G, recovering the correct result, including the back-reaction from gravitational radiation.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)118">Journal of High Energy Physics</source>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)118</guid>
-    </item><item>
-      <title>Line defects with a cusp in fermionic CFTs</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)102</link>
-      <description>We study line defects with a cusp in fermionic CFTs arising as fixed points of scalar-fermion theories with Yukawa interactions. These include the Gross-Neveu-Yukawa model and some of its generalizations with additional scalar fields, which can be thought of as UV completions of fermionic theories with quartic interactions. We compute the cusp anomalous dimension in these models to one-loop order in the epsilon expansion near four dimensions, and also to leading order in the large N expansion in 2 &lt; d &lt; 4. We discuss several observables that can be extracted from the cusp anomalous dimension, such as the dimensions of the defect changing and defect creation operators, the Casimir energy appearing in the fusion of defects, and the normalization coefficients of the two-point functions of displacement and tilt operators. We provide some estimates of the values of these observables in d = 3 using the one-loop epsilon expansion and Padé approximants.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)102">Journal of High Energy Physics</source>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)102</guid>
-    </item><item>
-      <title>Probing Lorentz invariance via diphoton decays of the Higgs boson</title>
-      <link>https://doi.org/10.1103/ff78-jw1c</link>
-      <description>The prospects for observing small departures from Lorentz invariance are studied using effective interactions of the Higgs boson with photons. A single operator of mass-dimension five suffices to describe all leading signatures of Lorentz violation in the diphoton decay channel. Comparison of the theoretical modified decay rates with observed signal strengths measured by the ATLAS and CMS Collaborations at the Large Hadron Collider indicates an estimated attainable sensitivity to the corresponding coefficients for Lorentz violation of order 10−4 GeV−1.</description>
-      <source url="https://doi.org/10.1103/ff78-jw1c">Physical Review D</source>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ff78-jw1c</guid>
-    </item><item>
-      <title>Line defects with a cusp in fermionic CFTs</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)102</link>
-      <description>We study line defects with a cusp in fermionic CFTs arising as fixed points of scalar-fermion theories with Yukawa interactions. These include the Gross-Neveu-Yukawa model and some of its generalizations with additional scalar fields, which can be thought of as UV completions of fermionic theories with quartic interactions. We compute the cusp anomalous dimension in these models to one-loop order in the epsilon expansion near four dimensions, and also to leading order in the large N expansion in 2 &lt; d &lt; 4. We discuss several observables that can be extracted from the cusp anomalous dimension, such as the dimensions of the defect changing and defect creation operators, the Casimir energy appearing in the fusion of defects, and the normalization coefficients of the two-point functions of displacement and tilt operators. We provide some estimates of the values of these observables in d = 3 using the one-loop epsilon expansion and Padé approximants.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)102">Journal of High Energy Physics</source>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)102</guid>
-    </item><item>
-      <title>Search for single production of a vectorlike B′ quark decaying to a top quark and a W boson in the single-lepton final state in proton-proton collisions at s=13 TeV</title>
-      <link>https://doi.org/10.1103/ktbp-csd3</link>
-      <description>A search is presented for the production of a single narrow-width vectorlike B′ quark that decays to a t quark and a W boson. This search targets a single-lepton final state, where a muon or electron originates either from the semileptonic decay of the t quark or from the leptonic decay of the W boson, with the other particle decaying hadronically. The (semi)leptonic portion of the event is reconstructed from an electron or muon, missing transverse momentum, and a small-radius jet identified as a b quark jet if the muon or electron originates from the t quark. The hadronic portion of the event is reconstructed as a single large-radius jet. The originating particle of the large-radius jet is identified using a neural-network-based tagger, and the dominant background contributions are modeled from data using a neural autoregressive flow network. The data were collected from 2016 to 2018 by the CMS experiment at the LHC in proton-proton collisions at s=13 TeV, corresponding to an integrat</description>
-      <source url="https://doi.org/10.1103/ktbp-csd3">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ktbp-csd3</guid>
-    </item><item>
-      <title>Phase diagram of a lattice fermion model with symmetric mass generation</title>
-      <link>https://doi.org/10.1103/tjwn-p6jc</link>
-      <description>We study the phase structure of a model containing two flavors of massless staggered fermions interacting through two independent four-fermion couplings, UI and UB, formulated on a three-dimensional Euclidean space-time lattice. At UB=0, this model is known to exhibit a direct second-order quantum phase transition between a massless fermion (MF) phase and a phase in which fermions acquire masses through the mechanism commonly referred to as symmetric mass generation (SMG). We demonstrate that introducing a small nonzero value of UB qualitatively alters this structure: the single exotic transition at UB=0 splits into two distinct, conventional transitions, separated by an intermediate phase in which fermion masses arise through the standard mechanism of spontaneous symmetry breaking (SSB). The first of these is a Gross–Neveu transition separating the MF phase from the SSB-induced massive phase, while the second is a three-dimensional XY transition between the SSB phase and the SMG phase</description>
-      <source url="https://doi.org/10.1103/tjwn-p6jc">Physical Review D</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tjwn-p6jc</guid>
-    </item><item>
-      <title>Phase diagram of a lattice fermion model with symmetric mass generation</title>
-      <link>https://doi.org/10.1103/tjwn-p6jc</link>
-      <description>We study the phase structure of a model containing two flavors of massless staggered fermions interacting through two independent four-fermion couplings, UI and UB, formulated on a three-dimensional Euclidean space-time lattice. At UB=0, this model is known to exhibit a direct second-order quantum phase transition between a massless fermion (MF) phase and a phase in which fermions acquire masses through the mechanism commonly referred to as symmetric mass generation (SMG). We demonstrate that introducing a small nonzero value of UB qualitatively alters this structure: the single exotic transition at UB=0 splits into two distinct, conventional transitions, separated by an intermediate phase in which fermion masses arise through the standard mechanism of spontaneous symmetry breaking (SSB). The first of these is a Gross–Neveu transition separating the MF phase from the SSB-induced massive phase, while the second is a three-dimensional XY transition between the SSB phase and the SMG phase</description>
-      <source url="https://doi.org/10.1103/tjwn-p6jc">Physical Review D</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tjwn-p6jc</guid>
-    </item><item>
-      <title>Symmetric Mass Generation as a Multicritical Point with Enhanced Symmetry</title>
-      <link>https://doi.org/10.1103/m3pf-j37b</link>
-      <description>We explore the phase diagram of a lattice fermion model that exhibits three distinct phases: a massless fermion phase, a massive fermion phase with spontaneous symmetry breaking induced by a fermion bilinear condensate, and a massive fermion phase with symmetric mass generation. Using the fermion-bag Monte Carlo method on large cubical lattices, we find evidence for traditional second-order critical points separating the first two and the latter two phases. Remarkably, these critical points appear to merge at a multicritical point with enhanced symmetry when the symmetry breaking parameter is tuned to zero, giving rise to the recently discovered direct second-order transition between the massless and symmetric massive fermion phases.</description>
-      <source url="https://doi.org/10.1103/m3pf-j37b">Physical Review Letters</source>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/m3pf-j37b</guid>
+      <title>CFT derivation of entanglement phase transition in pseudo entropy</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)127</link>
+      <description>In this paper, we discuss the entanglement phase transition of pseudo entropy in CFTs. We focus on the case where the in-state and the out-state are different boundary states related by boundary condition changing operators. We compute the pseudo entropy with BCFT methods and find a phase transition with respect to the conformal weight of the boundary condition changing operators. For holographic CFTs, we confirm that the CFT results match that evaluated in AdS.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)127">Journal of High Energy Physics</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)127</guid>
     </item>
   </channel>
 </rss>
