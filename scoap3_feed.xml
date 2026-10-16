@@ -5,8 +5,37 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:37:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:28:02 +0000</lastBuildDate>
     <item>
+      <title>Cosmology, decoherence and the second law</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)176</link>
+      <description>We consider quantum decoherence and entropy increase in early universe cosmology. We first study decoherence in a discrete bipartite quantum system for which a single qubit gets entangled with an environment and the entropy increase is correlated with the decay of the off-diagonal terms of the reduced density matrix. We compare this system with continuous systems relevant for cosmology for which there is a natural external intervention, corresponding to the time-dependent separation between the sub-and super-horizon infla-tionary fluctuations. We find, in this case, that the off-diagonal terms of the density matrix, in a field basis, do not decay as sometimes assumed in cosmological set-ups. Nevertheless, following a recent treatment in terms of open Effective Field Theories (EFTs), we compute the entanglement entropy for a Gaussian state and show that it actually increases monotonically ( dotS&gt;0 ) during the accelerated phases ( ddota&gt;0 with a(t) the scale factor). We generalise this </description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)176">Journal of High Energy Physics</source>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)176</guid>
+    </item><item>
+      <title>Yang-Mills flux tube in AdS. Part II. Effective String Theory</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)179</link>
+      <description>We continue the study of flux tubes in confining gauge theories placed in a rigid AdS background, focusing on the three-dimensional case. Our analysis is performed in the large-radius regime, where effective string theory provides a good approximation of the dynamics. Using a combination of techniques, primarily the analytic transcendentality ansatz bootstrap, we compute observables up to two-loop order in the expansion in powers of the string length over the AdS radius, which constitutes the main result of this work. Finally, we employ Padé resummations to explore the possible compatibility of our results with a smooth interpolation of observables between large-radius AdS and small-radius AdS, in which gauge theory is weakly coupled.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)179">Journal of High Energy Physics</source>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)179</guid>
+    </item><item>
+      <title>The initial states of high frequency gravitons</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.141058</link>
+      <description />
+      <source url="https://doi.org/10.1016/j.physletb.2026.141058">Physics Letters B</source>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141058</guid>
+    </item><item>
+      <title>Finite density lattice QCD without extrapolation: Bulk thermodynamics with physical quark masses from the canonical ensemble</title>
+      <link>https://doi.org/10.1103/tptk-7718</link>
+      <description>Quantum chromodynamics (QCD) at finite density is most often formulated on the lattice as a grand canonical ensemble. Since lattice QCD has a complex action problem at finite baryo-chemical potential (μB), its results at finite density are indirect: e.g. in the form of a set of expansion coefficients. In contrast, the canonical formulation offers direct results for integer-valued net-baryon number. In this work we present for the first time results in the canonical formulation with physical quark masses. To this end we use a high statistics finite-volume lattice (163×8) dataset that we generated at μB=0 with our 4HEX staggered action. We extend the canonical ensemble to noninteger net-baryon number and connect the results back to the grand canonical ensemble. Unlike reweighing to real μB, this method can also be used with rooted staggered quarks. For densities where the sign problem can be overcome by brute force computing power, this scheme provides lattice QCD results (e.g., for pres</description>
+      <source url="https://doi.org/10.1103/tptk-7718">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/tptk-7718</guid>
+    </item><item>
       <title>Ground-state entanglement and preserved dynamical symmetry in the interacting boson model</title>
       <link>https://doi.org/10.1016/j.physletb.2026.141057</link>
       <description>We introduce an exact bipartite entanglement entropy between the s-and d-boson degrees of freedom in the interacting boson model (IBM), evaluated from finite-N eigenstates with good angular momentum. Unlike coherent-state approaches, the present formulation avoids mixing different angular-momentum sectors. The entanglement entropy reproduces the expected signatures of the U(5)–SU(3) [ SU‾(3)] and U(5)–O(6) shape transitions, while revealing a pronounced minimum at the O(6) point along the SU(3)–O(6)– SU‾(3) path, in sharp contrast to previous coherent-state results. We show that critical quantum fluctuations govern the local enhancement of entanglement near transition regions, whereas the entanglement hierarchy at the dynamical-symmetry limits is governed by the preserved local dynamical symmetry of the Schmidt-partitioned s-d space. The entanglement is weakest at the U(5) limit, intermediate at the O(6) limit, and strongest at the SU(3) [ SU‾(3)] limits, revealing an inverse correlati</description>
@@ -65,13 +94,12 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16418-0</guid>
     </item><item>
-      <title>Search for proton decay into a single charged antilepton and a massless invisible particle using the full pure water data set of Super-Kamiokande</title>
-      <link>https://doi.org/10.1103/rsr5-d3x2</link>
-      <description>A search for proton decay via p→l++X, where l+ is a positively charged lepton and X is an invisible, massless, neutral particle, was performed using a 401 kton·years exposure representing the entire pure water phase of Super-Kamiokande. No significant indication of a proton decay was observed beyond the expected atmospheric neutrino background. Lower limits on the partial lifetime of the proton were set to 1.72×1033 years for p→e++X and 0.61×1033 years for p→μ++X at the 90% confidence level. These results improve on previous limits by factors of 2 and 1.5, respectively.</description>
-      <source url="https://doi.org/10.1103/rsr5-d3x2">Physical Review D</source>
-      <author>et al.</author>
+      <title>Exact baryon-meson relation for b→sνν¯</title>
+      <link>https://doi.org/10.1103/19ml-r53z</link>
+      <description>We derive an exact relation among the normalized branching fractions of Λb→Λνν¯ and B→K(*)νν¯, within the lepton-number-conserving effective Hamiltonian in which only active neutrinos contribute to the invisible final state. Although the effective Hamiltonian contains 18 independent Wilson coefficients, the three normalized rates depend on only two independent combinations of them, leading to an exact algebraic relation. Remarkably, the central values of the coefficients of this baryon-meson relation are close to 1/4 and 3/4, which appear in the heavy-to-heavy b→c semileptonic sum rule among the branching fractions of Λb→Λcτν¯ and B→D(*)τν¯. Once the decay rate of B→K*νν¯ is measured, the decay rate of Λb→Λνν¯ can be determined in a model-independent manner for new-physics scenarios involving only active neutrino interactions, thereby providing a clean target prediction for future experiments. This clearly demonstrates that observables in baryonic and mesonic b→sνν¯ transitions will se</description>
+      <source url="https://doi.org/10.1103/19ml-r53z">Physical Review D</source>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rsr5-d3x2</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/19ml-r53z</guid>
     </item><item>
       <title>What does it take to have Neff3 at CMB times?</title>
       <link>https://doi.org/10.1103/c62k-ktdc</link>
@@ -87,34 +115,12 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/14p4-bqrc</guid>
     </item><item>
-      <title>Strong CP problem and its gauge axion solution as evidence for fundamental strings</title>
-      <link>https://doi.org/10.1103/14p4-bqrc</link>
-      <description>The topological susceptibility of the QCD vacuum provides an understanding of θ vacua as vacua of a Chern-Simons gauge theory. In this way, it gives an immediate proof of the physicality of the boundary θ-term. This makes the essence of the strong-CP puzzle very transparent and offers a solution in form of the gauge axion, which has exact quality. This axion represents an intrinsic part of the QCD gauge redundancy without any reference to an anomalous global symmetry. It is a two-form transforming under the QCD gauge symmetry. Because of its pure-gauge nature, the gauge axion represents a powerful tool to monitor physics of θ vacua in various regimes. Unlike the ordinary Peccei-Quinn axion, which is UV completed into a Goldstone phase of a complex scalar and thereby suffers from the quality problem, the gauge axion is UV completed directly into a fundamental theory of gravity. We study the domain wall and string structure of the gauge axion and show that the strings sourcing it must be</description>
-      <source url="https://doi.org/10.1103/14p4-bqrc">Physical Review D</source>
+      <title>Exact baryon-meson relation for b→sνν¯</title>
+      <link>https://doi.org/10.1103/19ml-r53z</link>
+      <description>We derive an exact relation among the normalized branching fractions of Λb→Λνν¯ and B→K(*)νν¯, within the lepton-number-conserving effective Hamiltonian in which only active neutrinos contribute to the invisible final state. Although the effective Hamiltonian contains 18 independent Wilson coefficients, the three normalized rates depend on only two independent combinations of them, leading to an exact algebraic relation. Remarkably, the central values of the coefficients of this baryon-meson relation are close to 1/4 and 3/4, which appear in the heavy-to-heavy b→c semileptonic sum rule among the branching fractions of Λb→Λcτν¯ and B→D(*)τν¯. Once the decay rate of B→K*νν¯ is measured, the decay rate of Λb→Λνν¯ can be determined in a model-independent manner for new-physics scenarios involving only active neutrino interactions, thereby providing a clean target prediction for future experiments. This clearly demonstrates that observables in baryonic and mesonic b→sνν¯ transitions will se</description>
+      <source url="https://doi.org/10.1103/19ml-r53z">Physical Review D</source>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/14p4-bqrc</guid>
-    </item><item>
-      <title>What does it take to have Neff3 at CMB times?</title>
-      <link>https://doi.org/10.1103/c62k-ktdc</link>
-      <description>The vast majority of extensions of the Standard Model affecting the number of effective relativistic neutrino species (Neff) do so additively, namely, they enhance this quantity with some light state contributing to dark radiation. In this work, we consider precisely the opposite case: new physics scenarios that can lead to Neff3 that are consistent with all known cosmological, astrophysical, and laboratory data. We are motivated by three main reasons: (1) a recent measurement from Atacama Cosmology Telescope (ACT) and the South Pole Telescope (SPT) in combination with Planck that leads to Neff=2.81±0.12, (2) by a new and powerful measurement of the primordial helium abundance, which anchors Neff to be very close to the Standard Model value one second after the big bang, (3) by the deployment of the Simons Observatory which will provide precise tests of the radiation content in the Universe and which may detect with a high significance cosmologies with Neff3. We survey the main theoret</description>
-      <source url="https://doi.org/10.1103/c62k-ktdc">Physical Review D</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/c62k-ktdc</guid>
-    </item><item>
-      <title>Search for proton decay into a single charged antilepton and a massless invisible particle using the full pure water data set of Super-Kamiokande</title>
-      <link>https://doi.org/10.1103/rsr5-d3x2</link>
-      <description>A search for proton decay via p→l++X, where l+ is a positively charged lepton and X is an invisible, massless, neutral particle, was performed using a 401 kton·years exposure representing the entire pure water phase of Super-Kamiokande. No significant indication of a proton decay was observed beyond the expected atmospheric neutrino background. Lower limits on the partial lifetime of the proton were set to 1.72×1033 years for p→e++X and 0.61×1033 years for p→μ++X at the 90% confidence level. These results improve on previous limits by factors of 2 and 1.5, respectively.</description>
-      <source url="https://doi.org/10.1103/rsr5-d3x2">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rsr5-d3x2</guid>
-    </item><item>
-      <title>One-point energy correlator for deep inelastic scattering at small x</title>
-      <link>https://doi.org/10.1103/1fr7-f99m</link>
-      <description>We derive the expressions for the one-point energy correlator (OPEC) in deep inelastic scattering in the high-energy (small-x) limit within the Color Glass Condensate (CGC) framework. The OPEC is computed as a function of the angle between the energy flow and the target proton or nucleus, enabling a systematic exploration of different momentum scales in the scattering process. Owing to the momentum sum rule, the dependence on fragmentation functions cancels, leaving the dipole amplitude as the only nonperturbative input. As a result, the OPEC provides a sensitive and promising probe of gluon saturation dynamics at small x. We present numerical results for representative kinematic configurations relevant to the future Electron-Ion Collider, demonstrating sizable nuclear suppression effects within the CGC framework and highlighting the consistency of this observable with predictions from gluon saturation.</description>
-      <source url="https://doi.org/10.1103/1fr7-f99m">Physical Review D</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1fr7-f99m</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/19ml-r53z</guid>
     </item><item>
       <title>Holographic open-closed exchange in double deeply virtual Compton scattering: Fixed-j structural matching to the ±-basis Wilson kernels</title>
       <link>https://doi.org/10.1103/xprh-hqqj</link>
@@ -130,13 +136,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)138</guid>
     </item><item>
-      <title>Erratum to: Higgs decays at NLO in the SMEFT</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)131</link>
-      <description>A correction to this paper has been published: https://doi.org/10.1007/JHEP05(2026)112</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)131">Journal of High Energy Physics</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)131</guid>
-    </item><item>
       <title>Optimal binning of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-phase space for experimental measurements</title>
       <link>https://doi.org/10.1007/JHEP10(2026)133</link>
       <description>New binning schemes for the Dalitz plots of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-decays are presented. These are determined using a new figure of merit for optimisation that better represents the sensitivity to γ than previous metrics. Further augmentation comes from including consideration of degeneracy with other physics parameters determined simultaneously and a more accurate treatment of relevant backgrounds. The overall expected improvement in the precision of γ measurements using B → DK decays, followed by D→ K_textS^0π ^+π ^-, is estimated at around 5%. In addition, the first dedicated optimisation is performed for the observables relevant to charm mixing, x and ∆x, in D→ K_textS^0π ^+π ^-decays. This procedure accounts for both statistical sensitivity and the migration of events between bins due to detector resolution. The resulting binning scheme leads to an estimated gain of approximately 20% in statistical sensitivity, while maintaining the bias due to bin migration at </description>
@@ -144,12 +143,12 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)133</guid>
     </item><item>
-      <title>CFT derivation of entanglement phase transition in pseudo entropy</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)127</link>
-      <description>In this paper, we discuss the entanglement phase transition of pseudo entropy in CFTs. We focus on the case where the in-state and the out-state are different boundary states related by boundary condition changing operators. We compute the pseudo entropy with BCFT methods and find a phase transition with respect to the conformal weight of the boundary condition changing operators. For holographic CFTs, we confirm that the CFT results match that evaluated in AdS.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)127">Journal of High Energy Physics</source>
+      <title>Erratum to: Higgs decays at NLO in the SMEFT</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)131</link>
+      <description>A correction to this paper has been published: https://doi.org/10.1007/JHEP05(2026)112</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)131">Journal of High Energy Physics</source>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)127</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)131</guid>
     </item>
   </channel>
 </rss>
