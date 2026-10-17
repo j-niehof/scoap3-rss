@@ -5,8 +5,58 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 14:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:24:48 +0000</lastBuildDate>
     <item>
+      <title>Black hole photon rings saturate the quantum chaos bound</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)184</link>
+      <description>We study the quantum chaos bound in the photon ring region surrounding black holes. By evaluating the Lyapunov exponent associated with unstable null geodesics in a broad class of generalized Kerr geometries, as well as the temperature induced by a string probe, we show that the quantum chaos bound is exactly saturated on equatorial circular orbits of the photon ring. We confirm our result by deriving the same exponent from out-of-time-order correlators in the near ring region. As a byproduct, we show that the photon ring saturation of the quantum chaos bound implies the saturation of the Bekenstein bound on the rate of information emission from the ringdown phase through the quasinormal modes in the eikonal limit. Our results extend the known correspondence between black hole thermodynamics and chaotic dynamics, highlighting the role of the photon ring as a probe of the fundamental limits on thermalization and information scrambling in black holes.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)184">Journal of High Energy Physics</source>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)184</guid>
+    </item><item>
+      <title>Scattering amplitudes and resonant processes in QED with chiral chemical potential and chiral magnetic conductivity</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)189</link>
+      <description>The QED scattering amplitude in a chiral medium characterized by a constant chiral chemical potential μ and chiral magnetic conductivity b is analyzed. We show the emergence of the resonant behavior in 1 → 2, 2 → 2, and 2 → 3 processes. We compute the rates of paradigm 1 → 2 processes that determine the widths of quasi-stationary fermion and photon states in the medium. We elucidate the origin of these resonances, the conditions of their emergence, and the physical principles of their regularization.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)189">Journal of High Energy Physics</source>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)189</guid>
+    </item><item>
+      <title>Tidal response and thermodynamics of black holes</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)151</link>
+      <description>In this work, we revisit black hole Love numbers from two complementary perspectives. First, we develop a manifestly gauge-invariant framework that directly integrates out the short-distance degrees of freedom of a static black hole in arbitrary spacetime dimensions. This approach yields the effective point-particle action and its associated Love numbers without relying on the standard matching procedure or on the Regge-Wheeler equation and its associated master field. Second, we investigate the role of Love numbers in black hole thermodynamics by analyzing a Schwarzschild black hole subjected to various types of external perturbations. We show that Love numbers govern the induced polarization of the black hole and control the leading corrections to its thermodynamic properties, thereby clarifying their physical significance in black hole thermodynamics.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)151">Journal of High Energy Physics</source>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)151</guid>
+    </item><item>
+      <title>Directional recoil detection for CEvNS measurements with light nuclei at the Spallation Neutron Source</title>
+      <link>https://doi.org/10.1103/kj5m-y2g7</link>
+      <description>The coherent elastic scattering of neutrinos on nuclei, also known as CEνNS, has been studied for several years by the COHERENT program of experiments using neutrinos from stopped-pion decays produced at the Oak Ridge Spallation Neutron Source (SNS). We propose a new approach for CEνNS measurements at the SNS that aims to complement the COHERENT experiments in two main ways: by reconstructing the angular distribution of CEνNS-induced recoils, and by measuring CEνNS on much lighter target nuclei such as helium, carbon, and fluorine. The proposed detector would employ a gaseous time-projection chamber with a highly segmented charge readout to enable the spatial reconstruction of ∼10–500 keV ionization tracks created by CEνNS-induced recoils. This would enable the simultaneous measurement of the CEνNS recoil energy and scattering angle, thereby allowing event-by-event reconstruction of the neutrino energy. We estimate that a 60∶40 He:CF4 gas mixture at atmospheric pressure offers a good t</description>
+      <source url="https://doi.org/10.1103/kj5m-y2g7">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/kj5m-y2g7</guid>
+    </item><item>
+      <title>Perturbatively dressed observables</title>
+      <link>https://doi.org/10.1103/5ft9-9lrh</link>
+      <description>A central lesson of gravity is that local observables are ill-defined. Coordinates themselves are a redundancy of description, so any particular point in spacetime is only meaningful once defined relationally by clocks, rulers, or asymptotic data. Despite extensive formal work on this subject, explicit calculations of the resulting gravitationally-dressed observables are more scarce. In this paper we perturbatively compute dressed matrix elements of local operators in electrodynamics and general relativity, including both potential and radiative photons and gravitons. Our expressions indicate that dressing is not ornamental: it universally induces kinematic singularities that can substantively reshape observables. We further show how dressing is mathematically equivalent to gauge fixing, as demonstrated by a dynamical temporal gauge in which the gauge-fixing vector is itself a geodesic fluid.</description>
+      <source url="https://doi.org/10.1103/5ft9-9lrh">Physical Review D</source>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5ft9-9lrh</guid>
+    </item><item>
+      <title>Mapping moduli across heterotic conifolds</title>
+      <link>https://doi.org/10.1103/7wbt-88y4</link>
+      <description>In this work, we provide evidence for a duality between 4-dimensional Calabi-Yau compactifications of the heterotic string, in which the base manifolds are linked by a conifold transition. In recent work, a geometric proposal was put forward for how 5-branes and gauge bundles are carried across such transitions. It was observed that compactifications connected in this way lead to 4-dimensional effective theories with the same massless spectrum. Here we provide much stronger evidence that these heterotic conifold transitions do indeed lead to dual theories. We construct a duality map between the field spaces of the two compactifications and use it to demonstrate the agreement of large numbers of holomorphic functions appearing in the definition of the effective theories. In an example, we show that 147,440 independent superpotential Yukawa couplings agree across the duality as holomorphic functions of the moduli. In certain special cases, the putative duality studied here reduces to the</description>
+      <source url="https://doi.org/10.1103/7wbt-88y4">Physical Review D</source>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7wbt-88y4</guid>
+    </item><item>
+      <title>Causal bootstrap: Bounding smeared spectral functions from nonperturbative Euclidean data</title>
+      <link>https://doi.org/10.1103/m9kj-y6t3</link>
+      <description>This work introduces the causal bootstrap, a framework for bounding smeared spectral observables from finite nonperturbative Euclidean data. The method optimizes over the convex set of positive spectral densities compatible with the data to compute rigorous upper and lower bounds on the target observable. Statistical uncertainties, including correlations, are incorporated through compatibility regions using the covariance matrix. The bounds are equivalent, via Lagrange duality, to certified bounds on the target smearing kernel. For polynomial, rational, and piecewise rational kernels, the resulting dual problems can be reduced to finite-dimensional semidefinite programs using techniques familiar, e.g., in the numerical conformal bootstrap. The present formulation clarifies the relation to moment problems, Nevanlinna-Pick interpolation, and linear kernel-reconstruction methods. Numerical examples demonstrate the method.</description>
+      <source url="https://doi.org/10.1103/m9kj-y6t3">Physical Review D</source>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/m9kj-y6t3</guid>
+    </item><item>
       <title>Cosmology, decoherence and the second law</title>
       <link>https://doi.org/10.1007/JHEP10(2026)176</link>
       <description>We consider quantum decoherence and entropy increase in early universe cosmology. We first study decoherence in a discrete bipartite quantum system for which a single qubit gets entangled with an environment and the entropy increase is correlated with the decay of the off-diagonal terms of the reduced density matrix. We compare this system with continuous systems relevant for cosmology for which there is a natural external intervention, corresponding to the time-dependent separation between the sub-and super-horizon infla-tionary fluctuations. We find, in this case, that the off-diagonal terms of the density matrix, in a field basis, do not decay as sometimes assumed in cosmological set-ups. Nevertheless, following a recent treatment in terms of open Effective Field Theories (EFTs), we compute the entanglement entropy for a Gaussian state and show that it actually increases monotonically ( dotS&gt;0 ) during the accelerated phases ( ddota&gt;0 with a(t) the scale factor). We generalise this </description>
@@ -21,13 +71,6 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)179</guid>
     </item><item>
-      <title>The initial states of high frequency gravitons</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.141058</link>
-      <description />
-      <source url="https://doi.org/10.1016/j.physletb.2026.141058">Physics Letters B</source>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141058</guid>
-    </item><item>
       <title>Finite density lattice QCD without extrapolation: Bulk thermodynamics with physical quark masses from the canonical ensemble</title>
       <link>https://doi.org/10.1103/tptk-7718</link>
       <description>Quantum chromodynamics (QCD) at finite density is most often formulated on the lattice as a grand canonical ensemble. Since lattice QCD has a complex action problem at finite baryo-chemical potential (μB), its results at finite density are indirect: e.g. in the form of a set of expansion coefficients. In contrast, the canonical formulation offers direct results for integer-valued net-baryon number. In this work we present for the first time results in the canonical formulation with physical quark masses. To this end we use a high statistics finite-volume lattice (163×8) dataset that we generated at μB=0 with our 4HEX staggered action. We extend the canonical ensemble to noninteger net-baryon number and connect the results back to the grand canonical ensemble. Unlike reweighing to real μB, this method can also be used with rooted staggered quarks. For densities where the sign problem can be overcome by brute force computing power, this scheme provides lattice QCD results (e.g., for pres</description>
@@ -35,13 +78,6 @@
       <author>et al.</author>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/tptk-7718</guid>
-    </item><item>
-      <title>Ground-state entanglement and preserved dynamical symmetry in the interacting boson model</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.141057</link>
-      <description>We introduce an exact bipartite entanglement entropy between the s-and d-boson degrees of freedom in the interacting boson model (IBM), evaluated from finite-N eigenstates with good angular momentum. Unlike coherent-state approaches, the present formulation avoids mixing different angular-momentum sectors. The entanglement entropy reproduces the expected signatures of the U(5)–SU(3) [ SU‾(3)] and U(5)–O(6) shape transitions, while revealing a pronounced minimum at the O(6) point along the SU(3)–O(6)– SU‾(3) path, in sharp contrast to previous coherent-state results. We show that critical quantum fluctuations govern the local enhancement of entanglement near transition regions, whereas the entanglement hierarchy at the dynamical-symmetry limits is governed by the preserved local dynamical symmetry of the Schmidt-partitioned s-d space. The entanglement is weakest at the U(5) limit, intermediate at the O(6) limit, and strongest at the SU(3) [ SU‾(3)] limits, revealing an inverse correlati</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.141057">Physics Letters B</source>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141057</guid>
     </item><item>
       <title>Third moments of nucleon unpolarized, polarized, and transversity parton distribution functions from physical-point lattice QCD</title>
       <link>https://doi.org/10.1103/kknt-zxsw</link>
@@ -65,13 +101,6 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/9h7r-2zpr</guid>
     </item><item>
-      <title>Proton’s Isovector Parton Distribution Function with Updated Analysis of Large-Momentum Lattice Data</title>
-      <link>https://doi.org/10.1103/8ytm-zbf4</link>
-      <description>The proton’s unpolarized u(x)−d(x) parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF for the physical-limit-extrapolated dataset (MSULat20) is consistent with global fits within ∼1σ, while others are broadly compatible. This provides evidence that large momentum expansion is capable of accurately predicting the x dependence of the PDFs when ideal lattice data become available.</description>
-      <source url="https://doi.org/10.1103/8ytm-zbf4">Physical Review Letters</source>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8ytm-zbf4</guid>
-    </item><item>
       <title>Particle Correlations in Jets</title>
       <link>https://doi.org/10.1103/yscq-npz8</link>
       <description>We study particle correlations in high energy jets by comparing the measured energy-energy correlator with that constructed from two individual energy flows with respect to the jet axis. This comparison demonstrates that the genuine correlations are stronger at moderate or large angles across all jet energies, indicating that they are coming from correlated splitting. Meanwhile, at small angles, they increase with jet energy, exhibiting a peculiar pattern that can be used to explore jet energy loss in heavy-ion collisions. This method will provide a unique tool to disentangle different physics by comparing the genuine correlations in jet energy-energy correlators between heavy-ion collisions and proton-proton collisions.</description>
@@ -79,13 +108,12 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/yscq-npz8</guid>
     </item><item>
-      <title>Local thermalization of SU(2) lattice gauge fields on quantum computers</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)137</link>
-      <description>We simulate the local thermalization dynamics for minimally truncated SU(2) pure gauge theory on linear plaquette chains with up to 151 plaquettes using IBM quantum computers. We study the time dependence of the entanglement spectrum, Rényi-2 entropy and anti-flatness on small subsystems. The quantum hardware results obtained after error mitigation agree with classical simulator results for chains consisting of up to 101 plaquettes. Our results demonstrate the feasibility of local thermalization studies for chaotic quantum systems, such as nonabelian lattice gauge theories, on current noisy quantum computing platforms.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)137">Journal of High Energy Physics</source>
-      <author>et al.</author>
+      <title>Proton’s Isovector Parton Distribution Function with Updated Analysis of Large-Momentum Lattice Data</title>
+      <link>https://doi.org/10.1103/8ytm-zbf4</link>
+      <description>The proton’s unpolarized u(x)−d(x) parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF for the physical-limit-extrapolated dataset (MSULat20) is consistent with global fits within ∼1σ, while others are broadly compatible. This provides evidence that large momentum expansion is capable of accurately predicting the x dependence of the PDFs when ideal lattice data become available.</description>
+      <source url="https://doi.org/10.1103/8ytm-zbf4">Physical Review Letters</source>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)137</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/8ytm-zbf4</guid>
     </item><item>
       <title>Prospects for K_L → π ^0ν barν , K_S→ μ ^+μ ^-, K_L→ π ^0 ell ^+ell ^-and varepsilon '/varepsilon after the new K^+ → π ^+ν barν result from NA62</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16418-0</link>
@@ -101,13 +129,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/19ml-r53z</guid>
     </item><item>
-      <title>What does it take to have Neff3 at CMB times?</title>
-      <link>https://doi.org/10.1103/c62k-ktdc</link>
-      <description>The vast majority of extensions of the Standard Model affecting the number of effective relativistic neutrino species (Neff) do so additively, namely, they enhance this quantity with some light state contributing to dark radiation. In this work, we consider precisely the opposite case: new physics scenarios that can lead to Neff3 that are consistent with all known cosmological, astrophysical, and laboratory data. We are motivated by three main reasons: (1) a recent measurement from Atacama Cosmology Telescope (ACT) and the South Pole Telescope (SPT) in combination with Planck that leads to Neff=2.81±0.12, (2) by a new and powerful measurement of the primordial helium abundance, which anchors Neff to be very close to the Standard Model value one second after the big bang, (3) by the deployment of the Simons Observatory which will provide precise tests of the radiation content in the Universe and which may detect with a high significance cosmologies with Neff3. We survey the main theoret</description>
-      <source url="https://doi.org/10.1103/c62k-ktdc">Physical Review D</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/c62k-ktdc</guid>
-    </item><item>
       <title>Strong CP problem and its gauge axion solution as evidence for fundamental strings</title>
       <link>https://doi.org/10.1103/14p4-bqrc</link>
       <description>The topological susceptibility of the QCD vacuum provides an understanding of θ vacua as vacua of a Chern-Simons gauge theory. In this way, it gives an immediate proof of the physicality of the boundary θ-term. This makes the essence of the strong-CP puzzle very transparent and offers a solution in form of the gauge axion, which has exact quality. This axion represents an intrinsic part of the QCD gauge redundancy without any reference to an anomalous global symmetry. It is a two-form transforming under the QCD gauge symmetry. Because of its pure-gauge nature, the gauge axion represents a powerful tool to monitor physics of θ vacua in various regimes. Unlike the ordinary Peccei-Quinn axion, which is UV completed into a Goldstone phase of a complex scalar and thereby suffers from the quality problem, the gauge axion is UV completed directly into a fundamental theory of gravity. We study the domain wall and string structure of the gauge axion and show that the strings sourcing it must be</description>
@@ -115,40 +136,20 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/14p4-bqrc</guid>
     </item><item>
-      <title>Exact baryon-meson relation for b→sνν¯</title>
-      <link>https://doi.org/10.1103/19ml-r53z</link>
-      <description>We derive an exact relation among the normalized branching fractions of Λb→Λνν¯ and B→K(*)νν¯, within the lepton-number-conserving effective Hamiltonian in which only active neutrinos contribute to the invisible final state. Although the effective Hamiltonian contains 18 independent Wilson coefficients, the three normalized rates depend on only two independent combinations of them, leading to an exact algebraic relation. Remarkably, the central values of the coefficients of this baryon-meson relation are close to 1/4 and 3/4, which appear in the heavy-to-heavy b→c semileptonic sum rule among the branching fractions of Λb→Λcτν¯ and B→D(*)τν¯. Once the decay rate of B→K*νν¯ is measured, the decay rate of Λb→Λνν¯ can be determined in a model-independent manner for new-physics scenarios involving only active neutrino interactions, thereby providing a clean target prediction for future experiments. This clearly demonstrates that observables in baryonic and mesonic b→sνν¯ transitions will se</description>
-      <source url="https://doi.org/10.1103/19ml-r53z">Physical Review D</source>
+      <title>What does it take to have Neff3 at CMB times?</title>
+      <link>https://doi.org/10.1103/c62k-ktdc</link>
+      <description>The vast majority of extensions of the Standard Model affecting the number of effective relativistic neutrino species (Neff) do so additively, namely, they enhance this quantity with some light state contributing to dark radiation. In this work, we consider precisely the opposite case: new physics scenarios that can lead to Neff3 that are consistent with all known cosmological, astrophysical, and laboratory data. We are motivated by three main reasons: (1) a recent measurement from Atacama Cosmology Telescope (ACT) and the South Pole Telescope (SPT) in combination with Planck that leads to Neff=2.81±0.12, (2) by a new and powerful measurement of the primordial helium abundance, which anchors Neff to be very close to the Standard Model value one second after the big bang, (3) by the deployment of the Simons Observatory which will provide precise tests of the radiation content in the Universe and which may detect with a high significance cosmologies with Neff3. We survey the main theoret</description>
+      <source url="https://doi.org/10.1103/c62k-ktdc">Physical Review D</source>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/19ml-r53z</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/c62k-ktdc</guid>
     </item><item>
-      <title>Holographic open-closed exchange in double deeply virtual Compton scattering: Fixed-j structural matching to the ±-basis Wilson kernels</title>
-      <link>https://doi.org/10.1103/xprh-hqqj</link>
-      <description>We show that fixed-j holographic double deeply virtual Compton scattering (DDVCS) and its DVCS limit give a fixed-scale structural match to the singlet conformal-operator product expansion Wilson-kernel family of QCD in the leading-twist unpolarized singlet vector channel. The open-string C1(δ,ϑ) hypergeometric kernel was derived by Nishio-Watari; the new closed-string result is that the Brower-Polchinski-Strassler-Tan (BPST) upper Witten vertex gives the same family with a different near-boundary power count, because Δc(j) is fixed by the BPST trajectory rather than by open-Regge data. The Mellin exponent is therefore derived as δc(j)=j+Δc(j)−2=2j+γc(j) rather than inserted by hand. The even open branch gives the parallel unprotected counterpart in the projected singlet vector amplitude. At Q=μ=μ0=μ*, the point is not merely that equal-endpoint evolution is trivial; it is that the ultraviolet Witten vertex has already produced the fixed-j conformal kernel before the lower conformal mo</description>
-      <source url="https://doi.org/10.1103/xprh-hqqj">Physical Review D</source>
+      <title>Search for proton decay into a single charged antilepton and a massless invisible particle using the full pure water data set of Super-Kamiokande</title>
+      <link>https://doi.org/10.1103/rsr5-d3x2</link>
+      <description>A search for proton decay via p→l++X, where l+ is a positively charged lepton and X is an invisible, massless, neutral particle, was performed using a 401 kton·years exposure representing the entire pure water phase of Super-Kamiokande. No significant indication of a proton decay was observed beyond the expected atmospheric neutrino background. Lower limits on the partial lifetime of the proton were set to 1.72×1033 years for p→e++X and 0.61×1033 years for p→μ++X at the 90% confidence level. These results improve on previous limits by factors of 2 and 1.5, respectively.</description>
+      <source url="https://doi.org/10.1103/rsr5-d3x2">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xprh-hqqj</guid>
-    </item><item>
-      <title>Local approximations of global Hamiltonian from inclusion of algebras</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)138</link>
-      <description>We write down the global Hamiltonian of conformal field theory (CFT) in finite volume in terms of the modular Hamiltonian of the vacuum reduced to a local ball-shaped region, and use it to propose local approximations to the global Minkowski Hamiltonian in quantum field theory (QFT). The proposed Hamiltonians are motivated by the operator-algebraic property of nuclearity. They are constructed from the characteristic operators of inclusions of algebras and can be viewed as regulators of the modular Hamiltonian of local algebras of QFT.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)138">Journal of High Energy Physics</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)138</guid>
-    </item><item>
-      <title>Optimal binning of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-phase space for experimental measurements</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)133</link>
-      <description>New binning schemes for the Dalitz plots of D→ K_textS^0π ^+π ^-and D→ K_textS^0K^+K^-decays are presented. These are determined using a new figure of merit for optimisation that better represents the sensitivity to γ than previous metrics. Further augmentation comes from including consideration of degeneracy with other physics parameters determined simultaneously and a more accurate treatment of relevant backgrounds. The overall expected improvement in the precision of γ measurements using B → DK decays, followed by D→ K_textS^0π ^+π ^-, is estimated at around 5%. In addition, the first dedicated optimisation is performed for the observables relevant to charm mixing, x and ∆x, in D→ K_textS^0π ^+π ^-decays. This procedure accounts for both statistical sensitivity and the migration of events between bins due to detector resolution. The resulting binning scheme leads to an estimated gain of approximately 20% in statistical sensitivity, while maintaining the bias due to bin migration at </description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)133">Journal of High Energy Physics</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)133</guid>
-    </item><item>
-      <title>Erratum to: Higgs decays at NLO in the SMEFT</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)131</link>
-      <description>A correction to this paper has been published: https://doi.org/10.1007/JHEP05(2026)112</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)131">Journal of High Energy Physics</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)131</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/rsr5-d3x2</guid>
     </item>
   </channel>
 </rss>
