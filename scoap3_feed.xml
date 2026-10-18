@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 13:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:43:53 +0000</lastBuildDate>
     <item>
       <title>Black hole photon rings saturate the quantum chaos bound</title>
       <link>https://doi.org/10.1007/JHEP10(2026)184</link>
@@ -20,6 +20,20 @@
       <source url="https://doi.org/10.1007/JHEP10(2026)189">Journal of High Energy Physics</source>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)189</guid>
+    </item><item>
+      <title>Scattering amplitudes and resonant processes in QED with chiral chemical potential and chiral magnetic conductivity</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)189</link>
+      <description>The QED scattering amplitude in a chiral medium characterized by a constant chiral chemical potential μ and chiral magnetic conductivity b is analyzed. We show the emergence of the resonant behavior in 1 → 2, 2 → 2, and 2 → 3 processes. We compute the rates of paradigm 1 → 2 processes that determine the widths of quasi-stationary fermion and photon states in the medium. We elucidate the origin of these resonances, the conditions of their emergence, and the physical principles of their regularization.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)189">Journal of High Energy Physics</source>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)189</guid>
+    </item><item>
+      <title>Anomalies in neural network field theory</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)143</link>
+      <description>Neural network field theory (NN-FT) formulates field theory in terms of a network architecture and a density on its parameters. We derive Schwinger–Dyson equations and Ward identities in NN-FT and utilize them to study anomalies. The equations depend on a conserved parameter space current that characterizes symmetries and how they break. It is relevant even in non-local NN-FTs, but can recover local currents in the case of a local Lagrangian by an appropriate fiber-wise average. In machine learning, this formalism is applied to feedforward networks and the attention mechanism. In physics, we use this machinery to study U(1) symmetry for a complex scalar, the scale anomaly in 4d massless ϕ theory, the Weyl anomaly for the bosonic string (including a new computation of the critical dimension), and examples involving discrete topological data, such as winding numbers and T-duality. Since the results are obtained in network parameter space rather than the standard field space, they represe</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)143">Journal of High Energy Physics</source>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)143</guid>
     </item><item>
       <title>Tidal response and thermodynamics of black holes</title>
       <link>https://doi.org/10.1007/JHEP10(2026)151</link>
@@ -122,27 +136,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16418-0</guid>
     </item><item>
-      <title>Exact baryon-meson relation for b→sνν¯</title>
-      <link>https://doi.org/10.1103/19ml-r53z</link>
-      <description>We derive an exact relation among the normalized branching fractions of Λb→Λνν¯ and B→K(*)νν¯, within the lepton-number-conserving effective Hamiltonian in which only active neutrinos contribute to the invisible final state. Although the effective Hamiltonian contains 18 independent Wilson coefficients, the three normalized rates depend on only two independent combinations of them, leading to an exact algebraic relation. Remarkably, the central values of the coefficients of this baryon-meson relation are close to 1/4 and 3/4, which appear in the heavy-to-heavy b→c semileptonic sum rule among the branching fractions of Λb→Λcτν¯ and B→D(*)τν¯. Once the decay rate of B→K*νν¯ is measured, the decay rate of Λb→Λνν¯ can be determined in a model-independent manner for new-physics scenarios involving only active neutrino interactions, thereby providing a clean target prediction for future experiments. This clearly demonstrates that observables in baryonic and mesonic b→sνν¯ transitions will se</description>
-      <source url="https://doi.org/10.1103/19ml-r53z">Physical Review D</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/19ml-r53z</guid>
-    </item><item>
-      <title>Strong CP problem and its gauge axion solution as evidence for fundamental strings</title>
-      <link>https://doi.org/10.1103/14p4-bqrc</link>
-      <description>The topological susceptibility of the QCD vacuum provides an understanding of θ vacua as vacua of a Chern-Simons gauge theory. In this way, it gives an immediate proof of the physicality of the boundary θ-term. This makes the essence of the strong-CP puzzle very transparent and offers a solution in form of the gauge axion, which has exact quality. This axion represents an intrinsic part of the QCD gauge redundancy without any reference to an anomalous global symmetry. It is a two-form transforming under the QCD gauge symmetry. Because of its pure-gauge nature, the gauge axion represents a powerful tool to monitor physics of θ vacua in various regimes. Unlike the ordinary Peccei-Quinn axion, which is UV completed into a Goldstone phase of a complex scalar and thereby suffers from the quality problem, the gauge axion is UV completed directly into a fundamental theory of gravity. We study the domain wall and string structure of the gauge axion and show that the strings sourcing it must be</description>
-      <source url="https://doi.org/10.1103/14p4-bqrc">Physical Review D</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/14p4-bqrc</guid>
-    </item><item>
-      <title>What does it take to have Neff3 at CMB times?</title>
-      <link>https://doi.org/10.1103/c62k-ktdc</link>
-      <description>The vast majority of extensions of the Standard Model affecting the number of effective relativistic neutrino species (Neff) do so additively, namely, they enhance this quantity with some light state contributing to dark radiation. In this work, we consider precisely the opposite case: new physics scenarios that can lead to Neff3 that are consistent with all known cosmological, astrophysical, and laboratory data. We are motivated by three main reasons: (1) a recent measurement from Atacama Cosmology Telescope (ACT) and the South Pole Telescope (SPT) in combination with Planck that leads to Neff=2.81±0.12, (2) by a new and powerful measurement of the primordial helium abundance, which anchors Neff to be very close to the Standard Model value one second after the big bang, (3) by the deployment of the Simons Observatory which will provide precise tests of the radiation content in the Universe and which may detect with a high significance cosmologies with Neff3. We survey the main theoret</description>
-      <source url="https://doi.org/10.1103/c62k-ktdc">Physical Review D</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/c62k-ktdc</guid>
-    </item><item>
       <title>Search for proton decay into a single charged antilepton and a massless invisible particle using the full pure water data set of Super-Kamiokande</title>
       <link>https://doi.org/10.1103/rsr5-d3x2</link>
       <description>A search for proton decay via p→l++X, where l+ is a positively charged lepton and X is an invisible, massless, neutral particle, was performed using a 401 kton·years exposure representing the entire pure water phase of Super-Kamiokande. No significant indication of a proton decay was observed beyond the expected atmospheric neutrino background. Lower limits on the partial lifetime of the proton were set to 1.72×1033 years for p→e++X and 0.61×1033 years for p→μ++X at the 90% confidence level. These results improve on previous limits by factors of 2 and 1.5, respectively.</description>
@@ -150,6 +143,13 @@
       <author>et al.</author>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rsr5-d3x2</guid>
+    </item><item>
+      <title>What does it take to have Neff3 at CMB times?</title>
+      <link>https://doi.org/10.1103/c62k-ktdc</link>
+      <description>The vast majority of extensions of the Standard Model affecting the number of effective relativistic neutrino species (Neff) do so additively, namely, they enhance this quantity with some light state contributing to dark radiation. In this work, we consider precisely the opposite case: new physics scenarios that can lead to Neff3 that are consistent with all known cosmological, astrophysical, and laboratory data. We are motivated by three main reasons: (1) a recent measurement from Atacama Cosmology Telescope (ACT) and the South Pole Telescope (SPT) in combination with Planck that leads to Neff=2.81±0.12, (2) by a new and powerful measurement of the primordial helium abundance, which anchors Neff to be very close to the Standard Model value one second after the big bang, (3) by the deployment of the Simons Observatory which will provide precise tests of the radiation content in the Universe and which may detect with a high significance cosmologies with Neff3. We survey the main theoret</description>
+      <source url="https://doi.org/10.1103/c62k-ktdc">Physical Review D</source>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/c62k-ktdc</guid>
     </item>
   </channel>
 </rss>
