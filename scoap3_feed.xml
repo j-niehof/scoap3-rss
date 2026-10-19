@@ -5,21 +5,36 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 13:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:44:51 +0000</lastBuildDate>
     <item>
+      <title>Where are linearized gauge invariants encoded for plane waves in linearized gravity</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16355-y</link>
+      <description>In this work we will investigate the structures of invariants within the class of plane waves in linearized General Relativity, to introduce a new approach to determine the linearized gauge invariants encoding the polarization of the plane waves. The Newman–Penrose (NP) formalism is traditionally used to analyze the polarization content of gravitational waves, while the gauge-invariant Bardeen formalism provides a complementary description based on the irreducible scalar, vector, and tensor perturbations of the metric. We will apply the Bardeen formalism to compute all scalar, vector, and tensor gauge-invariant variables explicitly and verify that only the two transverse–traceless tensor modes survive. We then compare these Bardeen variables with curvature-based invariants constructed using the linearized Cartan–Karlhede (CK) algorithm. Although one might anticipate a correspondence, our analysis shows that the CK invariants do not capture the polarization modes: the Weyl tensor posses</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16355-y">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16355-y</guid>
+    </item><item>
+      <title>On thrust resummation ambiguities in e + e − annihilation into hadrons</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)178</link>
+      <description>In e e shape-variable studies, and in particular for the case of thrust, fixed-order QCD predictions are typically supplemented with the resummation of contributions enhanced near the two-jet limit.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)178">Journal of High Energy Physics</source>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)178</guid>
+    </item><item>
+      <title>On the complexity of effective theories. Seiberg-Witten theory</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)159</link>
+      <description>Motivated by the idea that consistent quantum field theories should admit a finite description, we investigate the complexity of effective field theories using the framework of effective o-minimality. Our focus is on quantifying the geometric and logical information required to describe moduli spaces and quantum-corrected couplings. As a concrete setting, we study pure 𝒩 = 2 super-Yang-Mills theory along its quantum moduli space using Seiberg-Witten elliptic curves. We argue that the complexity computation should be organized in terms of local cells that cover the near-boundary regions where additional states become light, each associated with an appropriate duality frame. These duality frames are crucial for keeping the global complexity finite: insisting on a single frame extending across all such limits would yield a divergent complexity measure. This case study illustrates how tame geometry uses dualities to yield finite-complexity descriptions of effective theories and points towa</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)159">Journal of High Energy Physics</source>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)159</guid>
+    </item><item>
       <title>Black hole photon rings saturate the quantum chaos bound</title>
       <link>https://doi.org/10.1007/JHEP10(2026)184</link>
       <description>We study the quantum chaos bound in the photon ring region surrounding black holes. By evaluating the Lyapunov exponent associated with unstable null geodesics in a broad class of generalized Kerr geometries, as well as the temperature induced by a string probe, we show that the quantum chaos bound is exactly saturated on equatorial circular orbits of the photon ring. We confirm our result by deriving the same exponent from out-of-time-order correlators in the near ring region. As a byproduct, we show that the photon ring saturation of the quantum chaos bound implies the saturation of the Bekenstein bound on the rate of information emission from the ringdown phase through the quasinormal modes in the eikonal limit. Our results extend the known correspondence between black hole thermodynamics and chaotic dynamics, highlighting the role of the photon ring as a probe of the fundamental limits on thermalization and information scrambling in black holes.</description>
       <source url="https://doi.org/10.1007/JHEP10(2026)184">Journal of High Energy Physics</source>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)184</guid>
-    </item><item>
-      <title>Scattering amplitudes and resonant processes in QED with chiral chemical potential and chiral magnetic conductivity</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)189</link>
-      <description>The QED scattering amplitude in a chiral medium characterized by a constant chiral chemical potential μ and chiral magnetic conductivity b is analyzed. We show the emergence of the resonant behavior in 1 → 2, 2 → 2, and 2 → 3 processes. We compute the rates of paradigm 1 → 2 processes that determine the widths of quasi-stationary fermion and photon states in the medium. We elucidate the origin of these resonances, the conditions of their emergence, and the physical principles of their regularization.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)189">Journal of High Energy Physics</source>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)189</guid>
     </item><item>
       <title>Scattering amplitudes and resonant processes in QED with chiral chemical potential and chiral magnetic conductivity</title>
       <link>https://doi.org/10.1007/JHEP10(2026)189</link>
@@ -135,21 +150,6 @@
       <source url="https://doi.org/10.1140/epjc/s10052-026-16418-0">European Physical Journal C</source>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16418-0</guid>
-    </item><item>
-      <title>Search for proton decay into a single charged antilepton and a massless invisible particle using the full pure water data set of Super-Kamiokande</title>
-      <link>https://doi.org/10.1103/rsr5-d3x2</link>
-      <description>A search for proton decay via p→l++X, where l+ is a positively charged lepton and X is an invisible, massless, neutral particle, was performed using a 401 kton·years exposure representing the entire pure water phase of Super-Kamiokande. No significant indication of a proton decay was observed beyond the expected atmospheric neutrino background. Lower limits on the partial lifetime of the proton were set to 1.72×1033 years for p→e++X and 0.61×1033 years for p→μ++X at the 90% confidence level. These results improve on previous limits by factors of 2 and 1.5, respectively.</description>
-      <source url="https://doi.org/10.1103/rsr5-d3x2">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rsr5-d3x2</guid>
-    </item><item>
-      <title>What does it take to have Neff3 at CMB times?</title>
-      <link>https://doi.org/10.1103/c62k-ktdc</link>
-      <description>The vast majority of extensions of the Standard Model affecting the number of effective relativistic neutrino species (Neff) do so additively, namely, they enhance this quantity with some light state contributing to dark radiation. In this work, we consider precisely the opposite case: new physics scenarios that can lead to Neff3 that are consistent with all known cosmological, astrophysical, and laboratory data. We are motivated by three main reasons: (1) a recent measurement from Atacama Cosmology Telescope (ACT) and the South Pole Telescope (SPT) in combination with Planck that leads to Neff=2.81±0.12, (2) by a new and powerful measurement of the primordial helium abundance, which anchors Neff to be very close to the Standard Model value one second after the big bang, (3) by the deployment of the Simons Observatory which will provide precise tests of the radiation content in the Universe and which may detect with a high significance cosmologies with Neff3. We survey the main theoret</description>
-      <source url="https://doi.org/10.1103/c62k-ktdc">Physical Review D</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/c62k-ktdc</guid>
     </item>
   </channel>
 </rss>
