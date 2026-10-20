@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:37:09 +0000</lastBuildDate>
     <item>
       <title>Where are linearized gauge invariants encoded for plane waves in linearized gravity</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16355-y</link>
@@ -15,6 +15,13 @@
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16355-y</guid>
     </item><item>
+      <title>Accidental Peccei-Quinn symmetry from chiral gauge symmetry and mirror QCD</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)180</link>
+      <description>We present a solution to the strong CP problem in which a simple chiral U (1) gauge symmetry gives rise to an accidental Peccei-Quinn symmetry that is both explicitly and spontaneously broken by mirror QCD dynamics, yielding a framework without massless fermions or a light QCD axion. The model contains no stable domain walls or colored relics, and it accommodates a sufficiently high reheating temperature to account for the baryon asymmetry of the Universe via leptogenesis. Metastable domain walls and first-order mirror QCD phase transition generate a stochastic background of primordial gravitational waves. Additionally, one of the pseudo-Nambu-Goldstone bosons serves as a viable WIMP dark matter candidate. The gauge boson associated with the chiral U (1) gauge symmetry, which kinetically mixes with the Standard Model hypercharge gauge boson, provides a vector portal connecting dark matter to the Standard Model and plays a central role in the dark-matter phenomenology. Colored pseudo-Na</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)180">Journal of High Energy Physics</source>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)180</guid>
+    </item><item>
       <title>On thrust resummation ambiguities in e + e − annihilation into hadrons</title>
       <link>https://doi.org/10.1007/JHEP10(2026)178</link>
       <description>In e e shape-variable studies, and in particular for the case of thrust, fixed-order QCD predictions are typically supplemented with the resummation of contributions enhanced near the two-jet limit.</description>
@@ -22,12 +29,12 @@
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)178</guid>
     </item><item>
-      <title>On the complexity of effective theories. Seiberg-Witten theory</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)159</link>
-      <description>Motivated by the idea that consistent quantum field theories should admit a finite description, we investigate the complexity of effective field theories using the framework of effective o-minimality. Our focus is on quantifying the geometric and logical information required to describe moduli spaces and quantum-corrected couplings. As a concrete setting, we study pure 𝒩 = 2 super-Yang-Mills theory along its quantum moduli space using Seiberg-Witten elliptic curves. We argue that the complexity computation should be organized in terms of local cells that cover the near-boundary regions where additional states become light, each associated with an appropriate duality frame. These duality frames are crucial for keeping the global complexity finite: insisting on a single frame extending across all such limits would yield a divergent complexity measure. This case study illustrates how tame geometry uses dualities to yield finite-complexity descriptions of effective theories and points towa</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)159">Journal of High Energy Physics</source>
+      <title>Line defects in Liouville Conformal Field Theory: localized cosmological constants and decohered hyperbolic geometries</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)165</link>
+      <description>The study of quantum impurities has long been a central and inspiring theme in quantum many-body physics. Localized impurities are modeled by line defects in quantum field theory. We describe a line defect in Liouville CFT realized as a “localized cosmological constant”: a non-topological line insertion into the Liouville path integral that is tractable at both weak and strong defect coupling. At weak coupling, we analyze the defect perturbatively and characterize it through its correlations with local operators, energy and information transport, the Casimir energies associated with fusion, and corrections to the open string channel spectrum. We also study the effect of a cuspidal deformation of the defect locus on these observables and describe novel monotonicity properties as the cusp angle is varied. These results derived using perturbation theory are more generally applicable to pinning defects constructed from scalar primary operators in compact 2d CFTs. At strong coupling, in a s</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)165">Journal of High Energy Physics</source>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)159</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)165</guid>
     </item><item>
       <title>Black hole photon rings saturate the quantum chaos bound</title>
       <link>https://doi.org/10.1007/JHEP10(2026)184</link>
@@ -50,12 +57,12 @@
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)143</guid>
     </item><item>
-      <title>Tidal response and thermodynamics of black holes</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)151</link>
-      <description>In this work, we revisit black hole Love numbers from two complementary perspectives. First, we develop a manifestly gauge-invariant framework that directly integrates out the short-distance degrees of freedom of a static black hole in arbitrary spacetime dimensions. This approach yields the effective point-particle action and its associated Love numbers without relying on the standard matching procedure or on the Regge-Wheeler equation and its associated master field. Second, we investigate the role of Love numbers in black hole thermodynamics by analyzing a Schwarzschild black hole subjected to various types of external perturbations. We show that Love numbers govern the induced polarization of the black hole and control the leading corrections to its thermodynamic properties, thereby clarifying their physical significance in black hole thermodynamics.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)151">Journal of High Energy Physics</source>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)151</guid>
+      <title>Mapping moduli across heterotic conifolds</title>
+      <link>https://doi.org/10.1103/7wbt-88y4</link>
+      <description>In this work, we provide evidence for a duality between 4-dimensional Calabi-Yau compactifications of the heterotic string, in which the base manifolds are linked by a conifold transition. In recent work, a geometric proposal was put forward for how 5-branes and gauge bundles are carried across such transitions. It was observed that compactifications connected in this way lead to 4-dimensional effective theories with the same massless spectrum. Here we provide much stronger evidence that these heterotic conifold transitions do indeed lead to dual theories. We construct a duality map between the field spaces of the two compactifications and use it to demonstrate the agreement of large numbers of holomorphic functions appearing in the definition of the effective theories. In an example, we show that 147,440 independent superpotential Yukawa couplings agree across the duality as holomorphic functions of the moduli. In certain special cases, the putative duality studied here reduces to the</description>
+      <source url="https://doi.org/10.1103/7wbt-88y4">Physical Review D</source>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7wbt-88y4</guid>
     </item><item>
       <title>Directional recoil detection for CEvNS measurements with light nuclei at the Spallation Neutron Source</title>
       <link>https://doi.org/10.1103/kj5m-y2g7</link>
@@ -143,13 +150,6 @@
       <source url="https://doi.org/10.1103/8ytm-zbf4">Physical Review Letters</source>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/8ytm-zbf4</guid>
-    </item><item>
-      <title>Prospects for K_L → π ^0ν barν , K_S→ μ ^+μ ^-, K_L→ π ^0 ell ^+ell ^-and varepsilon '/varepsilon after the new K^+ → π ^+ν barν result from NA62</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16418-0</link>
-      <description>The recently announced NA62 measurement of the K^+ → π ^+ν barν branching ratio, based on 2016–2024 data, is fully consistent with its very accurate Standard Model (SM) prediction. While it is not excluded that the final result based on 2016–2026 data will deviate from the SM prediction, the question arises whether a similar fate awaits the K_L → π ^0ν barν decay. This decay is currently being searched for by the KOTO experiment, with the present upper bound roughly two orders of magnitude above its very precise SM prediction. The proposed KOTO II experiment aims to provide the first discovery of the K_L → π ^0ν barν decay and measure its branching ratio. Building on the findings of several previous papers we demonstrate that in the presence of suitably chosen large new complex phases and of a small amount of new right-handed bars d couplings, in addition to the left-handed ones, the K_L → π ^0ν barν branching ratio can still be enhanced by one order of magnitude with respect to the SM</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16418-0">European Physical Journal C</source>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16418-0</guid>
     </item>
   </channel>
 </rss>
