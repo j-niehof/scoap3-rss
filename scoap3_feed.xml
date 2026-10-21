@@ -5,8 +5,46 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:48:47 +0000</lastBuildDate>
     <item>
+      <title>Erratum: Measurement of the Zγ production cross section and search for anomalous neutral triple gauge couplings in pp collisions at sqrts=13 TeV</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)168</link>
+      <description />
+      <source url="https://doi.org/10.1007/JHEP10(2026)168">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)168</guid>
+    </item><item>
+      <title>Revisiting predictions for cosmic-ray antinucleon fluxes from galactic dark matter</title>
+      <link>https://doi.org/10.1103/ljzd-c2mt</link>
+      <description>The data on cosmic antiprotons have reached an outstanding precision on energies spanning from GeV to hundreds of TeV, thanks to the space-based AMS-02 experiment. The balloon-borne GAPS experiment, which just completed its first Antarctic flight, will address antiproton and antideuteron fluxes well below GeV energies. Antinuclei in cosmic rays, as well as being produced by spallation reactions between cosmic-ray nuclei and the atoms of the interstellar medium, may hide contributions from exotic sources, such as particle dark matter annihilation in the Galaxy. In this paper, we present predictions for cosmic antiproton, antideuteron and antihelium fluxes both from secondary and dark matter origin. We use state-of-the-art production spectra, nuclear coalescence for antinuclei, and Galactic propagation models to derive upper limits on the dark matter annihilation cross section from AMS-02 antiproton data in different propagation scenarios (BIG and QUAINT). We quantify the impact of futur</description>
+      <source url="https://doi.org/10.1103/ljzd-c2mt">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ljzd-c2mt</guid>
+    </item><item>
+      <title>Searching for lepton flavor violating decays of the Higgs boson into μτ, eτ, and eμ final states at FCC-ee</title>
+      <link>https://doi.org/10.1103/hs3z-6tnr</link>
+      <description>We investigate the projected sensitivity of the Future Circular Collider in e+e− mode (FCC-ee) in probing the lepton flavor violating (LFV) decay of the 125 GeV Higgs boson, h→μτ, h→eτ, and h→eμ at center-of-mass energy of 240 GeV with an integrated luminosity of 5 ab−1. With the clean multilepton final states, we consider the Higgs production modes that contribute to e+e−→ℓℓh, in particular, the Higgs-strahlung and the vector boson fusion production channels. The 95% confidence level upper limits on branching ratio are found to be 5.94×10−4, 6.28×10−4, and 7.37×10−5 for the channels h→μτ, h→eτ, and h→eμ, respectively. In addition, we also consider the LFV decay of a new CP-even Higgs boson with mass in the range of 110–200 GeV. The projected FCC-ee sensitivities are then compared to those from low-energy searches for ℓ→ℓ′γ decay. We find that the FCC-ee sensitivity for the LFV decays of the Higgs boson in the e−τ and μ−τ channels is superior to the low-energy constraints. However, in </description>
+      <source url="https://doi.org/10.1103/hs3z-6tnr">Physical Review D</source>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hs3z-6tnr</guid>
+    </item><item>
+      <title>Measurement of Coherent Elastic Neutrino-Nucleus Scattering on Germanium by COHERENT</title>
+      <link>https://doi.org/10.1103/999m-b763</link>
+      <description>The COHERENT Collaboration reports the most precise measurement of the coherent elastic neutrino-nucleus scattering cross section to date. This measurement was performed with COHERENT’s germanium detector array, Ge-Mini, at the Spallation Neutron Source at Oak Ridge National Laboratory. A cumulative exposure of 4.69×1022 protons on target yielded a total number of observed counts of 124−12+14 and a flux-averaged cross section of 0.98±0.10(statistical)±0.10(systematic) relative to the standard-model expectation of 5.9×10−39 cm2. The well-understood energy and timing distributions of the neutrino source allow for independent measurements of muon-and electron-neutrino scattering rates. This information is used to improve constraints on nonstandard neutrino interactions mediated by heavy particles.</description>
+      <source url="https://doi.org/10.1103/999m-b763">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/999m-b763</guid>
+    </item><item>
+      <title>Quantum potential with no perturbative series and nonperturbative vacuum dominated by complex classical paths</title>
+      <link>https://doi.org/10.1103/wcpr-hvfw</link>
+      <description>Spectra of standard one-dimensional potentials (double-well, sin-Gordon, etc.) are given by trans-series in coupling, including (badly divergent) perturbative series and nonperturbative terms ∼exp(−const/g2) and log(1/g)exp(−const/g2). All of them are badly defined (e.g., perturbative series are badly divergent) but in sum supposed to be good. In this paper, we discuss an example of a potential with specially defined couplings making perturbative series completely absent. We calculate its nonperturbative vacuum energy and show that they are reproduced by the action of certain complex solutions to the holomorphic Newton equation.</description>
+      <source url="https://doi.org/10.1103/wcpr-hvfw">Physical Review D</source>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/wcpr-hvfw</guid>
+    </item><item>
       <title>Where are linearized gauge invariants encoded for plane waves in linearized gravity</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16355-y</link>
       <description>In this work we will investigate the structures of invariants within the class of plane waves in linearized General Relativity, to introduce a new approach to determine the linearized gauge invariants encoding the polarization of the plane waves. The Newman–Penrose (NP) formalism is traditionally used to analyze the polarization content of gravitational waves, while the gauge-invariant Bardeen formalism provides a complementary description based on the irreducible scalar, vector, and tensor perturbations of the metric. We will apply the Bardeen formalism to compute all scalar, vector, and tensor gauge-invariant variables explicitly and verify that only the two transverse–traceless tensor modes survive. We then compare these Bardeen variables with curvature-based invariants constructed using the linearized Cartan–Karlhede (CK) algorithm. Although one might anticipate a correspondence, our analysis shows that the CK invariants do not capture the polarization modes: the Weyl tensor posses</description>
@@ -50,13 +88,6 @@
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)189</guid>
     </item><item>
-      <title>Anomalies in neural network field theory</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)143</link>
-      <description>Neural network field theory (NN-FT) formulates field theory in terms of a network architecture and a density on its parameters. We derive Schwinger–Dyson equations and Ward identities in NN-FT and utilize them to study anomalies. The equations depend on a conserved parameter space current that characterizes symmetries and how they break. It is relevant even in non-local NN-FTs, but can recover local currents in the case of a local Lagrangian by an appropriate fiber-wise average. In machine learning, this formalism is applied to feedforward networks and the attention mechanism. In physics, we use this machinery to study U(1) symmetry for a complex scalar, the scale anomaly in 4d massless ϕ theory, the Weyl anomaly for the bosonic string (including a new computation of the critical dimension), and examples involving discrete topological data, such as winding numbers and T-duality. Since the results are obtained in network parameter space rather than the standard field space, they represe</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)143">Journal of High Energy Physics</source>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)143</guid>
-    </item><item>
       <title>Mapping moduli across heterotic conifolds</title>
       <link>https://doi.org/10.1103/7wbt-88y4</link>
       <description>In this work, we provide evidence for a duality between 4-dimensional Calabi-Yau compactifications of the heterotic string, in which the base manifolds are linked by a conifold transition. In recent work, a geometric proposal was put forward for how 5-branes and gauge bundles are carried across such transitions. It was observed that compactifications connected in this way lead to 4-dimensional effective theories with the same massless spectrum. Here we provide much stronger evidence that these heterotic conifold transitions do indeed lead to dual theories. We construct a duality map between the field spaces of the two compactifications and use it to demonstrate the agreement of large numbers of holomorphic functions appearing in the definition of the effective theories. In an example, we show that 147,440 independent superpotential Yukawa couplings agree across the duality as holomorphic functions of the moduli. In certain special cases, the putative duality studied here reduces to the</description>
@@ -78,13 +109,6 @@
       <source url="https://doi.org/10.1103/5ft9-9lrh">Physical Review D</source>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/5ft9-9lrh</guid>
-    </item><item>
-      <title>Mapping moduli across heterotic conifolds</title>
-      <link>https://doi.org/10.1103/7wbt-88y4</link>
-      <description>In this work, we provide evidence for a duality between 4-dimensional Calabi-Yau compactifications of the heterotic string, in which the base manifolds are linked by a conifold transition. In recent work, a geometric proposal was put forward for how 5-branes and gauge bundles are carried across such transitions. It was observed that compactifications connected in this way lead to 4-dimensional effective theories with the same massless spectrum. Here we provide much stronger evidence that these heterotic conifold transitions do indeed lead to dual theories. We construct a duality map between the field spaces of the two compactifications and use it to demonstrate the agreement of large numbers of holomorphic functions appearing in the definition of the effective theories. In an example, we show that 147,440 independent superpotential Yukawa couplings agree across the duality as holomorphic functions of the moduli. In certain special cases, the putative duality studied here reduces to the</description>
-      <source url="https://doi.org/10.1103/7wbt-88y4">Physical Review D</source>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7wbt-88y4</guid>
     </item><item>
       <title>Causal bootstrap: Bounding smeared spectral functions from nonperturbative Euclidean data</title>
       <link>https://doi.org/10.1103/m9kj-y6t3</link>
@@ -129,27 +153,6 @@
       <source url="https://doi.org/10.1103/rxp7-gdng">Physical Review D</source>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rxp7-gdng</guid>
-    </item><item>
-      <title>Quark-lepton color-flavor unification</title>
-      <link>https://doi.org/10.1103/9h7r-2zpr</link>
-      <description>We present an SU(12)×SU(2)L×U(1)R model unifying SU(9) quark color-flavor with SU(3) lepton flavor as a flavorful alternative to conventional theories of unification. We begin in the ultraviolet with a single Yukawa shared by the unified up-type quarks and neutrinos and no further new fermions. We show that gauged quark color-flavor and lepton-flavor instantons dynamically generate the bottom and tau Yukawas, which implements a massless quark solution to the strong CP problem and sets up a flavored type-I seesaw mechanism. Only two new scalar irreps are needed for the symmetry-breaking steps, which include quark color-flavor deconstruction and then infrared reunification, and the Standard Model (SM) gauge group in this theory emerges as GSM=SU(3)C×SU(2)L×U(1)Y×Z18XZ3×Γ×Z3, where Γ∈1,Z2 is the electroweak global structure and there is a discrete gauge symmetry X=B−3(Li+Lj−Lk) which brings additional Z3 global structure to the SM. This gauge symmetry acts as a flavorful upgrade of the Z1</description>
-      <source url="https://doi.org/10.1103/9h7r-2zpr">Physical Review D</source>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9h7r-2zpr</guid>
-    </item><item>
-      <title>Particle Correlations in Jets</title>
-      <link>https://doi.org/10.1103/yscq-npz8</link>
-      <description>We study particle correlations in high energy jets by comparing the measured energy-energy correlator with that constructed from two individual energy flows with respect to the jet axis. This comparison demonstrates that the genuine correlations are stronger at moderate or large angles across all jet energies, indicating that they are coming from correlated splitting. Meanwhile, at small angles, they increase with jet energy, exhibiting a peculiar pattern that can be used to explore jet energy loss in heavy-ion collisions. This method will provide a unique tool to disentangle different physics by comparing the genuine correlations in jet energy-energy correlators between heavy-ion collisions and proton-proton collisions.</description>
-      <source url="https://doi.org/10.1103/yscq-npz8">Physical Review Letters</source>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yscq-npz8</guid>
-    </item><item>
-      <title>Proton’s Isovector Parton Distribution Function with Updated Analysis of Large-Momentum Lattice Data</title>
-      <link>https://doi.org/10.1103/8ytm-zbf4</link>
-      <description>The proton’s unpolarized u(x)−d(x) parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF for the physical-limit-extrapolated dataset (MSULat20) is consistent with global fits within ∼1σ, while others are broadly compatible. This provides evidence that large momentum expansion is capable of accurately predicting the x dependence of the PDFs when ideal lattice data become available.</description>
-      <source url="https://doi.org/10.1103/8ytm-zbf4">Physical Review Letters</source>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8ytm-zbf4</guid>
     </item>
   </channel>
 </rss>
