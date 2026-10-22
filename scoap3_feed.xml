@@ -5,15 +5,72 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 14:48:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:49:20 +0000</lastBuildDate>
     <item>
-      <title>Erratum: Measurement of the Zγ production cross section and search for anomalous neutral triple gauge couplings in pp collisions at sqrts=13 TeV</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)168</link>
+      <title>Liouville strings in AdS3: the worldsheet story</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)217</link>
+      <description>The worldsheet σ-model of strings on AdS with NS-NS fluxes can be equivalently described in terms of a Liouville field theory coupled to a timelike field with background charge, plus a marginal deformation. The operator that produces the deformation is non-normalizable and, from the string theory perspective, is associated to the spectral flow sector ω = −2. Its role is to control the winding number violation in scattering amplitudes. In the semiclassical (large k) limit, the central charge of the Liouville factor tends to that of the dual CFT , namely c ≃ 6k. This may appear very similar to what occurs in the Liouville-type description of the dual deformed orbifold CFT , where a twist-2 deformation operator dressed with a non-normalizable field also appears. Indeed, there are some similarities to that; however, there are also significant differences, which we discuss.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)217">Journal of High Energy Physics</source>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)217</guid>
+    </item><item>
+      <title>Nielsen–Olesen flux tube plus electric charge</title>
+      <link>https://doi.org/10.1016/j.nuclphysb.2026.117696</link>
+      <description>We investigate the composite system of a 2+1-dimensional electric charge placed in the background field of a Nielsen–Olesen flux tube. The explicit analytic results are obtained in the static probe approximation and in the controlled large-separation regime αx 0 ≫ 1, where α=2ea. We show that the combined configuration carries a non-vanishing field angular momentum, closely analogous to the familiar charge–monopole systems in 3+1 dimensions. We also find that the system possesses a finite field momentum, which appears to violate the center-of-energy theorem. A detailed analysis reveals that this field momentum is compensated by a hidden mechanical momentum carried by the flux tube’s currents, thereby preserving the center-of-energy theorem.</description>
+      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117696">Nuclear Physics B</source>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117696</guid>
+    </item><item>
+      <title>Publisher Correction: Calibration of the jet energy scale and resolution of small-radius jets using semileptonic tbart events with the ATLAS detector</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16348-x</link>
       <description />
-      <source url="https://doi.org/10.1007/JHEP10(2026)168">Journal of High Energy Physics</source>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16348-x">European Physical Journal C</source>
       <author>et al.</author>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)168</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16348-x</guid>
+    </item><item>
+      <title>Stochastic analysis of finite-temperature effects on cosmological parameters by artificial neural networks</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16214-w</link>
+      <description>We explore the impact of finite-temperature quantum gravity effects on cosmological parameters, particularly the effective vacuum-energy sector, by incorporating temperature-dependent quantum corrections into the Hubble parameter. To this end, we modify the Cosmic Linear Anisotropy Solving System and introduce new density parameters, Omega _Lambda ₂ and Omega _Lambda ₃ , arising from finite-temperature quantum gravity contributions. These parameters encode off-shell vacuum-bubble contributions from Standard Model fields—including heavy fields that cannot be treated as on-shell radiation—and may equivalently be viewed as quantum corrections to the effective equation of state of the early-Universe plasma. We analyze their influence on the cosmic microwave background power spectrum using machine learning techniques, including artificial neural networks and stochastic optimization. Our results reveal that Omega _Lambda ₂ assumes a negative value, consistent with dimensional regularization </description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16214-w">European Physical Journal C</source>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16214-w</guid>
+    </item><item>
+      <title>Crowdsourcing gravitational waves from superradiant axions</title>
+      <link>https://doi.org/10.1103/ddc7-2pch</link>
+      <description>Black hole superradiance is a powerful probe of ultralight axions. If nature contains a boson with a mass of order 10−12 eV, mere vacuum fluctuations will lead to its efficient production around spinning stellar mass black holes, forming a gravitational atom that both drains the black hole spin and decays to produce near-monochromatic gravitational waves. Existing superradiance constraints derive primarily from spin measurements of a handful of identified black holes. Here we instead present a detailed study of the population level effect: gravitational waves arising from both the 100 million black holes in the Milky Way and the stochastic signal from axion clouds throughout the universe. We study the impact of a broad range of systematic uncertainties on the black hole properties and compute the projected axion sensitivity for LIGO, as well as the future instruments Einstein Telescope, Cosmic Explorer, and a high-frequency magnetic Weber bar. We demonstrate that LIGO can robustly prob</description>
+      <source url="https://doi.org/10.1103/ddc7-2pch">Physical Review D</source>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ddc7-2pch</guid>
+    </item><item>
+      <title>Lowest-radiation environments in the Solar System: New opportunities for underground rare-event searches</title>
+      <link>https://doi.org/10.1103/7fjv-rz78</link>
+      <description>We study neutrino, muon, and gamma-ray fluxes in extraterrestrial environments in our Solar System via semianalytical estimates and Monte Carlo simulations. In sites with negligible atmosphere, we find a strong reduction in the cosmic-ray-induced neutrino and muon fluxes relative to their intensities on Earth. Neutrinos with energies between 50 MeV and 100 TeV show particularly strong suppression, by as much as 103, even at shallow depths. The solar neutrino suppression increases as the square of the site’s distance from the Sun. Natural radiation due to nuclear decay is also expected to be lower in many of these locations and may be reduced to effectively negligible levels in liquid water environments. The sites satisfying these characteristics represent an opportunity for greatly extending the physics reach of underground searches in fundamental physics, such as searches for weakly interacting massive particle (WIMP) dark matter, neutrinoless double-beta decay, the diffuse supernova </description>
+      <source url="https://doi.org/10.1103/7fjv-rz78">Physical Review D</source>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7fjv-rz78</guid>
+    </item><item>
+      <title>First Simultaneous Analysis of Transverse Momentum Dependent and Collinear Parton Distributions in the Proton</title>
+      <link>https://doi.org/10.1103/m23z-bt9y</link>
+      <description>We present the first simultaneous global QCD analysis of unpolarized transverse momentum dependent (TMD) and collinear parton distribution functions (PDFs) in the proton. Our Letter incorporates data from deep-inelastic scattering, Drell-Yan, inclusive weak boson, W+ charm, and jet production involving PDFs, as well as TMD Drell-Yan and Z-boson production data from fixed target and collider experiments sensitive to both TMD and collinear distributions. The analysis is performed at next-to-next-to-leading logarithmic accuracy for QCD resummation in TMD observables and next-to-leading order for observables described in collinear factorization. The combined analysis improves knowledge of both TMD and collinear PDFs, particularly in the sea-quark sector, providing a consistent simultaneous description of the aforementioned observables.</description>
+      <source url="https://doi.org/10.1103/m23z-bt9y">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/m23z-bt9y</guid>
+    </item><item>
+      <title>Searching for new physics inside jets with the Herwig 7 generalised parton shower</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)205</link>
+      <description>This study investigates parton shower evolution incorporating both Standard Model (SM) and beyond-the-Standard-Model (BSM) radiation, focusing on the phenomenology of a massive Z boson. While traditional approaches typically assume direct Z production in the hard process, the possibility of Z production within jets, enabled by subsequent emissions in the parton shower, offers a complementary opportunity to probe new physics through jet substructure and event topology. The newly developed Herwig 7 framework supporting BSM parton showers enables efficient simulation of Z production in the logarithmically enhanced regime. Using a simple BSM benchmark, the minimal U(1) extension of the SM, the interplay between the SM and BSM showers is evaluated to identify kinematic features that distinguish Z-induced jets from conventional signatures. BSM-radiation signatures are contrasted with SM backgrounds such as QCD, top-quark, and Drell-Yan production, identifying potential discriminants for expe</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)205">Journal of High Energy Physics</source>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)205</guid>
+    </item><item>
+      <title>Photon-nucleon entanglement in Compton scattering at low and high energies</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)204</link>
+      <description>We study spin-spin entanglement in the final state photon-nucleon system in Compton scattering, both at low energy below the pion threshold and at high energy in perturbative QCD to next-to-leading order. We first establish a no-go theorem showing that, for any spin-frac12 target, entanglement cannot be generated in unpolarized Compton scattering if the scattering amplitudes are real. We then consider polarized Compton scattering off the electron, the proton and the neutron. At low energy, we uncover a rich variety of maximally entangled Bell states and their unitary equivalents realized across different regions of the kinematic plane. Interestingly, the proton and neutron targets exhibit distinct patterns of entanglement. In the neutron case, the electric and magnetic polarizabilities dramatically influence the pattern and even the existence of entanglement. This suggests that entanglement can serve as a novel tool for investigating the detailed electromagnetic properties of the nucle</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)204">Journal of High Energy Physics</source>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)204</guid>
     </item><item>
       <title>Revisiting predictions for cosmic-ray antinucleon fluxes from galactic dark matter</title>
       <link>https://doi.org/10.1103/ljzd-c2mt</link>
@@ -30,13 +87,12 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/hs3z-6tnr</guid>
     </item><item>
-      <title>Measurement of Coherent Elastic Neutrino-Nucleus Scattering on Germanium by COHERENT</title>
-      <link>https://doi.org/10.1103/999m-b763</link>
-      <description>The COHERENT Collaboration reports the most precise measurement of the coherent elastic neutrino-nucleus scattering cross section to date. This measurement was performed with COHERENT’s germanium detector array, Ge-Mini, at the Spallation Neutron Source at Oak Ridge National Laboratory. A cumulative exposure of 4.69×1022 protons on target yielded a total number of observed counts of 124−12+14 and a flux-averaged cross section of 0.98±0.10(statistical)±0.10(systematic) relative to the standard-model expectation of 5.9×10−39 cm2. The well-understood energy and timing distributions of the neutrino source allow for independent measurements of muon-and electron-neutrino scattering rates. This information is used to improve constraints on nonstandard neutrino interactions mediated by heavy particles.</description>
-      <source url="https://doi.org/10.1103/999m-b763">Physical Review Letters</source>
-      <author>et al.</author>
+      <title>Renormalizing a three-flavor lattice calculation of the two-photon contribution to KL→μ+μ−</title>
+      <link>https://doi.org/10.1103/bsqc-6q3t</link>
+      <description>The Standard Model prediction for the rare KL→μ+μ− decay depends critically on the long-distance contribution coming from the exchange of two photons. Such a contribution can be computed using lattice QCD and an effective three-flavor theory including only the u, d and s quarks, provided terms falling as the inverse square of the omitted charm quark mass, 1/mc2, are neglected. Because of the missing Glashow-Iliopoulos-Maiani cancellation, this three-flavor theory contains additional low-energy constants that depend on mc. Here we show how these constants can be determined from a practical four-flavor lattice QCD calculation performed on a small volume with u and d quark masses that are heavier than physical.</description>
+      <source url="https://doi.org/10.1103/bsqc-6q3t">Physical Review D</source>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/999m-b763</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/bsqc-6q3t</guid>
     </item><item>
       <title>Quantum potential with no perturbative series and nonperturbative vacuum dominated by complex classical paths</title>
       <link>https://doi.org/10.1103/wcpr-hvfw</link>
@@ -45,48 +101,13 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/wcpr-hvfw</guid>
     </item><item>
-      <title>Where are linearized gauge invariants encoded for plane waves in linearized gravity</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16355-y</link>
-      <description>In this work we will investigate the structures of invariants within the class of plane waves in linearized General Relativity, to introduce a new approach to determine the linearized gauge invariants encoding the polarization of the plane waves. The Newman–Penrose (NP) formalism is traditionally used to analyze the polarization content of gravitational waves, while the gauge-invariant Bardeen formalism provides a complementary description based on the irreducible scalar, vector, and tensor perturbations of the metric. We will apply the Bardeen formalism to compute all scalar, vector, and tensor gauge-invariant variables explicitly and verify that only the two transverse–traceless tensor modes survive. We then compare these Bardeen variables with curvature-based invariants constructed using the linearized Cartan–Karlhede (CK) algorithm. Although one might anticipate a correspondence, our analysis shows that the CK invariants do not capture the polarization modes: the Weyl tensor posses</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16355-y">European Physical Journal C</source>
+      <title>Measurement of Coherent Elastic Neutrino-Nucleus Scattering on Germanium by COHERENT</title>
+      <link>https://doi.org/10.1103/999m-b763</link>
+      <description>The COHERENT Collaboration reports the most precise measurement of the coherent elastic neutrino-nucleus scattering cross section to date. This measurement was performed with COHERENT’s germanium detector array, Ge-Mini, at the Spallation Neutron Source at Oak Ridge National Laboratory. A cumulative exposure of 4.69×1022 protons on target yielded a total number of observed counts of 124−12+14 and a flux-averaged cross section of 0.98±0.10(statistical)±0.10(systematic) relative to the standard-model expectation of 5.9×10−39 cm2. The well-understood energy and timing distributions of the neutrino source allow for independent measurements of muon-and electron-neutrino scattering rates. This information is used to improve constraints on nonstandard neutrino interactions mediated by heavy particles.</description>
+      <source url="https://doi.org/10.1103/999m-b763">Physical Review Letters</source>
       <author>et al.</author>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16355-y</guid>
-    </item><item>
-      <title>Accidental Peccei-Quinn symmetry from chiral gauge symmetry and mirror QCD</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)180</link>
-      <description>We present a solution to the strong CP problem in which a simple chiral U (1) gauge symmetry gives rise to an accidental Peccei-Quinn symmetry that is both explicitly and spontaneously broken by mirror QCD dynamics, yielding a framework without massless fermions or a light QCD axion. The model contains no stable domain walls or colored relics, and it accommodates a sufficiently high reheating temperature to account for the baryon asymmetry of the Universe via leptogenesis. Metastable domain walls and first-order mirror QCD phase transition generate a stochastic background of primordial gravitational waves. Additionally, one of the pseudo-Nambu-Goldstone bosons serves as a viable WIMP dark matter candidate. The gauge boson associated with the chiral U (1) gauge symmetry, which kinetically mixes with the Standard Model hypercharge gauge boson, provides a vector portal connecting dark matter to the Standard Model and plays a central role in the dark-matter phenomenology. Colored pseudo-Na</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)180">Journal of High Energy Physics</source>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)180</guid>
-    </item><item>
-      <title>On thrust resummation ambiguities in e + e − annihilation into hadrons</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)178</link>
-      <description>In e e shape-variable studies, and in particular for the case of thrust, fixed-order QCD predictions are typically supplemented with the resummation of contributions enhanced near the two-jet limit.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)178">Journal of High Energy Physics</source>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)178</guid>
-    </item><item>
-      <title>Line defects in Liouville Conformal Field Theory: localized cosmological constants and decohered hyperbolic geometries</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)165</link>
-      <description>The study of quantum impurities has long been a central and inspiring theme in quantum many-body physics. Localized impurities are modeled by line defects in quantum field theory. We describe a line defect in Liouville CFT realized as a “localized cosmological constant”: a non-topological line insertion into the Liouville path integral that is tractable at both weak and strong defect coupling. At weak coupling, we analyze the defect perturbatively and characterize it through its correlations with local operators, energy and information transport, the Casimir energies associated with fusion, and corrections to the open string channel spectrum. We also study the effect of a cuspidal deformation of the defect locus on these observables and describe novel monotonicity properties as the cusp angle is varied. These results derived using perturbation theory are more generally applicable to pinning defects constructed from scalar primary operators in compact 2d CFTs. At strong coupling, in a s</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)165">Journal of High Energy Physics</source>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)165</guid>
-    </item><item>
-      <title>Black hole photon rings saturate the quantum chaos bound</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)184</link>
-      <description>We study the quantum chaos bound in the photon ring region surrounding black holes. By evaluating the Lyapunov exponent associated with unstable null geodesics in a broad class of generalized Kerr geometries, as well as the temperature induced by a string probe, we show that the quantum chaos bound is exactly saturated on equatorial circular orbits of the photon ring. We confirm our result by deriving the same exponent from out-of-time-order correlators in the near ring region. As a byproduct, we show that the photon ring saturation of the quantum chaos bound implies the saturation of the Bekenstein bound on the rate of information emission from the ringdown phase through the quasinormal modes in the eikonal limit. Our results extend the known correspondence between black hole thermodynamics and chaotic dynamics, highlighting the role of the photon ring as a probe of the fundamental limits on thermalization and information scrambling in black holes.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)184">Journal of High Energy Physics</source>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)184</guid>
-    </item><item>
-      <title>Scattering amplitudes and resonant processes in QED with chiral chemical potential and chiral magnetic conductivity</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)189</link>
-      <description>The QED scattering amplitude in a chiral medium characterized by a constant chiral chemical potential μ and chiral magnetic conductivity b is analyzed. We show the emergence of the resonant behavior in 1 → 2, 2 → 2, and 2 → 3 processes. We compute the rates of paradigm 1 → 2 processes that determine the widths of quasi-stationary fermion and photon states in the medium. We elucidate the origin of these resonances, the conditions of their emergence, and the physical principles of their regularization.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)189">Journal of High Energy Physics</source>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)189</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/999m-b763</guid>
     </item><item>
       <title>Mapping moduli across heterotic conifolds</title>
       <link>https://doi.org/10.1103/7wbt-88y4</link>
@@ -116,43 +137,6 @@
       <source url="https://doi.org/10.1103/m9kj-y6t3">Physical Review D</source>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/m9kj-y6t3</guid>
-    </item><item>
-      <title>Cosmology, decoherence and the second law</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)176</link>
-      <description>We consider quantum decoherence and entropy increase in early universe cosmology. We first study decoherence in a discrete bipartite quantum system for which a single qubit gets entangled with an environment and the entropy increase is correlated with the decay of the off-diagonal terms of the reduced density matrix. We compare this system with continuous systems relevant for cosmology for which there is a natural external intervention, corresponding to the time-dependent separation between the sub-and super-horizon infla-tionary fluctuations. We find, in this case, that the off-diagonal terms of the density matrix, in a field basis, do not decay as sometimes assumed in cosmological set-ups. Nevertheless, following a recent treatment in terms of open Effective Field Theories (EFTs), we compute the entanglement entropy for a Gaussian state and show that it actually increases monotonically ( dotS&gt;0 ) during the accelerated phases ( ddota&gt;0 with a(t) the scale factor). We generalise this </description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)176">Journal of High Energy Physics</source>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)176</guid>
-    </item><item>
-      <title>Yang-Mills flux tube in AdS. Part II. Effective String Theory</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)179</link>
-      <description>We continue the study of flux tubes in confining gauge theories placed in a rigid AdS background, focusing on the three-dimensional case. Our analysis is performed in the large-radius regime, where effective string theory provides a good approximation of the dynamics. Using a combination of techniques, primarily the analytic transcendentality ansatz bootstrap, we compute observables up to two-loop order in the expansion in powers of the string length over the AdS radius, which constitutes the main result of this work. Finally, we employ Padé resummations to explore the possible compatibility of our results with a smooth interpolation of observables between large-radius AdS and small-radius AdS, in which gauge theory is weakly coupled.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)179">Journal of High Energy Physics</source>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)179</guid>
-    </item><item>
-      <title>Finite density lattice QCD without extrapolation: Bulk thermodynamics with physical quark masses from the canonical ensemble</title>
-      <link>https://doi.org/10.1103/tptk-7718</link>
-      <description>Quantum chromodynamics (QCD) at finite density is most often formulated on the lattice as a grand canonical ensemble. Since lattice QCD has a complex action problem at finite baryo-chemical potential (μB), its results at finite density are indirect: e.g. in the form of a set of expansion coefficients. In contrast, the canonical formulation offers direct results for integer-valued net-baryon number. In this work we present for the first time results in the canonical formulation with physical quark masses. To this end we use a high statistics finite-volume lattice (163×8) dataset that we generated at μB=0 with our 4HEX staggered action. We extend the canonical ensemble to noninteger net-baryon number and connect the results back to the grand canonical ensemble. Unlike reweighing to real μB, this method can also be used with rooted staggered quarks. For densities where the sign problem can be overcome by brute force computing power, this scheme provides lattice QCD results (e.g., for pres</description>
-      <source url="https://doi.org/10.1103/tptk-7718">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tptk-7718</guid>
-    </item><item>
-      <title>Third moments of nucleon unpolarized, polarized, and transversity parton distribution functions from physical-point lattice QCD</title>
-      <link>https://doi.org/10.1103/kknt-zxsw</link>
-      <description>Using forward matrix elements of local leading-twist operators, we present a determination of the isovector third Mellin moments ⟨x2⟩ of nucleon unpolarized, polarized, and transversity parton distribution functions. Two lattice QCD ensembles at the physical pion mass are used, which were generated using a tree-level Symanzik-improved gauge action and 2+1 flavor tree-level improved Wilson clover fermions coupling via two-level HEX smearing. Leveraging a wide set of operators, two extraction methods for the matrix elements, and the automatic inclusion of model uncertainties via bootstrapped model averages, we extract values of the third Mellin moments. This is the first direct calculation of these observables performed at the physical pion mass.</description>
-      <source url="https://doi.org/10.1103/kknt-zxsw">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/kknt-zxsw</guid>
-    </item><item>
-      <title>ΛΛ¯ spin correlations in high-energy collisions from quantum channels: An open quantum system view of hadronization</title>
-      <link>https://doi.org/10.1103/rxp7-gdng</link>
-      <description>We construct a quantum information-centered approach to describe the experimentally observed behavior of hyperon spin-pair correlations in high-energy collider experiments. The evolution of the spin density matrix of the hyperon pair is treated in the language of quantum channels, accounting both for the spin dynamics in C2⊗C2 and for the pair’s angular separation ΔR. We show that the experimental data are consistent with an evolution under a two-qubit depolarizing channel, from which a Lindblad master equation is derived. This provides an open quantum system picture of spin dynamics during the hadronization transition, which is not naturally captured by other quantum channels, and we discuss its microscopic origins. These results show that quantum information science can offer new insights into confinement dynamics beyond the classification of entanglement in the final particle states.</description>
-      <source url="https://doi.org/10.1103/rxp7-gdng">Physical Review D</source>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rxp7-gdng</guid>
     </item>
   </channel>
 </rss>
