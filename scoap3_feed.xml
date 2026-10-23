@@ -5,8 +5,23 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:35:23 +0000</lastBuildDate>
     <item>
+      <title>Dark Matter, Baryon Number, and Cosmic-Ray Antinuclei</title>
+      <link>https://doi.org/10.1103/6rsq-mjzw</link>
+      <description>Antideuterons and antihelium nuclei in the cosmic-ray spectrum have long been considered a smoking gun signature of dark matter annihilation, making the tentative observation of several such events by AMS highly intriguing. Conventional dark matter models, however, can produce only up to O(1) antideuteron events at AMS and are not capable of generating observable fluxes of antihelium. In this Letter, we propose a class of models in which dark matter annihilates into particles carrying baryon and lepton number, whose subsequent decays produce enhanced fluxes of antinucleons and antinuclei. Such scenarios are motivated by grand unified theories and can lead to an order-of-magnitude or larger enhancement in the resulting antideuteron and antihelium-3 fluxes, providing a means by which to potentially explain the events reported by the AMS Collaboration.</description>
+      <source url="https://doi.org/10.1103/6rsq-mjzw">Physical Review Letters</source>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/6rsq-mjzw</guid>
+    </item><item>
+      <title>Dihadron Transverse-Spin Asymmetries in Muon-Deuteron Deep-Inelastic Scattering</title>
+      <link>https://doi.org/10.1103/cbmf-s76k</link>
+      <description>In 2022, the COMPASS collaboration performed semi-inclusive measurements of deep-inelastic muon-scattering on a transversely polarized deuteron (LiD6) target. From these data, transverse-spin-dependent dihadron asymmetries are extracted using pairs of oppositely charged hadrons. These asymmetries are directly sensitive to the quark transversity distributions and provide an independent handle on these fundamental quantities with respect to the Collins asymmetries measured in single-hadron production. The present results significantly improve upon the previous COMPASS deuteron measurements, which were the only available deuteron data worldwide, and reach a statistical precision comparable to that of the existing proton results from COMPASS. A small but nonzero asymmetry is observed at large Bjorken-x, consistent with theoretical expectations. A point-by-point extraction of the valence-quark transversity distributions yields, in particular, a substantially improved determination of the d-</description>
+      <source url="https://doi.org/10.1103/cbmf-s76k">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/cbmf-s76k</guid>
+    </item><item>
       <title>Liouville strings in AdS3: the worldsheet story</title>
       <link>https://doi.org/10.1007/JHEP10(2026)217</link>
       <description>The worldsheet σ-model of strings on AdS with NS-NS fluxes can be equivalently described in terms of a Liouville field theory coupled to a timelike field with background charge, plus a marginal deformation. The operator that produces the deformation is non-normalizable and, from the string theory perspective, is associated to the spectral flow sector ω = −2. Its role is to control the winding number violation in scattering amplitudes. In the semiclassical (large k) limit, the central charge of the Liouville factor tends to that of the dual CFT , namely c ≃ 6k. This may appear very similar to what occurs in the Liouville-type description of the dual deformed orbifold CFT , where a twist-2 deformation operator dressed with a non-normalizable field also appears. Indeed, there are some similarities to that; however, there are also significant differences, which we discuss.</description>
@@ -14,12 +29,12 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)217</guid>
     </item><item>
-      <title>Nielsen–Olesen flux tube plus electric charge</title>
-      <link>https://doi.org/10.1016/j.nuclphysb.2026.117696</link>
-      <description>We investigate the composite system of a 2+1-dimensional electric charge placed in the background field of a Nielsen–Olesen flux tube. The explicit analytic results are obtained in the static probe approximation and in the controlled large-separation regime αx 0 ≫ 1, where α=2ea. We show that the combined configuration carries a non-vanishing field angular momentum, closely analogous to the familiar charge–monopole systems in 3+1 dimensions. We also find that the system possesses a finite field momentum, which appears to violate the center-of-energy theorem. A detailed analysis reveals that this field momentum is compensated by a hidden mechanical momentum carried by the flux tube’s currents, thereby preserving the center-of-energy theorem.</description>
-      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117696">Nuclear Physics B</source>
+      <title>Instanton-induced closed-string amplitudes in minimal superstring theory at subleading order</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)209</link>
+      <description>We compute the disk one-point function, the disk two-point function, and the annulus one-point function of the cosmological constant operator in the type 0A and type 0B minimal superstring theories with (1, 1) ZZ instanton boundary conditions. The moduli-space integrals appearing in the disk two-point function and the annulus one-point function have divergences associated with open-string-channel degenerations, which must be regulated using open-closed string field theory. The definition of the string field theory interaction vertices requires a choice of locations for the picture-changing operators, which we specify in detail. After carefully taking into account all contributions, including those from vertical integration, we find that the results precisely match the expectations from DDK-KPZ scaling. Our technical results on the detailed construction of interaction vertices are a first step toward understanding the analogous quantities in the ten-dimensional type IIB superstring, whe</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)209">Journal of High Energy Physics</source>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117696</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)209</guid>
     </item><item>
       <title>Publisher Correction: Calibration of the jet energy scale and resolution of small-radius jets using semileptonic tbart events with the ATLAS detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16348-x</link>
@@ -28,6 +43,13 @@
       <author>et al.</author>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16348-x</guid>
+    </item><item>
+      <title>Stochastic analysis of finite-temperature effects on cosmological parameters by artificial neural networks</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16214-w</link>
+      <description>We explore the impact of finite-temperature quantum gravity effects on cosmological parameters, particularly the effective vacuum-energy sector, by incorporating temperature-dependent quantum corrections into the Hubble parameter. To this end, we modify the Cosmic Linear Anisotropy Solving System and introduce new density parameters, Omega _Lambda ₂ and Omega _Lambda ₃ , arising from finite-temperature quantum gravity contributions. These parameters encode off-shell vacuum-bubble contributions from Standard Model fields—including heavy fields that cannot be treated as on-shell radiation—and may equivalently be viewed as quantum corrections to the effective equation of state of the early-Universe plasma. We analyze their influence on the cosmic microwave background power spectrum using machine learning techniques, including artificial neural networks and stochastic optimization. Our results reveal that Omega _Lambda ₂ assumes a negative value, consistent with dimensional regularization </description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16214-w">European Physical Journal C</source>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16214-w</guid>
     </item><item>
       <title>Stochastic analysis of finite-temperature effects on cosmological parameters by artificial neural networks</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16214-w</link>
@@ -58,20 +80,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/m23z-bt9y</guid>
     </item><item>
-      <title>Searching for new physics inside jets with the Herwig 7 generalised parton shower</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)205</link>
-      <description>This study investigates parton shower evolution incorporating both Standard Model (SM) and beyond-the-Standard-Model (BSM) radiation, focusing on the phenomenology of a massive Z boson. While traditional approaches typically assume direct Z production in the hard process, the possibility of Z production within jets, enabled by subsequent emissions in the parton shower, offers a complementary opportunity to probe new physics through jet substructure and event topology. The newly developed Herwig 7 framework supporting BSM parton showers enables efficient simulation of Z production in the logarithmically enhanced regime. Using a simple BSM benchmark, the minimal U(1) extension of the SM, the interplay between the SM and BSM showers is evaluated to identify kinematic features that distinguish Z-induced jets from conventional signatures. BSM-radiation signatures are contrasted with SM backgrounds such as QCD, top-quark, and Drell-Yan production, identifying potential discriminants for expe</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)205">Journal of High Energy Physics</source>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)205</guid>
-    </item><item>
-      <title>Photon-nucleon entanglement in Compton scattering at low and high energies</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)204</link>
-      <description>We study spin-spin entanglement in the final state photon-nucleon system in Compton scattering, both at low energy below the pion threshold and at high energy in perturbative QCD to next-to-leading order. We first establish a no-go theorem showing that, for any spin-frac12 target, entanglement cannot be generated in unpolarized Compton scattering if the scattering amplitudes are real. We then consider polarized Compton scattering off the electron, the proton and the neutron. At low energy, we uncover a rich variety of maximally entangled Bell states and their unitary equivalents realized across different regions of the kinematic plane. Interestingly, the proton and neutron targets exhibit distinct patterns of entanglement. In the neutron case, the electric and magnetic polarizabilities dramatically influence the pattern and even the existence of entanglement. This suggests that entanglement can serve as a novel tool for investigating the detailed electromagnetic properties of the nucle</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)204">Journal of High Energy Physics</source>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)204</guid>
-    </item><item>
       <title>Revisiting predictions for cosmic-ray antinucleon fluxes from galactic dark matter</title>
       <link>https://doi.org/10.1103/ljzd-c2mt</link>
       <description>The data on cosmic antiprotons have reached an outstanding precision on energies spanning from GeV to hundreds of TeV, thanks to the space-based AMS-02 experiment. The balloon-borne GAPS experiment, which just completed its first Antarctic flight, will address antiproton and antideuteron fluxes well below GeV energies. Antinuclei in cosmic rays, as well as being produced by spallation reactions between cosmic-ray nuclei and the atoms of the interstellar medium, may hide contributions from exotic sources, such as particle dark matter annihilation in the Galaxy. In this paper, we present predictions for cosmic antiproton, antideuteron and antihelium fluxes both from secondary and dark matter origin. We use state-of-the-art production spectra, nuclear coalescence for antinuclei, and Galactic propagation models to derive upper limits on the dark matter annihilation cross section from AMS-02 antiproton data in different propagation scenarios (BIG and QUAINT). We quantify the impact of futur</description>
@@ -94,13 +102,6 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/bsqc-6q3t</guid>
     </item><item>
-      <title>Quantum potential with no perturbative series and nonperturbative vacuum dominated by complex classical paths</title>
-      <link>https://doi.org/10.1103/wcpr-hvfw</link>
-      <description>Spectra of standard one-dimensional potentials (double-well, sin-Gordon, etc.) are given by trans-series in coupling, including (badly divergent) perturbative series and nonperturbative terms ∼exp(−const/g2) and log(1/g)exp(−const/g2). All of them are badly defined (e.g., perturbative series are badly divergent) but in sum supposed to be good. In this paper, we discuss an example of a potential with specially defined couplings making perturbative series completely absent. We calculate its nonperturbative vacuum energy and show that they are reproduced by the action of certain complex solutions to the holomorphic Newton equation.</description>
-      <source url="https://doi.org/10.1103/wcpr-hvfw">Physical Review D</source>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wcpr-hvfw</guid>
-    </item><item>
       <title>Measurement of Coherent Elastic Neutrino-Nucleus Scattering on Germanium by COHERENT</title>
       <link>https://doi.org/10.1103/999m-b763</link>
       <description>The COHERENT Collaboration reports the most precise measurement of the coherent elastic neutrino-nucleus scattering cross section to date. This measurement was performed with COHERENT’s germanium detector array, Ge-Mini, at the Spallation Neutron Source at Oak Ridge National Laboratory. A cumulative exposure of 4.69×1022 protons on target yielded a total number of observed counts of 124−12+14 and a flux-averaged cross section of 0.98±0.10(statistical)±0.10(systematic) relative to the standard-model expectation of 5.9×10−39 cm2. The well-understood energy and timing distributions of the neutrino source allow for independent measurements of muon-and electron-neutrino scattering rates. This information is used to improve constraints on nonstandard neutrino interactions mediated by heavy particles.</description>
@@ -109,34 +110,20 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/999m-b763</guid>
     </item><item>
-      <title>Mapping moduli across heterotic conifolds</title>
-      <link>https://doi.org/10.1103/7wbt-88y4</link>
-      <description>In this work, we provide evidence for a duality between 4-dimensional Calabi-Yau compactifications of the heterotic string, in which the base manifolds are linked by a conifold transition. In recent work, a geometric proposal was put forward for how 5-branes and gauge bundles are carried across such transitions. It was observed that compactifications connected in this way lead to 4-dimensional effective theories with the same massless spectrum. Here we provide much stronger evidence that these heterotic conifold transitions do indeed lead to dual theories. We construct a duality map between the field spaces of the two compactifications and use it to demonstrate the agreement of large numbers of holomorphic functions appearing in the definition of the effective theories. In an example, we show that 147,440 independent superpotential Yukawa couplings agree across the duality as holomorphic functions of the moduli. In certain special cases, the putative duality studied here reduces to the</description>
-      <source url="https://doi.org/10.1103/7wbt-88y4">Physical Review D</source>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7wbt-88y4</guid>
+      <title>Quantum potential with no perturbative series and nonperturbative vacuum dominated by complex classical paths</title>
+      <link>https://doi.org/10.1103/wcpr-hvfw</link>
+      <description>Spectra of standard one-dimensional potentials (double-well, sin-Gordon, etc.) are given by trans-series in coupling, including (badly divergent) perturbative series and nonperturbative terms ∼exp(−const/g2) and log(1/g)exp(−const/g2). All of them are badly defined (e.g., perturbative series are badly divergent) but in sum supposed to be good. In this paper, we discuss an example of a potential with specially defined couplings making perturbative series completely absent. We calculate its nonperturbative vacuum energy and show that they are reproduced by the action of certain complex solutions to the holomorphic Newton equation.</description>
+      <source url="https://doi.org/10.1103/wcpr-hvfw">Physical Review D</source>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/wcpr-hvfw</guid>
     </item><item>
-      <title>Directional recoil detection for CEvNS measurements with light nuclei at the Spallation Neutron Source</title>
-      <link>https://doi.org/10.1103/kj5m-y2g7</link>
-      <description>The coherent elastic scattering of neutrinos on nuclei, also known as CEνNS, has been studied for several years by the COHERENT program of experiments using neutrinos from stopped-pion decays produced at the Oak Ridge Spallation Neutron Source (SNS). We propose a new approach for CEνNS measurements at the SNS that aims to complement the COHERENT experiments in two main ways: by reconstructing the angular distribution of CEνNS-induced recoils, and by measuring CEνNS on much lighter target nuclei such as helium, carbon, and fluorine. The proposed detector would employ a gaseous time-projection chamber with a highly segmented charge readout to enable the spatial reconstruction of ∼10–500 keV ionization tracks created by CEνNS-induced recoils. This would enable the simultaneous measurement of the CEνNS recoil energy and scattering angle, thereby allowing event-by-event reconstruction of the neutrino energy. We estimate that a 60∶40 He:CF4 gas mixture at atmospheric pressure offers a good t</description>
-      <source url="https://doi.org/10.1103/kj5m-y2g7">Physical Review D</source>
+      <title>Where are linearized gauge invariants encoded for plane waves in linearized gravity</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16355-y</link>
+      <description>In this work we will investigate the structures of invariants within the class of plane waves in linearized General Relativity, to introduce a new approach to determine the linearized gauge invariants encoding the polarization of the plane waves. The Newman–Penrose (NP) formalism is traditionally used to analyze the polarization content of gravitational waves, while the gauge-invariant Bardeen formalism provides a complementary description based on the irreducible scalar, vector, and tensor perturbations of the metric. We will apply the Bardeen formalism to compute all scalar, vector, and tensor gauge-invariant variables explicitly and verify that only the two transverse–traceless tensor modes survive. We then compare these Bardeen variables with curvature-based invariants constructed using the linearized Cartan–Karlhede (CK) algorithm. Although one might anticipate a correspondence, our analysis shows that the CK invariants do not capture the polarization modes: the Weyl tensor posses</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16355-y">European Physical Journal C</source>
       <author>et al.</author>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/kj5m-y2g7</guid>
-    </item><item>
-      <title>Perturbatively dressed observables</title>
-      <link>https://doi.org/10.1103/5ft9-9lrh</link>
-      <description>A central lesson of gravity is that local observables are ill-defined. Coordinates themselves are a redundancy of description, so any particular point in spacetime is only meaningful once defined relationally by clocks, rulers, or asymptotic data. Despite extensive formal work on this subject, explicit calculations of the resulting gravitationally-dressed observables are more scarce. In this paper we perturbatively compute dressed matrix elements of local operators in electrodynamics and general relativity, including both potential and radiative photons and gravitons. Our expressions indicate that dressing is not ornamental: it universally induces kinematic singularities that can substantively reshape observables. We further show how dressing is mathematically equivalent to gauge fixing, as demonstrated by a dynamical temporal gauge in which the gauge-fixing vector is itself a geodesic fluid.</description>
-      <source url="https://doi.org/10.1103/5ft9-9lrh">Physical Review D</source>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5ft9-9lrh</guid>
-    </item><item>
-      <title>Causal bootstrap: Bounding smeared spectral functions from nonperturbative Euclidean data</title>
-      <link>https://doi.org/10.1103/m9kj-y6t3</link>
-      <description>This work introduces the causal bootstrap, a framework for bounding smeared spectral observables from finite nonperturbative Euclidean data. The method optimizes over the convex set of positive spectral densities compatible with the data to compute rigorous upper and lower bounds on the target observable. Statistical uncertainties, including correlations, are incorporated through compatibility regions using the covariance matrix. The bounds are equivalent, via Lagrange duality, to certified bounds on the target smearing kernel. For polynomial, rational, and piecewise rational kernels, the resulting dual problems can be reduced to finite-dimensional semidefinite programs using techniques familiar, e.g., in the numerical conformal bootstrap. The present formulation clarifies the relation to moment problems, Nevanlinna-Pick interpolation, and linear kernel-reconstruction methods. Numerical examples demonstrate the method.</description>
-      <source url="https://doi.org/10.1103/m9kj-y6t3">Physical Review D</source>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/m9kj-y6t3</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16355-y</guid>
     </item>
   </channel>
 </rss>
