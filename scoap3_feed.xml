@@ -5,7 +5,7 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:47:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:03:37 +0000</lastBuildDate>
     <item>
       <title>A gauge-theoretic formulation of Nambu non-equilibrium thermodynamics</title>
       <link>https://doi.org/10.1016/j.nuclphysb.2026.117698</link>
@@ -63,22 +63,6 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)226</guid>
     </item><item>
-      <title>Measurement of Born cross sections for e+e−→Σ−Σ¯+ at s=3.51 – 4.95 GeV and observation of ψ(3770)→Σ−Σ¯+</title>
-      <link>https://doi.org/10.1103/m91q-kgbw</link>
-      <description>Using e+e− collision data corresponding to an integrated luminosity of 44 fb−1 collected with the BESIII detector at the BEPCII Collider, we report the first measurement of Born cross sections and effective form factors for e+e−→Σ−Σ¯+ at center-of-mass energies between 3.51 and 4.95 GeV. With a fit to the s-dependent dressed cross sections, the decay ψ(3770)→Σ−Σ¯+ is observed for the first time with a significance of 5.5σ, including systematic uncertainties. The corresponding branching fraction is determined to have two solutions, (2.9±0.3)×10−4 and (1.1±0.1)×10−4, where the quoted uncertainties also include systematic uncertainties. Upper limits at the 90% confidence level on the product of the branching fraction and the electronic partial width are provided for other possible charmonium(like) states. The ratios of Born cross sections for the Σ isospin-triplet states are determined and can be used to test the vector-meson-dominance model.</description>
-      <source url="https://doi.org/10.1103/m91q-kgbw">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/m91q-kgbw</guid>
-    </item><item>
-      <title>Low-energy radon backgrounds from electrode grids in dual-phase xenon TPCs</title>
-      <link>https://doi.org/10.1103/7tk3-33s9</link>
-      <description>The dual-phase xenon time projection chamber (TPC) is a powerful technology to detect rare interactions such as scatters of dark matter particles on nuclei. In particular, the built-in gain of ionization signals in a dual-phase TPC makes it sensitive to events in the few-electron regime, as expected from low-mass dark matter interactions. The pursuit of this low-energy sensitivity through ionization-only signal detection has so far been hindered by excessive electron backgrounds observed across experiments. Much of this background is attributed to the plate-out of Rn222 decay chain isotopes on the high-voltage electrode grid surfaces that span the full cross section of the TPC. This work presents a first-principles model constructed for this background, the predictions of which are consistent with data from the LZ and LUX experiments. We then discuss strategies to mitigate this background in future dual-phase TPCs and the possibility of applying this grid background model to ionization</description>
-      <source url="https://doi.org/10.1103/7tk3-33s9">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7tk3-33s9</guid>
-    </item><item>
       <title>Muon-induced di-tau production as a probe of new physics</title>
       <link>https://doi.org/10.1103/l3fr-9qlz</link>
       <description>The muon trident process, which involves coherent scattering to produce tau pairs, is a powerful tool for constraining dark sectors. We propose to explore this channel using future high-energy muon beams with the dedicated active-target detector, High-Energy Muon Electronic Research Apparatus (HEMERA). The detector would complement muon beam-dump searches by resolving prompt signatures and could operate from preparatory facilities involving an individual muon beam of the full muon collider. We illustrate its capabilities for a leptophilic scalar with Yukawa-like couplings that can mediate thermal dark matter production. With 1018 incident TeV-scale muons, even a compact 10 kg silicon-based HEMERA will extend current B-factory and (g−2)μ bounds by over an order of magnitude in coupling strength. In the leptophilic thermal dark matter paradigm, this search offers a way to probe dark sector targets beyond the neutrino floor of dark matter direct detection. This provides an additional comp</description>
@@ -92,6 +76,14 @@
       <source url="https://doi.org/10.1103/854z-dc2g">Physical Review D</source>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/854z-dc2g</guid>
+    </item><item>
+      <title>Measurement of Born cross sections for e+e−→Σ−Σ¯+ at s=3.51 – 4.95 GeV and observation of ψ(3770)→Σ−Σ¯+</title>
+      <link>https://doi.org/10.1103/m91q-kgbw</link>
+      <description>Using e+e− collision data corresponding to an integrated luminosity of 44 fb−1 collected with the BESIII detector at the BEPCII Collider, we report the first measurement of Born cross sections and effective form factors for e+e−→Σ−Σ¯+ at center-of-mass energies between 3.51 and 4.95 GeV. With a fit to the s-dependent dressed cross sections, the decay ψ(3770)→Σ−Σ¯+ is observed for the first time with a significance of 5.5σ, including systematic uncertainties. The corresponding branching fraction is determined to have two solutions, (2.9±0.3)×10−4 and (1.1±0.1)×10−4, where the quoted uncertainties also include systematic uncertainties. Upper limits at the 90% confidence level on the product of the branching fraction and the electronic partial width are provided for other possible charmonium(like) states. The ratios of Born cross sections for the Σ isospin-triplet states are determined and can be used to test the vector-meson-dominance model.</description>
+      <source url="https://doi.org/10.1103/m91q-kgbw">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/m91q-kgbw</guid>
     </item><item>
       <title>Thermal two-point functions in SYK and complex-time singularities</title>
       <link>https://doi.org/10.1007/JHEP10(2026)228</link>
@@ -115,13 +107,12 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/6rsq-mjzw</guid>
     </item><item>
-      <title>Dihadron Transverse-Spin Asymmetries in Muon-Deuteron Deep-Inelastic Scattering</title>
-      <link>https://doi.org/10.1103/cbmf-s76k</link>
-      <description>In 2022, the COMPASS collaboration performed semi-inclusive measurements of deep-inelastic muon-scattering on a transversely polarized deuteron (LiD6) target. From these data, transverse-spin-dependent dihadron asymmetries are extracted using pairs of oppositely charged hadrons. These asymmetries are directly sensitive to the quark transversity distributions and provide an independent handle on these fundamental quantities with respect to the Collins asymmetries measured in single-hadron production. The present results significantly improve upon the previous COMPASS deuteron measurements, which were the only available deuteron data worldwide, and reach a statistical precision comparable to that of the existing proton results from COMPASS. A small but nonzero asymmetry is observed at large Bjorken-x, consistent with theoretical expectations. A point-by-point extraction of the valence-quark transversity distributions yields, in particular, a substantially improved determination of the d-</description>
-      <source url="https://doi.org/10.1103/cbmf-s76k">Physical Review Letters</source>
-      <author>et al.</author>
+      <title>Liouville strings in AdS3: the worldsheet story</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)217</link>
+      <description>The worldsheet σ-model of strings on AdS with NS-NS fluxes can be equivalently described in terms of a Liouville field theory coupled to a timelike field with background charge, plus a marginal deformation. The operator that produces the deformation is non-normalizable and, from the string theory perspective, is associated to the spectral flow sector ω = −2. Its role is to control the winding number violation in scattering amplitudes. In the semiclassical (large k) limit, the central charge of the Liouville factor tends to that of the dual CFT , namely c ≃ 6k. This may appear very similar to what occurs in the Liouville-type description of the dual deformed orbifold CFT , where a twist-2 deformation operator dressed with a non-normalizable field also appears. Indeed, there are some similarities to that; however, there are also significant differences, which we discuss.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)217">Journal of High Energy Physics</source>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cbmf-s76k</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)217</guid>
     </item><item>
       <title>Publisher Correction: Calibration of the jet energy scale and resolution of small-radius jets using semileptonic tbart events with the ATLAS detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16348-x</link>
@@ -151,6 +142,14 @@
       <source url="https://doi.org/10.1103/7fjv-rz78">Physical Review D</source>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/7fjv-rz78</guid>
+    </item><item>
+      <title>First Simultaneous Analysis of Transverse Momentum Dependent and Collinear Parton Distributions in the Proton</title>
+      <link>https://doi.org/10.1103/m23z-bt9y</link>
+      <description>We present the first simultaneous global QCD analysis of unpolarized transverse momentum dependent (TMD) and collinear parton distribution functions (PDFs) in the proton. Our Letter incorporates data from deep-inelastic scattering, Drell-Yan, inclusive weak boson, W+ charm, and jet production involving PDFs, as well as TMD Drell-Yan and Z-boson production data from fixed target and collider experiments sensitive to both TMD and collinear distributions. The analysis is performed at next-to-next-to-leading logarithmic accuracy for QCD resummation in TMD observables and next-to-leading order for observables described in collinear factorization. The combined analysis improves knowledge of both TMD and collinear PDFs, particularly in the sea-quark sector, providing a consistent simultaneous description of the aforementioned observables.</description>
+      <source url="https://doi.org/10.1103/m23z-bt9y">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/m23z-bt9y</guid>
     </item>
   </channel>
 </rss>
