@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:25:06 +0000</lastBuildDate>
     <item>
+      <title>Physics of the QCD trace anomaly and renormalization in a reducible basis</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.141095</link>
+      <description>The QCD trace anomaly is a well-established textbook result in quantum field theory with several prominent features: (1) it arises from the quantum breaking of scale symmetry at ultraviolet (UV) scales, yet its full renormalized expression is independent of the particular UV regulator used, whether lattice or dimensional regularization; (2) although nominally of order αs, it is free of renormalization-scheme ambiguity; and (3) it is free of UV divergences and therefore scale independent. We show that renormalization in a reducible operator basis introduces additional convention dependence in its separation into quark and gluon parts, which do not share the properties of the whole anomaly itself. An irreducible decomposition instead keeps the trace anomaly as a single, convention-free component, and gives transparent physical meanings to anomaly-related nucleon physics, including the nucleon mass structure and internal forces.</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.141095">Physics Letters B</source>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141095</guid>
+    </item><item>
       <title>A gauge-theoretic formulation of Nambu non-equilibrium thermodynamics</title>
       <link>https://doi.org/10.1016/j.nuclphysb.2026.117698</link>
       <description>We present a gauge-theoretic formulation of Nambu non-equilibrium thermodynamics (NNET) within a common gauge-fixed worldline framework. In this formulation, the generalized thermodynamic force is described by an Abelian thermodynamic connection, and ordinary Onsager dynamics is recovered by fixing its temporal component through the dissipation function.</description>
@@ -63,6 +70,14 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)226</guid>
     </item><item>
+      <title>Low-energy radon backgrounds from electrode grids in dual-phase xenon TPCs</title>
+      <link>https://doi.org/10.1103/7tk3-33s9</link>
+      <description>The dual-phase xenon time projection chamber (TPC) is a powerful technology to detect rare interactions such as scatters of dark matter particles on nuclei. In particular, the built-in gain of ionization signals in a dual-phase TPC makes it sensitive to events in the few-electron regime, as expected from low-mass dark matter interactions. The pursuit of this low-energy sensitivity through ionization-only signal detection has so far been hindered by excessive electron backgrounds observed across experiments. Much of this background is attributed to the plate-out of Rn222 decay chain isotopes on the high-voltage electrode grid surfaces that span the full cross section of the TPC. This work presents a first-principles model constructed for this background, the predictions of which are consistent with data from the LZ and LUX experiments. We then discuss strategies to mitigate this background in future dual-phase TPCs and the possibility of applying this grid background model to ionization</description>
+      <source url="https://doi.org/10.1103/7tk3-33s9">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7tk3-33s9</guid>
+    </item><item>
       <title>Muon-induced di-tau production as a probe of new physics</title>
       <link>https://doi.org/10.1103/l3fr-9qlz</link>
       <description>The muon trident process, which involves coherent scattering to produce tau pairs, is a powerful tool for constraining dark sectors. We propose to explore this channel using future high-energy muon beams with the dedicated active-target detector, High-Energy Muon Electronic Research Apparatus (HEMERA). The detector would complement muon beam-dump searches by resolving prompt signatures and could operate from preparatory facilities involving an individual muon beam of the full muon collider. We illustrate its capabilities for a leptophilic scalar with Yukawa-like couplings that can mediate thermal dark matter production. With 1018 incident TeV-scale muons, even a compact 10 kg silicon-based HEMERA will extend current B-factory and (g−2)μ bounds by over an order of magnitude in coupling strength. In the leptophilic thermal dark matter paradigm, this search offers a way to probe dark sector targets beyond the neutrino floor of dark matter direct detection. This provides an additional comp</description>
@@ -100,6 +115,14 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)225</guid>
     </item><item>
+      <title>Dihadron Transverse-Spin Asymmetries in Muon-Deuteron Deep-Inelastic Scattering</title>
+      <link>https://doi.org/10.1103/cbmf-s76k</link>
+      <description>In 2022, the COMPASS collaboration performed semi-inclusive measurements of deep-inelastic muon-scattering on a transversely polarized deuteron (LiD6) target. From these data, transverse-spin-dependent dihadron asymmetries are extracted using pairs of oppositely charged hadrons. These asymmetries are directly sensitive to the quark transversity distributions and provide an independent handle on these fundamental quantities with respect to the Collins asymmetries measured in single-hadron production. The present results significantly improve upon the previous COMPASS deuteron measurements, which were the only available deuteron data worldwide, and reach a statistical precision comparable to that of the existing proton results from COMPASS. A small but nonzero asymmetry is observed at large Bjorken-x, consistent with theoretical expectations. A point-by-point extraction of the valence-quark transversity distributions yields, in particular, a substantially improved determination of the d-</description>
+      <source url="https://doi.org/10.1103/cbmf-s76k">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/cbmf-s76k</guid>
+    </item><item>
       <title>Dark Matter, Baryon Number, and Cosmic-Ray Antinuclei</title>
       <link>https://doi.org/10.1103/6rsq-mjzw</link>
       <description>Antideuterons and antihelium nuclei in the cosmic-ray spectrum have long been considered a smoking gun signature of dark matter annihilation, making the tentative observation of several such events by AMS highly intriguing. Conventional dark matter models, however, can produce only up to O(1) antideuteron events at AMS and are not capable of generating observable fluxes of antihelium. In this Letter, we propose a class of models in which dark matter annihilates into particles carrying baryon and lepton number, whose subsequent decays produce enhanced fluxes of antinucleons and antinuclei. Such scenarios are motivated by grand unified theories and can lead to an order-of-magnitude or larger enhancement in the resulting antideuteron and antihelium-3 fluxes, providing a means by which to potentially explain the events reported by the AMS Collaboration.</description>
@@ -107,12 +130,13 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/6rsq-mjzw</guid>
     </item><item>
-      <title>Liouville strings in AdS3: the worldsheet story</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)217</link>
-      <description>The worldsheet σ-model of strings on AdS with NS-NS fluxes can be equivalently described in terms of a Liouville field theory coupled to a timelike field with background charge, plus a marginal deformation. The operator that produces the deformation is non-normalizable and, from the string theory perspective, is associated to the spectral flow sector ω = −2. Its role is to control the winding number violation in scattering amplitudes. In the semiclassical (large k) limit, the central charge of the Liouville factor tends to that of the dual CFT , namely c ≃ 6k. This may appear very similar to what occurs in the Liouville-type description of the dual deformed orbifold CFT , where a twist-2 deformation operator dressed with a non-normalizable field also appears. Indeed, there are some similarities to that; however, there are also significant differences, which we discuss.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)217">Journal of High Energy Physics</source>
+      <title>Dihadron Transverse-Spin Asymmetries in Muon-Deuteron Deep-Inelastic Scattering</title>
+      <link>https://doi.org/10.1103/cbmf-s76k</link>
+      <description>In 2022, the COMPASS collaboration performed semi-inclusive measurements of deep-inelastic muon-scattering on a transversely polarized deuteron (LiD6) target. From these data, transverse-spin-dependent dihadron asymmetries are extracted using pairs of oppositely charged hadrons. These asymmetries are directly sensitive to the quark transversity distributions and provide an independent handle on these fundamental quantities with respect to the Collins asymmetries measured in single-hadron production. The present results significantly improve upon the previous COMPASS deuteron measurements, which were the only available deuteron data worldwide, and reach a statistical precision comparable to that of the existing proton results from COMPASS. A small but nonzero asymmetry is observed at large Bjorken-x, consistent with theoretical expectations. A point-by-point extraction of the valence-quark transversity distributions yields, in particular, a substantially improved determination of the d-</description>
+      <source url="https://doi.org/10.1103/cbmf-s76k">Physical Review Letters</source>
+      <author>et al.</author>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)217</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/cbmf-s76k</guid>
     </item><item>
       <title>Publisher Correction: Calibration of the jet energy scale and resolution of small-radius jets using semileptonic tbart events with the ATLAS detector</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16348-x</link>
@@ -128,28 +152,6 @@
       <source url="https://doi.org/10.1140/epjc/s10052-026-16214-w">European Physical Journal C</source>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16214-w</guid>
-    </item><item>
-      <title>Crowdsourcing gravitational waves from superradiant axions</title>
-      <link>https://doi.org/10.1103/ddc7-2pch</link>
-      <description>Black hole superradiance is a powerful probe of ultralight axions. If nature contains a boson with a mass of order 10−12 eV, mere vacuum fluctuations will lead to its efficient production around spinning stellar mass black holes, forming a gravitational atom that both drains the black hole spin and decays to produce near-monochromatic gravitational waves. Existing superradiance constraints derive primarily from spin measurements of a handful of identified black holes. Here we instead present a detailed study of the population level effect: gravitational waves arising from both the 100 million black holes in the Milky Way and the stochastic signal from axion clouds throughout the universe. We study the impact of a broad range of systematic uncertainties on the black hole properties and compute the projected axion sensitivity for LIGO, as well as the future instruments Einstein Telescope, Cosmic Explorer, and a high-frequency magnetic Weber bar. We demonstrate that LIGO can robustly prob</description>
-      <source url="https://doi.org/10.1103/ddc7-2pch">Physical Review D</source>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ddc7-2pch</guid>
-    </item><item>
-      <title>Lowest-radiation environments in the Solar System: New opportunities for underground rare-event searches</title>
-      <link>https://doi.org/10.1103/7fjv-rz78</link>
-      <description>We study neutrino, muon, and gamma-ray fluxes in extraterrestrial environments in our Solar System via semianalytical estimates and Monte Carlo simulations. In sites with negligible atmosphere, we find a strong reduction in the cosmic-ray-induced neutrino and muon fluxes relative to their intensities on Earth. Neutrinos with energies between 50 MeV and 100 TeV show particularly strong suppression, by as much as 103, even at shallow depths. The solar neutrino suppression increases as the square of the site’s distance from the Sun. Natural radiation due to nuclear decay is also expected to be lower in many of these locations and may be reduced to effectively negligible levels in liquid water environments. The sites satisfying these characteristics represent an opportunity for greatly extending the physics reach of underground searches in fundamental physics, such as searches for weakly interacting massive particle (WIMP) dark matter, neutrinoless double-beta decay, the diffuse supernova </description>
-      <source url="https://doi.org/10.1103/7fjv-rz78">Physical Review D</source>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7fjv-rz78</guid>
-    </item><item>
-      <title>First Simultaneous Analysis of Transverse Momentum Dependent and Collinear Parton Distributions in the Proton</title>
-      <link>https://doi.org/10.1103/m23z-bt9y</link>
-      <description>We present the first simultaneous global QCD analysis of unpolarized transverse momentum dependent (TMD) and collinear parton distribution functions (PDFs) in the proton. Our Letter incorporates data from deep-inelastic scattering, Drell-Yan, inclusive weak boson, W+ charm, and jet production involving PDFs, as well as TMD Drell-Yan and Z-boson production data from fixed target and collider experiments sensitive to both TMD and collinear distributions. The analysis is performed at next-to-next-to-leading logarithmic accuracy for QCD resummation in TMD observables and next-to-leading order for observables described in collinear factorization. The combined analysis improves knowledge of both TMD and collinear PDFs, particularly in the sea-quark sector, providing a consistent simultaneous description of the aforementioned observables.</description>
-      <source url="https://doi.org/10.1103/m23z-bt9y">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/m23z-bt9y</guid>
     </item>
   </channel>
 </rss>
