@@ -5,14 +5,52 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 16:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:40:20 +0000</lastBuildDate>
     <item>
-      <title>Physics of the QCD trace anomaly and renormalization in a reducible basis</title>
-      <link>https://doi.org/10.1016/j.physletb.2026.141095</link>
-      <description>The QCD trace anomaly is a well-established textbook result in quantum field theory with several prominent features: (1) it arises from the quantum breaking of scale symmetry at ultraviolet (UV) scales, yet its full renormalized expression is independent of the particular UV regulator used, whether lattice or dimensional regularization; (2) although nominally of order αs, it is free of renormalization-scheme ambiguity; and (3) it is free of UV divergences and therefore scale independent. We show that renormalization in a reducible operator basis introduces additional convention dependence in its separation into quark and gluon parts, which do not share the properties of the whole anomaly itself. An irreducible decomposition instead keeps the trace anomaly as a single, convention-free component, and gives transparent physical meanings to anomaly-related nucleon physics, including the nucleon mass structure and internal forces.</description>
-      <source url="https://doi.org/10.1016/j.physletb.2026.141095">Physics Letters B</source>
+      <title>Initial performance of the Radar Echo Telescope for Cosmic Rays: Pathfinder for a next-generation neutrino detector</title>
+      <link>https://doi.org/10.1103/c2x7-6gq7</link>
+      <description>The Radar Echo Telescope for Cosmic Rays, a pathfinder instrument for the radar echo method of ultrahigh energy neutrino detection, was initially deployed near Summit Station, Greenland, in May 2023. After a four-week commissioning period, nine days of data were taken before the instrument went offline. In this article, we describe the instrument as it was deployed, and the initial performance of the detector. We show that the technical aspects of running a radar-based particle cascade detector in the ice have been demonstrated. Analysis of the 2023 data informed improvements that were incorporated into the May–August 2024 deployment, which has just concluded at time of writing. Results from the 2024 run will be presented in forthcoming publications.</description>
+      <source url="https://doi.org/10.1103/c2x7-6gq7">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/c2x7-6gq7</guid>
+    </item><item>
+      <title>From target to projectile: CSS evolution of quark TMD in different light-cone gauges</title>
+      <link>https://doi.org/10.1103/yyj8-lx6w</link>
+      <description>We calculate the one-loop corrections to the quark transverse momentum dependent (TMD) in the projectile light-cone gauge using the background field formalism, with the Mandelstam-Leibbrandt (ML) prescription for the extra singularity present in the light-cone gauge propagator. We use the pure rapidity regulator for rapidity divergences. The Collins-Soper-Sterman (CSS) evolution equations are obtained after one-loop renormalization of the quark TMD in this gauge. We discuss how the structure of the rapidity divergences and the double-logarithmic contributions to the CSS resummation compares with the analogous calculation performed in the target light-cone gauge, and discuss the implications for the connection between the TMD factorization and color glass condensate frameworks.</description>
+      <source url="https://doi.org/10.1103/yyj8-lx6w">Physical Review D</source>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yyj8-lx6w</guid>
+    </item><item>
+      <title>Measurement of di-muons from 400 GeV/c protons interacting in a thick molybdenum/tungsten target</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16148-3</link>
+      <description>Di-muon events emanating from a replica of the SHiP target at the CERN SPS (with a 400 GeV/c proton beam) contain a clear signal of J hspace-1.66656pt/hspace-1.111ptpsi hspace1.111pt production. The target consisted of 13 interaction lengths of molybdenum and tungsten, followed by a 2.4m iron hadron absorber. The di-muon rate is in reasonable agreement with Monte Carlo simulation based on Pythia v8. However, the J hspace-1.66656pt/hspace-1.111ptpsi hspace1.111pt rate observed in the data is much lower than predicted by the Monte Carlo simulation, which is advantageous for SHiP since muons with a large p_textrmT are more difficult to deflect by the active muon shield.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16148-3">European Physical Journal C</source>
+      <author>et al.</author>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141095</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16148-3</guid>
+    </item><item>
+      <title>Search for proton decay via p→e+π0π0 and p→μ+π0π0 in 0.401 megaton-years exposure of Super-Kamiokande I-V</title>
+      <link>https://doi.org/10.1103/frxr-pk3t</link>
+      <description>We searched for proton decay via p→e+π0π0 and p→μ+π0π0 in 0.401 megaton-years of data collected in all pure water detector phases of Super-Kamiokande (SK) I-V. A theoretical study predicts proton decay rates without assuming a particular grand unified theory and suggests that three-body proton decays involving two pions can have decay rates comparable to those of p→e+π0 and p→μ+π0. This is the first search for proton decay into a charged antilepton and two neutral pions in SK. One data candidate event was found for each of the two decay modes, which is compatible with the expected atmospheric neutrino background. We set lower limits on the lifetime of τ/B(p→e+π0π0)&gt;7.2×1033 and τ/B(p→μ+π0π0)&gt;4.5×1033 year at 90% confidence level. These limits are more than one order of magnitude better than those of the previous experiment.</description>
+      <source url="https://doi.org/10.1103/frxr-pk3t">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/frxr-pk3t</guid>
+    </item><item>
+      <title>Aspects of Witten diagrams for holographic defects</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)240</link>
+      <description>In this paper, we study the conformal block decomposition of Witten diagrams for d-dimensional holographic CFTs in the presence of a p-dimensional conformal defect. The holographic dual in this case contains a probe AdS brane embedded inside AdS . In particular, we focus on contact, tree-level exchanges and some one-loop two-point Witten diagrams, which contribute to the two-point function of CFT bulk scalar operators. We also consider a tree-level exchange diagram for a three-point function involving one CFT bulk scalar operator and two scalar operators localized on the defect. Employing the split representation of AdS propagators, adapted to the probe brane setup, we perform the direct channel conformal block decompositions of these diagrams. In the case of tree-level diagrams, we obtain explicit expressions for the OPE coefficients in the direct channel decompositions. For two-point tree-level exchange diagrams, we derive recursion relations for the coefficients in the crossed-chann</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)240">Journal of High Energy Physics</source>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)240</guid>
+    </item><item>
+      <title>Crosscap defects</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)241</link>
+      <description>We introduce a novel class of defects, termed crosscap defects, in conformal field theory (CFT) in general dimensions. These arise from quotienting the spacetime by a ℤ automorphism, and provide higher-codimension generalisations of CFTs on real projective space (mathbbmRP^d) . Crosscap defects extend along a p-dimensional fixed locus of the ℤ action and preserve an SO(p + 1, 1) × PO(d – p) subgroup of the conformal group. The two-point functions of operators in this setup exhibit three operator product expansion channels: bulk, image, and defect. These lead to several crosscap crossing equations, which we present. We analyse conformal block decompositions and show that the blocks are identical to defect CFT blocks up to a redefinition of cross ratios. As concrete examples, we study crosscap defects in the O(N) model at the Gaussian and Wilson-Fisher fixed points in the ε-expansion. We compute explicitly the associated CFT data as a function of p and find that, unlike standard defects,</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)241">Journal of High Energy Physics</source>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)241</guid>
     </item><item>
       <title>A gauge-theoretic formulation of Nambu non-equilibrium thermodynamics</title>
       <link>https://doi.org/10.1016/j.nuclphysb.2026.117698</link>
@@ -35,19 +73,19 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)237</guid>
     </item><item>
-      <title>Thermal order in the biconical model</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)245</link>
-      <description>Thermal fluctuations are generally expected to destroy order and restore symmetries at sufficiently high temperatures. Recently, however, a family of scalar theories in 2 + 1 dimensions was shown to exhibit ℤ symmetry breaking that persists to arbitrarily high temperatures using a variety of approaches, including the ϵ-expansion, the FRG, and large-N techniques. Although the similarities among these theories suggest that they belong to the same universality class, this connection has not been established explicitly. In this work, we fill this gap. Using large-N methods, we analytically study the biconical vector model in a range of spacetime dimensions, including 2 + 1, at leading and next-to-leading order in the 1/N expansion. We determine the RG flow, fixed-point structure, and the CFT data of the infrared theory, reproducing and extending previous results and thereby unifying the apparently distinct constructions within a common analytic framework. We derive the effective potential,</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)245">Journal of High Energy Physics</source>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)245</guid>
-    </item><item>
       <title>Symmetries and operators in ToverlineT deformed CFTs</title>
       <link>https://doi.org/10.1007/JHEP10(2026)238</link>
       <description>ToverlineT-deformed CFTs are known to possess nonlocal Virasoro×Virasoro symmetries, whose currents depend on integration of the stress tensor. Unfortunately, these symmetries do not act in a tractable manner on the undeformed operators, which are defined by evolving local operators in the undeformed CFT on a constant-time slice using the deformed Hamiltonian. In this paper, we explicitly construct two distinct classes of operators: (i) dressed operators, which are primary with respect to the Virasoro×Virasoro symmetries, and (ii) physical operators, a new type of operator that depends on fundamental fields at specific points and is therefore local at the classical level. While dressed operators preserve the conformal symmetry structure, they are themselves nonlocal in the sense that they depend on integrated quantities. Physical operators, by contrast, depend only on local fields. Moreover, physical operators can be expressed in terms of dressed operators, and this relation can be pro</description>
       <source url="https://doi.org/10.1007/JHEP10(2026)238">Journal of High Energy Physics</source>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)238</guid>
+    </item><item>
+      <title>Thermal order in the biconical model</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)245</link>
+      <description>Thermal fluctuations are generally expected to destroy order and restore symmetries at sufficiently high temperatures. Recently, however, a family of scalar theories in 2 + 1 dimensions was shown to exhibit ℤ symmetry breaking that persists to arbitrarily high temperatures using a variety of approaches, including the ϵ-expansion, the FRG, and large-N techniques. Although the similarities among these theories suggest that they belong to the same universality class, this connection has not been established explicitly. In this work, we fill this gap. Using large-N methods, we analytically study the biconical vector model in a range of spacetime dimensions, including 2 + 1, at leading and next-to-leading order in the 1/N expansion. We determine the RG flow, fixed-point structure, and the CFT data of the infrared theory, reproducing and extending previous results and thereby unifying the apparently distinct constructions within a common analytic framework. We derive the effective potential,</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)245">Journal of High Energy Physics</source>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)245</guid>
     </item><item>
       <title>Energy-energy correlators at strong coupling</title>
       <link>https://doi.org/10.1007/JHEP10(2026)236</link>
@@ -56,19 +94,13 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)236</guid>
     </item><item>
-      <title>Probing the Sivers asymmetry with transverse energy-energy correlators in the small-x regime</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)227</link>
-      <description>We investigate transverse energy-energy correlators (TEECs) for both polarized and unpolarized targets in the small-x regime at the Electron-Ion Collider (EIC). Focusing on the approximately back-to-back electroproduction of a hadron-electron pair, we apply transverse-momentum-dependent (TMD) factorization formulas that incorporate TMD evolution for both event-shape observables and expand them in terms of the small-x dipole amplitude. This allows us to write the TEEC off the transversely polarized proton in terms of a C-odd interaction, corresponding to an odderon exchange. Due to the charge-conjugation-odd nature of the small-x quark Sivers function, we restrict the sum over final hadronic states to positively and negatively charged hadrons separately. We present numerical predictions for the TEEC Sivers asymmetry at the EIC and find the magnitude of the asymmetry to be on the 0.01% level. This channel offers a promising avenue for benchmarking the still largely unconstrained odderon </description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)227">Journal of High Energy Physics</source>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)227</guid>
-    </item><item>
-      <title>One-loop corrected holographic shear viscosity to entropy density ratio at low temperatures</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)226</link>
-      <description>Near-extremal black holes contain infrared-enhanced quantum fluctuations in their near-horizon near-AdS throat, governed in part by Schwarzian modes. We study the effect of these fluctuations on the zero-frequency stress-tensor response of a near-extremal asymptotically AdS Reissner-Nordström black brane whose transverse directions are regulated by a finite toroidal quotient. Working directly in four dimensions, we compute the leading correction in the weakly coupled Schwarzian regime T ≪ T ≪ r /L . At one loop, the shear perturbation couples to the n = 2 would-be zero mode and produces a correction proportional to T /T. Together with the logarithmic correction to the entropy, this yields a finite-volume correction to η/s. Our calculation provides a direct four-dimensional benchmark, complementary to exact two-dimensional treatments, while keeping the asymptotic AdS source explicit.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)226">Journal of High Energy Physics</source>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)226</guid>
+      <title>Measurement of Born cross sections for e+e−→Σ−Σ¯+ at s=3.51 – 4.95 GeV and observation of ψ(3770)→Σ−Σ¯+</title>
+      <link>https://doi.org/10.1103/m91q-kgbw</link>
+      <description>Using e+e− collision data corresponding to an integrated luminosity of 44 fb−1 collected with the BESIII detector at the BEPCII Collider, we report the first measurement of Born cross sections and effective form factors for e+e−→Σ−Σ¯+ at center-of-mass energies between 3.51 and 4.95 GeV. With a fit to the s-dependent dressed cross sections, the decay ψ(3770)→Σ−Σ¯+ is observed for the first time with a significance of 5.5σ, including systematic uncertainties. The corresponding branching fraction is determined to have two solutions, (2.9±0.3)×10−4 and (1.1±0.1)×10−4, where the quoted uncertainties also include systematic uncertainties. Upper limits at the 90% confidence level on the product of the branching fraction and the electronic partial width are provided for other possible charmonium(like) states. The ratios of Born cross sections for the Σ isospin-triplet states are determined and can be used to test the vector-meson-dominance model.</description>
+      <source url="https://doi.org/10.1103/m91q-kgbw">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/m91q-kgbw</guid>
     </item><item>
       <title>Low-energy radon backgrounds from electrode grids in dual-phase xenon TPCs</title>
       <link>https://doi.org/10.1103/7tk3-33s9</link>
@@ -92,14 +124,6 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/854z-dc2g</guid>
     </item><item>
-      <title>Measurement of Born cross sections for e+e−→Σ−Σ¯+ at s=3.51 – 4.95 GeV and observation of ψ(3770)→Σ−Σ¯+</title>
-      <link>https://doi.org/10.1103/m91q-kgbw</link>
-      <description>Using e+e− collision data corresponding to an integrated luminosity of 44 fb−1 collected with the BESIII detector at the BEPCII Collider, we report the first measurement of Born cross sections and effective form factors for e+e−→Σ−Σ¯+ at center-of-mass energies between 3.51 and 4.95 GeV. With a fit to the s-dependent dressed cross sections, the decay ψ(3770)→Σ−Σ¯+ is observed for the first time with a significance of 5.5σ, including systematic uncertainties. The corresponding branching fraction is determined to have two solutions, (2.9±0.3)×10−4 and (1.1±0.1)×10−4, where the quoted uncertainties also include systematic uncertainties. Upper limits at the 90% confidence level on the product of the branching fraction and the electronic partial width are provided for other possible charmonium(like) states. The ratios of Born cross sections for the Σ isospin-triplet states are determined and can be used to test the vector-meson-dominance model.</description>
-      <source url="https://doi.org/10.1103/m91q-kgbw">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/m91q-kgbw</guid>
-    </item><item>
       <title>Thermal two-point functions in SYK and complex-time singularities</title>
       <link>https://doi.org/10.1007/JHEP10(2026)228</link>
       <description>We analyze the finite-temperature two-point function of the large-N SYK model at intermediate couplings away from the infrared fixed point. Specifically, we examine its analytic structure in the complex time plane, tracking the complex-time singularities over a range of temperatures. The location of the leading singularity lies on the imaginary axis. It controls the short-time dynamics of operator complexity, defining an ‘effective temperature’ for the correlator. The next-to-leading singularity lies outside the thermal strip set by the above effective temperature. It has been argued that this could be interpreted in terms of bouncing null geodesics in the emergent black hole geometry. Both these singularities persist all the way down to zero temperature. We discuss our observations and motivate the related emergent geometry using a kinematic space perspective.</description>
@@ -115,14 +139,6 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)225</guid>
     </item><item>
-      <title>Dihadron Transverse-Spin Asymmetries in Muon-Deuteron Deep-Inelastic Scattering</title>
-      <link>https://doi.org/10.1103/cbmf-s76k</link>
-      <description>In 2022, the COMPASS collaboration performed semi-inclusive measurements of deep-inelastic muon-scattering on a transversely polarized deuteron (LiD6) target. From these data, transverse-spin-dependent dihadron asymmetries are extracted using pairs of oppositely charged hadrons. These asymmetries are directly sensitive to the quark transversity distributions and provide an independent handle on these fundamental quantities with respect to the Collins asymmetries measured in single-hadron production. The present results significantly improve upon the previous COMPASS deuteron measurements, which were the only available deuteron data worldwide, and reach a statistical precision comparable to that of the existing proton results from COMPASS. A small but nonzero asymmetry is observed at large Bjorken-x, consistent with theoretical expectations. A point-by-point extraction of the valence-quark transversity distributions yields, in particular, a substantially improved determination of the d-</description>
-      <source url="https://doi.org/10.1103/cbmf-s76k">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cbmf-s76k</guid>
-    </item><item>
       <title>Dark Matter, Baryon Number, and Cosmic-Ray Antinuclei</title>
       <link>https://doi.org/10.1103/6rsq-mjzw</link>
       <description>Antideuterons and antihelium nuclei in the cosmic-ray spectrum have long been considered a smoking gun signature of dark matter annihilation, making the tentative observation of several such events by AMS highly intriguing. Conventional dark matter models, however, can produce only up to O(1) antideuteron events at AMS and are not capable of generating observable fluxes of antihelium. In this Letter, we propose a class of models in which dark matter annihilates into particles carrying baryon and lepton number, whose subsequent decays produce enhanced fluxes of antinucleons and antinuclei. Such scenarios are motivated by grand unified theories and can lead to an order-of-magnitude or larger enhancement in the resulting antideuteron and antihelium-3 fluxes, providing a means by which to potentially explain the events reported by the AMS Collaboration.</description>
@@ -137,21 +153,6 @@
       <author>et al.</author>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/cbmf-s76k</guid>
-    </item><item>
-      <title>Publisher Correction: Calibration of the jet energy scale and resolution of small-radius jets using semileptonic tbart events with the ATLAS detector</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16348-x</link>
-      <description />
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16348-x">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16348-x</guid>
-    </item><item>
-      <title>Stochastic analysis of finite-temperature effects on cosmological parameters by artificial neural networks</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16214-w</link>
-      <description>We explore the impact of finite-temperature quantum gravity effects on cosmological parameters, particularly the effective vacuum-energy sector, by incorporating temperature-dependent quantum corrections into the Hubble parameter. To this end, we modify the Cosmic Linear Anisotropy Solving System and introduce new density parameters, Omega _Lambda ₂ and Omega _Lambda ₃ , arising from finite-temperature quantum gravity contributions. These parameters encode off-shell vacuum-bubble contributions from Standard Model fields—including heavy fields that cannot be treated as on-shell radiation—and may equivalently be viewed as quantum corrections to the effective equation of state of the early-Universe plasma. We analyze their influence on the cosmic microwave background power spectrum using machine learning techniques, including artificial neural networks and stochastic optimization. Our results reveal that Omega _Lambda ₂ assumes a negative value, consistent with dimensional regularization </description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16214-w">European Physical Journal C</source>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16214-w</guid>
     </item>
   </channel>
 </rss>
