@@ -5,21 +5,14 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:32:55 +0000</lastBuildDate>
     <item>
-      <title>Beyond the Dilute Instanton Gas: Resurgence with Exact Saddles in the Double Well</title>
-      <link>https://doi.org/10.1103/hg9t-ypvf</link>
-      <description>The path-integral approach to the double well has long been limited by the dilute instanton gas approximation. We show that if the finite Euclidean-time structure is taken seriously by using exact saddles, the dilute gas can be sidestepped, allowing the partition function and energy levels to be computed systematically. At each instanton order, the full resurgent structure—which saddles contribute, what asymptotic growth is expected, and how ambiguities cancel—is encoded in a finite-dimensional Picard-Lefschetz contour integral over the quasizero modes with a clear geometric interpretation. Working at finite T is essential: the dilute instanton gas can only access the ground-state splitting, whereas the exact finite-T computation systematically produces the nonperturbative energy splittings for all excited states, including their full dependence on the level number. The key ingredients—Weierstrass elliptic functions for the saddles, Lamé operators for the fluctuations, and Picard-Fuchs</description>
-      <source url="https://doi.org/10.1103/hg9t-ypvf">Physical Review Letters</source>
+      <title>Pion valence structure at intermediate x in the residual-field approach</title>
+      <link>https://doi.org/10.1103/tsgs-hj99</link>
+      <description>We calculate the valence parton distribution function (PDF) of pion within the theoretical approach based on spectral function representation of valence quarks in the pion. In this approach we assume that the soft partonic structure of pion is defined by the valence qq¯ cluster, consisting of current quarks, embedded in the residual field of the pion. The valence PDF is calculated using phenomenological light-front wave functions for the qq¯ cluster and the residual field. Our result indicates that the peak position of the x weighted valence PDF (xPDF) depends on parameters characterizing the virtuality of the valence quark cluster and the mass of the residual system. Magnitudes of these parameters are obtained by fitting to the height and the peak position of empirical pion xPDF evaluated at starting Q0. They indicate that unlike the nucleon case, very little residual mass is needed to describe existing pion PDFs at intermediate x. They also indicate that the qq¯ cluster is highly vir</description>
+      <source url="https://doi.org/10.1103/tsgs-hj99">Physical Review C</source>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hg9t-ypvf</guid>
-    </item><item>
-      <title>Beyond the Dilute Instanton Gas: Resurgence with Exact Saddles in the Double Well</title>
-      <link>https://doi.org/10.1103/hg9t-ypvf</link>
-      <description>The path-integral approach to the double well has long been limited by the dilute instanton gas approximation. We show that if the finite Euclidean-time structure is taken seriously by using exact saddles, the dilute gas can be sidestepped, allowing the partition function and energy levels to be computed systematically. At each instanton order, the full resurgent structure—which saddles contribute, what asymptotic growth is expected, and how ambiguities cancel—is encoded in a finite-dimensional Picard-Lefschetz contour integral over the quasizero modes with a clear geometric interpretation. Working at finite T is essential: the dilute instanton gas can only access the ground-state splitting, whereas the exact finite-T computation systematically produces the nonperturbative energy splittings for all excited states, including their full dependence on the level number. The key ingredients—Weierstrass elliptic functions for the saddles, Lamé operators for the fluctuations, and Picard-Fuchs</description>
-      <source url="https://doi.org/10.1103/hg9t-ypvf">Physical Review Letters</source>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hg9t-ypvf</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/tsgs-hj99</guid>
     </item><item>
       <title>Melting LHC detectors: A novel search for stopped long-lived particles</title>
       <link>https://doi.org/10.1103/1x1q-mncc</link>
@@ -35,6 +28,13 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/4y46-ldjv</guid>
     </item><item>
+      <title>Causally connected regions in relativistic heavy ion collisions</title>
+      <link>https://doi.org/10.1103/9gxh-spl6</link>
+      <description>Quantifying causal connections within fireballs resulting from high energy nucleus-nucleus collisions is pertinent to assessing the viability of several proposed mechanisms that directly influence particle production and correlations. Fireball causal connections have previously been studied in the context of 1+1 dimensional Bjorken flow. We expand into 3+1 dimensions using Gubser flow, which includes transverse expansion. Our findings suggest that the volume of these causally connected fireballs are on the order of 10–100 fm3 for observables dependent on the formation of the light quark condensates, but could be larger for other observables.</description>
+      <source url="https://doi.org/10.1103/9gxh-spl6">Physical Review C</source>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9gxh-spl6</guid>
+    </item><item>
       <title>End-to-end data analysis methods for the CUORE experiment</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16350-3</link>
       <description>The Cryogenic Underground Observatory for Rare Events (CUORE) experiment set the most stringent limit on the neutrinoless double-beta ( 0ν β β ) decay half-life of ^130 Te with 2 t ,cdot , yr TeO ₂ analyzed exposure. In addition to 0ν β β decay, the CUORE detector—a ton-scale array of nearly 1000 cryogenic calorimeters operating at sim 10 mK—is capable of searching for other rare decays and interactions over a broad energy range. For our searches, we leverage the available information of each calorimeter by performing its optimization, data acquisition, and analysis independently. We describe the analysis tools and methods developed for CUORE and their application to build high-quality datasets for numerous physics searches. In particular, we describe in detail our evaluation of the energy-dependent detector response and signal efficiency used in the most recent search for 0ν β β decay.</description>
@@ -43,21 +43,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16350-3</guid>
     </item><item>
-      <title>Axionlike particle search with a hybrid Cherenkov-scintillation detector</title>
-      <link>https://doi.org/10.1103/ztsv-s7ts</link>
-      <description>This analysis presents the first proof-of-concept search for axionlike particles using a hybrid Cherenkov-scintillation detector at a beam-dump facility. The work is based on the Coherent CAPTAIN-Mills (CCM) experiment, a 10-ton liquid argon light collection detector located at Los Alamos National Laboratory. The CCM200 detector is instrumented with 200 photomultiplier tubes, providing approximately 50% photocathode coverage. To enable optical discrimination, 80% of the photomultiplier tubes are coated with a wavelength-shifting material while the remaining 20% are left uncoated. This configuration, combined with nanosecond-scale timing resolution, provides sensitivity to prompt Cherenkov radiation while maintaining efficient detection of liquid argon scintillation light [Phys. Rev. Lett. 135, 171804 (2025); [Phys. Rev. D 112, 072010 (2025)]. This analysis constructs four observables that exploit the Cherenkov emission and event topology expected from axionlike-particle-induced electro</description>
-      <source url="https://doi.org/10.1103/ztsv-s7ts">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ztsv-s7ts</guid>
-    </item><item>
-      <title>Λb→Λ form factors from light-cone sum rules with Λ-baryon distribution amplitudes</title>
-      <link>https://doi.org/10.1103/4y46-ldjv</link>
-      <description>We compute the Λb→Λ transition form factors using light-cone sum rules based on Λ-baryon distribution amplitudes, including contributions up to twist 6. The analysis is performed for pseudoscalar, vector, and axial-vector b→s currents and for different choices of the Λb interpolating current. A central aspect of the study is the explicit inclusion of the negative-parity Λb* state in the hadronic dispersion relation. Suitable linear combinations of invariant amplitudes are constructed to eliminate the Λb* pole contribution at the level of the sum rules. All three interpolating currents lead to numerically stable sum rules in the adopted working windows. The pseudoscalar current gives the closest agreement with the expected equation of motion and heavy quark symmetry relations at the level of the central values, while the present leading-order uncertainties do not allow a definitive discrimination among the three currents. The resulting helicity form factors are parametrized using a z ex</description>
-      <source url="https://doi.org/10.1103/4y46-ldjv">Physical Review D</source>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4y46-ldjv</guid>
-    </item><item>
       <title>New energy-loss constraints on dark sectors from deeply inelastic scattering with initial state radiation</title>
       <link>https://doi.org/10.1103/rjgy-fcr8</link>
       <description>We employ the joint QED and QCD factorization of deeply inelastic, electron-proton scattering with generic initial state radiation to probe the possibility of exotic particle emission—i.e., of weakly coupled particles originating from a dark or hidden sector—through anomalous energy loss. We leverage this possibility through the consideration of phase-space-limited kinematic regions, for which the emission of an additional, undetected particle can particularly impact the associated cross section. In this first paper, as a proof of principle, we focus on radiation from the incoming electron, considering the modification of the lepton distribution function from the emission of particles, that could have spin of up to 2 and various, well-motivated electron couplings. We illustrate the sensitivity of our approach through the computation of the modified cross sections for the emission of MeV-GeV mass-scale, spin 0 particles in kinematics chosen for their sensitivity to initial state electro</description>
@@ -65,20 +50,20 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rjgy-fcr8</guid>
     </item><item>
-      <title>Axionlike particle search with a hybrid Cherenkov-scintillation detector</title>
-      <link>https://doi.org/10.1103/ztsv-s7ts</link>
-      <description>This analysis presents the first proof-of-concept search for axionlike particles using a hybrid Cherenkov-scintillation detector at a beam-dump facility. The work is based on the Coherent CAPTAIN-Mills (CCM) experiment, a 10-ton liquid argon light collection detector located at Los Alamos National Laboratory. The CCM200 detector is instrumented with 200 photomultiplier tubes, providing approximately 50% photocathode coverage. To enable optical discrimination, 80% of the photomultiplier tubes are coated with a wavelength-shifting material while the remaining 20% are left uncoated. This configuration, combined with nanosecond-scale timing resolution, provides sensitivity to prompt Cherenkov radiation while maintaining efficient detection of liquid argon scintillation light [Phys. Rev. Lett. 135, 171804 (2025); [Phys. Rev. D 112, 072010 (2025)]. This analysis constructs four observables that exploit the Cherenkov emission and event topology expected from axionlike-particle-induced electro</description>
-      <source url="https://doi.org/10.1103/ztsv-s7ts">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ztsv-s7ts</guid>
-    </item><item>
       <title>From target to projectile: CSS evolution of quark TMD in different light-cone gauges</title>
       <link>https://doi.org/10.1103/yyj8-lx6w</link>
       <description>We calculate the one-loop corrections to the quark transverse momentum dependent (TMD) in the projectile light-cone gauge using the background field formalism, with the Mandelstam-Leibbrandt (ML) prescription for the extra singularity present in the light-cone gauge propagator. We use the pure rapidity regulator for rapidity divergences. The Collins-Soper-Sterman (CSS) evolution equations are obtained after one-loop renormalization of the quark TMD in this gauge. We discuss how the structure of the rapidity divergences and the double-logarithmic contributions to the CSS resummation compares with the analogous calculation performed in the target light-cone gauge, and discuss the implications for the connection between the TMD factorization and color glass condensate frameworks.</description>
       <source url="https://doi.org/10.1103/yyj8-lx6w">Physical Review D</source>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/yyj8-lx6w</guid>
+    </item><item>
+      <title>Initial performance of the Radar Echo Telescope for Cosmic Rays: Pathfinder for a next-generation neutrino detector</title>
+      <link>https://doi.org/10.1103/c2x7-6gq7</link>
+      <description>The Radar Echo Telescope for Cosmic Rays, a pathfinder instrument for the radar echo method of ultrahigh energy neutrino detection, was initially deployed near Summit Station, Greenland, in May 2023. After a four-week commissioning period, nine days of data were taken before the instrument went offline. In this article, we describe the instrument as it was deployed, and the initial performance of the detector. We show that the technical aspects of running a radar-based particle cascade detector in the ice have been demonstrated. Analysis of the 2023 data informed improvements that were incorporated into the May–August 2024 deployment, which has just concluded at time of writing. Results from the 2024 run will be presented in forthcoming publications.</description>
+      <source url="https://doi.org/10.1103/c2x7-6gq7">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/c2x7-6gq7</guid>
     </item><item>
       <title>Towering gravitons in AdS3/CFT2</title>
       <link>https://doi.org/10.1007/JHEP10(2026)253</link>
@@ -102,6 +87,13 @@
       <author>et al.</author>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/frxr-pk3t</guid>
+    </item><item>
+      <title>Aspects of Witten diagrams for holographic defects</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)240</link>
+      <description>In this paper, we study the conformal block decomposition of Witten diagrams for d-dimensional holographic CFTs in the presence of a p-dimensional conformal defect. The holographic dual in this case contains a probe AdS brane embedded inside AdS . In particular, we focus on contact, tree-level exchanges and some one-loop two-point Witten diagrams, which contribute to the two-point function of CFT bulk scalar operators. We also consider a tree-level exchange diagram for a three-point function involving one CFT bulk scalar operator and two scalar operators localized on the defect. Employing the split representation of AdS propagators, adapted to the probe brane setup, we perform the direct channel conformal block decompositions of these diagrams. In the case of tree-level diagrams, we obtain explicit expressions for the OPE coefficients in the direct channel decompositions. For two-point tree-level exchange diagrams, we derive recursion relations for the coefficients in the crossed-chann</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)240">Journal of High Energy Physics</source>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)240</guid>
     </item><item>
       <title>A gauge-theoretic formulation of Nambu non-equilibrium thermodynamics</title>
       <link>https://doi.org/10.1016/j.nuclphysb.2026.117698</link>
@@ -138,13 +130,12 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)245</guid>
     </item><item>
-      <title>Measurement of Born cross sections for e+e−→Σ−Σ¯+ at s=3.51 – 4.95 GeV and observation of ψ(3770)→Σ−Σ¯+</title>
-      <link>https://doi.org/10.1103/m91q-kgbw</link>
-      <description>Using e+e− collision data corresponding to an integrated luminosity of 44 fb−1 collected with the BESIII detector at the BEPCII Collider, we report the first measurement of Born cross sections and effective form factors for e+e−→Σ−Σ¯+ at center-of-mass energies between 3.51 and 4.95 GeV. With a fit to the s-dependent dressed cross sections, the decay ψ(3770)→Σ−Σ¯+ is observed for the first time with a significance of 5.5σ, including systematic uncertainties. The corresponding branching fraction is determined to have two solutions, (2.9±0.3)×10−4 and (1.1±0.1)×10−4, where the quoted uncertainties also include systematic uncertainties. Upper limits at the 90% confidence level on the product of the branching fraction and the electronic partial width are provided for other possible charmonium(like) states. The ratios of Born cross sections for the Σ isospin-triplet states are determined and can be used to test the vector-meson-dominance model.</description>
-      <source url="https://doi.org/10.1103/m91q-kgbw">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/m91q-kgbw</guid>
+      <title>Energy-energy correlators at strong coupling</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)236</link>
+      <description>We study energy-energy correlators (EEC) in planar mathcalN = 4 super Yang-Mills theory at strong ’t Hooft coupling λ. We consider the EEC in states created by half-BPS operators of arbitrary dimension p, and determine the corresponding event-shape function up to order λ from the worldsheet representation of the AdS Virasoro-Shapiro amplitude with Kaluza-Klein external states. For p = 2 we compute the second curvature correction, which completes the EEC through order λ ; the new contribution improves the agreement with recently derived non-perturbative bounds at intermediate coupling. We further develop a complementary method in which the strong-coupling expansion coefficients of the EEC are extracted directly from the Wilson coefficients of low-energy expansion of the AdS Virasoro-Shapiro amplitude, and find the two approaches in perfect agreement.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)236">Journal of High Energy Physics</source>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)236</guid>
     </item><item>
       <title>Low-energy radon backgrounds from electrode grids in dual-phase xenon TPCs</title>
       <link>https://doi.org/10.1103/7tk3-33s9</link>
@@ -153,6 +144,13 @@
       <author>et al.</author>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/7tk3-33s9</guid>
+    </item><item>
+      <title>Muon-induced di-tau production as a probe of new physics</title>
+      <link>https://doi.org/10.1103/l3fr-9qlz</link>
+      <description>The muon trident process, which involves coherent scattering to produce tau pairs, is a powerful tool for constraining dark sectors. We propose to explore this channel using future high-energy muon beams with the dedicated active-target detector, High-Energy Muon Electronic Research Apparatus (HEMERA). The detector would complement muon beam-dump searches by resolving prompt signatures and could operate from preparatory facilities involving an individual muon beam of the full muon collider. We illustrate its capabilities for a leptophilic scalar with Yukawa-like couplings that can mediate thermal dark matter production. With 1018 incident TeV-scale muons, even a compact 10 kg silicon-based HEMERA will extend current B-factory and (g−2)μ bounds by over an order of magnitude in coupling strength. In the leptophilic thermal dark matter paradigm, this search offers a way to probe dark sector targets beyond the neutrino floor of dark matter direct detection. This provides an additional comp</description>
+      <source url="https://doi.org/10.1103/l3fr-9qlz">Physical Review D</source>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/l3fr-9qlz</guid>
     </item>
   </channel>
 </rss>
