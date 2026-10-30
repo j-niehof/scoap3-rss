@@ -5,14 +5,87 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:32:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:28:00 +0000</lastBuildDate>
     <item>
+      <title>Prominence as a discriminator of gravitational wave signals</title>
+      <link>https://doi.org/10.1103/65nr-g2f9</link>
+      <description>The concept of prominence is familiar to signal engineers, topographers and mountaineers. We introduce Prominence P as a discriminator of gravitational wave (GW) signals. We treat black hole and neutron star binaries as astrophysical background sources, and show how P can be used to distinguish between GW spectra produced by first-order phase transitions, domain walls and cosmic strings, and combinations thereof. Prominence can also be used to discriminate between these and off-piste sources of GWs. The uncertainty in the measured energy density in GWs at pulsar timing arrays needs to be at the subpercent to percent level for P to achieve discrimination at 3σ. LISA and ET data are expected to have sufficiently small uncertainties that Prominence can play a central role in their analysis. We define and apply a χ2 statistic based on an inner product in signal space to show that sources indistinguishable at 2σ using the signal-to-noise ratio can be distinguished using P with significances</description>
+      <source url="https://doi.org/10.1103/65nr-g2f9">Physical Review D</source>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/65nr-g2f9</guid>
+    </item><item>
+      <title>Calabi-Yau orientifold hypersurfaces and their F-theory uplifts</title>
+      <link>https://doi.org/10.1007/JHEP10(2026)274</link>
+      <description>We present an algorithm that constructs Calabi-Yau threefold orientifolds and their F-theory uplifts to elliptically-fibered Calabi-Yau fourfolds, embedded in toric varieties at codimension one and two respectively. The resulting Calabi-Yau fourfolds arise from triangulations of 6d reflexive polytopes — which our method constructs from orientifold data — and are smooth away from isolated terminal singularities. For many of our fourfolds, the construction of the mirror manifold is immediate, enabling the computation of fourfold periods, and thus the seven-brane superpotential. We present multiple examples that demonstrate these capabilities. Our algorithms work with CYTools and are available through a GitHub repository https://github.com/B-Hassfeld/Calabi-Yau-orientifolds-and-F-Theory-uplifts.</description>
+      <source url="https://doi.org/10.1007/JHEP10(2026)274">Journal of High Energy Physics</source>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)274</guid>
+    </item><item>
+      <title>Track fitting at the full LHC collision rate</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16478-2</link>
+      <description>The LHCb experiment at the Large Hadron Collider underwent a major upgrade before the LHC Run 3 data-taking period, employing an all-software approach in its trigger system. Here we present a fast implementation of a Kalman filter, used in the first trigger stage since the 2025 data-taking period, allowing to determine parameter estimates of charged-particle trajectories at the full LHCb collision frequency of 30 MHz. This approach replaces computationally expensive magnetic field map lookups and numerical integration methods with fast analytical parameterisations while maintaining the mathematical framework of Kalman filtering. Implemented on approximately 500 GPUs within the first-level trigger, the algorithm has replaced the previous partial track fitting algorithm in the real-time trigger environment at the cost of a 2% increase in processing time. Compared to the previous fitter, this parameterised Kalman filter shows a significantly improved momentum resolution, resulting in a fa</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16478-2">European Physical Journal C</source>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16478-2</guid>
+    </item><item>
+      <title>Measurement of Born cross sections for e+e−→K+Ξ0Σ¯− at s=3.51–4.95 GeV and observation of ψ(3770)→K+Ξ0Σ¯−</title>
+      <link>https://doi.org/10.1103/4fgk-jg61</link>
+      <description>Using 44.55 fb−1 of e+e− collision data collected by the BESIII detector at the BEPCII collider, we report the first measurement of the Born cross sections for the e+e−→K+Ξ0Σ¯− reaction at 56 center-of-mass energies between 3.51 and 4.95 GeV. A fit to the dressed cross sections reveals the first observation of the ψ(3770)→K+Ξ0Σ¯− process, with a statistical significance of 6.0σ including systematic uncertainties. This result represents the first observation of charmless three-body baryonic decay of a vector charmonium state above the open-charm threshold, providing important experimental input for studying the origin of the large non-DD¯ component of the ψ(3770) decay width. No significant signals for other charmonium(like) states i.e., ψ(4040), ψ(4160), Y(4230), Y(4360), ψ(4415), Y(4500), Y(4660) or Y(4710) are observed, and the upper limits for the product of the branching fraction and the electronic partial width at the 90% confidence level for each assumed charmonium(like) state ar</description>
+      <source url="https://doi.org/10.1103/4fgk-jg61">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4fgk-jg61</guid>
+    </item><item>
+      <title>First search for sterile neutrino oscillation leading to νμ disappearance in the Booster Neutrino Beam at ICARUS</title>
+      <link>https://doi.org/10.1103/2vms-z2j8</link>
+      <description>We present a search for muon neutrino disappearance in the Booster Neutrino Beam (BNB) at Fermilab using the ICARUS detector. Neutrino interactions identified as muon neutrinos interacting with argon nuclei via the charged current interaction and having only a muon and at least one proton in the final state (1μNp) have been selected from data collected in 2022–2023 (ICARUS Run 2) and compared with a simulation-based expectation. In the context of a fit to a two-neutrino approximation of the sterile 3+1 model, including the impact of systematic uncertainty from the flux, neutrino interaction, and detector models, we find no statistically significant muon neutrino disappearance at the ICARUS baseline of 600 meters from the BNB target. Corresponding 90% CL exclusion contours in the Δm412−sin22θμμ space are presented. This is the first oscillation analysis produced by ICARUS exposed to the BNB. We note that the analysis is systematics limited due to large unconstrained uncertainties from t</description>
+      <source url="https://doi.org/10.1103/2vms-z2j8">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2vms-z2j8</guid>
+    </item><item>
+      <title>Continuum limit of a qubit-regularized SU(3) lattice gauge theory on a plaquette chain</title>
+      <link>https://doi.org/10.1103/xtsm-rw6d</link>
+      <description>We show that a simple qubit-regularized SU(3) lattice gauge theory on a plaquette chain admits a continuum limit with massive gauge-invariant excitations, providing a minimal toy model of strong interactions without quarks. By mapping the plaquette-chain Hamiltonian to the three-state quantum clock model in a magnetic field, we demonstrate that the theory can be tuned to a continuum limit governed at short distances by the Z3 parafermion conformal field theory, which serves as the UV fixed point. A small relevant magnetic perturbation then drives the system to a massive continuum quantum field theory in the IR, featuring relativistic particles. In this continuum theory, we compute two universal ratios: the mass ratio of the lightest massive particles with opposite charge conjugation, m−/m+=1.459(2), and σ/m+=0.2648(2), where σ denotes the string tension between a static quark and antiquark.</description>
+      <source url="https://doi.org/10.1103/xtsm-rw6d">Physical Review D</source>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xtsm-rw6d</guid>
+    </item><item>
+      <title>Search for the charged lepton flavor violating decay η→e±μ∓</title>
+      <link>https://doi.org/10.1103/h7bx-zj4b</link>
+      <description>Based on (10.087±0.044)×109J/ψ events collected at the center-of-mass energy s=3.097 GeV with the BESIII detector, we search for the charged lepton flavor violating decay η→e±μ∓ through the process J/ψ→γη′ with η′→π+π−η. No signal is observed, and an upper limit on the branching fraction is determined to be B(η→e±μ∓)6.8×10−7 at the 90% confidence level. This result improves the previous best limit by one order of magnitude.</description>
+      <source url="https://doi.org/10.1103/h7bx-zj4b">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/h7bx-zj4b</guid>
+    </item><item>
+      <title>Anomalies in hadronic B→VV decays</title>
+      <link>https://doi.org/10.1103/sj66-kh1t</link>
+      <description>Recently, a fit of charmless B→PP decays (B∈B0,B+,Bs0, P∈π,K,η,η′) to the latest data was performed under the assumption of flavor SU(3) symmetry [SU(3)F]. It was found that there is a 4.1σ disagreement with the SU(3)F limit of the Standard Model [SMSU(3)F]. In this paper, we extend this analysis to charmless B→VV decays (V∈ρ,K*,ϕ,ω). The fit examining B→ρK* decays, assuming only isospin symmetry, is found to be acceptable. When we fit to B→VV decays with V∈ρ,K* within SU(3)F, we find a 5.2σ discrepancy with SMSU(3)F. Finally, when B→VV decays with V∈ρ,K*,ϕ,ω are considered, the discrepancy grows to &gt;7σ. The theoretical input in this analysis is modest, so our results are quite rigorous, group theoretically, and hold almost exactly in the SU(3)F limit. Although it seems unlikely that the introduction of ∼30% SU(3)F-breaking effects can account for this discrepancy, this must be verified.</description>
+      <source url="https://doi.org/10.1103/sj66-kh1t">Physical Review D</source>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/sj66-kh1t</guid>
+    </item><item>
+      <title>Lepton flavor violating Higgs boson decays at the Compact Linear Collider</title>
+      <link>https://doi.org/10.1103/ym6v-19b2</link>
+      <description>Lepton flavor violating decays of the Higgs boson h could appear in scenarios beyond the Standard Model of particle physics. In this article, we study the sensitivity of a future Compact Linear Collider, operating in e+e− collisions, to such processes, namely, h→eμ, h→τμ, and h→eτ. In the absence of any observation, 95% CL upper limits in the region of 10−4 to 10−5 could be placed on the branching fractions of these processes, assuming integrated luminosities of 4 ab−1 at s=1.4 TeV and 5 ab−1 at s=3 TeV.</description>
+      <source url="https://doi.org/10.1103/ym6v-19b2">Physical Review D</source>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ym6v-19b2</guid>
+    </item><item>
       <title>Pion valence structure at intermediate x in the residual-field approach</title>
       <link>https://doi.org/10.1103/tsgs-hj99</link>
       <description>We calculate the valence parton distribution function (PDF) of pion within the theoretical approach based on spectral function representation of valence quarks in the pion. In this approach we assume that the soft partonic structure of pion is defined by the valence qq¯ cluster, consisting of current quarks, embedded in the residual field of the pion. The valence PDF is calculated using phenomenological light-front wave functions for the qq¯ cluster and the residual field. Our result indicates that the peak position of the x weighted valence PDF (xPDF) depends on parameters characterizing the virtuality of the valence quark cluster and the mass of the residual system. Magnitudes of these parameters are obtained by fitting to the height and the peak position of empirical pion xPDF evaluated at starting Q0. They indicate that unlike the nucleon case, very little residual mass is needed to describe existing pion PDFs at intermediate x. They also indicate that the qq¯ cluster is highly vir</description>
       <source url="https://doi.org/10.1103/tsgs-hj99">Physical Review C</source>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/tsgs-hj99</guid>
+    </item><item>
+      <title>Beyond the Dilute Instanton Gas: Resurgence with Exact Saddles in the Double Well</title>
+      <link>https://doi.org/10.1103/hg9t-ypvf</link>
+      <description>The path-integral approach to the double well has long been limited by the dilute instanton gas approximation. We show that if the finite Euclidean-time structure is taken seriously by using exact saddles, the dilute gas can be sidestepped, allowing the partition function and energy levels to be computed systematically. At each instanton order, the full resurgent structure—which saddles contribute, what asymptotic growth is expected, and how ambiguities cancel—is encoded in a finite-dimensional Picard-Lefschetz contour integral over the quasizero modes with a clear geometric interpretation. Working at finite T is essential: the dilute instanton gas can only access the ground-state splitting, whereas the exact finite-T computation systematically produces the nonperturbative energy splittings for all excited states, including their full dependence on the level number. The key ingredients—Weierstrass elliptic functions for the saddles, Lamé operators for the fluctuations, and Picard-Fuchs</description>
+      <source url="https://doi.org/10.1103/hg9t-ypvf">Physical Review Letters</source>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/hg9t-ypvf</guid>
     </item><item>
       <title>Melting LHC detectors: A novel search for stopped long-lived particles</title>
       <link>https://doi.org/10.1103/1x1q-mncc</link>
@@ -28,13 +101,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/4y46-ldjv</guid>
     </item><item>
-      <title>Causally connected regions in relativistic heavy ion collisions</title>
-      <link>https://doi.org/10.1103/9gxh-spl6</link>
-      <description>Quantifying causal connections within fireballs resulting from high energy nucleus-nucleus collisions is pertinent to assessing the viability of several proposed mechanisms that directly influence particle production and correlations. Fireball causal connections have previously been studied in the context of 1+1 dimensional Bjorken flow. We expand into 3+1 dimensions using Gubser flow, which includes transverse expansion. Our findings suggest that the volume of these causally connected fireballs are on the order of 10–100 fm3 for observables dependent on the formation of the light quark condensates, but could be larger for other observables.</description>
-      <source url="https://doi.org/10.1103/9gxh-spl6">Physical Review C</source>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9gxh-spl6</guid>
-    </item><item>
       <title>End-to-end data analysis methods for the CUORE experiment</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16350-3</link>
       <description>The Cryogenic Underground Observatory for Rare Events (CUORE) experiment set the most stringent limit on the neutrinoless double-beta ( 0ν β β ) decay half-life of ^130 Te with 2 t ,cdot , yr TeO ₂ analyzed exposure. In addition to 0ν β β decay, the CUORE detector—a ton-scale array of nearly 1000 cryogenic calorimeters operating at sim 10 mK—is capable of searching for other rare decays and interactions over a broad energy range. For our searches, we leverage the available information of each calorimeter by performing its optimization, data acquisition, and analysis independently. We describe the analysis tools and methods developed for CUORE and their application to build high-quality datasets for numerous physics searches. In particular, we describe in detail our evaluation of the energy-dependent detector response and signal efficiency used in the most recent search for 0ν β β decay.</description>
@@ -43,19 +109,34 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16350-3</guid>
     </item><item>
+      <title>Axionlike particle search with a hybrid Cherenkov-scintillation detector</title>
+      <link>https://doi.org/10.1103/ztsv-s7ts</link>
+      <description>This analysis presents the first proof-of-concept search for axionlike particles using a hybrid Cherenkov-scintillation detector at a beam-dump facility. The work is based on the Coherent CAPTAIN-Mills (CCM) experiment, a 10-ton liquid argon light collection detector located at Los Alamos National Laboratory. The CCM200 detector is instrumented with 200 photomultiplier tubes, providing approximately 50% photocathode coverage. To enable optical discrimination, 80% of the photomultiplier tubes are coated with a wavelength-shifting material while the remaining 20% are left uncoated. This configuration, combined with nanosecond-scale timing resolution, provides sensitivity to prompt Cherenkov radiation while maintaining efficient detection of liquid argon scintillation light [Phys. Rev. Lett. 135, 171804 (2025); [Phys. Rev. D 112, 072010 (2025)]. This analysis constructs four observables that exploit the Cherenkov emission and event topology expected from axionlike-particle-induced electro</description>
+      <source url="https://doi.org/10.1103/ztsv-s7ts">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ztsv-s7ts</guid>
+    </item><item>
+      <title>Λb→Λ form factors from light-cone sum rules with Λ-baryon distribution amplitudes</title>
+      <link>https://doi.org/10.1103/4y46-ldjv</link>
+      <description>We compute the Λb→Λ transition form factors using light-cone sum rules based on Λ-baryon distribution amplitudes, including contributions up to twist 6. The analysis is performed for pseudoscalar, vector, and axial-vector b→s currents and for different choices of the Λb interpolating current. A central aspect of the study is the explicit inclusion of the negative-parity Λb* state in the hadronic dispersion relation. Suitable linear combinations of invariant amplitudes are constructed to eliminate the Λb* pole contribution at the level of the sum rules. All three interpolating currents lead to numerically stable sum rules in the adopted working windows. The pseudoscalar current gives the closest agreement with the expected equation of motion and heavy quark symmetry relations at the level of the central values, while the present leading-order uncertainties do not allow a definitive discrimination among the three currents. The resulting helicity form factors are parametrized using a z ex</description>
+      <source url="https://doi.org/10.1103/4y46-ldjv">Physical Review D</source>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4y46-ldjv</guid>
+    </item><item>
+      <title>Causally connected regions in relativistic heavy ion collisions</title>
+      <link>https://doi.org/10.1103/9gxh-spl6</link>
+      <description>Quantifying causal connections within fireballs resulting from high energy nucleus-nucleus collisions is pertinent to assessing the viability of several proposed mechanisms that directly influence particle production and correlations. Fireball causal connections have previously been studied in the context of 1+1 dimensional Bjorken flow. We expand into 3+1 dimensions using Gubser flow, which includes transverse expansion. Our findings suggest that the volume of these causally connected fireballs are on the order of 10–100 fm3 for observables dependent on the formation of the light quark condensates, but could be larger for other observables.</description>
+      <source url="https://doi.org/10.1103/9gxh-spl6">Physical Review C</source>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9gxh-spl6</guid>
+    </item><item>
       <title>New energy-loss constraints on dark sectors from deeply inelastic scattering with initial state radiation</title>
       <link>https://doi.org/10.1103/rjgy-fcr8</link>
       <description>We employ the joint QED and QCD factorization of deeply inelastic, electron-proton scattering with generic initial state radiation to probe the possibility of exotic particle emission—i.e., of weakly coupled particles originating from a dark or hidden sector—through anomalous energy loss. We leverage this possibility through the consideration of phase-space-limited kinematic regions, for which the emission of an additional, undetected particle can particularly impact the associated cross section. In this first paper, as a proof of principle, we focus on radiation from the incoming electron, considering the modification of the lepton distribution function from the emission of particles, that could have spin of up to 2 and various, well-motivated electron couplings. We illustrate the sensitivity of our approach through the computation of the modified cross sections for the emission of MeV-GeV mass-scale, spin 0 particles in kinematics chosen for their sensitivity to initial state electro</description>
       <source url="https://doi.org/10.1103/rjgy-fcr8">Physical Review D</source>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rjgy-fcr8</guid>
-    </item><item>
-      <title>From target to projectile: CSS evolution of quark TMD in different light-cone gauges</title>
-      <link>https://doi.org/10.1103/yyj8-lx6w</link>
-      <description>We calculate the one-loop corrections to the quark transverse momentum dependent (TMD) in the projectile light-cone gauge using the background field formalism, with the Mandelstam-Leibbrandt (ML) prescription for the extra singularity present in the light-cone gauge propagator. We use the pure rapidity regulator for rapidity divergences. The Collins-Soper-Sterman (CSS) evolution equations are obtained after one-loop renormalization of the quark TMD in this gauge. We discuss how the structure of the rapidity divergences and the double-logarithmic contributions to the CSS resummation compares with the analogous calculation performed in the target light-cone gauge, and discuss the implications for the connection between the TMD factorization and color glass condensate frameworks.</description>
-      <source url="https://doi.org/10.1103/yyj8-lx6w">Physical Review D</source>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yyj8-lx6w</guid>
     </item><item>
       <title>Initial performance of the Radar Echo Telescope for Cosmic Rays: Pathfinder for a next-generation neutrino detector</title>
       <link>https://doi.org/10.1103/c2x7-6gq7</link>
@@ -65,13 +146,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/c2x7-6gq7</guid>
     </item><item>
-      <title>Towering gravitons in AdS3/CFT2</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)253</link>
-      <description>BPS states in holographic CFTs are usually classified into supergravitons, namely BPS fluctuations around empty AdS, and black-hole microstates, which appear above an energy threshold. In AdS /CFT , however, this picture is incomplete because of additional degrees of freedom, called singletons, associated with boundary diffeomorphisms. We present a general procedure for extending the BPS spectrum of supergravitons by dressing them with singletons, thereby defining a generalized, gravity-sector Hilbert space in CFT that admits a decomposition into affine multiplets of the full superconformal algebra. This extends the procedure previously proposed in [1] which was applicable only at low levels, by removing that limitation. We apply the new procedure to the D1-D5 CFT Sym (T ) and explicitly construct affine multiplets in the gravity sector for the N = 2 theory up to level h = 2. We find that, at the free orbifold point, the gravity-sector spectrum agrees with the CFT spectrum up to h=frac</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)253">Journal of High Energy Physics</source>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)253</guid>
-    </item><item>
       <title>Measurement of di-muons from 400 GeV/c protons interacting in a thick molybdenum/tungsten target</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16148-3</link>
       <description>Di-muon events emanating from a replica of the SHiP target at the CERN SPS (with a 400 GeV/c proton beam) contain a clear signal of J hspace-1.66656pt/hspace-1.111ptpsi hspace1.111pt production. The target consisted of 13 interaction lengths of molybdenum and tungsten, followed by a 2.4m iron hadron absorber. The di-muon rate is in reasonable agreement with Monte Carlo simulation based on Pythia v8. However, the J hspace-1.66656pt/hspace-1.111ptpsi hspace1.111pt rate observed in the data is much lower than predicted by the Monte Carlo simulation, which is advantageous for SHiP since muons with a large p_textrmT are more difficult to deflect by the active muon shield.</description>
@@ -79,78 +153,6 @@
       <author>et al.</author>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16148-3</guid>
-    </item><item>
-      <title>Search for proton decay via p→e+π0π0 and p→μ+π0π0 in 0.401 megaton-years exposure of Super-Kamiokande I-V</title>
-      <link>https://doi.org/10.1103/frxr-pk3t</link>
-      <description>We searched for proton decay via p→e+π0π0 and p→μ+π0π0 in 0.401 megaton-years of data collected in all pure water detector phases of Super-Kamiokande (SK) I-V. A theoretical study predicts proton decay rates without assuming a particular grand unified theory and suggests that three-body proton decays involving two pions can have decay rates comparable to those of p→e+π0 and p→μ+π0. This is the first search for proton decay into a charged antilepton and two neutral pions in SK. One data candidate event was found for each of the two decay modes, which is compatible with the expected atmospheric neutrino background. We set lower limits on the lifetime of τ/B(p→e+π0π0)&gt;7.2×1033 and τ/B(p→μ+π0π0)&gt;4.5×1033 year at 90% confidence level. These limits are more than one order of magnitude better than those of the previous experiment.</description>
-      <source url="https://doi.org/10.1103/frxr-pk3t">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/frxr-pk3t</guid>
-    </item><item>
-      <title>Aspects of Witten diagrams for holographic defects</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)240</link>
-      <description>In this paper, we study the conformal block decomposition of Witten diagrams for d-dimensional holographic CFTs in the presence of a p-dimensional conformal defect. The holographic dual in this case contains a probe AdS brane embedded inside AdS . In particular, we focus on contact, tree-level exchanges and some one-loop two-point Witten diagrams, which contribute to the two-point function of CFT bulk scalar operators. We also consider a tree-level exchange diagram for a three-point function involving one CFT bulk scalar operator and two scalar operators localized on the defect. Employing the split representation of AdS propagators, adapted to the probe brane setup, we perform the direct channel conformal block decompositions of these diagrams. In the case of tree-level diagrams, we obtain explicit expressions for the OPE coefficients in the direct channel decompositions. For two-point tree-level exchange diagrams, we derive recursion relations for the coefficients in the crossed-chann</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)240">Journal of High Energy Physics</source>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)240</guid>
-    </item><item>
-      <title>A gauge-theoretic formulation of Nambu non-equilibrium thermodynamics</title>
-      <link>https://doi.org/10.1016/j.nuclphysb.2026.117698</link>
-      <description>We present a gauge-theoretic formulation of Nambu non-equilibrium thermodynamics (NNET) within a common gauge-fixed worldline framework. In this formulation, the generalized thermodynamic force is described by an Abelian thermodynamic connection, and ordinary Onsager dynamics is recovered by fixing its temporal component through the dissipation function.</description>
-      <source url="https://doi.org/10.1016/j.nuclphysb.2026.117698">Nuclear Physics B</source>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1016/j.nuclphysb.2026.117698</guid>
-    </item><item>
-      <title>Tripartite entanglement in e+e−→tt¯Z</title>
-      <link>https://doi.org/10.1103/l88d-nfqp</link>
-      <description>Multipartite entanglement is a uniquely quantum form of correlation that captures collective properties of a composite quantum state beyond those encoded in its bipartite subsystems. We investigate this phenomenon in the process e+e−→tt¯Z at a future lepton collider, where the final-state spins span the tripartite Hilbert space H=C2⊗C2⊗C3. Starting from the standard model helicity amplitudes, we reconstruct the full 12×12 spin density matrix and characterize its entanglement structure through one-to-one negativities, one-to-other negativities, and the genuine multipartite negativity, evaluated at three increasingly inclusive levels of phase-space integration. Pairwise entanglement is generally suppressed relative to the collective (one-to-other) and the genuine multipartite entanglement, and all measures decrease as more kinematic information is integrated out. Assuming quantum tomography in the fully leptonic decay channel at s=1 TeV, we find that collective entanglement should be acc</description>
-      <source url="https://doi.org/10.1103/l88d-nfqp">Physical Review D</source>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/l88d-nfqp</guid>
-    </item><item>
-      <title>Coherence from interference: a solvable model of sub-GeV dark matter-nucleus scattering</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)237</link>
-      <description>How do dark matter-nucleus interactions transition from the regimes of coherent scattering, where single phonons are produced, to that of individual nuclear recoils? Answering this question relies on understanding multiphonon excitations. Multiphonons are important for interpreting low-threshold direct detection experiments, yet are computationally prohibitive to compute. In this paper, we employ a 1D N-site crystal lattice model where dark matter scattering can be computed exactly. We show that the only difference between coherent and incoherent scattering is that conservation of crystal momentum is enforced in coherent scattering. The momentum conservation constraint becomes less important as more phonons are produced, yielding the transition to incoherent scattering. Using numerical calculations of the 1D structure factor, we also obtain quantitative validation of using an incoherent approximation to compute sub-GeV dark matter scattering in realistic 3D crystals.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)237">Journal of High Energy Physics</source>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)237</guid>
-    </item><item>
-      <title>Symmetries and operators in ToverlineT deformed CFTs</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)238</link>
-      <description>ToverlineT-deformed CFTs are known to possess nonlocal Virasoro×Virasoro symmetries, whose currents depend on integration of the stress tensor. Unfortunately, these symmetries do not act in a tractable manner on the undeformed operators, which are defined by evolving local operators in the undeformed CFT on a constant-time slice using the deformed Hamiltonian. In this paper, we explicitly construct two distinct classes of operators: (i) dressed operators, which are primary with respect to the Virasoro×Virasoro symmetries, and (ii) physical operators, a new type of operator that depends on fundamental fields at specific points and is therefore local at the classical level. While dressed operators preserve the conformal symmetry structure, they are themselves nonlocal in the sense that they depend on integrated quantities. Physical operators, by contrast, depend only on local fields. Moreover, physical operators can be expressed in terms of dressed operators, and this relation can be pro</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)238">Journal of High Energy Physics</source>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)238</guid>
-    </item><item>
-      <title>Thermal order in the biconical model</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)245</link>
-      <description>Thermal fluctuations are generally expected to destroy order and restore symmetries at sufficiently high temperatures. Recently, however, a family of scalar theories in 2 + 1 dimensions was shown to exhibit ℤ symmetry breaking that persists to arbitrarily high temperatures using a variety of approaches, including the ϵ-expansion, the FRG, and large-N techniques. Although the similarities among these theories suggest that they belong to the same universality class, this connection has not been established explicitly. In this work, we fill this gap. Using large-N methods, we analytically study the biconical vector model in a range of spacetime dimensions, including 2 + 1, at leading and next-to-leading order in the 1/N expansion. We determine the RG flow, fixed-point structure, and the CFT data of the infrared theory, reproducing and extending previous results and thereby unifying the apparently distinct constructions within a common analytic framework. We derive the effective potential,</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)245">Journal of High Energy Physics</source>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)245</guid>
-    </item><item>
-      <title>Energy-energy correlators at strong coupling</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)236</link>
-      <description>We study energy-energy correlators (EEC) in planar mathcalN = 4 super Yang-Mills theory at strong ’t Hooft coupling λ. We consider the EEC in states created by half-BPS operators of arbitrary dimension p, and determine the corresponding event-shape function up to order λ from the worldsheet representation of the AdS Virasoro-Shapiro amplitude with Kaluza-Klein external states. For p = 2 we compute the second curvature correction, which completes the EEC through order λ ; the new contribution improves the agreement with recently derived non-perturbative bounds at intermediate coupling. We further develop a complementary method in which the strong-coupling expansion coefficients of the EEC are extracted directly from the Wilson coefficients of low-energy expansion of the AdS Virasoro-Shapiro amplitude, and find the two approaches in perfect agreement.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)236">Journal of High Energy Physics</source>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)236</guid>
-    </item><item>
-      <title>Low-energy radon backgrounds from electrode grids in dual-phase xenon TPCs</title>
-      <link>https://doi.org/10.1103/7tk3-33s9</link>
-      <description>The dual-phase xenon time projection chamber (TPC) is a powerful technology to detect rare interactions such as scatters of dark matter particles on nuclei. In particular, the built-in gain of ionization signals in a dual-phase TPC makes it sensitive to events in the few-electron regime, as expected from low-mass dark matter interactions. The pursuit of this low-energy sensitivity through ionization-only signal detection has so far been hindered by excessive electron backgrounds observed across experiments. Much of this background is attributed to the plate-out of Rn222 decay chain isotopes on the high-voltage electrode grid surfaces that span the full cross section of the TPC. This work presents a first-principles model constructed for this background, the predictions of which are consistent with data from the LZ and LUX experiments. We then discuss strategies to mitigate this background in future dual-phase TPCs and the possibility of applying this grid background model to ionization</description>
-      <source url="https://doi.org/10.1103/7tk3-33s9">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7tk3-33s9</guid>
-    </item><item>
-      <title>Muon-induced di-tau production as a probe of new physics</title>
-      <link>https://doi.org/10.1103/l3fr-9qlz</link>
-      <description>The muon trident process, which involves coherent scattering to produce tau pairs, is a powerful tool for constraining dark sectors. We propose to explore this channel using future high-energy muon beams with the dedicated active-target detector, High-Energy Muon Electronic Research Apparatus (HEMERA). The detector would complement muon beam-dump searches by resolving prompt signatures and could operate from preparatory facilities involving an individual muon beam of the full muon collider. We illustrate its capabilities for a leptophilic scalar with Yukawa-like couplings that can mediate thermal dark matter production. With 1018 incident TeV-scale muons, even a compact 10 kg silicon-based HEMERA will extend current B-factory and (g−2)μ bounds by over an order of magnitude in coupling strength. In the leptophilic thermal dark matter paradigm, this search offers a way to probe dark sector targets beyond the neutrino floor of dark matter direct detection. This provides an additional comp</description>
-      <source url="https://doi.org/10.1103/l3fr-9qlz">Physical Review D</source>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/l3fr-9qlz</guid>
     </item>
   </channel>
 </rss>
