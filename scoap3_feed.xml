@@ -5,28 +5,22 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 16:32:28 +0000</lastBuildDate>
     <item>
-      <title>Hamiltonian truncation framework for gauge theories on the interval</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)276</link>
-      <description>In this work, we investigate gauge theories in two dimensions nonperturbatively using the Hamiltonian truncation approach. Working on a spatial interval and adopting the axial gauge, we remove all gauge field degrees of freedom and express the interacting Hamiltonian in the eigenbasis of the free Dirac theory, truncated at a finite energy. As a benchmark we analyse the Schwinger model, where our numerical spectra agree closely with the exact results from bosonization across a wide range of couplings, validating the construction of the Hamiltonian. We then generalize the formulation to nonabelian gauge groups and apply it to SU(3) gauge theory with a single massless Dirac fermion. These results demonstrate that gauge theories can be explored nonperturbatively using a truncated Hamiltonian that generates evolutions in ordinary time, offering a complementary alternative to lattice field theory.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)276">Journal of High Energy Physics</source>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)276</guid>
+      <title>Electroweak baryogenesis from charged current anomalies in B meson decays</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.141092</link>
+      <description>We demonstrate for the first time that new physics explaining the long standing charged B meson anomalies, R( D (*)), can be the source of CP violation that explains the observed baryon asymmetry of the universe (BAU). We consider the general two Higgs doublet model with complex Yukawa couplings and compute the BAU in the semiclassical formalism, using a novel analytic approximation for the latter. After imposing constraints from both flavor observables and the electron electric dipole moment (eEDM), and assuming the occurrence of a sufficiently strong first order electroweak phase transition, we find that the observed BAU can be generated for benchmark points within the region favored by the global flavor fit. Reaching the observed BAU relies on optimized values of the phase transition parameters, which we treat as inputs. These scenarios, which explain both R( D (*)) and the BAU, can be probed with future eEDM experiments and Higgs factories measurements.</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.141092">Physics Letters B</source>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141092</guid>
     </item><item>
-      <title>Thermal origin of black hole quasinormal modes</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)275</link>
-      <description>When a black hole rings after a merger, it emits gravitational waves at characteristic frequencies known as quasinormal modes (QNMs). In the eikonal limit, these modes are governed by the unstable circular light orbits that form the photon ring. In this work, we demonstrate that the ringing of a black hole has a precise thermal interpretation. A probe string propagating in the near-ring geometry acquires an induced Rindler horizon on its worldsheet, with a temperature set by the Lyapunov exponent of the photon ring. Out of this structure, the black hole QNMs emerge as thermal excitations, so that the characteristic ringing of a black hole is the retarded response of a thermal system living on the photon ring. We explicitly derive the QNM spectrum from two complementary perspectives: microscopically, via unstable transverse worldsheet fluctuations, and macroscopically, through the pole structure of the causal response function of an open thermal quantum system.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)275">Journal of High Energy Physics</source>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)275</guid>
-    </item><item>
-      <title>Wilson coefficients from a non-renormalization theorem in 2D SYM</title>
-      <link>https://doi.org/10.1007/JHEP10(2026)272</link>
-      <description>Matrix string theory [1–3] is a conjectured duality between two-dimensional maximally supersymmetric U(N) Yang-Mills theory and type-IIA string theory in ten-dimensional Minkowski spacetime. The IR description of this gauge theory is governed by the symmetric product orbifold (ℝ ) /S CFT. The leading irrelevant deformation from this IR fixed point is the Dijkgraaf-Verlinde-Verlinde (DVV) operator, which comes with an unknown Wilson coefficient. We determine this coefficient using non-renormalization arguments from the UV gauge theory. The result is consistent with the matrix string theory conjecture and gives a first-principles check of the relation between g and the string coupling. We also comment on the prospects for fixing further Wilson coefficients using similar methods.</description>
-      <source url="https://doi.org/10.1007/JHEP10(2026)272">Journal of High Energy Physics</source>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)272</guid>
+      <title>Observation of Electroweak Production of Pairs of Z Bosons in Proton-Proton Collisions at 13 TeV</title>
+      <link>https://doi.org/10.1103/jydv-n2js</link>
+      <description>The first evidence of electroweak (EW) production of pairs of Z bosons in association with two jets (jj) in the final state ZZjj→ℓℓννjj, where ℓ=e, μ, is reported by the CMS experiment. The analysis is based on a data sample of proton-proton (pp) collisions at s=13 TeV, corresponding to an integrated luminosity of 138 fb−1. Events are selected by requiring exactly two leptons of same flavor and opposite charge, large missing transverse momentum, and two jets with a large rapidity separation and large invariant mass. The EW production cross section in a fiducial volume is σEW(pp→ZZjj→ℓℓννjj)=0.37−0.12+0.14(stat)−0.06+0.06(syst) fb, in agreement with the standard model prediction of 0.39±0.06 fb. The observed (expected) significance of the signal is 3.1 (2.8) standard deviations. Limits on anomalous quartic gauge couplings are derived in terms of dimension-8 effective field theory operators. A combination with the previously reported result from the ZZ decay channel with four charged lep</description>
+      <source url="https://doi.org/10.1103/jydv-n2js">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jydv-n2js</guid>
     </item><item>
       <title>Probing unknown nonperturbative effects in b→sℓℓ with inclusive and exclusive observables</title>
       <link>https://doi.org/10.1103/zrp8-84fg</link>
@@ -41,13 +35,6 @@
       <source url="https://doi.org/10.1103/bk55-z2mq">Physical Review D</source>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/bk55-z2mq</guid>
-    </item><item>
-      <title>Exploring anomaly-free dark photon models through solar neutrino-electron scattering in ton-scale dark matter detectors</title>
-      <link>https://doi.org/10.1103/dcmw-n3dc</link>
-      <description>We study the phenomenological implications of anomaly-free dark photon models using low-energy solar neutrino-electron elastic scattering data from the ton-scale PandaX-4T and XENONnT experiments. Focusing on U(1)X gauge extensions that incorporate both kinetic and mass mixing, we derive novel exclusion limits across the parameter spaces of six benchmark models. Our analysis demonstrates that the stringency of these limits is directly correlated with the theoretical leptonic charge assignments of the respective models. Additionally, we provide model-independent limits by isolating the pure kinetic and pure mass mixing scenarios. In the sub-MeV mediator mass regime, our results meaningfully improve upon existing limits from previous neutrino-electron scattering experiments, such as CHARM-II, TEXONO, and GEMMA. Ultimately, these findings yield improved limits on low-mass dark photon models, demonstrating their complementarity with other ventures in the global search for dark portals.</description>
-      <source url="https://doi.org/10.1103/dcmw-n3dc">Physical Review D</source>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dcmw-n3dc</guid>
     </item><item>
       <title>Parton Distribution Functions from Large-Momentum Expansion of Current-Current Correlators</title>
       <link>https://doi.org/10.1103/vdtk-mps3</link>
@@ -107,6 +94,13 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP10(2026)274</guid>
     </item><item>
+      <title>Track fitting at the full LHC collision rate</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16478-2</link>
+      <description>The LHCb experiment at the Large Hadron Collider underwent a major upgrade before the LHC Run 3 data-taking period, employing an all-software approach in its trigger system. Here we present a fast implementation of a Kalman filter, used in the first trigger stage since the 2025 data-taking period, allowing to determine parameter estimates of charged-particle trajectories at the full LHCb collision frequency of 30 MHz. This approach replaces computationally expensive magnetic field map lookups and numerical integration methods with fast analytical parameterisations while maintaining the mathematical framework of Kalman filtering. Implemented on approximately 500 GPUs within the first-level trigger, the algorithm has replaced the previous partial track fitting algorithm in the real-time trigger environment at the cost of a 2% increase in processing time. Compared to the previous fitter, this parameterised Kalman filter shows a significantly improved momentum resolution, resulting in a fa</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16478-2">European Physical Journal C</source>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16478-2</guid>
+    </item><item>
       <title>Measurement of Born cross sections for e+e−→K+Ξ0Σ¯− at s=3.51–4.95 GeV and observation of ψ(3770)→K+Ξ0Σ¯−</title>
       <link>https://doi.org/10.1103/4fgk-jg61</link>
       <description>Using 44.55 fb−1 of e+e− collision data collected by the BESIII detector at the BEPCII collider, we report the first measurement of the Born cross sections for the e+e−→K+Ξ0Σ¯− reaction at 56 center-of-mass energies between 3.51 and 4.95 GeV. A fit to the dressed cross sections reveals the first observation of the ψ(3770)→K+Ξ0Σ¯− process, with a statistical significance of 6.0σ including systematic uncertainties. This result represents the first observation of charmless three-body baryonic decay of a vector charmonium state above the open-charm threshold, providing important experimental input for studying the origin of the large non-DD¯ component of the ψ(3770) decay width. No significant signals for other charmonium(like) states i.e., ψ(4040), ψ(4160), Y(4230), Y(4360), ψ(4415), Y(4500), Y(4660) or Y(4710) are observed, and the upper limits for the product of the branching fraction and the electronic partial width at the 90% confidence level for each assumed charmonium(like) state ar</description>
@@ -143,6 +137,13 @@
       <source url="https://doi.org/10.1103/xtsm-rw6d">Physical Review D</source>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/xtsm-rw6d</guid>
+    </item><item>
+      <title>Anomalies in hadronic B→VV decays</title>
+      <link>https://doi.org/10.1103/sj66-kh1t</link>
+      <description>Recently, a fit of charmless B→PP decays (B∈B0,B+,Bs0, P∈π,K,η,η′) to the latest data was performed under the assumption of flavor SU(3) symmetry [SU(3)F]. It was found that there is a 4.1σ disagreement with the SU(3)F limit of the Standard Model [SMSU(3)F]. In this paper, we extend this analysis to charmless B→VV decays (V∈ρ,K*,ϕ,ω). The fit examining B→ρK* decays, assuming only isospin symmetry, is found to be acceptable. When we fit to B→VV decays with V∈ρ,K* within SU(3)F, we find a 5.2σ discrepancy with SMSU(3)F. Finally, when B→VV decays with V∈ρ,K*,ϕ,ω are considered, the discrepancy grows to &gt;7σ. The theoretical input in this analysis is modest, so our results are quite rigorous, group theoretically, and hold almost exactly in the SU(3)F limit. Although it seems unlikely that the introduction of ∼30% SU(3)F-breaking effects can account for this discrepancy, this must be verified.</description>
+      <source url="https://doi.org/10.1103/sj66-kh1t">Physical Review D</source>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/sj66-kh1t</guid>
     </item><item>
       <title>Lepton flavor violating Higgs boson decays at the Compact Linear Collider</title>
       <link>https://doi.org/10.1103/ym6v-19b2</link>
