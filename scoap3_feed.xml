@@ -5,15 +5,81 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:49:04 +0000</lastBuildDate>
     <item>
-      <title>First Amplitude Analysis of D0→K−π0e+νe and Observation of D0→K2*(1430)−e+νe</title>
-      <link>https://doi.org/10.1103/ngfq-f3t7</link>
-      <description>We present the first amplitude analysis of the semileptonic decay D0→K−π0e+νe by analyzing e+e− annihilation data corresponding to an integrated luminosity of 20.3 fb−1 collected at the center-of-mass energy of 3.773 GeV with the BESIII detector. A tiny D-wave component of the K2*(1430)− accounting for (0.157±0.056stat±0.042syst)% of the K−π0 is observed for the first time with a significance of 7.9σ in addition to the dominant P-wave component of K*(892)− and the subdominant K−π0 S-wave. The hadronic form factors of the D0→K*(892)− transition are measured precisely as rV=V(0)/A1(0)=1.432±0.050stat±0.017syst and r2=A2(0)/A1(0)=0.786±0.037stat±0.027syst. The branching fraction of D0→K*(892)−e+νe with K*(892)−→K−π0 is measured to be (7.445±0.061stat±0.048syst)×10−3. Combining the measurements of the D0→K*(892)−(K*(892)−→K−π0)ℓ+νℓ, lepton flavor universality is tested by the ratio RLFU=B(D0→K*(892)−μ+νμ)/B(D0→K*(892)−e+νe)=0.928±0.020stat±0.012syst with unprecedented precision; no violati</description>
-      <source url="https://doi.org/10.1103/ngfq-f3t7">Physical Review Letters</source>
+      <title>A melonic quantum mechanical model without disorder</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)021</link>
+      <description>We consider a quantum mechanical model involving interacting fermions without disorder that has the same low energy physics as the supersymmetric SYK model. The model is SU(2) invariant, and the supercharge involves the SU(2) 3j symbol. We analyze various solvable corners, conceptually explain why it has a melonic expansion, and perform an exact diagonalization for small values of N. Expanded around the states with maximal angular momentum, the model is approximated by a two dimensional CFT. The BPS states have a simple description in that regime.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)021">Journal of High Energy Physics</source>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)021</guid>
+    </item><item>
+      <title>Maximal Abelian flavor symmetries</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)025</link>
+      <description>A framework, MAFS, is introduced that provides an approximate description of the hierarchies of quark and lepton masses and mixing angles in terms of a set of small parameters, ϵ , one for each fermion multiplet. MAFS is an alternative to the Froggatt-Nielsen mechanism and has a unique application in any theory, as there are no fermion charges to choose. It becomes more powerful as the number of multiplets is reduced. In SU(5) unified theories, 15 observed mass ratios and mixing angles are described, at the level of factors of 2–3, by five small ϵ parameters. Even though quarks and leptons are unified, the observed hierarchical pattern of quark masses and mixings requires large neutrino mixing angles and small neutrino mass hierarchies. In an SO(10) unified theory, MAFS successfully describes the 15 observed flavor hierarchies with just three small ϵ , taking values of 0.01, 0.02 and 0.002. The observed cosmological baryon asymmetry results approximately from leptogenesis using MAFS in</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)025">Journal of High Energy Physics</source>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)025</guid>
+    </item><item>
+      <title>Static linear response of hot and dense QCD matter to electromagnetic fields: leading hard and soft QCD corrections</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)034</link>
+      <description>We compute the static electromagnetic susceptibilities of a hot and dense quark-gluon plasma using perturbative Quantum Chromodynamics (QCD). Our evaluation includes the leading 𝒪(α ) correction as well as the leading soft, resummed contribution of mathcalO(α_s^3/2) within electrostatic QCD. By matching to Lattice QCD at vanishing baryon chemical potential through Lattice perturbation theory, we establish a connection between perturbative results and Lattice simulations and assess the size of higher-order corrections. This extends the electromagnetic susceptibilities to finite baryon chemical potential, where Lattice methods are not applicable and establishes first-principle constraints on the quark-gluon plasma’s electromagnetic response at temperatures and densities relevant for intermediate-energy heavy-ion collisions.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)034">Journal of High Energy Physics</source>
       <author>et al.</author>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)034</guid>
+    </item><item>
+      <title>Search for long-lived particles decaying into muons in proton-proton collisions at sqrts=13.6 TeV using data scouting</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)004</link>
+      <description>A search for long-lived particles decaying into muons is performed using proton-proton collisions at sqrts=13.6 TeV, collected by the CMS experiment at the LHC in 2022 and 2023, corresponding to an integrated luminosity of 62.4 fb . The data were collected using dedicated dimuon triggers with low transverse momentum thresholds, recorded with a high-rate data scouting trigger stream. This data stream retains a reduced amount of information at the high-level trigger, to explore otherwise inaccessible phase space at low multimuon invariant mass and nonzero displacement from the primary interaction vertex. No significant excess of events above the standard model prediction is found. Upper limits on branching fractions at 95% confidence level are set for a wide range of mass and lifetime hypotheses in several beyond the standard model frameworks, where the Higgs boson decays into long-lived dark photons or into dark partons that produce showers containing long-lived particles, or where a lo</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)004">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)004</guid>
+    </item><item>
+      <title>Spin entanglement signatures of proton from a light-front Hamiltonian</title>
+      <link>https://doi.org/10.1103/29wm-ycwp</link>
+      <description>Quantum entanglement provides a quantitative probe of the internal structure of hadrons and offers a sensitive means to study the quantum correlation in the hadron wave functions. For baryons, the spin state of the three valence quarks forms a tripartite qubit system, whose entanglement structure can be characterized by the four classes of three-qubit states. In this work, we compare the proton spin entanglement obtained from Basis Light-Front Quantization (BLFQ) with that from a quark-diquark model. By analyzing both bipartite and tripartite entanglement, we find that the quark-diquark model yields a substantially more entangled spin state than the BLFQ wave function in the valence Fock sector. This difference mainly originates from the larger W-type and Bell-type entanglement in the quark-diquark model. Within BLFQ, a larger coupling constant and smaller quark mass drive the spin correlation among the valence quarks towards an effective quark-diquark configuration with an active d qu</description>
+      <source url="https://doi.org/10.1103/29wm-ycwp">Physical Review D</source>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ngfq-f3t7</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/29wm-ycwp</guid>
+    </item><item>
+      <title>Photon emission from rotating plasmas: A generalized McLerran-Toimela formula and the onset of superradiance</title>
+      <link>https://doi.org/10.1103/wm41-k9xw</link>
+      <description>The photon emission and absorption spectra of a plasma rotating with constant angular velocity Ω are derived in terms of the spectral function of the current-current correlator. In contrast to the nonrotating case, the leading contribution arises already at one-loop order. The photon emission spectrum and its elliptic flow are calculated for a rotating quark-gluon plasma and compared with the leading two-loop result for a nonrotating plasma. The rotating plasma is found to emit significantly more soft photons than the nonrotating one. An analysis of the emission and absorption of cylindrical waves indicates that photons with energy ω and azimuthal quantum number m satisfying ωmΩ are emitted at a higher rate than they are absorbed, thereby exhibiting the phenomenon of superradiance. It is further argued that these superradiant modes induce an instability of the magnetic field that is generated concurrently with the plasma in relativistic heavy-ion collisions.</description>
+      <source url="https://doi.org/10.1103/wm41-k9xw">Physical Review D</source>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/wm41-k9xw</guid>
+    </item><item>
+      <title>Bayesian inference of the magnetic component in the quark-gluon plasma</title>
+      <link>https://doi.org/10.1103/svh2-j38f</link>
+      <description>The chromomagnetic monopoles (CMM), emergent topological excitations of non-Abelian gauge fields carrying chromomagnetic charge, have long been postulated to play an important role in the vacuum confinement of quantum chromodynamics (QCD), the deconfinement transition at temperature Tc≈160 MeV, as well as the strongly coupled nature of quark-gluon plasma (QGP). While such CMMs were found to help provide resolutions for challenging puzzles from heavy-ion collision measurements, they were typically introduced as model assumptions in the past. Here we perform a data-driven Bayesian inference of the chromomagnetic component, within the CUJET framework, and extract its temperature-dependent abundance for the first time. Using the cujet3 framework for calculations of jet energy loss and analyzing a comprehensive experimental dataset for nuclear modification factor (RAA) and elliptic flow (v2) of high-transverse-momentum hadrons, the fraction of CMMs in the QGP is obtained by Bayesian inferen</description>
+      <source url="https://doi.org/10.1103/svh2-j38f">Physical Review D</source>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/svh2-j38f</guid>
+    </item><item>
+      <title>Three-loop QCD corrections to scattering amplitudes of a Higgs boson and three partons</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)002</link>
+      <description>We present helicity amplitudes at three loops in the heavy-top quark effective theory of QCD for the scattering of a Higgs boson and three light partons with full-color dependence. To obtain these results, we use integration-by-parts identities implemented in the code Blade and evaluate the master integrals using canonical differential equations. We obtain compact analytic expressions in terms of generalized polylogarithms suitable for numerical evaluation. We observe that sub-leading color contributions at three loops are numerically as significant as leading-color terms. Our amplitudes are key ingredients for precision LHC phenomenology, for example in production cross sections involving a Higgs boson and a hadronic jet.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)002">Journal of High Energy Physics</source>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)002</guid>
+    </item><item>
+      <title>Observation of the Rare Decay η→μ+μ−e+e−</title>
+      <link>https://doi.org/10.1103/dv54-jq8p</link>
+      <description>A first observation of the rare decay η→μ+μ−e+e− is reported by the CMS Collaboration at the CERN LHC. The result is based on a proton-proton collision data sample at s=13.6 TeV corresponding to an integrated luminosity of 38.0 fb−1, acquired in 2022 using a high-rate dimuon trigger. Using the η→μ+μ−γ decay channel for normalization, the branching fraction is measured to be B(η→μ+μ−e+e−)=(2.4±0.8)×10−6, with the uncertainty including statistical and systematic sources as well as the B(η→μ+μ−γ) uncertainty. This result is about a factor of 3 smaller than the existing limit and is consistent with recent theoretical predictions.</description>
+      <source url="https://doi.org/10.1103/dv54-jq8p">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/dv54-jq8p</guid>
+    </item><item>
+      <title>Improved search for ψ(3770)→γηc(1S,2S) radiative transitions</title>
+      <link>https://doi.org/10.1103/ml3k-2pss</link>
+      <description>Based on an integrated luminosity of 20.3 fb−1 of e+e− annihilation data collected at a center-of-mass energy of 3.773 GeV with the BESIII detector operating at the BEPCII collider, an improved search for the radiative transitions ψ(3770)→γηc(1S,2S) is performed using the hadronic decays ηc(1S,2S)→KS0K±π∓. No significant signal is observed. The corresponding 90% confidence level upper limits on the product branching fractions are set to be 5.0×10−6 for the ηc(1S) transition and 3.7×10−6 for the ηc(2S) transition. The 90% confidence level upper limits on the partial decay widths are also reported to be Γ(ψ(3770)→γηc(1S))5.5 keV and Γ(ψ(3770)→γηc(2S))29.4 keV. With about seven times larger integrated luminosity than used previously, these results lower the upper limits by approximately a factor of three and two for the ηc(1S) and ηc(2S) transitions, respectively.</description>
+      <source url="https://doi.org/10.1103/ml3k-2pss">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ml3k-2pss</guid>
     </item><item>
       <title>Signals for fluctuating constituent numbers in small systems</title>
       <link>https://doi.org/10.1103/55cy-wzvx</link>
@@ -43,21 +109,12 @@
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/j99v-l6zq</guid>
     </item><item>
-      <title>Observation of the Rare Decay η→μ+μ−e+e−</title>
-      <link>https://doi.org/10.1103/dv54-jq8p</link>
-      <description>A first observation of the rare decay η→μ+μ−e+e− is reported by the CMS Collaboration at the CERN LHC. The result is based on a proton-proton collision data sample at s=13.6 TeV corresponding to an integrated luminosity of 38.0 fb−1, acquired in 2022 using a high-rate dimuon trigger. Using the η→μ+μ−γ decay channel for normalization, the branching fraction is measured to be B(η→μ+μ−e+e−)=(2.4±0.8)×10−6, with the uncertainty including statistical and systematic sources as well as the B(η→μ+μ−γ) uncertainty. This result is about a factor of 3 smaller than the existing limit and is consistent with recent theoretical predictions.</description>
-      <source url="https://doi.org/10.1103/dv54-jq8p">Physical Review Letters</source>
-      <author>et al.</author>
+      <title>Machine learning modularity</title>
+      <link>https://doi.org/10.1103/j99v-l6zq</link>
+      <description>Based on a transformer-based sequence-to-sequence architecture combined with a dynamic batching algorithm, this work introduces a machine learning framework for automatically simplifying complex expressions involving multiple elliptic gamma functions, including the q−θ function and the elliptic gamma function. The model is trained to apply algebraic identities, particularly modular transformations associated with the special linear (SL) groups SL(2,Z) and SL(3,Z) modular transformations, to reduce heavily scrambled expressions to their canonical forms. Experimental results show that the proposed framework achieves high accuracy on in-distribution tests and maintains robust performance under extrapolation, including substantially deeper scrambling depths than those seen during training. Our results demonstrate that modern sequence-to-sequence transformer models can identify canonical representatives of expressions related by modular identities, providing a practical framework for automa</description>
+      <source url="https://doi.org/10.1103/j99v-l6zq">Physical Review D</source>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dv54-jq8p</guid>
-    </item><item>
-      <title>Improved search for ψ(3770)→γηc(1S,2S) radiative transitions</title>
-      <link>https://doi.org/10.1103/ml3k-2pss</link>
-      <description>Based on an integrated luminosity of 20.3 fb−1 of e+e− annihilation data collected at a center-of-mass energy of 3.773 GeV with the BESIII detector operating at the BEPCII collider, an improved search for the radiative transitions ψ(3770)→γηc(1S,2S) is performed using the hadronic decays ηc(1S,2S)→KS0K±π∓. No significant signal is observed. The corresponding 90% confidence level upper limits on the product branching fractions are set to be 5.0×10−6 for the ηc(1S) transition and 3.7×10−6 for the ηc(2S) transition. The 90% confidence level upper limits on the partial decay widths are also reported to be Γ(ψ(3770)→γηc(1S))5.5 keV and Γ(ψ(3770)→γηc(2S))29.4 keV. With about seven times larger integrated luminosity than used previously, these results lower the upper limits by approximately a factor of three and two for the ηc(1S) and ηc(2S) transitions, respectively.</description>
-      <source url="https://doi.org/10.1103/ml3k-2pss">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ml3k-2pss</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/j99v-l6zq</guid>
     </item><item>
       <title>Precision physics at the muon collider: m W and CKM matrix elements</title>
       <link>https://doi.org/10.1007/JHEP11(2026)011</link>
@@ -65,6 +122,14 @@
       <source url="https://doi.org/10.1007/JHEP11(2026)011">Journal of High Energy Physics</source>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)011</guid>
+    </item><item>
+      <title>Observation of Electroweak Production of Pairs of Z Bosons in Proton-Proton Collisions at 13 TeV</title>
+      <link>https://doi.org/10.1103/jydv-n2js</link>
+      <description>The first evidence of electroweak (EW) production of pairs of Z bosons in association with two jets (jj) in the final state ZZjj→ℓℓννjj, where ℓ=e, μ, is reported by the CMS experiment. The analysis is based on a data sample of proton-proton (pp) collisions at s=13 TeV, corresponding to an integrated luminosity of 138 fb−1. Events are selected by requiring exactly two leptons of same flavor and opposite charge, large missing transverse momentum, and two jets with a large rapidity separation and large invariant mass. The EW production cross section in a fiducial volume is σEW(pp→ZZjj→ℓℓννjj)=0.37−0.12+0.14(stat)−0.06+0.06(syst) fb, in agreement with the standard model prediction of 0.39±0.06 fb. The observed (expected) significance of the signal is 3.1 (2.8) standard deviations. Limits on anomalous quartic gauge couplings are derived in terms of dimension-8 effective field theory operators. A combination with the previously reported result from the ZZ decay channel with four charged lep</description>
+      <source url="https://doi.org/10.1103/jydv-n2js">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/jydv-n2js</guid>
     </item><item>
       <title>Probing unknown nonperturbative effects in b→sℓℓ with inclusive and exclusive observables</title>
       <link>https://doi.org/10.1103/zrp8-84fg</link>
@@ -86,73 +151,6 @@
       <source url="https://doi.org/10.1103/dcmw-n3dc">Physical Review D</source>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/dcmw-n3dc</guid>
-    </item><item>
-      <title>Parton Distribution Functions from Large-Momentum Expansion of Current-Current Correlators</title>
-      <link>https://doi.org/10.1103/vdtk-mps3</link>
-      <description>The universality of the large-momentum effective theory (LaMET) allows computing parton distribution functions starting from any Euclidean correlator with appropriate large-momentum Fourier components. Nevertheless, only the Wilson-line operators have been widely studied in this framework. In this Letter, we provide the first LaMET formulation using current-current correlators up to the next-to-leading order. The advantage of this new method is its simple renormalization property due to the absence of Wilson-line linear divergences. This provides an alternative approach for LaMET calculation with very different systematics, making it crucial for cross-validating future precision calculations. A first numerical example is presented using newly generated correlators for specific LaMET application from existing four-point function data.</description>
-      <source url="https://doi.org/10.1103/vdtk-mps3">Physical Review Letters</source>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vdtk-mps3</guid>
-    </item><item>
-      <title>Particle-Soliton Degeneracy in 2D Quantum Chromodynamics</title>
-      <link>https://doi.org/10.1103/jckx-z293</link>
-      <description>Quantum chromodynamics in two spacetime dimensions admits a finite noninvertible symmetry described mathematically by a fusion category. This symmetry is spontaneously broken at long distances, leading to distinct vacua. When the theory has a mass gap, the spectrum is therefore characterized by particle excitations above a single vacuum and soliton sectors interpolating between vacua. We use anyon condensation and the representation theory of fusion categories to obtain exact results about this spectrum, exhibiting the allowed multiplets. Often, particles and solitons are in the same representation and therefore must have equal masses. Furthermore, the fusion category symmetry frequently implies the existence of certain stable states in the spectrum. The resulting degeneracies are encoded in quiver diagrams where nodes are vacua and arrows are excited states.</description>
-      <source url="https://doi.org/10.1103/jckx-z293">Physical Review Letters</source>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jckx-z293</guid>
-    </item><item>
-      <title>Constraining the resolution length of quark-gluon plasma with new jet substructure measurements</title>
-      <link>https://doi.org/10.1103/yjg3-83g1</link>
-      <description>We show that recent measurements of substructure-dependent jet suppression constrain the value of the resolution length of the droplets of quark-gluon plasma (QGP) formed in heavy ion collisions. This resolution length, Lres, is defined such that the medium can only resolve partons within a jet shower that are separated by more than Lres. We first use calculations done in the hybrid strong/weak coupling model for jet quenching (Hybrid Model) to reproduce ALICE measurements of the scaled soft-drop angle θg for anti-kt R=0.2 jets reconstructed from charged-particle tracks. We find that the narrowing of the θg-distribution in PbPb collisions compared to pp collisions that is seen in the ALICE data rules out a picture of fully coherent energy loss (Lres=∞) where each entire parton shower loses energy to the plasma as if it were a single unresolved colored object. We then use Hybrid Model calculations to reproduce ATLAS measurements of dR12, the soft-drop angle obtained by applying the Soft</description>
-      <source url="https://doi.org/10.1103/yjg3-83g1">Physical Review D</source>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/yjg3-83g1</guid>
-    </item><item>
-      <title>Observation of Electroweak Production of Pairs of Z Bosons in Proton-Proton Collisions at 13 TeV</title>
-      <link>https://doi.org/10.1103/jydv-n2js</link>
-      <description>The first evidence of electroweak (EW) production of pairs of Z bosons in association with two jets (jj) in the final state ZZjj→ℓℓννjj, where ℓ=e, μ, is reported by the CMS experiment. The analysis is based on a data sample of proton-proton (pp) collisions at s=13 TeV, corresponding to an integrated luminosity of 138 fb−1. Events are selected by requiring exactly two leptons of same flavor and opposite charge, large missing transverse momentum, and two jets with a large rapidity separation and large invariant mass. The EW production cross section in a fiducial volume is σEW(pp→ZZjj→ℓℓννjj)=0.37−0.12+0.14(stat)−0.06+0.06(syst) fb, in agreement with the standard model prediction of 0.39±0.06 fb. The observed (expected) significance of the signal is 3.1 (2.8) standard deviations. Limits on anomalous quartic gauge couplings are derived in terms of dimension-8 effective field theory operators. A combination with the previously reported result from the ZZ decay channel with four charged lep</description>
-      <source url="https://doi.org/10.1103/jydv-n2js">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/jydv-n2js</guid>
-    </item><item>
-      <title>First Search for Quirks at the LHC with FASER</title>
-      <link>https://doi.org/10.1103/z156-xk5y</link>
-      <description>We present the first LHC search for quirks, particles with standard model and QCD-like infracolor (IC) interactions. The analysis uses data collected in 2022–2024 by FASER, with a 186 fb−1 integrated luminosity of proton-proton collisions at a center-of-mass energy s=13.6 TeV. Scintillator charge and timing information are used to search for slow pairs of quirks with no QCD color and electric charge ±1. No events are seen in this nearly background-free search, resulting in the first exclusion of quirks with masses above the weak scale for IC confinement scales in the broad range of 300 eVΛ100 keV.</description>
-      <source url="https://doi.org/10.1103/z156-xk5y">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/z156-xk5y</guid>
-    </item><item>
-      <title>Quasiparton distribution functions in covariant quark models</title>
-      <link>https://doi.org/10.1103/bl2f-xygk</link>
-      <description>Quasiparton distribution functions (QPDFs) are defined in terms of QCD fields at spacelike separations evaluated in matrix elements of hadrons moving with velocity v. These objects can be studied in lattice QCD. In the limit when v approaches the speed of light, QPDFs converge to parton distribution functions. It is insightful to study QPDFs and their convergence in models. In this work, we first study the QPDFs in a broad class of quark models characterized by one common feature, namely the absence of gauge degrees of freedom. We provide general proofs for the convergence and sum rules of the unpolarized quark and antiquark QPDFs for both choices γ0 and γ3. We choose the covariant parton model as an illustration, and derive analytical results for the small-xv behavior of QPDFs and the energy-momentum tensor form factor c¯q(t) at zero momentum transfer. These results are of interest as they correspond to a Wandzura-Wilczek-type approximation.</description>
-      <source url="https://doi.org/10.1103/bl2f-xygk">Physical Review D</source>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/bl2f-xygk</guid>
-    </item><item>
-      <title>Track fitting at the full LHC collision rate</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16478-2</link>
-      <description>The LHCb experiment at the Large Hadron Collider underwent a major upgrade before the LHC Run 3 data-taking period, employing an all-software approach in its trigger system. Here we present a fast implementation of a Kalman filter, used in the first trigger stage since the 2025 data-taking period, allowing to determine parameter estimates of charged-particle trajectories at the full LHCb collision frequency of 30 MHz. This approach replaces computationally expensive magnetic field map lookups and numerical integration methods with fast analytical parameterisations while maintaining the mathematical framework of Kalman filtering. Implemented on approximately 500 GPUs within the first-level trigger, the algorithm has replaced the previous partial track fitting algorithm in the real-time trigger environment at the cost of a 2% increase in processing time. Compared to the previous fitter, this parameterised Kalman filter shows a significantly improved momentum resolution, resulting in a fa</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16478-2">European Physical Journal C</source>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16478-2</guid>
-    </item><item>
-      <title>Measurement of Born cross sections for e+e−→K+Ξ0Σ¯− at s=3.51–4.95 GeV and observation of ψ(3770)→K+Ξ0Σ¯−</title>
-      <link>https://doi.org/10.1103/4fgk-jg61</link>
-      <description>Using 44.55 fb−1 of e+e− collision data collected by the BESIII detector at the BEPCII collider, we report the first measurement of the Born cross sections for the e+e−→K+Ξ0Σ¯− reaction at 56 center-of-mass energies between 3.51 and 4.95 GeV. A fit to the dressed cross sections reveals the first observation of the ψ(3770)→K+Ξ0Σ¯− process, with a statistical significance of 6.0σ including systematic uncertainties. This result represents the first observation of charmless three-body baryonic decay of a vector charmonium state above the open-charm threshold, providing important experimental input for studying the origin of the large non-DD¯ component of the ψ(3770) decay width. No significant signals for other charmonium(like) states i.e., ψ(4040), ψ(4160), Y(4230), Y(4360), ψ(4415), Y(4500), Y(4660) or Y(4710) are observed, and the upper limits for the product of the branching fraction and the electronic partial width at the 90% confidence level for each assumed charmonium(like) state ar</description>
-      <source url="https://doi.org/10.1103/4fgk-jg61">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4fgk-jg61</guid>
-    </item><item>
-      <title>First search for sterile neutrino oscillation leading to νμ disappearance in the Booster Neutrino Beam at ICARUS</title>
-      <link>https://doi.org/10.1103/2vms-z2j8</link>
-      <description>We present a search for muon neutrino disappearance in the Booster Neutrino Beam (BNB) at Fermilab using the ICARUS detector. Neutrino interactions identified as muon neutrinos interacting with argon nuclei via the charged current interaction and having only a muon and at least one proton in the final state (1μNp) have been selected from data collected in 2022–2023 (ICARUS Run 2) and compared with a simulation-based expectation. In the context of a fit to a two-neutrino approximation of the sterile 3+1 model, including the impact of systematic uncertainty from the flux, neutrino interaction, and detector models, we find no statistically significant muon neutrino disappearance at the ICARUS baseline of 600 meters from the BNB target. Corresponding 90% CL exclusion contours in the Δm412−sin22θμμ space are presented. This is the first oscillation analysis produced by ICARUS exposed to the BNB. We note that the analysis is systematics limited due to large unconstrained uncertainties from t</description>
-      <source url="https://doi.org/10.1103/2vms-z2j8">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2vms-z2j8</guid>
     </item>
   </channel>
 </rss>
