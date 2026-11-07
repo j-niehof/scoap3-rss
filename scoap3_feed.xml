@@ -5,23 +5,49 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:02:03 +0000</lastBuildDate>
     <item>
-      <title>DMRadio-Core: A new approach for GUT-scale axion searches</title>
-      <link>https://doi.org/10.1103/rwv6-8hr3</link>
-      <description>Searches for QCD axions with masses in the neV/c2 mass range are strongly motivated by new physics at the grand unified theory (GUT) scale and by well-motivated preinflationary axion symmetry breaking scales. This parameter space is challenging to probe due to the small axion-photon couplings, which typically require large, high-field magnets with substantial stored energy. In this paper, we propose a new experimental geometry based on a narrow-bore, segmented solenoid that optimizes the collection of the axion-induced signal using LC resonators outside the high-field region of the magnet bore. This alternative optimization significantly reduces the required stored magnetic energy while preserving sensitivity, thus enabling a near-term experiment in the 30–200 MHz (120−830 neV/c2) range, with a cost-effective, staged scaling to a GUT-scale experiment in the 100 kHz–30 MHz (0.4−120 neV/c2) range.</description>
-      <source url="https://doi.org/10.1103/rwv6-8hr3">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rwv6-8hr3</guid>
+      <title>The entanglement wedge polygon</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)071</link>
+      <description>In this work we consider a particular codimension-one region of a holographic spacetime which we call the entanglement wedge polygon (EWP). For a pure state and a partition of the boundary into a number of regions A the EWP is defined as the region with maximal volume external to all the individual homology regions r_A_i which consist of the intersection of the entanglement wedge EW(A ) with the time slice. In three dimensions, when the EWP has constant curvature as in vacuum AdS and BTZ spacetime, its volume is topological as a direct consequence of the Gauss-Bonnet theorem. The topological nature is lost in the time-dependent covariant case and in the presence of an end-of-the-world brane. In higher dimensions we make progress by considering a number of concrete examples including vacuum, black brane, and soliton solutions of AdS as well as spacetime geometries with end-of-the-world branes dual to boundary conformal field theories. We provide a suitable generalization to mixed states</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)071">Journal of High Energy Physics</source>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)071</guid>
     </item><item>
-      <title>Path to Quantum Simulations of Topological Phases: (2+1)D Quantum Electrodynamics with Wilson Fermions</title>
-      <link>https://doi.org/10.1103/vd45-l8d5</link>
-      <description>Quantum simulation offers a powerful approach to studying quantum field theories, particularly (2+1)D quantum electrodynamics (QED3) with Wilson fermions, which hosts a rich landscape of physical phenomena. A key challenge in lattice formulations is the proper realization of topological phases and the Chern-Simons terms, where fermion discretization plays a crucial role. In this Letter, we highlight the differences between staggered and Wilson fermions coupled to U(1) gauge fields in the Hamiltonian formulation. We analyze why staggered fermions fail to induce (2+1)D topological phases, while Wilson fermions admit a variety of topological phases including Chern insulator and quantum spin Hall phases. Additionally, we uncover a rich phase diagram for the two-flavor Wilson fermion model in the presence of a chemical potential. Our findings resolve existing ambiguities in Hamiltonian formulations and provide a theoretical foundation for future quantum simulations of lattice field theories</description>
-      <source url="https://doi.org/10.1103/vd45-l8d5">Physical Review Letters</source>
-      <author>et al.</author>
+      <title>Gravitational dressing: from the crossed product to more general algebraic and mathematical structure</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)056</link>
+      <description>The crossed product, and consequent transition from von Neumann algebras of type III to II, is recovered from a truncation of more general gravitational dressing constructions, about certain spacetimes. This is done by extending “standard dressing” constructions previously used to give a perturbative definition of “gravitational splittings”, defining approximate localization of information. This result appears to illustrate that this algebraic transition is a small piece of a more general algebraic, or other mathematical, structure associated with quantum gravity. The leading-order structure involves noncommutativity from separated regions, and at the nonperturbative level connects with a possible explanation of holographic behavior for gravity.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)056">Journal of High Energy Physics</source>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)056</guid>
+    </item><item>
+      <title>Radiative decays of the hc meson from lattice QCD</title>
+      <link>https://doi.org/10.1103/3s33-c5n5</link>
+      <description>We explore, for the first time in lattice QCD, the radiative decays to γη and γη′ of the JPC=1+− charmonium state, hc. This work expands upon a previous calculation of J/ψ decays to the same final states, incorporating novel technology to access the hc where it is an excited state and to separate the independent electric dipole and longitudinal form factors. Results for the radiative decay rates, computed on three-flavor lattices with mπ∼391 MeV, show a suppression relative to experiment that is similar to that observed in the prior calculation of J/ψ→γη(′). The timelike Q2 dependence of both form factors together influence the Dalitz decays, hc→ℓ+ℓ−η(′), which are as yet unmeasured experimentally.</description>
+      <source url="https://doi.org/10.1103/3s33-c5n5">Physical Review D</source>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vd45-l8d5</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/3s33-c5n5</guid>
+    </item><item>
+      <title>Searching for symmetric mass generation with staggered fermions in four dimensions</title>
+      <link>https://doi.org/10.1103/7crr-s6k5</link>
+      <description>We conduct numerical simulations to map out the phase diagram and critical behavior of a lattice Higgs model composed of two massless staggered fermion fields forming a doublet under a global SU(2) and coupled to a scalar field in the adjoint representation of the group. The scalar action consists of a potential comprising quadratic and quartic terms and a scalar kinetic term. At fixed quartic coupling we explore a two-dimensional parameter space finding a massless symmetric phase at weak coupling and a massive symmetric phase (SMG phase) at strong coupling. An intermediate antiferromagnetic phase separates these two regimes. These results are consistent with leading order weak and strong coupling expansions. We find that the critical lines bounding the intermediate phase merge at a unique point where all fermion bilinear condensates vanish but fermion susceptibilities diverge as nontrivial powers of the lattice size. We conjecture that this merged point corresponds to a multicritical </description>
+      <source url="https://doi.org/10.1103/7crr-s6k5">Physical Review D</source>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7crr-s6k5</guid>
+    </item><item>
+      <title>Searching for symmetric mass generation with staggered fermions in four dimensions</title>
+      <link>https://doi.org/10.1103/7crr-s6k5</link>
+      <description>We conduct numerical simulations to map out the phase diagram and critical behavior of a lattice Higgs model composed of two massless staggered fermion fields forming a doublet under a global SU(2) and coupled to a scalar field in the adjoint representation of the group. The scalar action consists of a potential comprising quadratic and quartic terms and a scalar kinetic term. At fixed quartic coupling we explore a two-dimensional parameter space finding a massless symmetric phase at weak coupling and a massive symmetric phase (SMG phase) at strong coupling. An intermediate antiferromagnetic phase separates these two regimes. These results are consistent with leading order weak and strong coupling expansions. We find that the critical lines bounding the intermediate phase merge at a unique point where all fermion bilinear condensates vanish but fermion susceptibilities diverge as nontrivial powers of the lattice size. We conjecture that this merged point corresponds to a multicritical </description>
+      <source url="https://doi.org/10.1103/7crr-s6k5">Physical Review D</source>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7crr-s6k5</guid>
+    </item><item>
+      <title>Numerical method for the efficient calculation of scattering form factors</title>
+      <link>https://doi.org/10.1103/24dn-vndz</link>
+      <description>Scintillating molecular crystals have emerged as prime candidates for directional dark matter detector targets. This anisotropy makes them exquisitely sensitive due to the daily modulation induced by the directional dark matter wind. However, predicting the interaction rate for arbitrary molecules requires accurate modeling of the many-body ground as well as excited states, a task that has been historically computationally expensive. Here, we present a theory and computational framework for efficiently computing dark matter scattering form factors for molecules. We introduce scarfff, a GPU-accelerated code to compute the fully three-dimensional anisotropic molecular form factor for arbitrary molecules. We use a full time-dependent density functional theory framework to compute the lowest-lying singlet excited states. Once the many-body electronic structure is computed, the form factors are computed in a small fraction of the time from the transition density matrix. We show that scarfff</description>
+      <source url="https://doi.org/10.1103/24dn-vndz">Physical Review D</source>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/24dn-vndz</guid>
     </item><item>
       <title>Hamiltonian lattice QED3 with one and two flavors of Wilson fermions: Topological structure and response</title>
       <link>https://doi.org/10.1103/kc9m-xv9h</link>
@@ -31,19 +57,13 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/kc9m-xv9h</guid>
     </item><item>
-      <title>CERES: a cryogenic experiment to reconstruct energy systematics in hbox TeO₂ bolometers</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16533-y</link>
-      <description>Cryogenic calorimetric detectors are a powerful tool in the search for rare events such as neutrinoless double beta decay ( 0ν β β ), due to their excellent energy resolution and low intrinsic background. The performance of these detectors depends critically on a precise understanding of their energy scale and energy resolution. Recent studies suggest that both energy scale and energy resolution may vary depending on the spatial location and topology of energy deposition within the detector, indicating the presence of previously uncharacterized systematic effects. The Cryogenic Experiment to Reconstruct Energy Systematics (CERES) is a dedicated experiment designed to directly measure the position dependence of calorimetric response in Tellurium Dioxide ( hbox TeO₂ ) crystals. This paper details the experimental design, current status, and future upgrade plans for CERES.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16533-y">European Physical Journal C</source>
+      <title>DMRadio-Core: A new approach for GUT-scale axion searches</title>
+      <link>https://doi.org/10.1103/rwv6-8hr3</link>
+      <description>Searches for QCD axions with masses in the neV/c2 mass range are strongly motivated by new physics at the grand unified theory (GUT) scale and by well-motivated preinflationary axion symmetry breaking scales. This parameter space is challenging to probe due to the small axion-photon couplings, which typically require large, high-field magnets with substantial stored energy. In this paper, we propose a new experimental geometry based on a narrow-bore, segmented solenoid that optimizes the collection of the axion-induced signal using LC resonators outside the high-field region of the magnet bore. This alternative optimization significantly reduces the required stored magnetic energy while preserving sensitivity, thus enabling a near-term experiment in the 30–200 MHz (120−830 neV/c2) range, with a cost-effective, staged scaling to a GUT-scale experiment in the 100 kHz–30 MHz (0.4−120 neV/c2) range.</description>
+      <source url="https://doi.org/10.1103/rwv6-8hr3">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16533-y</guid>
-    </item><item>
-      <title>Schwarzschild spacetime and the local limit of nonlocal gravity</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16523-0</link>
-      <description>We investigate static spherically symmetric solutions within the framework of the local limit of nonlocal gravity, which is a modified form of the teleparallel equivalent of general relativity. This theory departs from Einstein’s general relativity through the introduction of a scalar gravitational susceptibility function S(x), 1+S &gt; 0 , which is a new phenomenological feature of the spacetime that vanishes in the general relativity limit. It is shown that the Schwarzschild spacetime constitutes an exact solution of the modified source-free gravitational field equations provided S is a constant. The mass of the corresponding Schwarzschild solution is given by M/(1+S) , where M denotes the mass of the solution in the general relativity limit. The interpretation of the solution in terms of a black hole is ruled out due to the divergence of the algebraic invariants of the Weitzenböck torsion at the Schwarzschild horizon.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16523-0">European Physical Journal C</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16523-0</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/rwv6-8hr3</guid>
     </item><item>
       <title>Schwarzschild spacetime and the local limit of nonlocal gravity</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16523-0</link>
@@ -72,6 +92,13 @@
       <source url="https://doi.org/10.1007/JHEP11(2026)052">Journal of High Energy Physics</source>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)052</guid>
+    </item><item>
+      <title>Chebyshev approximations of Feynman integrals for collider physics</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)038</link>
+      <description>We present a novel approach for solving canonical differential equations for Feynman integrals based on an approximation of the integrals with Chebyshev polynomials. By exploiting the analyticity properties of Feynman integrals, the method constructs rapidly converging polynomial approximations along a path, enabling highly efficient numerical evaluation. Moreover, we introduce an adaptive approximation method that dynamically samples to optimise convergence. We implement this framework in double-precision arithmetic and demonstrate its stability across physical phase space using a series of two-loop, five-point examples. Our proof-of-principle implementation proves competitive with state-of-the-art one-fold integral methods, while requiring little to no case-by-case intervention to handle spurious singularities.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)038">Journal of High Energy Physics</source>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)038</guid>
     </item><item>
       <title>Chebyshev approximations of Feynman integrals for collider physics</title>
       <link>https://doi.org/10.1007/JHEP11(2026)038</link>
@@ -111,48 +138,20 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/47j9-h8s5</guid>
     </item><item>
+      <title>Measurements of absolute branching fractions of D0(+)→KKKπ decays</title>
+      <link>https://doi.org/10.1103/pwtz-p7vb</link>
+      <description>Using an e+e− sample of 20.3 fb−1 collected at a center-of-mass energy s=3.773 GeV with the BESIII detector, we report measurements of several four-body hadronic decays of D mesons. All studied decay modes are dominated by Cabibbo-favored amplitudes. The absolute branching fractions are determined to be B(D0→KS0KS0KS0π0)=(7.8−2.0+2.3±1.5)×10−5, B(D0→KS0K+K−π0)=(18.4−2.5+2.6±2.4)×10−5, B(D0→KS0KS0K−π+)=(12.9−1.6+1.7±1.3)×10−5, B(D0→KS0KS0K+π−)=(5.7−1.1+1.2±1.0)×10−5, B(D0→K+K−K−π+)=(17.4−1.7+1.8±2.2)×10−5, B(D+→KS0KS0KS0π+)=(6.0−1.7+2.1±1.6)×10−5, and B(D+→KS0K+K−π+)=(13.8−2.2+2.4±2.5)×10−5. Furthermore, significant ϕ signals are found in the decay channels involving a K+K− pair, and their fractions are determined as B(D0→ϕKS0π0)/B(D0→KS0K+K−π0)=(61−14+15±10)%, B(D0→ϕK−π+)/B(D0→K+K−K−π+)=(71−10+10±13)%, and B(D+→ϕKS0π+)/B(D+→KS0K+K−π+)=(59−19+22±9)%. The branching fractions of D0→KS0KS0KS0π0, D0→KS0K+K−π0, and D+→KS0KS0KS0π+ are measured for the first time, and those of D0→KS0KS0K−π+, D</description>
+      <source url="https://doi.org/10.1103/pwtz-p7vb">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pwtz-p7vb</guid>
+    </item><item>
       <title>A melonic quantum mechanical model without disorder</title>
       <link>https://doi.org/10.1007/JHEP11(2026)021</link>
       <description>We consider a quantum mechanical model involving interacting fermions without disorder that has the same low energy physics as the supersymmetric SYK model. The model is SU(2) invariant, and the supercharge involves the SU(2) 3j symbol. We analyze various solvable corners, conceptually explain why it has a melonic expansion, and perform an exact diagonalization for small values of N. Expanded around the states with maximal angular momentum, the model is approximated by a two dimensional CFT. The BPS states have a simple description in that regime.</description>
       <source url="https://doi.org/10.1007/JHEP11(2026)021">Journal of High Energy Physics</source>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)021</guid>
-    </item><item>
-      <title>Maximal Abelian flavor symmetries</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)025</link>
-      <description>A framework, MAFS, is introduced that provides an approximate description of the hierarchies of quark and lepton masses and mixing angles in terms of a set of small parameters, ϵ , one for each fermion multiplet. MAFS is an alternative to the Froggatt-Nielsen mechanism and has a unique application in any theory, as there are no fermion charges to choose. It becomes more powerful as the number of multiplets is reduced. In SU(5) unified theories, 15 observed mass ratios and mixing angles are described, at the level of factors of 2–3, by five small ϵ parameters. Even though quarks and leptons are unified, the observed hierarchical pattern of quark masses and mixings requires large neutrino mixing angles and small neutrino mass hierarchies. In an SO(10) unified theory, MAFS successfully describes the 15 observed flavor hierarchies with just three small ϵ , taking values of 0.01, 0.02 and 0.002. The observed cosmological baryon asymmetry results approximately from leptogenesis using MAFS in</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)025">Journal of High Energy Physics</source>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)025</guid>
-    </item><item>
-      <title>Static linear response of hot and dense QCD matter to electromagnetic fields: leading hard and soft QCD corrections</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)034</link>
-      <description>We compute the static electromagnetic susceptibilities of a hot and dense quark-gluon plasma using perturbative Quantum Chromodynamics (QCD). Our evaluation includes the leading 𝒪(α ) correction as well as the leading soft, resummed contribution of mathcalO(α_s^3/2) within electrostatic QCD. By matching to Lattice QCD at vanishing baryon chemical potential through Lattice perturbation theory, we establish a connection between perturbative results and Lattice simulations and assess the size of higher-order corrections. This extends the electromagnetic susceptibilities to finite baryon chemical potential, where Lattice methods are not applicable and establishes first-principle constraints on the quark-gluon plasma’s electromagnetic response at temperatures and densities relevant for intermediate-energy heavy-ion collisions.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)034">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)034</guid>
-    </item><item>
-      <title>Spin entanglement signatures of proton from a light-front Hamiltonian</title>
-      <link>https://doi.org/10.1103/29wm-ycwp</link>
-      <description>Quantum entanglement provides a quantitative probe of the internal structure of hadrons and offers a sensitive means to study the quantum correlation in the hadron wave functions. For baryons, the spin state of the three valence quarks forms a tripartite qubit system, whose entanglement structure can be characterized by the four classes of three-qubit states. In this work, we compare the proton spin entanglement obtained from Basis Light-Front Quantization (BLFQ) with that from a quark-diquark model. By analyzing both bipartite and tripartite entanglement, we find that the quark-diquark model yields a substantially more entangled spin state than the BLFQ wave function in the valence Fock sector. This difference mainly originates from the larger W-type and Bell-type entanglement in the quark-diquark model. Within BLFQ, a larger coupling constant and smaller quark mass drive the spin correlation among the valence quarks towards an effective quark-diquark configuration with an active d qu</description>
-      <source url="https://doi.org/10.1103/29wm-ycwp">Physical Review D</source>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/29wm-ycwp</guid>
-    </item><item>
-      <title>Photon emission from rotating plasmas: A generalized McLerran-Toimela formula and the onset of superradiance</title>
-      <link>https://doi.org/10.1103/wm41-k9xw</link>
-      <description>The photon emission and absorption spectra of a plasma rotating with constant angular velocity Ω are derived in terms of the spectral function of the current-current correlator. In contrast to the nonrotating case, the leading contribution arises already at one-loop order. The photon emission spectrum and its elliptic flow are calculated for a rotating quark-gluon plasma and compared with the leading two-loop result for a nonrotating plasma. The rotating plasma is found to emit significantly more soft photons than the nonrotating one. An analysis of the emission and absorption of cylindrical waves indicates that photons with energy ω and azimuthal quantum number m satisfying ωmΩ are emitted at a higher rate than they are absorbed, thereby exhibiting the phenomenon of superradiance. It is further argued that these superradiant modes induce an instability of the magnetic field that is generated concurrently with the plasma in relativistic heavy-ion collisions.</description>
-      <source url="https://doi.org/10.1103/wm41-k9xw">Physical Review D</source>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wm41-k9xw</guid>
-    </item><item>
-      <title>Bayesian inference of the magnetic component in the quark-gluon plasma</title>
-      <link>https://doi.org/10.1103/svh2-j38f</link>
-      <description>The chromomagnetic monopoles (CMM), emergent topological excitations of non-Abelian gauge fields carrying chromomagnetic charge, have long been postulated to play an important role in the vacuum confinement of quantum chromodynamics (QCD), the deconfinement transition at temperature Tc≈160 MeV, as well as the strongly coupled nature of quark-gluon plasma (QGP). While such CMMs were found to help provide resolutions for challenging puzzles from heavy-ion collision measurements, they were typically introduced as model assumptions in the past. Here we perform a data-driven Bayesian inference of the chromomagnetic component, within the CUJET framework, and extract its temperature-dependent abundance for the first time. Using the cujet3 framework for calculations of jet energy loss and analyzing a comprehensive experimental dataset for nuclear modification factor (RAA) and elliptic flow (v2) of high-transverse-momentum hadrons, the fraction of CMMs in the QGP is obtained by Bayesian inferen</description>
-      <source url="https://doi.org/10.1103/svh2-j38f">Physical Review D</source>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/svh2-j38f</guid>
     </item>
   </channel>
 </rss>
