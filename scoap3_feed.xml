@@ -5,8 +5,16 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 16:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 16:28:51 +0000</lastBuildDate>
     <item>
+      <title>ANUBIS detector and its sensitivity to neutral long-lived particles</title>
+      <link>https://doi.org/10.1103/kd5j-d4fv</link>
+      <description>Long-lived particles (LLPs), i.e., particles with macroscopic lifetimes τ&gt;10 ps, appear in various extensions of the Standard Model (SM) that address fundamental questions like the particulate nature of dark matter or baryogenesis. The ANUBIS detector will achieve unprecedented sensitivity to such models compared to existing and approved experiments by instrumenting a large decay volume adjacent to the ATLAS experiment at the high-luminosity LHC with tracking detectors. This paper outlines the proposed detector layouts for ANUBIS, explores their physics potential with a scalar LLP model, and identifies the preferred layout, comparing it to other experiments. The potential background contributions are estimated using a data-driven method, and the topology of potential background events is studied using Monte Carlo simulations. Overall, the ANUBIS detector is expected to probe branching ratios down to O(10−6) for exotic decays of the Higgs boson to scalar long-lived particles with masses</description>
+      <source url="https://doi.org/10.1103/kd5j-d4fv">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/kd5j-d4fv</guid>
+    </item><item>
       <title>The entanglement wedge polygon</title>
       <link>https://doi.org/10.1007/JHEP11(2026)071</link>
       <description>In this work we consider a particular codimension-one region of a holographic spacetime which we call the entanglement wedge polygon (EWP). For a pure state and a partition of the boundary into a number of regions A the EWP is defined as the region with maximal volume external to all the individual homology regions r_A_i which consist of the intersection of the entanglement wedge EW(A ) with the time slice. In three dimensions, when the EWP has constant curvature as in vacuum AdS and BTZ spacetime, its volume is topological as a direct consequence of the Gauss-Bonnet theorem. The topological nature is lost in the time-dependent covariant case and in the presence of an end-of-the-world brane. In higher dimensions we make progress by considering a number of concrete examples including vacuum, black brane, and soliton solutions of AdS as well as spacetime geometries with end-of-the-world branes dual to boundary conformal field theories. We provide a suitable generalization to mixed states</description>
@@ -35,19 +43,20 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/7crr-s6k5</guid>
     </item><item>
-      <title>Searching for symmetric mass generation with staggered fermions in four dimensions</title>
-      <link>https://doi.org/10.1103/7crr-s6k5</link>
-      <description>We conduct numerical simulations to map out the phase diagram and critical behavior of a lattice Higgs model composed of two massless staggered fermion fields forming a doublet under a global SU(2) and coupled to a scalar field in the adjoint representation of the group. The scalar action consists of a potential comprising quadratic and quartic terms and a scalar kinetic term. At fixed quartic coupling we explore a two-dimensional parameter space finding a massless symmetric phase at weak coupling and a massive symmetric phase (SMG phase) at strong coupling. An intermediate antiferromagnetic phase separates these two regimes. These results are consistent with leading order weak and strong coupling expansions. We find that the critical lines bounding the intermediate phase merge at a unique point where all fermion bilinear condensates vanish but fermion susceptibilities diverge as nontrivial powers of the lattice size. We conjecture that this merged point corresponds to a multicritical </description>
-      <source url="https://doi.org/10.1103/7crr-s6k5">Physical Review D</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7crr-s6k5</guid>
-    </item><item>
       <title>Numerical method for the efficient calculation of scattering form factors</title>
       <link>https://doi.org/10.1103/24dn-vndz</link>
       <description>Scintillating molecular crystals have emerged as prime candidates for directional dark matter detector targets. This anisotropy makes them exquisitely sensitive due to the daily modulation induced by the directional dark matter wind. However, predicting the interaction rate for arbitrary molecules requires accurate modeling of the many-body ground as well as excited states, a task that has been historically computationally expensive. Here, we present a theory and computational framework for efficiently computing dark matter scattering form factors for molecules. We introduce scarfff, a GPU-accelerated code to compute the fully three-dimensional anisotropic molecular form factor for arbitrary molecules. We use a full time-dependent density functional theory framework to compute the lowest-lying singlet excited states. Once the many-body electronic structure is computed, the form factors are computed in a small fraction of the time from the transition density matrix. We show that scarfff</description>
       <source url="https://doi.org/10.1103/24dn-vndz">Physical Review D</source>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/24dn-vndz</guid>
+    </item><item>
+      <title>Path to Quantum Simulations of Topological Phases: (2+1)D Quantum Electrodynamics with Wilson Fermions</title>
+      <link>https://doi.org/10.1103/vd45-l8d5</link>
+      <description>Quantum simulation offers a powerful approach to studying quantum field theories, particularly (2+1)D quantum electrodynamics (QED3) with Wilson fermions, which hosts a rich landscape of physical phenomena. A key challenge in lattice formulations is the proper realization of topological phases and the Chern-Simons terms, where fermion discretization plays a crucial role. In this Letter, we highlight the differences between staggered and Wilson fermions coupled to U(1) gauge fields in the Hamiltonian formulation. We analyze why staggered fermions fail to induce (2+1)D topological phases, while Wilson fermions admit a variety of topological phases including Chern insulator and quantum spin Hall phases. Additionally, we uncover a rich phase diagram for the two-flavor Wilson fermion model in the presence of a chemical potential. Our findings resolve existing ambiguities in Hamiltonian formulations and provide a theoretical foundation for future quantum simulations of lattice field theories</description>
+      <source url="https://doi.org/10.1103/vd45-l8d5">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/vd45-l8d5</guid>
     </item><item>
       <title>Hamiltonian lattice QED3 with one and two flavors of Wilson fermions: Topological structure and response</title>
       <link>https://doi.org/10.1103/kc9m-xv9h</link>
@@ -64,6 +73,13 @@
       <author>et al.</author>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/rwv6-8hr3</guid>
+    </item><item>
+      <title>CERES: a cryogenic experiment to reconstruct energy systematics in hbox TeO₂ bolometers</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16533-y</link>
+      <description>Cryogenic calorimetric detectors are a powerful tool in the search for rare events such as neutrinoless double beta decay ( 0ν β β ), due to their excellent energy resolution and low intrinsic background. The performance of these detectors depends critically on a precise understanding of their energy scale and energy resolution. Recent studies suggest that both energy scale and energy resolution may vary depending on the spatial location and topology of energy deposition within the detector, indicating the presence of previously uncharacterized systematic effects. The Cryogenic Experiment to Reconstruct Energy Systematics (CERES) is a dedicated experiment designed to directly measure the position dependence of calorimetric response in Tellurium Dioxide ( hbox TeO₂ ) crystals. This paper details the experimental design, current status, and future upgrade plans for CERES.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16533-y">European Physical Journal C</source>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16533-y</guid>
     </item><item>
       <title>Schwarzschild spacetime and the local limit of nonlocal gravity</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16523-0</link>
@@ -100,13 +116,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)038</guid>
     </item><item>
-      <title>Chebyshev approximations of Feynman integrals for collider physics</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)038</link>
-      <description>We present a novel approach for solving canonical differential equations for Feynman integrals based on an approximation of the integrals with Chebyshev polynomials. By exploiting the analyticity properties of Feynman integrals, the method constructs rapidly converging polynomial approximations along a path, enabling highly efficient numerical evaluation. Moreover, we introduce an adaptive approximation method that dynamically samples to optimise convergence. We implement this framework in double-precision arithmetic and demonstrate its stability across physical phase space using a series of two-loop, five-point examples. Our proof-of-principle implementation proves competitive with state-of-the-art one-fold integral methods, while requiring little to no case-by-case intervention to handle spurious singularities.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)038">Journal of High Energy Physics</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)038</guid>
-    </item><item>
       <title>Bag Parameters for Heavy Meson Lifetimes from a Lattice QCD Calculation at the SU(3)F-symmetric Point</title>
       <link>https://doi.org/10.1103/2vg9-34y9</link>
       <description>We calculate the dimension-six ΔQ=0 four-quark matrix elements describing heavy-meson lifetime ratios using the gradient flow with its short flow-time expansion (SFTX) as a renormalization procedure. On six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we determine flowed bag parameters for physical charm and strange quarks and match to the MS¯ scheme with perturbative SFTX coefficients through next-to-next-to-leading order (NNLO). A multiscale matching procedure using renormalization-group running improves the extrapolation to zero flow time. For the operators relevant to τ(Ds)/τ(D0) at the SU(3)F symmetric point, we obtain B1MS¯(3 GeV)=1.0524(97), B2MS¯(3 GeV)=0.9621(70), ε1MS¯(3 GeV)=−0.2275(76), and ε2MS¯(3 GeV)=−0.0005(8) using a specific choice of evanescent operators. This is the first lattice-QCD determination of ΔQ=0 four-quark operators with a full error budget. It opens the path toward higher-precision predictions of heavy-meson lifetimes and similar quantities exhibit</description>
@@ -114,14 +123,6 @@
       <author>et al.</author>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/2vg9-34y9</guid>
-    </item><item>
-      <title>Measurements of absolute branching fractions of D0(+)→KKKπ decays</title>
-      <link>https://doi.org/10.1103/pwtz-p7vb</link>
-      <description>Using an e+e− sample of 20.3 fb−1 collected at a center-of-mass energy s=3.773 GeV with the BESIII detector, we report measurements of several four-body hadronic decays of D mesons. All studied decay modes are dominated by Cabibbo-favored amplitudes. The absolute branching fractions are determined to be B(D0→KS0KS0KS0π0)=(7.8−2.0+2.3±1.5)×10−5, B(D0→KS0K+K−π0)=(18.4−2.5+2.6±2.4)×10−5, B(D0→KS0KS0K−π+)=(12.9−1.6+1.7±1.3)×10−5, B(D0→KS0KS0K+π−)=(5.7−1.1+1.2±1.0)×10−5, B(D0→K+K−K−π+)=(17.4−1.7+1.8±2.2)×10−5, B(D+→KS0KS0KS0π+)=(6.0−1.7+2.1±1.6)×10−5, and B(D+→KS0K+K−π+)=(13.8−2.2+2.4±2.5)×10−5. Furthermore, significant ϕ signals are found in the decay channels involving a K+K− pair, and their fractions are determined as B(D0→ϕKS0π0)/B(D0→KS0K+K−π0)=(61−14+15±10)%, B(D0→ϕK−π+)/B(D0→K+K−K−π+)=(71−10+10±13)%, and B(D+→ϕKS0π+)/B(D+→KS0K+K−π+)=(59−19+22±9)%. The branching fractions of D0→KS0KS0KS0π0, D0→KS0K+K−π0, and D+→KS0KS0KS0π+ are measured for the first time, and those of D0→KS0KS0K−π+, D</description>
-      <source url="https://doi.org/10.1103/pwtz-p7vb">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pwtz-p7vb</guid>
     </item><item>
       <title>Heavy Quark Transport Is Non-Gaussian beyond Leading Logarithm</title>
       <link>https://doi.org/10.1103/7fd5-1kq5</link>
