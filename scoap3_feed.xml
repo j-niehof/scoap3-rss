@@ -5,8 +5,53 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:21:06 +0000</lastBuildDate>
     <item>
+      <title>Canton-μ proposal: a next-generation muon g!-!2 measurement at sub-0.1 ppm precision</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16588-x</link>
+      <description>We propose a next-generation precision measurement of the muon anomalous magnetic moment (muon g!-!2 ) at the High Intensity Heavy-Ion Accelerator Facility (HIAF) in Huizhou, China. We refer to this proposed experimental programme as μ (Coherent Anomalous magNetic momenT ObservatioN with muon). HIAF’s intense, pulsed GeV-scale muon beams, particularly for negative muons, provide a promising basis for this programme. Building on two previously proposed storage-ring concepts, this work develops HIAF-specific experimental schemes that relax the conventional magic-momentum constraint and allow greater flexibility in the choice of beam momentum. We assess the expected muon intensity at HIAF and the corresponding statistical sensitivity. For each scheme, we identify its distinctive systematic effects, examine feasible control strategies, and propose quantitative systematic-uncertainty targets. Together, the statistical projections and systematic-uncertainty targets indicate prospective total</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16588-x">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16588-x</guid>
+    </item><item>
+      <title>Higher-spin Grassmannian</title>
+      <link>https://doi.org/10.1103/9mlr-dnnz</link>
+      <description>We express the scalar four-point correlator of the Q-model associated with the proposed minimal higher-spin de Sitter/Sp(N) correspondence as an integral over the orthogonal Grassmannian OGr(4,8). The full, crossing-symmetric higher-spin Grassmannian correlator is given by (S2+T2+U2)/(STU), where S, T, U are the Grassmannian Mandelstam variables. Remarkably, this has the same form as the field-theory limit of the Veneziano amplitude, despite encoding an infinite massless higher-spin tower associated with the opposite, tensionless regime. For the scalar sector considered here, the Grassmannian contour gives the full correlator, with no dispersive reconstruction required. We verify the formula by evaluating the contour integral and matching it to the complete momentum-space result, and analyze its singularities and higher-spin residues directly in Grassmannian space.</description>
+      <source url="https://doi.org/10.1103/9mlr-dnnz">Physical Review D</source>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9mlr-dnnz</guid>
+    </item><item>
+      <title>Gravitational vacuum polarization: Decoupling and the conformal anomaly</title>
+      <link>https://doi.org/10.1103/zfr1-2dwf</link>
+      <description>A compact form of the stress-tensor ⟨TabTcd⟩ correlation function of a quantum scalar field of arbitrary mass m and curvature coupling ξ is presented, with particular emphasis on decoupling in the m→∞ limit and the IR origin of the conformal anomaly as m→0. The Ward identity (WI) of covariant conservation is verified for the full second-order metric variation of the one-loop effective action, of which ⟨TabTcd⟩ is part, including local contact terms. This WI is satisfied by two tensors, one spin-2 (traceless) and the second spin-0 (traceful), each multiplied by a Lorentz-invariant form factor computed in n-dimensional regularization. Minimal subtraction of pole terms at n=4 produces form factors that fail to satisfy decoupling for general ξ≠1/6, but can be simply amended to do so. Particular attention is given to the ξ=1/6 case, in which the spin-0 form factor at n=4 is completely finite, requires no UV regularization or subtractions, and satisfies decoupling directly. Its imaginary par</description>
+      <source url="https://doi.org/10.1103/zfr1-2dwf">Physical Review D</source>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/zfr1-2dwf</guid>
+    </item><item>
+      <title>Measurement of the B0-meson production cross section in proton-proton collisions at sqrts=13.6 TeV</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)075</link>
+      <description>This article reports the measurement of the transverse-momentum (p ) differential production cross section of B mesons in proton-proton collisions at a centre-of-mass energy of sqrts=13.6 TeV with the ALICE detector at the CERN LHC. For the first time, the B production cross section is measured at midrapidity (|y| &lt; 0.5) down to p = 1 GeV/c at LHC energies. The B mesons and their charge conjugates were reconstructed via the B → D π decay channel, followed by the D → K π π decay. The measured p-differential production cross section is described within uncertainties by state-of-the-art models based on perturbative quantum-chromodynamics calculations. Its rapidity dependence is also studied by computing the p-differential ratios between the ALICE measurement and the one of B mesons performed by the LHCb Collaboration at forward rapidity. The B production cross section per unit of rapidity at midrapidity is dσ ^B^0/.dy|_|y|&lt;0.5=24.2± 1.4(stat.)± 2.6(syst.)_-0.3^+0.2(extrap.)upmu b .</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)075">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)075</guid>
+    </item><item>
+      <title>Higher-spin correlators in dS</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)062</link>
+      <description>We study momentum-space correlators in minimal higher-spin gravity in dS using its holographic vector-model description. Connected n-point functions in this model are represented by three-dimensional one-loop integrals and are rational functions of the boundary kinematics. We show that the four-point function displays a nontrivial geometric feature: its physical singularity is governed by a Ptolemy relation for the dual momentum quadrilateral. At five points, the pentagon integral introduces an apparent leading Landau singularity, which we show is spurious and disappears once the Gram constraint is imposed. We derive a representation of the five-point function free of spurious singularities and organized in terms of graph-theoretic building blocks. We then verify the conformal invariance of these correlators and discuss their behavior in the soft, collapsed, and Ptolemy limits. This structure suggests a combinatorial bootstrap for higher-spin correlators at general multiplicity, in whi</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)062">Journal of High Energy Physics</source>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)062</guid>
+    </item><item>
+      <title>ANUBIS detector and its sensitivity to neutral long-lived particles</title>
+      <link>https://doi.org/10.1103/kd5j-d4fv</link>
+      <description>Long-lived particles (LLPs), i.e., particles with macroscopic lifetimes τ&gt;10 ps, appear in various extensions of the Standard Model (SM) that address fundamental questions like the particulate nature of dark matter or baryogenesis. The ANUBIS detector will achieve unprecedented sensitivity to such models compared to existing and approved experiments by instrumenting a large decay volume adjacent to the ATLAS experiment at the high-luminosity LHC with tracking detectors. This paper outlines the proposed detector layouts for ANUBIS, explores their physics potential with a scalar LLP model, and identifies the preferred layout, comparing it to other experiments. The potential background contributions are estimated using a data-driven method, and the topology of potential background events is studied using Monte Carlo simulations. Overall, the ANUBIS detector is expected to probe branching ratios down to O(10−6) for exotic decays of the Higgs boson to scalar long-lived particles with masses</description>
+      <source url="https://doi.org/10.1103/kd5j-d4fv">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/kd5j-d4fv</guid>
+    </item><item>
       <title>ANUBIS detector and its sensitivity to neutral long-lived particles</title>
       <link>https://doi.org/10.1103/kd5j-d4fv</link>
       <description>Long-lived particles (LLPs), i.e., particles with macroscopic lifetimes τ&gt;10 ps, appear in various extensions of the Standard Model (SM) that address fundamental questions like the particulate nature of dark matter or baryogenesis. The ANUBIS detector will achieve unprecedented sensitivity to such models compared to existing and approved experiments by instrumenting a large decay volume adjacent to the ATLAS experiment at the high-luminosity LHC with tracking detectors. This paper outlines the proposed detector layouts for ANUBIS, explores their physics potential with a scalar LLP model, and identifies the preferred layout, comparing it to other experiments. The potential background contributions are estimated using a data-driven method, and the topology of potential background events is studied using Monte Carlo simulations. Overall, the ANUBIS detector is expected to probe branching ratios down to O(10−6) for exotic decays of the Higgs boson to scalar long-lived particles with masses</description>
@@ -66,13 +111,21 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/kc9m-xv9h</guid>
     </item><item>
-      <title>DMRadio-Core: A new approach for GUT-scale axion searches</title>
-      <link>https://doi.org/10.1103/rwv6-8hr3</link>
-      <description>Searches for QCD axions with masses in the neV/c2 mass range are strongly motivated by new physics at the grand unified theory (GUT) scale and by well-motivated preinflationary axion symmetry breaking scales. This parameter space is challenging to probe due to the small axion-photon couplings, which typically require large, high-field magnets with substantial stored energy. In this paper, we propose a new experimental geometry based on a narrow-bore, segmented solenoid that optimizes the collection of the axion-induced signal using LC resonators outside the high-field region of the magnet bore. This alternative optimization significantly reduces the required stored magnetic energy while preserving sensitivity, thus enabling a near-term experiment in the 30–200 MHz (120−830 neV/c2) range, with a cost-effective, staged scaling to a GUT-scale experiment in the 100 kHz–30 MHz (0.4−120 neV/c2) range.</description>
-      <source url="https://doi.org/10.1103/rwv6-8hr3">Physical Review D</source>
+      <title>Path to Quantum Simulations of Topological Phases: (2+1)D Quantum Electrodynamics with Wilson Fermions</title>
+      <link>https://doi.org/10.1103/vd45-l8d5</link>
+      <description>Quantum simulation offers a powerful approach to studying quantum field theories, particularly (2+1)D quantum electrodynamics (QED3) with Wilson fermions, which hosts a rich landscape of physical phenomena. A key challenge in lattice formulations is the proper realization of topological phases and the Chern-Simons terms, where fermion discretization plays a crucial role. In this Letter, we highlight the differences between staggered and Wilson fermions coupled to U(1) gauge fields in the Hamiltonian formulation. We analyze why staggered fermions fail to induce (2+1)D topological phases, while Wilson fermions admit a variety of topological phases including Chern insulator and quantum spin Hall phases. Additionally, we uncover a rich phase diagram for the two-flavor Wilson fermion model in the presence of a chemical potential. Our findings resolve existing ambiguities in Hamiltonian formulations and provide a theoretical foundation for future quantum simulations of lattice field theories</description>
+      <source url="https://doi.org/10.1103/vd45-l8d5">Physical Review Letters</source>
       <author>et al.</author>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rwv6-8hr3</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/vd45-l8d5</guid>
+    </item><item>
+      <title>Hamiltonian lattice QED3 with one and two flavors of Wilson fermions: Topological structure and response</title>
+      <link>https://doi.org/10.1103/kc9m-xv9h</link>
+      <description>The quantum simulation of topological phases in (2+1)D quantum electrodynamics with Wilson fermions provides a promising route toward realizing topological phenomena in near-term lattice experiments. We show that the commonly used staggered-fermion discretizations in Hamiltonian gauge theories possesses an exact time-reversal symmetry, which forbids the emergence of nontrivial topological phases and has led to confusion in the existing literature. In this work, we resolve this obstacle by systematically analyzing fermion discretization effects in (2+1)D lattice Hamiltonians of fermions coupled to U(1) gauge fields that satisfy Gauss’s law. We show that Wilson fermions, already in the minimal one-flavor theory, naturally enable topological regimes with nonzero Chern numbers, and that the two-flavor extension at finite chemical potential further enriches the accessible topological structure. We develop gauge-invariant diagnostics of topological response, including many-body Chern numbers</description>
+      <source url="https://doi.org/10.1103/kc9m-xv9h">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/kc9m-xv9h</guid>
     </item><item>
       <title>CERES: a cryogenic experiment to reconstruct energy systematics in hbox TeO₂ bolometers</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16533-y</link>
@@ -88,34 +141,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16523-0</guid>
     </item><item>
-      <title>Poisson bracket and L ∞ algebras</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)049</link>
-      <description>We describe the Poisson bracket of a Lagrangian field theory expressed in the framework of L algebras. If the symplectic structure on phase space is defined following recent work, we show that the Poisson bracket can be computed with the Peierls formula, confirming the well-known result of the covariant phase space formalism. Of particular interest is the Poisson bracket in nonlocal theories. In p-adic string theory we find that a straightforward construction of the Poisson bracket is obstructed by higher derivative instabilities. We also discuss the inverse relation between the Poisson bracket and symplectic structure in the language of homological algebra, extending some ideas in the mathematical physics literature.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)049">Journal of High Energy Physics</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)049</guid>
-    </item><item>
-      <title>QED Corrections to B^-→ τ^-overlineν_τ</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)046</link>
-      <description>Using a sequence of effective field theories (EFTs), we calculate the rate for the leptonic decay B^-→ τ^-overlineν_τ(γ ) including real and virtual QED corrections, with a cut E ≪ Λ imposed on electromagnetic radiation in the B-meson rest frame. We establish a factorization theorem for the rate and evaluate it at 𝒪(α), resumming the leading logarithmic corrections to all orders in perturbation theory. The large mass m allows us to treat the tau lepton as a heavy fermion below μ ~ m ~ m , leading to an EFT construction that is structurally different and noticeably simpler than that for the muon case [1]. In particular, hadron-structure dependent QED corrections can be described in terms of QED-induced B → τ form factors, which should be calculable on the lattice. Our analysis includes the leading Λ /m corrections as well as the leading corrections in E /Λ . We show that contributions of the form Λ m_B/m_τ^2 , which are naively sizable, cancel among each other. Contrary to the muon chan</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)046">Journal of High Energy Physics</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)046</guid>
-    </item><item>
-      <title>Gravitational waves in an A 4 neutrino mass model</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)052</link>
-      <description>The A flavor symmetry has provided tremendous insight into the flavor structure of the lepton sector of the Standard Model, predicting a very good approximation to neutrino mixing angles called tri-bimaximal mixing (TBM). A is spontaneously broken by a scalar called the flavon, and when this happens a number of degenerate vacua can form, resulting in so-called domain walls. These objects are not observed and hence need to be annihilated. This is usually done by explicitly breaking A by adding a bias term to the scalar potential. In this paper, we construct a new model invariant under A × ℤ which creates cosmologically viable domain walls, lifts the degeneracy of the vacuum giving a natural mechanism for domain walls to annihilate, as well as predicts realistic neutrino mixing angles; all utilizing cross couplings between flavons. The annihilation of the domain walls, with proper choice of wall tension and the consequent bias term, leads to a gravitational wave signal that is potentiall</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)052">Journal of High Energy Physics</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)052</guid>
-    </item><item>
-      <title>Chebyshev approximations of Feynman integrals for collider physics</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)038</link>
-      <description>We present a novel approach for solving canonical differential equations for Feynman integrals based on an approximation of the integrals with Chebyshev polynomials. By exploiting the analyticity properties of Feynman integrals, the method constructs rapidly converging polynomial approximations along a path, enabling highly efficient numerical evaluation. Moreover, we introduce an adaptive approximation method that dynamically samples to optimise convergence. We implement this framework in double-precision arithmetic and demonstrate its stability across physical phase space using a series of two-loop, five-point examples. Our proof-of-principle implementation proves competitive with state-of-the-art one-fold integral methods, while requiring little to no case-by-case intervention to handle spurious singularities.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)038">Journal of High Energy Physics</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)038</guid>
-    </item><item>
       <title>Bag Parameters for Heavy Meson Lifetimes from a Lattice QCD Calculation at the SU(3)F-symmetric Point</title>
       <link>https://doi.org/10.1103/2vg9-34y9</link>
       <description>We calculate the dimension-six ΔQ=0 four-quark matrix elements describing heavy-meson lifetime ratios using the gradient flow with its short flow-time expansion (SFTX) as a renormalization procedure. On six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we determine flowed bag parameters for physical charm and strange quarks and match to the MS¯ scheme with perturbative SFTX coefficients through next-to-next-to-leading order (NNLO). A multiscale matching procedure using renormalization-group running improves the extrapolation to zero flow time. For the operators relevant to τ(Ds)/τ(D0) at the SU(3)F symmetric point, we obtain B1MS¯(3 GeV)=1.0524(97), B2MS¯(3 GeV)=0.9621(70), ε1MS¯(3 GeV)=−0.2275(76), and ε2MS¯(3 GeV)=−0.0005(8) using a specific choice of evanescent operators. This is the first lattice-QCD determination of ΔQ=0 four-quark operators with a full error budget. It opens the path toward higher-precision predictions of heavy-meson lifetimes and similar quantities exhibit</description>
@@ -130,29 +155,6 @@
       <source url="https://doi.org/10.1103/7fd5-1kq5">Physical Review Letters</source>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/7fd5-1kq5</guid>
-    </item><item>
-      <title>Heavy-meson bag parameters using gradient flow</title>
-      <link>https://doi.org/10.1103/47j9-h8s5</link>
-      <description>We demonstrate the use of the gradient flow combined with the short flow-time expansion (GF+SFTX) as a renormalization procedure for four-quark operator matrix elements and associated bag parameters relevant to neutral heavy-meson mixing (ΔQ=2) and heavy-meson lifetimes (ΔQ=0). Using six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we calculate for a charm-strange system with physical quark masses flowed bag parameters and match them to the MS¯ scheme using perturbative SFTX coefficients up to next-to-next-to-leading order in QCD. We employ a multiscale matching strategy and a renormalization-group improved flow-time evolution which allows for a reliable estimate of systematic uncertainties. For a fictitious neutral Ds meson, we obtain the ΔQ=2 MS¯ bag parameter B1MS¯(3 GeV)=0.7673(123), consistent with existing short-distance D0 mixing determinations. For the ΔQ=0 lifetime-ratio operator basis, we find the MS¯ results B1MS¯(3 GeV)=1.0524(97), B2MS¯(3 GeV)=0.9621(71), ε1MS¯(3 Ge</description>
-      <source url="https://doi.org/10.1103/47j9-h8s5">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/47j9-h8s5</guid>
-    </item><item>
-      <title>Measurements of absolute branching fractions of D0(+)→KKKπ decays</title>
-      <link>https://doi.org/10.1103/pwtz-p7vb</link>
-      <description>Using an e+e− sample of 20.3 fb−1 collected at a center-of-mass energy s=3.773 GeV with the BESIII detector, we report measurements of several four-body hadronic decays of D mesons. All studied decay modes are dominated by Cabibbo-favored amplitudes. The absolute branching fractions are determined to be B(D0→KS0KS0KS0π0)=(7.8−2.0+2.3±1.5)×10−5, B(D0→KS0K+K−π0)=(18.4−2.5+2.6±2.4)×10−5, B(D0→KS0KS0K−π+)=(12.9−1.6+1.7±1.3)×10−5, B(D0→KS0KS0K+π−)=(5.7−1.1+1.2±1.0)×10−5, B(D0→K+K−K−π+)=(17.4−1.7+1.8±2.2)×10−5, B(D+→KS0KS0KS0π+)=(6.0−1.7+2.1±1.6)×10−5, and B(D+→KS0K+K−π+)=(13.8−2.2+2.4±2.5)×10−5. Furthermore, significant ϕ signals are found in the decay channels involving a K+K− pair, and their fractions are determined as B(D0→ϕKS0π0)/B(D0→KS0K+K−π0)=(61−14+15±10)%, B(D0→ϕK−π+)/B(D0→K+K−K−π+)=(71−10+10±13)%, and B(D+→ϕKS0π+)/B(D+→KS0K+K−π+)=(59−19+22±9)%. The branching fractions of D0→KS0KS0KS0π0, D0→KS0K+K−π0, and D+→KS0KS0KS0π+ are measured for the first time, and those of D0→KS0KS0K−π+, D</description>
-      <source url="https://doi.org/10.1103/pwtz-p7vb">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pwtz-p7vb</guid>
-    </item><item>
-      <title>A melonic quantum mechanical model without disorder</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)021</link>
-      <description>We consider a quantum mechanical model involving interacting fermions without disorder that has the same low energy physics as the supersymmetric SYK model. The model is SU(2) invariant, and the supercharge involves the SU(2) 3j symbol. We analyze various solvable corners, conceptually explain why it has a melonic expansion, and perform an exact diagonalization for small values of N. Expanded around the states with maximal angular momentum, the model is approximated by a two dimensional CFT. The BPS states have a simple description in that regime.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)021">Journal of High Energy Physics</source>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)021</guid>
     </item>
   </channel>
 </rss>
