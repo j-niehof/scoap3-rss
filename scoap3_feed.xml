@@ -5,8 +5,37 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 20:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:25:56 +0000</lastBuildDate>
     <item>
+      <title>Production of Xi and Omega hyperons in high-multiplicity proton–proton collisions at mathbf sqrts = 13 TeV</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16241-7</link>
+      <description>This paper presents the first measurements of Xi and Omega hyperon yields at the highest multiplicities reached in pp collisions at sqrts=13 TeV. This measurement exploits the high-multiplicity pp collisions collected by ALICE with dedicated triggers. The selected collisions are characterised by about 30 charged particles per unit of rapidity, over four times more than in minimum-bias pp collisions at the same centre-of-mass energy, and about twice as many as in minimum-bias p–Pb or very peripheral Pb–Pb collisions at similar energies. The production yields and average transverse momenta of the hyperons agree with trends indicated by previous measurements in pp collisions at lower multiplicities. The difference in average transverse momenta between pp and p–Pb collisions, observed with the new high-multiplicity pp data, provides additional insight into the underlying particle production mechanisms in small collision systems. The results support a strong correlation between multi-strang</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16241-7">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16241-7</guid>
+    </item><item>
+      <title>EFT validity and truncation uncertainty from few nuisance parameters</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)087</link>
+      <description>An observable in an Effective Field Theory (EFT) is an expansion in a set of small parameters, no different than any other perturbation series. Truncating such a series expansion leaves the leading dropped term as the dominant source of error, and that term itself contains a calculable portion. We explore the partial calculation of this next-order error, available at dim-6 in SMEFT with no additional tools needed to simulate it, and explore how to efficiently use that partial calculation to model the next-order uncertainty in full using a minimal number of nuisance parameters. This estimate of the uncertainty of the EFT signal rate naturally imposes EFT validity by ensuring that bounds are driven by kinematic regions where truncation uncertainties are parametrically smaller than the signal. We incorporate the calculable dim-6 piece into the signal and cover the remaining higher-dimension uncertainty with a small set of nuisance parameters derived from a scan over Wilson-coefficient val</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)087">Journal of High Energy Physics</source>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)087</guid>
+    </item><item>
+      <title>Finite-N operator algebras and the Hilbert space of bilocal holography</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)077</link>
+      <description>We give an operator-algebraic and representation-theoretic description of the Hilbert spaces of finite-N bilocal holography. This work is a sequel to the finite-N Hilbert space construction of . The central result is the establishment of an invariant dual-pair operator algebra: before imposing the singlet constraint the Fock space carries commuting actions of the color group and of a bilocal Lie algebra, while the projection to the singlet sector selects a single irreducible representation of the invariant Lie algebra, which we call a master algebra. The finite-N reduction has complementary operator-algebraic and invariant-theory manifestations: quadratic identities characterize the selected representation, while the familiar trace relations appear as null-state identities within that representation. We summarize the orthogonal, symplectic and unitary cases, identify the corresponding finite-N constraints, compute the singlet Casimirs, and explain how finite traces and partition functi</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)077">Journal of High Energy Physics</source>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)077</guid>
+    </item><item>
+      <title>Erratum to: Nonlinear relativistic tidal response of neutron stars</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)069</link>
+      <description>A correction to this paper has been published: https://doi.org/10.1007/JHEP05(2026)074</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)069">Journal of High Energy Physics</source>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)069</guid>
+    </item><item>
       <title>Canton-μ proposal: a next-generation muon g!-!2 measurement at sub-0.1 ppm precision</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16588-x</link>
       <description>We propose a next-generation precision measurement of the muon anomalous magnetic moment (muon g!-!2 ) at the High Intensity Heavy-Ion Accelerator Facility (HIAF) in Huizhou, China. We refer to this proposed experimental programme as μ (Coherent Anomalous magNetic momenT ObservatioN with muon). HIAF’s intense, pulsed GeV-scale muon beams, particularly for negative muons, provide a promising basis for this programme. Building on two previously proposed storage-ring concepts, this work develops HIAF-specific experimental schemes that relax the conventional magic-momentum constraint and allow greater flexibility in the choice of beam momentum. We assess the expected muon intensity at HIAF and the corresponding statistical sensitivity. For each scheme, we identify its distinctive systematic effects, examine feasible control strategies, and propose quantitative systematic-uncertainty targets. Together, the statistical projections and systematic-uncertainty targets indicate prospective total</description>
@@ -15,12 +44,19 @@
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16588-x</guid>
     </item><item>
-      <title>Higher-spin Grassmannian</title>
-      <link>https://doi.org/10.1103/9mlr-dnnz</link>
-      <description>We express the scalar four-point correlator of the Q-model associated with the proposed minimal higher-spin de Sitter/Sp(N) correspondence as an integral over the orthogonal Grassmannian OGr(4,8). The full, crossing-symmetric higher-spin Grassmannian correlator is given by (S2+T2+U2)/(STU), where S, T, U are the Grassmannian Mandelstam variables. Remarkably, this has the same form as the field-theory limit of the Veneziano amplitude, despite encoding an infinite massless higher-spin tower associated with the opposite, tensionless regime. For the scalar sector considered here, the Grassmannian contour gives the full correlator, with no dispersive reconstruction required. We verify the formula by evaluating the contour integral and matching it to the complete momentum-space result, and analyze its singularities and higher-spin residues directly in Grassmannian space.</description>
-      <source url="https://doi.org/10.1103/9mlr-dnnz">Physical Review D</source>
+      <title>Gravitational vacuum polarization: Decoupling and the conformal anomaly</title>
+      <link>https://doi.org/10.1103/zfr1-2dwf</link>
+      <description>A compact form of the stress-tensor ⟨TabTcd⟩ correlation function of a quantum scalar field of arbitrary mass m and curvature coupling ξ is presented, with particular emphasis on decoupling in the m→∞ limit and the IR origin of the conformal anomaly as m→0. The Ward identity (WI) of covariant conservation is verified for the full second-order metric variation of the one-loop effective action, of which ⟨TabTcd⟩ is part, including local contact terms. This WI is satisfied by two tensors, one spin-2 (traceless) and the second spin-0 (traceful), each multiplied by a Lorentz-invariant form factor computed in n-dimensional regularization. Minimal subtraction of pole terms at n=4 produces form factors that fail to satisfy decoupling for general ξ≠1/6, but can be simply amended to do so. Particular attention is given to the ξ=1/6 case, in which the spin-0 form factor at n=4 is completely finite, requires no UV regularization or subtractions, and satisfies decoupling directly. Its imaginary par</description>
+      <source url="https://doi.org/10.1103/zfr1-2dwf">Physical Review D</source>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9mlr-dnnz</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/zfr1-2dwf</guid>
+    </item><item>
+      <title>Dark-Matter-Induced Nuclear Deexcitation at the Short-Baseline Near Detector with Ab Initio Nuclear Theory</title>
+      <link>https://doi.org/10.1103/pppb-9sm1</link>
+      <description>We explore the sensitivity of the short-baseline near detector (SBND) experiment to light dark matter using MeV-scale electromagnetic activity. Inelastic scattering of dark matter with argon nuclei can excite nuclear states that subsequently deexcite via the emission of MeV-scale photons, producing localized low-energy “blip” signatures in a liquid argon time projection chamber. We perform state-of-the-art ab initio nuclear calculations, including all relevant argon excited states with energies up to 18 MeV, to provide reliable predictions for these signals. After accounting for relevant backgrounds, we find that SBND can probe previously unexplored regions of parameter space for light dark matter.</description>
+      <source url="https://doi.org/10.1103/pppb-9sm1">Physical Review Letters</source>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pppb-9sm1</guid>
     </item><item>
       <title>Gravitational vacuum polarization: Decoupling and the conformal anomaly</title>
       <link>https://doi.org/10.1103/zfr1-2dwf</link>
@@ -43,14 +79,6 @@
       <source url="https://doi.org/10.1007/JHEP11(2026)062">Journal of High Energy Physics</source>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)062</guid>
-    </item><item>
-      <title>ANUBIS detector and its sensitivity to neutral long-lived particles</title>
-      <link>https://doi.org/10.1103/kd5j-d4fv</link>
-      <description>Long-lived particles (LLPs), i.e., particles with macroscopic lifetimes τ&gt;10 ps, appear in various extensions of the Standard Model (SM) that address fundamental questions like the particulate nature of dark matter or baryogenesis. The ANUBIS detector will achieve unprecedented sensitivity to such models compared to existing and approved experiments by instrumenting a large decay volume adjacent to the ATLAS experiment at the high-luminosity LHC with tracking detectors. This paper outlines the proposed detector layouts for ANUBIS, explores their physics potential with a scalar LLP model, and identifies the preferred layout, comparing it to other experiments. The potential background contributions are estimated using a data-driven method, and the topology of potential background events is studied using Monte Carlo simulations. Overall, the ANUBIS detector is expected to probe branching ratios down to O(10−6) for exotic decays of the Higgs boson to scalar long-lived particles with masses</description>
-      <source url="https://doi.org/10.1103/kd5j-d4fv">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/kd5j-d4fv</guid>
     </item><item>
       <title>ANUBIS detector and its sensitivity to neutral long-lived particles</title>
       <link>https://doi.org/10.1103/kd5j-d4fv</link>
@@ -110,36 +138,6 @@
       <author>et al.</author>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/kc9m-xv9h</guid>
-    </item><item>
-      <title>Path to Quantum Simulations of Topological Phases: (2+1)D Quantum Electrodynamics with Wilson Fermions</title>
-      <link>https://doi.org/10.1103/vd45-l8d5</link>
-      <description>Quantum simulation offers a powerful approach to studying quantum field theories, particularly (2+1)D quantum electrodynamics (QED3) with Wilson fermions, which hosts a rich landscape of physical phenomena. A key challenge in lattice formulations is the proper realization of topological phases and the Chern-Simons terms, where fermion discretization plays a crucial role. In this Letter, we highlight the differences between staggered and Wilson fermions coupled to U(1) gauge fields in the Hamiltonian formulation. We analyze why staggered fermions fail to induce (2+1)D topological phases, while Wilson fermions admit a variety of topological phases including Chern insulator and quantum spin Hall phases. Additionally, we uncover a rich phase diagram for the two-flavor Wilson fermion model in the presence of a chemical potential. Our findings resolve existing ambiguities in Hamiltonian formulations and provide a theoretical foundation for future quantum simulations of lattice field theories</description>
-      <source url="https://doi.org/10.1103/vd45-l8d5">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/vd45-l8d5</guid>
-    </item><item>
-      <title>Hamiltonian lattice QED3 with one and two flavors of Wilson fermions: Topological structure and response</title>
-      <link>https://doi.org/10.1103/kc9m-xv9h</link>
-      <description>The quantum simulation of topological phases in (2+1)D quantum electrodynamics with Wilson fermions provides a promising route toward realizing topological phenomena in near-term lattice experiments. We show that the commonly used staggered-fermion discretizations in Hamiltonian gauge theories possesses an exact time-reversal symmetry, which forbids the emergence of nontrivial topological phases and has led to confusion in the existing literature. In this work, we resolve this obstacle by systematically analyzing fermion discretization effects in (2+1)D lattice Hamiltonians of fermions coupled to U(1) gauge fields that satisfy Gauss’s law. We show that Wilson fermions, already in the minimal one-flavor theory, naturally enable topological regimes with nonzero Chern numbers, and that the two-flavor extension at finite chemical potential further enriches the accessible topological structure. We develop gauge-invariant diagnostics of topological response, including many-body Chern numbers</description>
-      <source url="https://doi.org/10.1103/kc9m-xv9h">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/kc9m-xv9h</guid>
-    </item><item>
-      <title>CERES: a cryogenic experiment to reconstruct energy systematics in hbox TeO₂ bolometers</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16533-y</link>
-      <description>Cryogenic calorimetric detectors are a powerful tool in the search for rare events such as neutrinoless double beta decay ( 0ν β β ), due to their excellent energy resolution and low intrinsic background. The performance of these detectors depends critically on a precise understanding of their energy scale and energy resolution. Recent studies suggest that both energy scale and energy resolution may vary depending on the spatial location and topology of energy deposition within the detector, indicating the presence of previously uncharacterized systematic effects. The Cryogenic Experiment to Reconstruct Energy Systematics (CERES) is a dedicated experiment designed to directly measure the position dependence of calorimetric response in Tellurium Dioxide ( hbox TeO₂ ) crystals. This paper details the experimental design, current status, and future upgrade plans for CERES.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16533-y">European Physical Journal C</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16533-y</guid>
-    </item><item>
-      <title>Schwarzschild spacetime and the local limit of nonlocal gravity</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16523-0</link>
-      <description>We investigate static spherically symmetric solutions within the framework of the local limit of nonlocal gravity, which is a modified form of the teleparallel equivalent of general relativity. This theory departs from Einstein’s general relativity through the introduction of a scalar gravitational susceptibility function S(x), 1+S &gt; 0 , which is a new phenomenological feature of the spacetime that vanishes in the general relativity limit. It is shown that the Schwarzschild spacetime constitutes an exact solution of the modified source-free gravitational field equations provided S is a constant. The mass of the corresponding Schwarzschild solution is given by M/(1+S) , where M denotes the mass of the solution in the general relativity limit. The interpretation of the solution in terms of a black hole is ruled out due to the divergence of the algebraic invariants of the Weitzenböck torsion at the Schwarzschild horizon.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16523-0">European Physical Journal C</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16523-0</guid>
     </item><item>
       <title>Bag Parameters for Heavy Meson Lifetimes from a Lattice QCD Calculation at the SU(3)F-symmetric Point</title>
       <link>https://doi.org/10.1103/2vg9-34y9</link>
