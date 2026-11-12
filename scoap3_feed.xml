@@ -5,21 +5,50 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:51:29 +0000</lastBuildDate>
     <item>
+      <title>The diagrammar of quantum Magnusian</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)101</link>
+      <description>The logarithm of the time-evolution operator has been termed Magnusian, on account of the fact that its expansion describes the Magnus series. The diagrammatic expansion and computation of the classical Magnusian have been completely established in terms of tree graphs and their Hopf algebra. Recent works initiated extensions into quantum field theory, revealing general structures of loop expansions while finding intriguing relations between different diagrams. In this work, we advance the loop expansion further by providing an efficient diagrammatic algorithm to calculate the weight factor of each graph in the quantum Magnusian, known as the Murua coefficient. This is achieved by incorporating two complementary perspectives on the Magnusian at the same time: the color basis and the black-and-white basis. We extract the Murua coefficients from the Magnus series by utilizing these two bases while implementing an exponentiated Wick contraction. In turn, we identify the loop-level extensi</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)101">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)101</guid>
+    </item><item>
+      <title>Pseudoreal AMSB: troubling tensions with tumbling</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)111</link>
+      <description>I analyze the pseudoreal confining 𝒩 = 1 SUSY gauge theories deformed by anomaly mediated SUSY breaking (AMSB). Taking the conjecture that the AMSB and non-SUSY limits are in the same universality class, I find broadly that the non-SUSY confining pseudoreal gauge theories of this class have no massless vectors in their spectra, and that all but one are fully gapped. This contradicts recent expectations from tumbling. I explore whether or not non-standard tumbling could reconcile the two pictures, and find that it would require condensation in repulsive channels in three of the cases, and that in one case it would require condensation in a higher-order channel. I briefly comment on the additional theories that may be in the conformal window, and find that their SUSY versions are consistent with flowing to superconformal fixed points.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)111">Journal of High Energy Physics</source>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)111</guid>
+    </item><item>
+      <title>Type IIA on Spin (7) manifolds with fluxes</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)115</link>
+      <description>We initiate a systematic study of compactifications of type II string theory to two dimensions on Ricci-flat spaces with fluxes and sources. We derive universal constraints on such compactifications, and then develop type IIA compactifications on Spin(7)-holonomy spaces with bulk fluxes whose tadpole is cancelled by OF1-planes. We derive the resulting two-dimensional 𝒩 = (1, 1) supergravity for a toroidal Spin(7) orbifold, and we extend the metric and universal sectors geometrically to general compact Spin(7) manifolds. In candidate supersymmetric Minkowski vacua, all untwisted shape modes appear in the flux scalar potential and can in principle be classically stabilised. However, in an explicit toroidal orbifold example flux quantisation together with the tadpole bound may obstruct the existence of candidate vacua supported entirely within the untwisted sector. Within the approximation retaining the topological curvature contribution and its associated energy while neglecting the rema</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)115">Journal of High Energy Physics</source>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)115</guid>
+    </item><item>
+      <title>State-dependent geometries from magic-enriched quantum codes</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)102</link>
+      <description>Quantum error-correcting codes provide a powerful framework for emergent spacetime, yet existing subsystem erasure-correcting holographic code models describe only quantum fields on a fixed background: in such codes, the entropic area term is state independent and cannot capture gravitational backreaction. We argue that this limitation is intrinsic to exact subsystem complementary recovery and that incorporating backreaction naturally leads to approximate quantum error correction. We introduce a Ryu-Takayanagi-like entropy decomposition for approximate subsystem erasure-correcting codes, defining bulk matter entropy via optimal recovery and a complementary proto-area entropy as the difference between boundary entropy and recoverable bulk entropy. For a broad class of skewed quantum codes obtained by small nonlocal perturbations of exact codes, the proto-area increases monotonically with bulk entropy, closely aligning with the changes in extremal surface areas in gravitational systems. </description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)102">Journal of High Energy Physics</source>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)102</guid>
+    </item><item>
+      <title>On β-function of 𝒩 = 2 supersymmetric integrable sigma models. Part II</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)099</link>
+      <description>We continue studying regularization scheme dependence of the 𝒩 = 2 supersymmetric sigma models. In the present work the previous result for the four loop β-function is extended to the five loop order. Namely, we find the renormalization scheme, in which the fifth loop contribution is completely eliminated, while the fourth loop contribution is represented by the certain invariant, which is coordinate independent for the metrics of some models. These models include complete T-duals of the η-deformed SU(n)/U(n − 1) models, as well as η-and λ-deformed SU(2)/U(1) models, whose metrics solve the RG flow equation up to the fifth loop order. We also comment on the λ-deformed SU(2)/U(1) and SU(3)/U(2) case, showing that they satisfy five-loop RG flow equation, and discuss their Kähler structure.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)099">Journal of High Energy Physics</source>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)099</guid>
+    </item><item>
       <title>Heavy neutrinos across the electroweak-to-multi-TeV frontier via novel ML-enhanced probes</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16572-5</link>
       <description>We propose a new strategy to probe heavy neutrinos with non-universal fermion couplings at the Large Hadron Collider (LHC) using a novel production mechanism and machine-learning algorithms. Focusing on proton–proton collisions at sqrts = 13.6~textrmTeV , we investigate final states containing a charged lepton, missing transverse energy, and two jets. For heavy neutrino masses below mathcal O(1~textrmTeV) , production is dominated by the s channel process. At higher masses, vector boson fusion becomes the dominant production mechanism, with cross sections that decrease slowly as the heavy neutrino mass increases. We simulate both signal and Standard Model background events and employ gradient-boosted decision trees to optimize event classification. Assuming an integrated luminosity of 3000~mathrm fb^-1 , expected for the high-luminosity, and considering realistic statistical and systematic uncertainties, we find that heavy neutrinos in the mass range 50~textrmGeV – 10~textrmTeV can be </description>
       <source url="https://doi.org/10.1140/epjc/s10052-026-16572-5">European Physical Journal C</source>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16572-5</guid>
-    </item><item>
-      <title>CP asymmetries in charged meson decay to two pions</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)083</link>
-      <description>We study the CP asymmetries in B , D , and K decays into π π . These asymmetries are commonly known to vanish in the isospin limit. We clarify what is meant by the term “isospin limit” in this context. We provide a unified formalism to discuss these asymmetries, and develop an understanding of how various suppression factors distinguish between them qualitatively. We estimate the size of the asymmetries in the Standard Model: A (B → π π ) ∼ 3 × 10 , A (D → π π ) ∼ 10 , and A (K → π π ) ∼ 10 .</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)083">Journal of High Energy Physics</source>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)083</guid>
     </item><item>
       <title>Revisiting curvature corrections for field theory cosmic strings</title>
       <link>https://doi.org/10.1103/8d2s-t5b9</link>
@@ -64,13 +93,6 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)087</guid>
     </item><item>
-      <title>Finite-N operator algebras and the Hilbert space of bilocal holography</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)077</link>
-      <description>We give an operator-algebraic and representation-theoretic description of the Hilbert spaces of finite-N bilocal holography. This work is a sequel to the finite-N Hilbert space construction of . The central result is the establishment of an invariant dual-pair operator algebra: before imposing the singlet constraint the Fock space carries commuting actions of the color group and of a bilocal Lie algebra, while the projection to the singlet sector selects a single irreducible representation of the invariant Lie algebra, which we call a master algebra. The finite-N reduction has complementary operator-algebraic and invariant-theory manifestations: quadratic identities characterize the selected representation, while the familiar trace relations appear as null-state identities within that representation. We summarize the orthogonal, symplectic and unitary cases, identify the corresponding finite-N constraints, compute the singlet Casimirs, and explain how finite traces and partition functi</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)077">Journal of High Energy Physics</source>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)077</guid>
-    </item><item>
       <title>Canton-μ proposal: a next-generation muon g!-!2 measurement at sub-0.1 ppm precision</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16588-x</link>
       <description>We propose a next-generation precision measurement of the muon anomalous magnetic moment (muon g!-!2 ) at the High Intensity Heavy-Ion Accelerator Facility (HIAF) in Huizhou, China. We refer to this proposed experimental programme as μ (Coherent Anomalous magNetic momenT ObservatioN with muon). HIAF’s intense, pulsed GeV-scale muon beams, particularly for negative muons, provide a promising basis for this programme. Building on two previously proposed storage-ring concepts, this work develops HIAF-specific experimental schemes that relax the conventional magic-momentum constraint and allow greater flexibility in the choice of beam momentum. We assess the expected muon intensity at HIAF and the corresponding statistical sensitivity. For each scheme, we identify its distinctive systematic effects, examine feasible control strategies, and propose quantitative systematic-uncertainty targets. Together, the statistical projections and systematic-uncertainty targets indicate prospective total</description>
@@ -78,6 +100,27 @@
       <author>et al.</author>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16588-x</guid>
+    </item><item>
+      <title>Dark-Matter-Induced Nuclear Deexcitation at the Short-Baseline Near Detector with Ab Initio Nuclear Theory</title>
+      <link>https://doi.org/10.1103/pppb-9sm1</link>
+      <description>We explore the sensitivity of the short-baseline near detector (SBND) experiment to light dark matter using MeV-scale electromagnetic activity. Inelastic scattering of dark matter with argon nuclei can excite nuclear states that subsequently deexcite via the emission of MeV-scale photons, producing localized low-energy “blip” signatures in a liquid argon time projection chamber. We perform state-of-the-art ab initio nuclear calculations, including all relevant argon excited states with energies up to 18 MeV, to provide reliable predictions for these signals. After accounting for relevant backgrounds, we find that SBND can probe previously unexplored regions of parameter space for light dark matter.</description>
+      <source url="https://doi.org/10.1103/pppb-9sm1">Physical Review Letters</source>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pppb-9sm1</guid>
+    </item><item>
+      <title>Constraining the neutrino-nucleon cross section with the ultrahigh-energy KM3NeT event</title>
+      <link>https://doi.org/10.1103/pmx2-vzyw</link>
+      <description>KM3NeT’s detection of a muon track produced by a ∼220 PeV neutrino provides an opportunity to probe physics at center-of-momentum energies greater than those probed by the LHC or other existing particle accelerators. In this study, we use this single event to place an upper limit on the neutrino-nucleon cross section of σνN26σνNSM at ECM∼20 TeV. This result can be used to constrain a variety of scenarios beyond the Standard Model. With future very large volume neutrino telescopes, constraints on the neutrino-nucleon scattering cross section are expected to become substantially more stringent and, in some scenarios, could become competitive with accelerator probes of new physics.</description>
+      <source url="https://doi.org/10.1103/pmx2-vzyw">Physical Review D</source>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/pmx2-vzyw</guid>
+    </item><item>
+      <title>Higher-spin Grassmannian</title>
+      <link>https://doi.org/10.1103/9mlr-dnnz</link>
+      <description>We express the scalar four-point correlator of the Q-model associated with the proposed minimal higher-spin de Sitter/Sp(N) correspondence as an integral over the orthogonal Grassmannian OGr(4,8). The full, crossing-symmetric higher-spin Grassmannian correlator is given by (S2+T2+U2)/(STU), where S, T, U are the Grassmannian Mandelstam variables. Remarkably, this has the same form as the field-theory limit of the Veneziano amplitude, despite encoding an infinite massless higher-spin tower associated with the opposite, tensionless regime. For the scalar sector considered here, the Grassmannian contour gives the full correlator, with no dispersive reconstruction required. We verify the formula by evaluating the contour integral and matching it to the complete momentum-space result, and analyze its singularities and higher-spin residues directly in Grassmannian space.</description>
+      <source url="https://doi.org/10.1103/9mlr-dnnz">Physical Review D</source>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/9mlr-dnnz</guid>
     </item><item>
       <title>Gravitational vacuum polarization: Decoupling and the conformal anomaly</title>
       <link>https://doi.org/10.1103/zfr1-2dwf</link>
@@ -106,49 +149,6 @@
       <source url="https://doi.org/10.1103/9mlr-dnnz">Physical Review D</source>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/9mlr-dnnz</guid>
-    </item><item>
-      <title>Measurement of the B0-meson production cross section in proton-proton collisions at sqrts=13.6 TeV</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)075</link>
-      <description>This article reports the measurement of the transverse-momentum (p ) differential production cross section of B mesons in proton-proton collisions at a centre-of-mass energy of sqrts=13.6 TeV with the ALICE detector at the CERN LHC. For the first time, the B production cross section is measured at midrapidity (|y| &lt; 0.5) down to p = 1 GeV/c at LHC energies. The B mesons and their charge conjugates were reconstructed via the B → D π decay channel, followed by the D → K π π decay. The measured p-differential production cross section is described within uncertainties by state-of-the-art models based on perturbative quantum-chromodynamics calculations. Its rapidity dependence is also studied by computing the p-differential ratios between the ALICE measurement and the one of B mesons performed by the LHCb Collaboration at forward rapidity. The B production cross section per unit of rapidity at midrapidity is dσ ^B^0/.dy|_|y|&lt;0.5=24.2± 1.4(stat.)± 2.6(syst.)_-0.3^+0.2(extrap.)upmu b .</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)075">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)075</guid>
-    </item><item>
-      <title>Higher-spin correlators in dS</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)062</link>
-      <description>We study momentum-space correlators in minimal higher-spin gravity in dS using its holographic vector-model description. Connected n-point functions in this model are represented by three-dimensional one-loop integrals and are rational functions of the boundary kinematics. We show that the four-point function displays a nontrivial geometric feature: its physical singularity is governed by a Ptolemy relation for the dual momentum quadrilateral. At five points, the pentagon integral introduces an apparent leading Landau singularity, which we show is spurious and disappears once the Gram constraint is imposed. We derive a representation of the five-point function free of spurious singularities and organized in terms of graph-theoretic building blocks. We then verify the conformal invariance of these correlators and discuss their behavior in the soft, collapsed, and Ptolemy limits. This structure suggests a combinatorial bootstrap for higher-spin correlators at general multiplicity, in whi</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)062">Journal of High Energy Physics</source>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)062</guid>
-    </item><item>
-      <title>The entanglement wedge polygon</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)071</link>
-      <description>In this work we consider a particular codimension-one region of a holographic spacetime which we call the entanglement wedge polygon (EWP). For a pure state and a partition of the boundary into a number of regions A the EWP is defined as the region with maximal volume external to all the individual homology regions r_A_i which consist of the intersection of the entanglement wedge EW(A ) with the time slice. In three dimensions, when the EWP has constant curvature as in vacuum AdS and BTZ spacetime, its volume is topological as a direct consequence of the Gauss-Bonnet theorem. The topological nature is lost in the time-dependent covariant case and in the presence of an end-of-the-world brane. In higher dimensions we make progress by considering a number of concrete examples including vacuum, black brane, and soliton solutions of AdS as well as spacetime geometries with end-of-the-world branes dual to boundary conformal field theories. We provide a suitable generalization to mixed states</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)071">Journal of High Energy Physics</source>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)071</guid>
-    </item><item>
-      <title>Gravitational dressing: from the crossed product to more general algebraic and mathematical structure</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)056</link>
-      <description>The crossed product, and consequent transition from von Neumann algebras of type III to II, is recovered from a truncation of more general gravitational dressing constructions, about certain spacetimes. This is done by extending “standard dressing” constructions previously used to give a perturbative definition of “gravitational splittings”, defining approximate localization of information. This result appears to illustrate that this algebraic transition is a small piece of a more general algebraic, or other mathematical, structure associated with quantum gravity. The leading-order structure involves noncommutativity from separated regions, and at the nonperturbative level connects with a possible explanation of holographic behavior for gravity.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)056">Journal of High Energy Physics</source>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)056</guid>
-    </item><item>
-      <title>Radiative decays of the hc meson from lattice QCD</title>
-      <link>https://doi.org/10.1103/3s33-c5n5</link>
-      <description>We explore, for the first time in lattice QCD, the radiative decays to γη and γη′ of the JPC=1+− charmonium state, hc. This work expands upon a previous calculation of J/ψ decays to the same final states, incorporating novel technology to access the hc where it is an excited state and to separate the independent electric dipole and longitudinal form factors. Results for the radiative decay rates, computed on three-flavor lattices with mπ∼391 MeV, show a suppression relative to experiment that is similar to that observed in the prior calculation of J/ψ→γη(′). The timelike Q2 dependence of both form factors together influence the Dalitz decays, hc→ℓ+ℓ−η(′), which are as yet unmeasured experimentally.</description>
-      <source url="https://doi.org/10.1103/3s33-c5n5">Physical Review D</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3s33-c5n5</guid>
-    </item><item>
-      <title>Searching for symmetric mass generation with staggered fermions in four dimensions</title>
-      <link>https://doi.org/10.1103/7crr-s6k5</link>
-      <description>We conduct numerical simulations to map out the phase diagram and critical behavior of a lattice Higgs model composed of two massless staggered fermion fields forming a doublet under a global SU(2) and coupled to a scalar field in the adjoint representation of the group. The scalar action consists of a potential comprising quadratic and quartic terms and a scalar kinetic term. At fixed quartic coupling we explore a two-dimensional parameter space finding a massless symmetric phase at weak coupling and a massive symmetric phase (SMG phase) at strong coupling. An intermediate antiferromagnetic phase separates these two regimes. These results are consistent with leading order weak and strong coupling expansions. We find that the critical lines bounding the intermediate phase merge at a unique point where all fermion bilinear condensates vanish but fermion susceptibilities diverge as nontrivial powers of the lattice size. We conjecture that this merged point corresponds to a multicritical </description>
-      <source url="https://doi.org/10.1103/7crr-s6k5">Physical Review D</source>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7crr-s6k5</guid>
     </item>
   </channel>
 </rss>
