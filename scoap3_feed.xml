@@ -5,15 +5,57 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:27:44 +0000</lastBuildDate>
     <item>
-      <title>The diagrammar of quantum Magnusian</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)101</link>
-      <description>The logarithm of the time-evolution operator has been termed Magnusian, on account of the fact that its expansion describes the Magnus series. The diagrammatic expansion and computation of the classical Magnusian have been completely established in terms of tree graphs and their Hopf algebra. Recent works initiated extensions into quantum field theory, revealing general structures of loop expansions while finding intriguing relations between different diagrams. In this work, we advance the loop expansion further by providing an efficient diagrammatic algorithm to calculate the weight factor of each graph in the quantum Magnusian, known as the Murua coefficient. This is achieved by incorporating two complementary perspectives on the Magnusian at the same time: the color basis and the black-and-white basis. We extract the Murua coefficients from the Magnus series by utilizing these two bases while implementing an exponentiated Wick contraction. In turn, we identify the loop-level extensi</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)101">Journal of High Energy Physics</source>
+      <title>Optimized filtering for pulse-shape based pile-up rejection applied to 0ν β β search with ^100 Mo</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16476-4</link>
+      <description>Pile-up events, arising from the partial or complete temporal overlap of distinct signals, represent a major challenge in many areas of experimental physics where rare or low-rate processes are targeted. If not properly identified, pile-up can distort reconstructed observables, degrade energy resolution, and generate backgrounds that mimic genuine events of interest. This work presents an algorithm to obtain an optimized digital filter for the discrimination of pile-up events for detectors with known signal response and stationary noise power spectral density. It is developed in the context of the search for neutrinoless double beta decay with cryogenic Li ₂ ^100 MoO _4 detectors like CUPID, where pile-up induced background from ^100 Mo 2ν β β is expected to be the leading background contribution. For this application, the new filter discriminant reduces the pile-up induced background (at 90% efficiency) by 31%, compared to an analysis with a reference method previously presented in Ah</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16476-4">European Physical Journal C</source>
       <author>et al.</author>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16476-4</guid>
+    </item><item>
+      <title>Magnetic field-induced enhancement and quenching of Urca emission in quark matter</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)125</link>
+      <description>Using first-principles field-theoretic methods, we investigate neutrino emission from strongly magnetized dense quark matter under conditions relevant to compact stars. We account for Landau-level quantization of both electron and quark states and show that it strongly modifies the kinematics of Urca processes. In particular, quark quantization restricts the available phase space in which both quark and electron energies can simultaneously lie near their respective Fermi surfaces. At moderately strong magnetic fields, before pronounced quark quantization sets in, the emission rate tends to increase on average with increasing field strength. In the regime of very strong fields, however, the increasingly restricted phase space first gives rise to Shubnikov-de Haas-type oscillations and then to resonance-like spikes near a discrete sequence of Urca-resonant magnetic field values, separated by regions of strong suppression. Finally, the emission rate becomes nearly completely quenched once</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)125">Journal of High Energy Physics</source>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)125</guid>
+    </item><item>
+      <title>Fermion mass relations in one-parameter modular models</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)132</link>
+      <description>Modular flavour symmetries provide a possible organizing principle for the Standard Model Yukawa sector, by replacing generic couplings with a potentially small number of modular forms controlled by a single complex modulus. We study the extreme limit of this idea: one-parameter modular models (OPMs), in which each charged-fermion mass matrix is fixed by a single modular invariant contraction. We develop a systematic method to construct such models, showing that the one-parameter modular model (OPM) requirement is already highly constraining at the level of possible fermion hierarchies. In a concrete realization, the charged-lepton and down-quark sectors are controlled by the common modulus, leading to exact mass relations at the flavour scale,</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)132">Journal of High Energy Physics</source>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)132</guid>
+    </item><item>
+      <title>Asymptotic freedom for holographic energy correlators</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)129</link>
+      <description>We calculate energy correlators in a holographic model incorporating elements of asymptotic freedom and confinement. We model a running coupling by considering a geometry with a warp factor that deviates logarithmically from anti-de Sitter (AdS). A novel aspect of our bulk metric is that it smoothly interpolates between a Randall-Sundrum solution with a hard wall and a geometry corresponding to a logarithmic running typical of gauge theories. By studying shockwave deformations of this metric, we compute a two-point energy correlator assuming a high-energy scalar source. This extends techniques recently developed for correlators in asymptotically AdS geometries. We use numerical methods to find the profile of shockwaves along the extra dimension, as it does not admit an analytical form. The running coupling leads to a decay of the two-point correlator at small angular separation, unlike the flat correlator one finds in AdS. In the back-to-back limit we observe an exponential falloff sim</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)129">Journal of High Energy Physics</source>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)129</guid>
+    </item><item>
+      <title>Phase transitions at more unusual values of theta</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)107</link>
+      <description>We calculate the θ dependence of the vacuum energy in an infinite family of cousins of QCD, where the vacuum structure can be analyzed exactly. These theories are mathcalN = 1 EFTs that descend from mathcalN = 2 SU (N ) gauge theory with N flavors of fundamental hypermultiplets, that are then deformed by anomaly mediated supersymmetry breaking (AMSB). We reproduce results found in previous work that used the full mathcalN = 2 machinery but via a much simpler mathcalN = 1 method. Our method easily extends to infinitely many more theories for which the full mathcalN = 2 approach becomes intractable. We identify values of θ for which the theory undergoes a phase transition, and find that they can occur at both fractional and irrational values of θ/π.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)107">Journal of High Energy Physics</source>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)107</guid>
+    </item><item>
+      <title>Lorentz violation and vector meson dominance</title>
+      <link>https://doi.org/10.1103/qlyt-dmfw</link>
+      <description>Vector meson dominance models describe the mixing of photons with vector mesons; the hadronic admixture frequently dominates the interactions of photons with nucleons. This mixing also makes it possible to test for new physics affecting the vector mesons using photon measurements. The possibilities for new physics to be constrained in this indirect fashion include potential Lorentz and CPT violations in the hadronic effective action. The characteristic scale of bounds on Lorentz violation coefficients in the ρ0 meson sector is two orders of magnitude weaker than the corresponding photon bounds, three orders of magnitude weaker for ϕ vector mesons, and four orders of magnitude weaker for ω mesons.</description>
+      <source url="https://doi.org/10.1103/qlyt-dmfw">Physical Review D</source>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)101</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/qlyt-dmfw</guid>
+    </item><item>
+      <title>Universal seesaw mechanism for fermion masses and strong CP problem</title>
+      <link>https://doi.org/10.1103/1vbs-h2h2</link>
+      <description>We propose a framework for fermion mass generation based on a universal seesaw. The Standard Model is extended by an Abelian gauge symmetry acting on right-handed fermions, together with vectorlike fermions and scalar fields. The ordinary Yukawa couplings are forbidden, except for the top-quark coupling to the Higgs, which is allowed at the renormalizable level and remains unsuppressed. The charged-fermion hierarchies then arise from mixing with the vectorlike sector, and light neutrino masses emerge from a neutral sector Majorana seesaw. CP is exact in the ultraviolet and broken spontaneously by scalar vacuum expectation values. The resulting CP-violating phase is transmitted to the quark sector and generates the Cabibbo-Kobyashi-Maskawa (CKM) phase, while a Nelson-Barr structure, realized through the universal seesaw block form, keeps the physical QCD vacuum angle zero at tree level. Consistency with electric dipole moment (EDM) bounds beyond tree level requires moderately suppressed</description>
+      <source url="https://doi.org/10.1103/1vbs-h2h2">Physical Review D</source>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1vbs-h2h2</guid>
     </item><item>
       <title>Pseudoreal AMSB: troubling tensions with tumbling</title>
       <link>https://doi.org/10.1007/JHEP11(2026)111</link>
@@ -43,6 +85,22 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)099</guid>
     </item><item>
+      <title>The diagrammar of quantum Magnusian</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)101</link>
+      <description>The logarithm of the time-evolution operator has been termed Magnusian, on account of the fact that its expansion describes the Magnus series. The diagrammatic expansion and computation of the classical Magnusian have been completely established in terms of tree graphs and their Hopf algebra. Recent works initiated extensions into quantum field theory, revealing general structures of loop expansions while finding intriguing relations between different diagrams. In this work, we advance the loop expansion further by providing an efficient diagrammatic algorithm to calculate the weight factor of each graph in the quantum Magnusian, known as the Murua coefficient. This is achieved by incorporating two complementary perspectives on the Magnusian at the same time: the color basis and the black-and-white basis. We extract the Murua coefficients from the Magnus series by utilizing these two bases while implementing an exponentiated Wick contraction. In turn, we identify the loop-level extensi</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)101">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)101</guid>
+    </item><item>
+      <title>Gravitational duals from equations of state II: large hierarchies and false vacua</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)113</link>
+      <description>We investigate the reconstruction of holographic duals for strongly coupled quantum field theories in regimes characterized by large hierarchies and the presence of false vacua. Within the gauge/gravity duality, these features translate into non-trivial thermodynamic behaviour and exotic renormalization group flows, including skipping flows between non-adjacent fixed points. Building on previous work based on Physics-Informed Neural Networks (PINNs), we extend the holographic inverse problem of reconstructing the bulk scalar potential from boundary thermodynamic data into this new regime. This setting presents a variety of conceptual and numerical challenges, such as near-degenerate states, large hierarchies of energy scales, and regions of the potential that are not directly probed by the input data. We develop a set of methodological advances that overcome these obstacles, thereby improving the established PINNs-based methodology and extending it to new physical regimes of interest t</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)113">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)113</guid>
+    </item><item>
       <title>Heavy neutrinos across the electroweak-to-multi-TeV frontier via novel ML-enhanced probes</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16572-5</link>
       <description>We propose a new strategy to probe heavy neutrinos with non-universal fermion couplings at the Large Hadron Collider (LHC) using a novel production mechanism and machine-learning algorithms. Focusing on proton–proton collisions at sqrts = 13.6~textrmTeV , we investigate final states containing a charged lepton, missing transverse energy, and two jets. For heavy neutrino masses below mathcal O(1~textrmTeV) , production is dominated by the s channel process. At higher masses, vector boson fusion becomes the dominant production mechanism, with cross sections that decrease slowly as the heavy neutrino mass increases. We simulate both signal and Standard Model background events and employ gradient-boosted decision trees to optimize event classification. Assuming an integrated luminosity of 3000~mathrm fb^-1 , expected for the high-luminosity, and considering realistic statistical and systematic uncertainties, we find that heavy neutrinos in the mass range 50~textrmGeV – 10~textrmTeV can be </description>
@@ -64,19 +122,19 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/2dyh-j2gw</guid>
     </item><item>
-      <title>Analytic results for the two-loop renormalization constants of Feynman gauge QED</title>
-      <link>https://doi.org/10.1103/17zn-8txt</link>
-      <description>The two-loop renormalization constants Zm and Z1=Z2 of Feynman gauge quantum electrodynamics (QED) in the on-shell scheme are computed using dimensional regularization. Analytic results are obtained for these constants. In addition, analytic expressions are obtained for their expansion coefficients in the dimensional regularization parameter ε from order 1/ε2 through order ε5. The high-order expansion coefficients will be needed for future multiloop calculations in QED and will provide a useful check for multiloop calculations in QCD.</description>
-      <source url="https://doi.org/10.1103/17zn-8txt">Physical Review D</source>
+      <title>Revisiting curvature corrections for field theory cosmic strings</title>
+      <link>https://doi.org/10.1103/8d2s-t5b9</link>
+      <description>We present a combined analytical and numerical study of the effective action of field theory cosmic strings in the Abelian-Higgs model in flat space. Starting directly from the underlying solitonic field theory description, we provide a systematic derivation of the low energy effective action and present evidence for the absence of nontrivial curvature correction terms when only the translational Goldstone modes are retained. Using this framework, we extend the effective theory to include higher energy fluctuations of the soliton profile, which map to massive degrees of freedom propagating on the worldsheet. We show that the leading curvature contribution enters only through the coupling between these massive modes and the worldsheet Ricci scalar. We validate the resulting effective theory via lattice simulations of the full field theory equations of motion in flat space, implemented with adaptive mesh refinement to capture the string dynamics across different scales. The numerical sim</description>
+      <source url="https://doi.org/10.1103/8d2s-t5b9">Physical Review D</source>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/17zn-8txt</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/8d2s-t5b9</guid>
     </item><item>
-      <title>Neutrino flavor evolution in high-flux astrophysical environments</title>
-      <link>https://doi.org/10.1103/dds1-t759</link>
-      <description>We examine neutrino evolution in astrophysical environments where the neutrino flux is very large, including core-collapse supernovae and neutron star mergers. In these environments, the neutrino-neutrino and neutrino-antineutrino interactions are crucial. We include nonforward scattering of neutrinos and antineutrinos in a semiclassical treatment. Because of the large scale of neutrino momenta (2–10 MeV), the quantum evolution problem can be treated as a sum over incoherent paths in the momentum and flavor of each neutrino. The phases between different neutrinos are essentially random because of the large kinetic terms. Momentum is conserved at each vertex, and important flavor symmetries are retained. Dynamics in the many-body neutrino system enable rapid equilibration in the energy and angular distributions of all flavors, and an equilibration of products of neutrino and antineutrino densities for each flavor at either large or zero background matter density. We also describe the ev</description>
-      <source url="https://doi.org/10.1103/dds1-t759">Physical Review D</source>
+      <title>Constraining inhomogeneous energy injection from annihilating dark matter and primordial black holes with 21-cm cosmology</title>
+      <link>https://doi.org/10.1103/2dyh-j2gw</link>
+      <description>The cosmic dawn 21-cm signal is a highly sensitive probe of any process which injects energy into the intergalactic medium, enabling novel searches for anomalous energy injection through dark matter interactions. In addition to modifying the global 21-cm signal, these processes would leave distinct imprints on the frequency-resolved 21-cm power spectrum with a morphology jointly set by the time and spatial dependence of energy emission and absorption. In this work, we extend the DM21cm code package, which models the effects of spatially inhomogeneous energy emission and deposition on 21-cm cosmology, to study three well-motivated scenarios which 21-cm measurements are particularly well suited to probe dark matter annihilation through p-wave processes, the Hawking radiation of light primordial black holes, and energetic emission from accreting solar-mass primordial black holes. We project sensitivities to each of these scenarios, demonstrating that leading or near-leading sensitivity to</description>
+      <source url="https://doi.org/10.1103/2dyh-j2gw">Physical Review D</source>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dds1-t759</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/2dyh-j2gw</guid>
     </item><item>
       <title>Production of Xi and Omega hyperons in high-multiplicity proton–proton collisions at mathbf sqrts = 13 TeV</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16241-7</link>
@@ -86,13 +144,6 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16241-7</guid>
     </item><item>
-      <title>EFT validity and truncation uncertainty from few nuisance parameters</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)087</link>
-      <description>An observable in an Effective Field Theory (EFT) is an expansion in a set of small parameters, no different than any other perturbation series. Truncating such a series expansion leaves the leading dropped term as the dominant source of error, and that term itself contains a calculable portion. We explore the partial calculation of this next-order error, available at dim-6 in SMEFT with no additional tools needed to simulate it, and explore how to efficiently use that partial calculation to model the next-order uncertainty in full using a minimal number of nuisance parameters. This estimate of the uncertainty of the EFT signal rate naturally imposes EFT validity by ensuring that bounds are driven by kinematic regions where truncation uncertainties are parametrically smaller than the signal. We incorporate the calculable dim-6 piece into the signal and cover the remaining higher-dimension uncertainty with a small set of nuisance parameters derived from a scan over Wilson-coefficient val</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)087">Journal of High Energy Physics</source>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)087</guid>
-    </item><item>
       <title>Canton-μ proposal: a next-generation muon g!-!2 measurement at sub-0.1 ppm precision</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16588-x</link>
       <description>We propose a next-generation precision measurement of the muon anomalous magnetic moment (muon g!-!2 ) at the High Intensity Heavy-Ion Accelerator Facility (HIAF) in Huizhou, China. We refer to this proposed experimental programme as μ (Coherent Anomalous magNetic momenT ObservatioN with muon). HIAF’s intense, pulsed GeV-scale muon beams, particularly for negative muons, provide a promising basis for this programme. Building on two previously proposed storage-ring concepts, this work develops HIAF-specific experimental schemes that relax the conventional magic-momentum constraint and allow greater flexibility in the choice of beam momentum. We assess the expected muon intensity at HIAF and the corresponding statistical sensitivity. For each scheme, we identify its distinctive systematic effects, examine feasible control strategies, and propose quantitative systematic-uncertainty targets. Together, the statistical projections and systematic-uncertainty targets indicate prospective total</description>
@@ -100,55 +151,6 @@
       <author>et al.</author>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16588-x</guid>
-    </item><item>
-      <title>Dark-Matter-Induced Nuclear Deexcitation at the Short-Baseline Near Detector with Ab Initio Nuclear Theory</title>
-      <link>https://doi.org/10.1103/pppb-9sm1</link>
-      <description>We explore the sensitivity of the short-baseline near detector (SBND) experiment to light dark matter using MeV-scale electromagnetic activity. Inelastic scattering of dark matter with argon nuclei can excite nuclear states that subsequently deexcite via the emission of MeV-scale photons, producing localized low-energy “blip” signatures in a liquid argon time projection chamber. We perform state-of-the-art ab initio nuclear calculations, including all relevant argon excited states with energies up to 18 MeV, to provide reliable predictions for these signals. After accounting for relevant backgrounds, we find that SBND can probe previously unexplored regions of parameter space for light dark matter.</description>
-      <source url="https://doi.org/10.1103/pppb-9sm1">Physical Review Letters</source>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pppb-9sm1</guid>
-    </item><item>
-      <title>Constraining the neutrino-nucleon cross section with the ultrahigh-energy KM3NeT event</title>
-      <link>https://doi.org/10.1103/pmx2-vzyw</link>
-      <description>KM3NeT’s detection of a muon track produced by a ∼220 PeV neutrino provides an opportunity to probe physics at center-of-momentum energies greater than those probed by the LHC or other existing particle accelerators. In this study, we use this single event to place an upper limit on the neutrino-nucleon cross section of σνN26σνNSM at ECM∼20 TeV. This result can be used to constrain a variety of scenarios beyond the Standard Model. With future very large volume neutrino telescopes, constraints on the neutrino-nucleon scattering cross section are expected to become substantially more stringent and, in some scenarios, could become competitive with accelerator probes of new physics.</description>
-      <source url="https://doi.org/10.1103/pmx2-vzyw">Physical Review D</source>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pmx2-vzyw</guid>
-    </item><item>
-      <title>Higher-spin Grassmannian</title>
-      <link>https://doi.org/10.1103/9mlr-dnnz</link>
-      <description>We express the scalar four-point correlator of the Q-model associated with the proposed minimal higher-spin de Sitter/Sp(N) correspondence as an integral over the orthogonal Grassmannian OGr(4,8). The full, crossing-symmetric higher-spin Grassmannian correlator is given by (S2+T2+U2)/(STU), where S, T, U are the Grassmannian Mandelstam variables. Remarkably, this has the same form as the field-theory limit of the Veneziano amplitude, despite encoding an infinite massless higher-spin tower associated with the opposite, tensionless regime. For the scalar sector considered here, the Grassmannian contour gives the full correlator, with no dispersive reconstruction required. We verify the formula by evaluating the contour integral and matching it to the complete momentum-space result, and analyze its singularities and higher-spin residues directly in Grassmannian space.</description>
-      <source url="https://doi.org/10.1103/9mlr-dnnz">Physical Review D</source>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9mlr-dnnz</guid>
-    </item><item>
-      <title>Gravitational vacuum polarization: Decoupling and the conformal anomaly</title>
-      <link>https://doi.org/10.1103/zfr1-2dwf</link>
-      <description>A compact form of the stress-tensor ⟨TabTcd⟩ correlation function of a quantum scalar field of arbitrary mass m and curvature coupling ξ is presented, with particular emphasis on decoupling in the m→∞ limit and the IR origin of the conformal anomaly as m→0. The Ward identity (WI) of covariant conservation is verified for the full second-order metric variation of the one-loop effective action, of which ⟨TabTcd⟩ is part, including local contact terms. This WI is satisfied by two tensors, one spin-2 (traceless) and the second spin-0 (traceful), each multiplied by a Lorentz-invariant form factor computed in n-dimensional regularization. Minimal subtraction of pole terms at n=4 produces form factors that fail to satisfy decoupling for general ξ≠1/6, but can be simply amended to do so. Particular attention is given to the ξ=1/6 case, in which the spin-0 form factor at n=4 is completely finite, requires no UV regularization or subtractions, and satisfies decoupling directly. Its imaginary par</description>
-      <source url="https://doi.org/10.1103/zfr1-2dwf">Physical Review D</source>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/zfr1-2dwf</guid>
-    </item><item>
-      <title>Dark-Matter-Induced Nuclear Deexcitation at the Short-Baseline Near Detector with Ab Initio Nuclear Theory</title>
-      <link>https://doi.org/10.1103/pppb-9sm1</link>
-      <description>We explore the sensitivity of the short-baseline near detector (SBND) experiment to light dark matter using MeV-scale electromagnetic activity. Inelastic scattering of dark matter with argon nuclei can excite nuclear states that subsequently deexcite via the emission of MeV-scale photons, producing localized low-energy “blip” signatures in a liquid argon time projection chamber. We perform state-of-the-art ab initio nuclear calculations, including all relevant argon excited states with energies up to 18 MeV, to provide reliable predictions for these signals. After accounting for relevant backgrounds, we find that SBND can probe previously unexplored regions of parameter space for light dark matter.</description>
-      <source url="https://doi.org/10.1103/pppb-9sm1">Physical Review Letters</source>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pppb-9sm1</guid>
-    </item><item>
-      <title>Constraining the neutrino-nucleon cross section with the ultrahigh-energy KM3NeT event</title>
-      <link>https://doi.org/10.1103/pmx2-vzyw</link>
-      <description>KM3NeT’s detection of a muon track produced by a ∼220 PeV neutrino provides an opportunity to probe physics at center-of-momentum energies greater than those probed by the LHC or other existing particle accelerators. In this study, we use this single event to place an upper limit on the neutrino-nucleon cross section of σνN26σνNSM at ECM∼20 TeV. This result can be used to constrain a variety of scenarios beyond the Standard Model. With future very large volume neutrino telescopes, constraints on the neutrino-nucleon scattering cross section are expected to become substantially more stringent and, in some scenarios, could become competitive with accelerator probes of new physics.</description>
-      <source url="https://doi.org/10.1103/pmx2-vzyw">Physical Review D</source>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/pmx2-vzyw</guid>
-    </item><item>
-      <title>Higher-spin Grassmannian</title>
-      <link>https://doi.org/10.1103/9mlr-dnnz</link>
-      <description>We express the scalar four-point correlator of the Q-model associated with the proposed minimal higher-spin de Sitter/Sp(N) correspondence as an integral over the orthogonal Grassmannian OGr(4,8). The full, crossing-symmetric higher-spin Grassmannian correlator is given by (S2+T2+U2)/(STU), where S, T, U are the Grassmannian Mandelstam variables. Remarkably, this has the same form as the field-theory limit of the Veneziano amplitude, despite encoding an infinite massless higher-spin tower associated with the opposite, tensionless regime. For the scalar sector considered here, the Grassmannian contour gives the full correlator, with no dispersive reconstruction required. We verify the formula by evaluating the contour integral and matching it to the complete momentum-space result, and analyze its singularities and higher-spin residues directly in Grassmannian space.</description>
-      <source url="https://doi.org/10.1103/9mlr-dnnz">Physical Review D</source>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/9mlr-dnnz</guid>
     </item>
   </channel>
 </rss>
