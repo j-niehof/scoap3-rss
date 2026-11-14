@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:19:13 +0000</lastBuildDate>
     <item>
+      <title>Particle production from bubble collisions</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)142</link>
+      <description>Collisions of ultra-relativistic bubbles during cosmological phase transitions can produce particles much heavier than the transition scale. Previous analyses modelled this process as the off-shell decay of the scalar background. We show that its results parametrically overestimate hard particle production and depend on the gauge choice and the coordinate choice in field space. We propose an alternative formalism, analogous to the partonic description of high-energy collisions. In the ultra-relativistic limit, the colliding bubbles undergo nearly free passage and hard production arises from on-shell scatterings among the quanta constituting the Lorentz-contracted walls. We apply this approach to heavy scalar, fermion, and vector particle production, and study the implications for dark matter, leptogenesis, graviton production and primordial gravitational waves.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)142">Journal of High Energy Physics</source>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)142</guid>
+    </item><item>
       <title>Optimized filtering for pulse-shape based pile-up rejection applied to 0ν β β search with ^100 Mo</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16476-4</link>
       <description>Pile-up events, arising from the partial or complete temporal overlap of distinct signals, represent a major challenge in many areas of experimental physics where rare or low-rate processes are targeted. If not properly identified, pile-up can distort reconstructed observables, degrade energy resolution, and generate backgrounds that mimic genuine events of interest. This work presents an algorithm to obtain an optimized digital filter for the discrimination of pile-up events for detectors with known signal response and stationary noise power spectral density. It is developed in the context of the search for neutrinoless double beta decay with cryogenic Li ₂ ^100 MoO _4 detectors like CUPID, where pile-up induced background from ^100 Mo 2ν β β is expected to be the leading background contribution. For this application, the new filter discriminant reduces the pile-up induced background (at 90% efficiency) by 31%, compared to an analysis with a reference method previously presented in Ah</description>
@@ -15,19 +22,49 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16476-4</guid>
     </item><item>
-      <title>Magnetic field-induced enhancement and quenching of Urca emission in quark matter</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)125</link>
-      <description>Using first-principles field-theoretic methods, we investigate neutrino emission from strongly magnetized dense quark matter under conditions relevant to compact stars. We account for Landau-level quantization of both electron and quark states and show that it strongly modifies the kinematics of Urca processes. In particular, quark quantization restricts the available phase space in which both quark and electron energies can simultaneously lie near their respective Fermi surfaces. At moderately strong magnetic fields, before pronounced quark quantization sets in, the emission rate tends to increase on average with increasing field strength. In the regime of very strong fields, however, the increasingly restricted phase space first gives rise to Shubnikov-de Haas-type oscillations and then to resonance-like spikes near a discrete sequence of Urca-resonant magnetic field values, separated by regions of strong suppression. Finally, the emission rate becomes nearly completely quenched once</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)125">Journal of High Energy Physics</source>
+      <title>Measurement of Zγ production in proton-proton collisions at s=13.6 TeV and constraints on neutral triple gauge couplings</title>
+      <link>https://doi.org/10.1103/k9zs-c42w</link>
+      <description>A measurement of the Zγ production cross section in proton-proton collisions at a center-of-mass energy of 13.6 TeV is presented. Data corresponding to an integrated luminosity of 34.8 fb−1, collected by the CMS experiment at the LHC in 2022 are used. Events with an oppositely charged pair of muons or electrons, with an invariant mass corresponding to a Z boson, together with an isolated photon are selected. The measured fiducial cross section for the combined electron and muon channels is 1.896±0.033(stat)±0.054(syst)±0.006(theo) pb, in agreement with the standard model prediction of 1.922±0.094 pb. Constraints on neutral triple gauge couplings generated by dimension-8 operators in a recently proposed effective field theory framework are determined for the first time.</description>
+      <source url="https://doi.org/10.1103/k9zs-c42w">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)125</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/k9zs-c42w</guid>
     </item><item>
-      <title>Fermion mass relations in one-parameter modular models</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)132</link>
-      <description>Modular flavour symmetries provide a possible organizing principle for the Standard Model Yukawa sector, by replacing generic couplings with a potentially small number of modular forms controlled by a single complex modulus. We study the extreme limit of this idea: one-parameter modular models (OPMs), in which each charged-fermion mass matrix is fixed by a single modular invariant contraction. We develop a systematic method to construct such models, showing that the one-parameter modular model (OPM) requirement is already highly constraining at the level of possible fermion hierarchies. In a concrete realization, the charged-lepton and down-quark sectors are controlled by the common modulus, leading to exact mass relations at the flavour scale,</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)132">Journal of High Energy Physics</source>
+      <title>Probing SU(2) quark flavor asymmetry with W bosons at RHIC</title>
+      <link>https://doi.org/10.1103/cmcj-bj3r</link>
+      <description>This work examines the effects of multiple parton radiation on proton-proton W± boson production at the Relativistic Heavy Ion Collider, focusing on the ratio of charged lepton pseudorapidity differential cross sections to test the SU(2) flavor symmetry violation in the proton quark sea. I show that the measured ratio is marginally affected by the fiducial constraints imposed on the QCD recoil radiation by the STAR experiment, and that the ratio is also stable with respect to transverse momentum resummation effects. Hence, the STAR data on the W+/W− cross section ratio provide a robust discrimination of d¯(x) and u¯(x) parton distribution functions (PDFs) at momentum fractions of order 0.1, shown by comparing predictions with various PDF models and using the L2 sensitivity analysis and reweighting methods.</description>
+      <source url="https://doi.org/10.1103/cmcj-bj3r">Physical Review D</source>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)132</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/cmcj-bj3r</guid>
+    </item><item>
+      <title>Exotic Higgs decays at a muon collider</title>
+      <link>https://doi.org/10.1103/53hv-yxhl</link>
+      <description>We study the sensitivity of a future muon collider to exotic Higgs decays in a minimal scenario of Standard Model (SM) augmented with a light singlet scalar S. We consider the decay h→SS and S’s subsequently decay back to SM. In particular, we focus on final states with four bottom quarks (4b), and two bottom quarks and two muons (2b2μ). Analyses are performed for two muon collider benchmark configurations: center-of-mass collision energy s=3 TeV with 1 ab−1 data and s=10 TeV with 10 ab−1 data. Machine-learning techniques are applied to suppress backgrounds and mitigate jet-combinatorics effects in both channels. We find that the 4b mode could be sensitive to the branching ratio, BR(h→SS→4b), of O(10−2) at 3 TeV and O(10−3) at 10 TeV, significantly improving upon high-luminosity LHC projections. In the Higgs-portal model with S coupling to SM only through mixing with the Higgs, the sensitivities to BR(h→SS) remain at the same level given O(1) branching fraction of S decaying into b-qua</description>
+      <source url="https://doi.org/10.1103/53hv-yxhl">Physical Review D</source>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/53hv-yxhl</guid>
+    </item><item>
+      <title>Quantum simulation of QCD in axial gauge</title>
+      <link>https://doi.org/10.1103/64qx-5xts</link>
+      <description>We study quantum simulation of SU(3) non-Abelian gauge theory dynamically coupled with fundamental fermions in 3+1 dimensions by employing the lattice Hamiltonian in axial gauge under fixed boundary conditions, which avoids Gauss’s law constraints. The temporal component of the gauge field is analytically solved in terms of independent field degrees of freedom and a lattice regulated Green’s function. The axial gauge condition is trivially maintained in time evolution, even under Trotterization. The gauge field degrees of freedom are expressed in the local field basis and can be efficiently transformed into the canonical conjugate momentum basis by local quantum Fourier transforms. We prove the number of qubits needed for describing all states up to an energy E with an accuracy ε on a lattice of volume V at bare coupling g is bounded as 16nAV+12nfV, where nA≈log2(64E′V4/3π2ε+322gnfE′1/2V7/63π3ε1/2) is the number of qubits needed for each independent gauge field per site with a shifted </description>
+      <source url="https://doi.org/10.1103/64qx-5xts">Physical Review D</source>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/64qx-5xts</guid>
+    </item><item>
+      <title>First full physics benchmark for highly granular calorimeter surrogates</title>
+      <link>https://doi.org/10.1103/fn99-hq7q</link>
+      <description>The physics programs of current and future collider experiments necessitate the development of surrogate simulators for calorimeter showers. While much progress has been made in the development of generative models for this task, they have typically been evaluated in simplified scenarios and for single particles. This is particularly true for the challenging task of highly granular calorimeter simulation. For the first time, this work studies the use of highly granular generative calorimeter surrogates in a realistic simulation application. We introduce DDML (dd4hep with machine learning), a generic library which enables the combination of generative calorimeter surrogates with realistic detectors implemented using the dd4hep toolkit. We compare two different generative models—one operating on a regular grid representation and the other using a less common point cloud approach. In order to disentangle methodological details from model performance, we provide comparisons to idealized si</description>
+      <source url="https://doi.org/10.1103/fn99-hq7q">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/fn99-hq7q</guid>
+    </item><item>
+      <title>Negative energies and the breakdown of bulk geometry</title>
+      <link>https://doi.org/10.1103/1dc1-c7d9</link>
+      <description>One central question in quantum gravity is to understand how and why predictions from semiclassical gravity can break down in regimes with low spacetime curvature. One diagnostic of such a breakdown is that states which are orthonormal at the semiclassical level can receive large corrections to their inner products from quantum fluctuations. We study this effect by examining inner products in pure 2D Jackiw-Teitelboim gravity. Previous work showed that black hole states with long interiors exhibit a breakdown at length scales of order eS0, where S0 is a parameter analogous to 1/GN in higher dimensions. This breakdown is caused by the discreteness of the spectrum of the dual boundary random matrix theory. We show that the full sum over quantum fluctuations indicates a more dramatic breakdown at parametrically shorter lengths of order eS0/3. In the dual boundary description, these corrections arise from negative energy states appearing in rare members of the random matrix ensemble. These</description>
+      <source url="https://doi.org/10.1103/1dc1-c7d9">Physical Review D</source>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1dc1-c7d9</guid>
     </item><item>
       <title>Asymptotic freedom for holographic energy correlators</title>
       <link>https://doi.org/10.1007/JHEP11(2026)129</link>
@@ -35,13 +72,6 @@
       <source url="https://doi.org/10.1007/JHEP11(2026)129">Journal of High Energy Physics</source>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)129</guid>
-    </item><item>
-      <title>Phase transitions at more unusual values of theta</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)107</link>
-      <description>We calculate the θ dependence of the vacuum energy in an infinite family of cousins of QCD, where the vacuum structure can be analyzed exactly. These theories are mathcalN = 1 EFTs that descend from mathcalN = 2 SU (N ) gauge theory with N flavors of fundamental hypermultiplets, that are then deformed by anomaly mediated supersymmetry breaking (AMSB). We reproduce results found in previous work that used the full mathcalN = 2 machinery but via a much simpler mathcalN = 1 method. Our method easily extends to infinitely many more theories for which the full mathcalN = 2 approach becomes intractable. We identify values of θ for which the theory undergoes a phase transition, and find that they can occur at both fractional and irrational values of θ/π.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)107">Journal of High Energy Physics</source>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)107</guid>
     </item><item>
       <title>Lorentz violation and vector meson dominance</title>
       <link>https://doi.org/10.1103/qlyt-dmfw</link>
@@ -93,64 +123,12 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)101</guid>
     </item><item>
-      <title>Gravitational duals from equations of state II: large hierarchies and false vacua</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)113</link>
-      <description>We investigate the reconstruction of holographic duals for strongly coupled quantum field theories in regimes characterized by large hierarchies and the presence of false vacua. Within the gauge/gravity duality, these features translate into non-trivial thermodynamic behaviour and exotic renormalization group flows, including skipping flows between non-adjacent fixed points. Building on previous work based on Physics-Informed Neural Networks (PINNs), we extend the holographic inverse problem of reconstructing the bulk scalar potential from boundary thermodynamic data into this new regime. This setting presents a variety of conceptual and numerical challenges, such as near-degenerate states, large hierarchies of energy scales, and regions of the potential that are not directly probed by the input data. We develop a set of methodological advances that overcome these obstacles, thereby improving the established PINNs-based methodology and extending it to new physical regimes of interest t</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)113">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)113</guid>
-    </item><item>
       <title>Heavy neutrinos across the electroweak-to-multi-TeV frontier via novel ML-enhanced probes</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16572-5</link>
       <description>We propose a new strategy to probe heavy neutrinos with non-universal fermion couplings at the Large Hadron Collider (LHC) using a novel production mechanism and machine-learning algorithms. Focusing on proton–proton collisions at sqrts = 13.6~textrmTeV , we investigate final states containing a charged lepton, missing transverse energy, and two jets. For heavy neutrino masses below mathcal O(1~textrmTeV) , production is dominated by the s channel process. At higher masses, vector boson fusion becomes the dominant production mechanism, with cross sections that decrease slowly as the heavy neutrino mass increases. We simulate both signal and Standard Model background events and employ gradient-boosted decision trees to optimize event classification. Assuming an integrated luminosity of 3000~mathrm fb^-1 , expected for the high-luminosity, and considering realistic statistical and systematic uncertainties, we find that heavy neutrinos in the mass range 50~textrmGeV – 10~textrmTeV can be </description>
       <source url="https://doi.org/10.1140/epjc/s10052-026-16572-5">European Physical Journal C</source>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16572-5</guid>
-    </item><item>
-      <title>Revisiting curvature corrections for field theory cosmic strings</title>
-      <link>https://doi.org/10.1103/8d2s-t5b9</link>
-      <description>We present a combined analytical and numerical study of the effective action of field theory cosmic strings in the Abelian-Higgs model in flat space. Starting directly from the underlying solitonic field theory description, we provide a systematic derivation of the low energy effective action and present evidence for the absence of nontrivial curvature correction terms when only the translational Goldstone modes are retained. Using this framework, we extend the effective theory to include higher energy fluctuations of the soliton profile, which map to massive degrees of freedom propagating on the worldsheet. We show that the leading curvature contribution enters only through the coupling between these massive modes and the worldsheet Ricci scalar. We validate the resulting effective theory via lattice simulations of the full field theory equations of motion in flat space, implemented with adaptive mesh refinement to capture the string dynamics across different scales. The numerical sim</description>
-      <source url="https://doi.org/10.1103/8d2s-t5b9">Physical Review D</source>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8d2s-t5b9</guid>
-    </item><item>
-      <title>Constraining inhomogeneous energy injection from annihilating dark matter and primordial black holes with 21-cm cosmology</title>
-      <link>https://doi.org/10.1103/2dyh-j2gw</link>
-      <description>The cosmic dawn 21-cm signal is a highly sensitive probe of any process which injects energy into the intergalactic medium, enabling novel searches for anomalous energy injection through dark matter interactions. In addition to modifying the global 21-cm signal, these processes would leave distinct imprints on the frequency-resolved 21-cm power spectrum with a morphology jointly set by the time and spatial dependence of energy emission and absorption. In this work, we extend the DM21cm code package, which models the effects of spatially inhomogeneous energy emission and deposition on 21-cm cosmology, to study three well-motivated scenarios which 21-cm measurements are particularly well suited to probe dark matter annihilation through p-wave processes, the Hawking radiation of light primordial black holes, and energetic emission from accreting solar-mass primordial black holes. We project sensitivities to each of these scenarios, demonstrating that leading or near-leading sensitivity to</description>
-      <source url="https://doi.org/10.1103/2dyh-j2gw">Physical Review D</source>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2dyh-j2gw</guid>
-    </item><item>
-      <title>Revisiting curvature corrections for field theory cosmic strings</title>
-      <link>https://doi.org/10.1103/8d2s-t5b9</link>
-      <description>We present a combined analytical and numerical study of the effective action of field theory cosmic strings in the Abelian-Higgs model in flat space. Starting directly from the underlying solitonic field theory description, we provide a systematic derivation of the low energy effective action and present evidence for the absence of nontrivial curvature correction terms when only the translational Goldstone modes are retained. Using this framework, we extend the effective theory to include higher energy fluctuations of the soliton profile, which map to massive degrees of freedom propagating on the worldsheet. We show that the leading curvature contribution enters only through the coupling between these massive modes and the worldsheet Ricci scalar. We validate the resulting effective theory via lattice simulations of the full field theory equations of motion in flat space, implemented with adaptive mesh refinement to capture the string dynamics across different scales. The numerical sim</description>
-      <source url="https://doi.org/10.1103/8d2s-t5b9">Physical Review D</source>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8d2s-t5b9</guid>
-    </item><item>
-      <title>Constraining inhomogeneous energy injection from annihilating dark matter and primordial black holes with 21-cm cosmology</title>
-      <link>https://doi.org/10.1103/2dyh-j2gw</link>
-      <description>The cosmic dawn 21-cm signal is a highly sensitive probe of any process which injects energy into the intergalactic medium, enabling novel searches for anomalous energy injection through dark matter interactions. In addition to modifying the global 21-cm signal, these processes would leave distinct imprints on the frequency-resolved 21-cm power spectrum with a morphology jointly set by the time and spatial dependence of energy emission and absorption. In this work, we extend the DM21cm code package, which models the effects of spatially inhomogeneous energy emission and deposition on 21-cm cosmology, to study three well-motivated scenarios which 21-cm measurements are particularly well suited to probe dark matter annihilation through p-wave processes, the Hawking radiation of light primordial black holes, and energetic emission from accreting solar-mass primordial black holes. We project sensitivities to each of these scenarios, demonstrating that leading or near-leading sensitivity to</description>
-      <source url="https://doi.org/10.1103/2dyh-j2gw">Physical Review D</source>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2dyh-j2gw</guid>
-    </item><item>
-      <title>Production of Xi and Omega hyperons in high-multiplicity proton–proton collisions at mathbf sqrts = 13 TeV</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16241-7</link>
-      <description>This paper presents the first measurements of Xi and Omega hyperon yields at the highest multiplicities reached in pp collisions at sqrts=13 TeV. This measurement exploits the high-multiplicity pp collisions collected by ALICE with dedicated triggers. The selected collisions are characterised by about 30 charged particles per unit of rapidity, over four times more than in minimum-bias pp collisions at the same centre-of-mass energy, and about twice as many as in minimum-bias p–Pb or very peripheral Pb–Pb collisions at similar energies. The production yields and average transverse momenta of the hyperons agree with trends indicated by previous measurements in pp collisions at lower multiplicities. The difference in average transverse momenta between pp and p–Pb collisions, observed with the new high-multiplicity pp data, provides additional insight into the underlying particle production mechanisms in small collision systems. The results support a strong correlation between multi-strang</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16241-7">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16241-7</guid>
-    </item><item>
-      <title>Canton-μ proposal: a next-generation muon g!-!2 measurement at sub-0.1 ppm precision</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16588-x</link>
-      <description>We propose a next-generation precision measurement of the muon anomalous magnetic moment (muon g!-!2 ) at the High Intensity Heavy-Ion Accelerator Facility (HIAF) in Huizhou, China. We refer to this proposed experimental programme as μ (Coherent Anomalous magNetic momenT ObservatioN with muon). HIAF’s intense, pulsed GeV-scale muon beams, particularly for negative muons, provide a promising basis for this programme. Building on two previously proposed storage-ring concepts, this work develops HIAF-specific experimental schemes that relax the conventional magic-momentum constraint and allow greater flexibility in the choice of beam momentum. We assess the expected muon intensity at HIAF and the corresponding statistical sensitivity. For each scheme, we identify its distinctive systematic effects, examine feasible control strategies, and propose quantitative systematic-uncertainty targets. Together, the statistical projections and systematic-uncertainty targets indicate prospective total</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16588-x">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16588-x</guid>
     </item>
   </channel>
 </rss>
