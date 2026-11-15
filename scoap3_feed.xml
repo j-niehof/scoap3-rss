@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:45:06 +0000</lastBuildDate>
     <item>
+      <title>Particle production from bubble collisions</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)142</link>
+      <description>Collisions of ultra-relativistic bubbles during cosmological phase transitions can produce particles much heavier than the transition scale. Previous analyses modelled this process as the off-shell decay of the scalar background. We show that its results parametrically overestimate hard particle production and depend on the gauge choice and the coordinate choice in field space. We propose an alternative formalism, analogous to the partonic description of high-energy collisions. In the ultra-relativistic limit, the colliding bubbles undergo nearly free passage and hard production arises from on-shell scatterings among the quanta constituting the Lorentz-contracted walls. We apply this approach to heavy scalar, fermion, and vector particle production, and study the implications for dark matter, leptogenesis, graviton production and primordial gravitational waves.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)142">Journal of High Energy Physics</source>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)142</guid>
+    </item><item>
       <title>Particle production from bubble collisions</title>
       <link>https://doi.org/10.1007/JHEP11(2026)142</link>
       <description>Collisions of ultra-relativistic bubbles during cosmological phase transitions can produce particles much heavier than the transition scale. Previous analyses modelled this process as the off-shell decay of the scalar background. We show that its results parametrically overestimate hard particle production and depend on the gauge choice and the coordinate choice in field space. We propose an alternative formalism, analogous to the partonic description of high-energy collisions. In the ultra-relativistic limit, the colliding bubbles undergo nearly free passage and hard production arises from on-shell scatterings among the quanta constituting the Lorentz-contracted walls. We apply this approach to heavy scalar, fermion, and vector particle production, and study the implications for dark matter, leptogenesis, graviton production and primordial gravitational waves.</description>
@@ -30,12 +37,19 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/k9zs-c42w</guid>
     </item><item>
-      <title>Probing SU(2) quark flavor asymmetry with W bosons at RHIC</title>
-      <link>https://doi.org/10.1103/cmcj-bj3r</link>
-      <description>This work examines the effects of multiple parton radiation on proton-proton W± boson production at the Relativistic Heavy Ion Collider, focusing on the ratio of charged lepton pseudorapidity differential cross sections to test the SU(2) flavor symmetry violation in the proton quark sea. I show that the measured ratio is marginally affected by the fiducial constraints imposed on the QCD recoil radiation by the STAR experiment, and that the ratio is also stable with respect to transverse momentum resummation effects. Hence, the STAR data on the W+/W− cross section ratio provide a robust discrimination of d¯(x) and u¯(x) parton distribution functions (PDFs) at momentum fractions of order 0.1, shown by comparing predictions with various PDF models and using the L2 sensitivity analysis and reweighting methods.</description>
-      <source url="https://doi.org/10.1103/cmcj-bj3r">Physical Review D</source>
+      <title>Quantum simulation of QCD in axial gauge</title>
+      <link>https://doi.org/10.1103/64qx-5xts</link>
+      <description>We study quantum simulation of SU(3) non-Abelian gauge theory dynamically coupled with fundamental fermions in 3+1 dimensions by employing the lattice Hamiltonian in axial gauge under fixed boundary conditions, which avoids Gauss’s law constraints. The temporal component of the gauge field is analytically solved in terms of independent field degrees of freedom and a lattice regulated Green’s function. The axial gauge condition is trivially maintained in time evolution, even under Trotterization. The gauge field degrees of freedom are expressed in the local field basis and can be efficiently transformed into the canonical conjugate momentum basis by local quantum Fourier transforms. We prove the number of qubits needed for describing all states up to an energy E with an accuracy ε on a lattice of volume V at bare coupling g is bounded as 16nAV+12nfV, where nA≈log2(64E′V4/3π2ε+322gnfE′1/2V7/63π3ε1/2) is the number of qubits needed for each independent gauge field per site with a shifted </description>
+      <source url="https://doi.org/10.1103/64qx-5xts">Physical Review D</source>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/cmcj-bj3r</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/64qx-5xts</guid>
+    </item><item>
+      <title>Negative energies and the breakdown of bulk geometry</title>
+      <link>https://doi.org/10.1103/1dc1-c7d9</link>
+      <description>One central question in quantum gravity is to understand how and why predictions from semiclassical gravity can break down in regimes with low spacetime curvature. One diagnostic of such a breakdown is that states which are orthonormal at the semiclassical level can receive large corrections to their inner products from quantum fluctuations. We study this effect by examining inner products in pure 2D Jackiw-Teitelboim gravity. Previous work showed that black hole states with long interiors exhibit a breakdown at length scales of order eS0, where S0 is a parameter analogous to 1/GN in higher dimensions. This breakdown is caused by the discreteness of the spectrum of the dual boundary random matrix theory. We show that the full sum over quantum fluctuations indicates a more dramatic breakdown at parametrically shorter lengths of order eS0/3. In the dual boundary description, these corrections arise from negative energy states appearing in rare members of the random matrix ensemble. These</description>
+      <source url="https://doi.org/10.1103/1dc1-c7d9">Physical Review D</source>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/1dc1-c7d9</guid>
     </item><item>
       <title>Exotic Higgs decays at a muon collider</title>
       <link>https://doi.org/10.1103/53hv-yxhl</link>
@@ -44,20 +58,12 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/53hv-yxhl</guid>
     </item><item>
-      <title>Quantum simulation of QCD in axial gauge</title>
-      <link>https://doi.org/10.1103/64qx-5xts</link>
-      <description>We study quantum simulation of SU(3) non-Abelian gauge theory dynamically coupled with fundamental fermions in 3+1 dimensions by employing the lattice Hamiltonian in axial gauge under fixed boundary conditions, which avoids Gauss’s law constraints. The temporal component of the gauge field is analytically solved in terms of independent field degrees of freedom and a lattice regulated Green’s function. The axial gauge condition is trivially maintained in time evolution, even under Trotterization. The gauge field degrees of freedom are expressed in the local field basis and can be efficiently transformed into the canonical conjugate momentum basis by local quantum Fourier transforms. We prove the number of qubits needed for describing all states up to an energy E with an accuracy ε on a lattice of volume V at bare coupling g is bounded as 16nAV+12nfV, where nA≈log2(64E′V4/3π2ε+322gnfE′1/2V7/63π3ε1/2) is the number of qubits needed for each independent gauge field per site with a shifted </description>
-      <source url="https://doi.org/10.1103/64qx-5xts">Physical Review D</source>
+      <title>Probing SU(2) quark flavor asymmetry with W bosons at RHIC</title>
+      <link>https://doi.org/10.1103/cmcj-bj3r</link>
+      <description>This work examines the effects of multiple parton radiation on proton-proton W± boson production at the Relativistic Heavy Ion Collider, focusing on the ratio of charged lepton pseudorapidity differential cross sections to test the SU(2) flavor symmetry violation in the proton quark sea. I show that the measured ratio is marginally affected by the fiducial constraints imposed on the QCD recoil radiation by the STAR experiment, and that the ratio is also stable with respect to transverse momentum resummation effects. Hence, the STAR data on the W+/W− cross section ratio provide a robust discrimination of d¯(x) and u¯(x) parton distribution functions (PDFs) at momentum fractions of order 0.1, shown by comparing predictions with various PDF models and using the L2 sensitivity analysis and reweighting methods.</description>
+      <source url="https://doi.org/10.1103/cmcj-bj3r">Physical Review D</source>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/64qx-5xts</guid>
-    </item><item>
-      <title>First full physics benchmark for highly granular calorimeter surrogates</title>
-      <link>https://doi.org/10.1103/fn99-hq7q</link>
-      <description>The physics programs of current and future collider experiments necessitate the development of surrogate simulators for calorimeter showers. While much progress has been made in the development of generative models for this task, they have typically been evaluated in simplified scenarios and for single particles. This is particularly true for the challenging task of highly granular calorimeter simulation. For the first time, this work studies the use of highly granular generative calorimeter surrogates in a realistic simulation application. We introduce DDML (dd4hep with machine learning), a generic library which enables the combination of generative calorimeter surrogates with realistic detectors implemented using the dd4hep toolkit. We compare two different generative models—one operating on a regular grid representation and the other using a less common point cloud approach. In order to disentangle methodological details from model performance, we provide comparisons to idealized si</description>
-      <source url="https://doi.org/10.1103/fn99-hq7q">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/fn99-hq7q</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/cmcj-bj3r</guid>
     </item><item>
       <title>Negative energies and the breakdown of bulk geometry</title>
       <link>https://doi.org/10.1103/1dc1-c7d9</link>
