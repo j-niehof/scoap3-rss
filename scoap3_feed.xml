@@ -5,14 +5,78 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 16:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:57:54 +0000</lastBuildDate>
     <item>
-      <title>Particle production from bubble collisions</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)142</link>
-      <description>Collisions of ultra-relativistic bubbles during cosmological phase transitions can produce particles much heavier than the transition scale. Previous analyses modelled this process as the off-shell decay of the scalar background. We show that its results parametrically overestimate hard particle production and depend on the gauge choice and the coordinate choice in field space. We propose an alternative formalism, analogous to the partonic description of high-energy collisions. In the ultra-relativistic limit, the colliding bubbles undergo nearly free passage and hard production arises from on-shell scatterings among the quanta constituting the Lorentz-contracted walls. We apply this approach to heavy scalar, fermion, and vector particle production, and study the implications for dark matter, leptogenesis, graviton production and primordial gravitational waves.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)142">Journal of High Energy Physics</source>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)142</guid>
+      <title>Keeping it renormalizable: Minimal baryogenesis induced asymmetric dark matter</title>
+      <link>https://doi.org/10.1103/yxt1-bdx7</link>
+      <description>Many asymmetric dark matter scenarios have been proposed to date. Among them, perhaps the most motivated ones are those in which the dark matter asymmetry is induced from the baryon/lepton asymmetries via chemical equilibration without any new sources of CP violation. However, most of the models put forward along these lines have been excluded by now and/or are based on complicated setups. In this Letter, we present a new, simple, and viable scenario. It assumes only two new fields: a scalar singlet and an inert scalar doublet, and is based only on renormalizable interactions, that slowly generate the dark matter asymmetry from the Standard Model Higgs asymmetry. The successful asymmetry transfer requires small (but technically natural) couplings which in turn make the model CP conserving in practice. The model allows for the direct detection of dark matter in the upcoming generation of experiments, and the inert doublet is predicted to be light enough to be potentially produced and ob</description>
+      <source url="https://doi.org/10.1103/yxt1-bdx7">Physical Review D</source>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/yxt1-bdx7</guid>
+    </item><item>
+      <title>Using the pericentre precession of LAGEOS II to constrain quadratically coupled ultralight dark matter</title>
+      <link>https://doi.org/10.1103/276c-l98h</link>
+      <description>It has been proposed that feebly interacting ultralight scalars may constitute the dark matter content of the Universe. Models describing the interactions of a dark matter scalar with standard model fields may feature quadratic interactions at leading order, such that the scalar acquires an effective mass in the neighborhood of a classical matter distribution. The effect of their introduction is to provide effective shifts in fundamental constants of physics, as well as to mediate scalar “fifth forces” between test bodies. We here demonstrate how these fifth forces can result in pericenter precession in the orbital motion of satellites around the Earth. We apply this to the measured pericenter precession of the LAGEOS II experiment, constraining the mass, and couplings to the light standard model fields of a quadratically coupled ultralight dark matter scalar. We observe such an experiment to be effective in constraining parameter space at strong couplings, where existing constraints f</description>
+      <source url="https://doi.org/10.1103/276c-l98h">Physical Review D</source>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/276c-l98h</guid>
+    </item><item>
+      <title>RG-invariant symmetry ratio for QCD: A study of U(1)A and chiral symmetry restoration</title>
+      <link>https://doi.org/10.1103/sngq-mkbh</link>
+      <description>We introduce a renormalization-group-invariant, scheme-independent symmetry ratio κAB for the quantitative characterization of symmetry breaking in QCD. As a first application, we employ κAB to investigate the relative strength of SU(2)L×SU(2)R chiral symmetry and U(1)A axial symmetry breaking in Nf=2+1+1 lattice QCD using optimal domain-wall fermions at the physical point. Our study covers three lattice spacings and twelve temperatures in the range 164–385 MeV. We examine three independent symmetry-breaking channels in the nonsinglet sector with quark-connected correlators: the U(1)A-sensitive scalar–pseudoscalar channel (κPS), probing the π–δ system; the SU(2)L×SU(2)R-sensitive vector–axial-vector channel (κVA), probing the ρ–a1 system; and an additional U(1)A-sensitive tensor vector–axial-tensor vector channel (κTX), probing the ρT–b1 system. At each lattice spacing, we observe a clear hierarchy κPS&gt;κVA&gt;κTX. Since temperature and lattice spacing are not varied independently in the p</description>
+      <source url="https://doi.org/10.1103/sngq-mkbh">Physical Review D</source>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/sngq-mkbh</guid>
+    </item><item>
+      <title>Dispersion relations of collective flavor excitations in dense neutrino media</title>
+      <link>https://doi.org/10.1103/ypw5-y789</link>
+      <description>We apply the Landau damping theory to collective flavor excitations in dense neutrino media. We demonstrate explicitly that the (meta)stable modes of the collective flavor excitations in a physical dense neutrino gas are indeed weakly damped. We show that, in a neutrino medium with a continuous energy distribution, there can exist infinitely many dispersion relation branches of collective flavor excitations that extend to large wave numbers. In a neutrino gas with one or more zero crossings in the distribution of the difference of the (neutrino) lepton numbers (DLNs), the least damped resonant branches and the metastable branches can suffer from inverse Landau damping at certain wave numbers and thus become unstable. We also introduce the concept of convolved DLN distributions, which can be used to understand the physical origin of the slow and fast flavor instabilities in dense neutrino media in core-collapse supernovae and neutron star mergers.</description>
+      <source url="https://doi.org/10.1103/ypw5-y789">Physical Review D</source>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ypw5-y789</guid>
+    </item><item>
+      <title>Early-time dynamics of heavy-ion collisions through energy correlators: Celestial blocks and the spacetime structure of out-of-equilibrium QCD matter</title>
+      <link>https://doi.org/10.1103/3hn6-crj6</link>
+      <description>Ultrarelativistic heavy-ion collisions provide a unique window into far-from-equilibrium states of QCD matter. The initial stages of these events are characterized by highly anisotropic, nonthermal dynamics that precede hydrodynamization, yet they remain largely inaccessible through conventional soft observables. In this work, we show that the substructure of midrapidity jets provides direct sensitivity to the spacetime structure of this early, anisotropic phase. Using classical Yang-Mills simulations and effective kinetic theory to model the early time evolution of the jet quenching parameter, we compute the contribution of a single g→cc¯ splitting to the azimuthally differential energy-energy correlator within the Baier-Dokshitzer-Mueller-Peigné-Schiff-Zakharov (BDMPS-Z) framework, as a controlled proof of principle. By decomposing the result into celestial blocks, we isolate the coefficients that encode the anisotropic geometry and dynamics of the underlying medium. We identify an o</description>
+      <source url="https://doi.org/10.1103/3hn6-crj6">Physical Review D</source>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3hn6-crj6</guid>
+    </item><item>
+      <title>Probing the fundamental limit of jet tagging with surrogate reference models</title>
+      <link>https://doi.org/10.1103/rcpy-nr72</link>
+      <description>Beyond the practical goal of improving search and measurement sensitivity through better jet tagging algorithms, there is a deeper question: what are their upper performance limits? Generative surrogate models with learned likelihood functions offer a new approach to this problem, provided the surrogate correctly captures the underlying data distribution. In this work, we introduce the SUrrogate ReFerence (SURF) method, a new approach to validating generative models. This framework enables exact Neyman-Pearson tests by training the target model on samples from another tractable surrogate, which is itself trained on real data. We argue that the EPiC-FM generative model is a valid surrogate reference for jetclass jets and apply SURF to show that modern jet taggers may already be operating close to the true statistical limit. By contrast, we find that autoregressive generative pretrained transformer models unphysically exaggerate top vs QCD separation power encoded in the surrogate refere</description>
+      <source url="https://doi.org/10.1103/rcpy-nr72">Physical Review D</source>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rcpy-nr72</guid>
+    </item><item>
+      <title>LIGO, LISA, and ultralight axionlike dark matter</title>
+      <link>https://doi.org/10.1103/4tzy-gbfy</link>
+      <description>Interferometric searches for axion-like dark matter (ALP DM) via the induced photon birefringence in a coherent background have been proposed and analyzed by several authors over the past decade, with tabletop experiments (LIDA, ADBC, DANCE) reporting first results and detailed calculations available for both ground-based (LIGO, GEO600 via DarkGEO) and space-based (LISA, TianQin, Taiji, BBO via Gué et al. [Classical Quantum Gravity 42, 055015 (2025).] and Yao et al. [Phys. Rev. D 111, 055031 (2025).]) gravitational-wave detectors. We revisit this class of measurements within the framework of Krauss [arXiv:1905.10014.] and provide a detailed treatment of the interplay between the DM coherence length λcoh, the interferometer arm length L, and the detector transfer function, with attention to the distinct suppression regimes λcoh&gt;L (cancellation) and λcohL (random walk). For LIGO, the sensitivity is set by the Fabry-Pérot arm-cavity response peaking sharply near the cavity free spectral r</description>
+      <source url="https://doi.org/10.1103/4tzy-gbfy">Physical Review D</source>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4tzy-gbfy</guid>
+    </item><item>
+      <title>First measurements of the branching fractions of J/ψ and ψ(3686)→Σ0Σ¯0η</title>
+      <link>https://doi.org/10.1103/5kzp-t345</link>
+      <description>Based on (10087±44)×106 J/ψ and (2712±14)×106 ψ(3686) events collected with the BESIII detector at the BEPCII collider, the hadronic decays J/ψ→Σ0Σ¯0η and ψ(3686)→Σ0Σ¯0η are observed for the first time. The corresponding branching fractions are measured to be B(J/ψ→Σ0Σ¯0η)=(7.5±0.3±0.8)×10−5 and B(ψ(3686)→Σ0Σ¯0η)=(1.3±0.1±0.1)×10−5, respectively, where the first uncertainties are statistical, and the second systematic. The ratio Q≈B(ψ(3686)→Σ0Σ¯0η)B(J/ψ→Σ0Σ¯0η) is determined to be (17.3±1.5±1.7)%, which is consistent with the 12%-rule within 3.0σ. No significant intermediate states or threshold enhancements are observed in the Σ0 (Σ¯0) η and Σ0Σ¯0 invariant mass spectra.</description>
+      <source url="https://doi.org/10.1103/5kzp-t345">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5kzp-t345</guid>
+    </item><item>
+      <title>Covariant locally localized gravity and vDVZ continuity</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)149</link>
+      <description>The Karch-Randall braneworld concerns the physics of an AdS brane embedded in an ambient gravitational AdS spacetime. The gravitational theory induced on the AdS brane has a very light but massive graviton. It has been established that the zero graviton mass limit of the d-dimensional graviton propagator is smooth at tree-level. Furthermore, this smoothness was conjectured to persist to the quantum level. This conjecture suggests that the massive graviton on the AdS brane is due to spontaneous symmetry breaking, which is consistent with its holographic dual description. In this letter, we show that the zero mass limit of the partition function is a theory of a massless graviton and a decoupled massive vector. The zero mass limit is not the basic Randall-Sundrum II model, but a theory with these additional decoupled vector degrees of freedom coupled only to gravity. The proof relies on deriving the fully covariant description of the d-dimensional gravity theory which enables us to compu</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)149">Journal of High Energy Physics</source>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)149</guid>
+    </item><item>
+      <title>Double-real corrections to e^+e^-→ qoverlineq with partial fractioned scalar radiators and identified particle kinematics mappings</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)146</link>
+      <description>We present a new approach to local infrared subtraction for next-to-next-to-leading order QCD calculations in e^+e^-→ qoverlineq . Overlapping singularities in the multipole radiation pattern are disentangled by partial fractioning, and the kinematics mapping corresponds to iterated next-to-leading order identified particle kinematics. We verify that the double-real remainder is rendered finite in the single and double unresolved limits and investigate the numerical convergence of the Monte-Carlo integral. We compute the phase-space integrals of the scalar counterterms in the back-to-back configuration, both analytically and with the help of numerical techniques based on sector decomposition.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)146">Journal of High Energy Physics</source>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)146</guid>
     </item><item>
       <title>Particle production from bubble collisions</title>
       <link>https://doi.org/10.1007/JHEP11(2026)142</link>
@@ -65,19 +129,13 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/cmcj-bj3r</guid>
     </item><item>
-      <title>Negative energies and the breakdown of bulk geometry</title>
-      <link>https://doi.org/10.1103/1dc1-c7d9</link>
-      <description>One central question in quantum gravity is to understand how and why predictions from semiclassical gravity can break down in regimes with low spacetime curvature. One diagnostic of such a breakdown is that states which are orthonormal at the semiclassical level can receive large corrections to their inner products from quantum fluctuations. We study this effect by examining inner products in pure 2D Jackiw-Teitelboim gravity. Previous work showed that black hole states with long interiors exhibit a breakdown at length scales of order eS0, where S0 is a parameter analogous to 1/GN in higher dimensions. This breakdown is caused by the discreteness of the spectrum of the dual boundary random matrix theory. We show that the full sum over quantum fluctuations indicates a more dramatic breakdown at parametrically shorter lengths of order eS0/3. In the dual boundary description, these corrections arise from negative energy states appearing in rare members of the random matrix ensemble. These</description>
-      <source url="https://doi.org/10.1103/1dc1-c7d9">Physical Review D</source>
+      <title>First full physics benchmark for highly granular calorimeter surrogates</title>
+      <link>https://doi.org/10.1103/fn99-hq7q</link>
+      <description>The physics programs of current and future collider experiments necessitate the development of surrogate simulators for calorimeter showers. While much progress has been made in the development of generative models for this task, they have typically been evaluated in simplified scenarios and for single particles. This is particularly true for the challenging task of highly granular calorimeter simulation. For the first time, this work studies the use of highly granular generative calorimeter surrogates in a realistic simulation application. We introduce DDML (dd4hep with machine learning), a generic library which enables the combination of generative calorimeter surrogates with realistic detectors implemented using the dd4hep toolkit. We compare two different generative models—one operating on a regular grid representation and the other using a less common point cloud approach. In order to disentangle methodological details from model performance, we provide comparisons to idealized si</description>
+      <source url="https://doi.org/10.1103/fn99-hq7q">Physical Review D</source>
+      <author>et al.</author>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/1dc1-c7d9</guid>
-    </item><item>
-      <title>Asymptotic freedom for holographic energy correlators</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)129</link>
-      <description>We calculate energy correlators in a holographic model incorporating elements of asymptotic freedom and confinement. We model a running coupling by considering a geometry with a warp factor that deviates logarithmically from anti-de Sitter (AdS). A novel aspect of our bulk metric is that it smoothly interpolates between a Randall-Sundrum solution with a hard wall and a geometry corresponding to a logarithmic running typical of gauge theories. By studying shockwave deformations of this metric, we compute a two-point energy correlator assuming a high-energy scalar source. This extends techniques recently developed for correlators in asymptotically AdS geometries. We use numerical methods to find the profile of shockwaves along the extra dimension, as it does not admit an analytical form. The running coupling leads to a decay of the two-point correlator at small angular separation, unlike the flat correlator one finds in AdS. In the back-to-back limit we observe an exponential falloff sim</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)129">Journal of High Energy Physics</source>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)129</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/fn99-hq7q</guid>
     </item><item>
       <title>Lorentz violation and vector meson dominance</title>
       <link>https://doi.org/10.1103/qlyt-dmfw</link>
@@ -92,49 +150,6 @@
       <source url="https://doi.org/10.1103/1vbs-h2h2">Physical Review D</source>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/1vbs-h2h2</guid>
-    </item><item>
-      <title>Pseudoreal AMSB: troubling tensions with tumbling</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)111</link>
-      <description>I analyze the pseudoreal confining 𝒩 = 1 SUSY gauge theories deformed by anomaly mediated SUSY breaking (AMSB). Taking the conjecture that the AMSB and non-SUSY limits are in the same universality class, I find broadly that the non-SUSY confining pseudoreal gauge theories of this class have no massless vectors in their spectra, and that all but one are fully gapped. This contradicts recent expectations from tumbling. I explore whether or not non-standard tumbling could reconcile the two pictures, and find that it would require condensation in repulsive channels in three of the cases, and that in one case it would require condensation in a higher-order channel. I briefly comment on the additional theories that may be in the conformal window, and find that their SUSY versions are consistent with flowing to superconformal fixed points.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)111">Journal of High Energy Physics</source>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)111</guid>
-    </item><item>
-      <title>Type IIA on Spin (7) manifolds with fluxes</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)115</link>
-      <description>We initiate a systematic study of compactifications of type II string theory to two dimensions on Ricci-flat spaces with fluxes and sources. We derive universal constraints on such compactifications, and then develop type IIA compactifications on Spin(7)-holonomy spaces with bulk fluxes whose tadpole is cancelled by OF1-planes. We derive the resulting two-dimensional 𝒩 = (1, 1) supergravity for a toroidal Spin(7) orbifold, and we extend the metric and universal sectors geometrically to general compact Spin(7) manifolds. In candidate supersymmetric Minkowski vacua, all untwisted shape modes appear in the flux scalar potential and can in principle be classically stabilised. However, in an explicit toroidal orbifold example flux quantisation together with the tadpole bound may obstruct the existence of candidate vacua supported entirely within the untwisted sector. Within the approximation retaining the topological curvature contribution and its associated energy while neglecting the rema</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)115">Journal of High Energy Physics</source>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)115</guid>
-    </item><item>
-      <title>State-dependent geometries from magic-enriched quantum codes</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)102</link>
-      <description>Quantum error-correcting codes provide a powerful framework for emergent spacetime, yet existing subsystem erasure-correcting holographic code models describe only quantum fields on a fixed background: in such codes, the entropic area term is state independent and cannot capture gravitational backreaction. We argue that this limitation is intrinsic to exact subsystem complementary recovery and that incorporating backreaction naturally leads to approximate quantum error correction. We introduce a Ryu-Takayanagi-like entropy decomposition for approximate subsystem erasure-correcting codes, defining bulk matter entropy via optimal recovery and a complementary proto-area entropy as the difference between boundary entropy and recoverable bulk entropy. For a broad class of skewed quantum codes obtained by small nonlocal perturbations of exact codes, the proto-area increases monotonically with bulk entropy, closely aligning with the changes in extremal surface areas in gravitational systems. </description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)102">Journal of High Energy Physics</source>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)102</guid>
-    </item><item>
-      <title>On β-function of 𝒩 = 2 supersymmetric integrable sigma models. Part II</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)099</link>
-      <description>We continue studying regularization scheme dependence of the 𝒩 = 2 supersymmetric sigma models. In the present work the previous result for the four loop β-function is extended to the five loop order. Namely, we find the renormalization scheme, in which the fifth loop contribution is completely eliminated, while the fourth loop contribution is represented by the certain invariant, which is coordinate independent for the metrics of some models. These models include complete T-duals of the η-deformed SU(n)/U(n − 1) models, as well as η-and λ-deformed SU(2)/U(1) models, whose metrics solve the RG flow equation up to the fifth loop order. We also comment on the λ-deformed SU(2)/U(1) and SU(3)/U(2) case, showing that they satisfy five-loop RG flow equation, and discuss their Kähler structure.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)099">Journal of High Energy Physics</source>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)099</guid>
-    </item><item>
-      <title>The diagrammar of quantum Magnusian</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)101</link>
-      <description>The logarithm of the time-evolution operator has been termed Magnusian, on account of the fact that its expansion describes the Magnus series. The diagrammatic expansion and computation of the classical Magnusian have been completely established in terms of tree graphs and their Hopf algebra. Recent works initiated extensions into quantum field theory, revealing general structures of loop expansions while finding intriguing relations between different diagrams. In this work, we advance the loop expansion further by providing an efficient diagrammatic algorithm to calculate the weight factor of each graph in the quantum Magnusian, known as the Murua coefficient. This is achieved by incorporating two complementary perspectives on the Magnusian at the same time: the color basis and the black-and-white basis. We extract the Murua coefficients from the Magnus series by utilizing these two bases while implementing an exponentiated Wick contraction. In turn, we identify the loop-level extensi</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)101">Journal of High Energy Physics</source>
-      <author>et al.</author>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)101</guid>
-    </item><item>
-      <title>Heavy neutrinos across the electroweak-to-multi-TeV frontier via novel ML-enhanced probes</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16572-5</link>
-      <description>We propose a new strategy to probe heavy neutrinos with non-universal fermion couplings at the Large Hadron Collider (LHC) using a novel production mechanism and machine-learning algorithms. Focusing on proton–proton collisions at sqrts = 13.6~textrmTeV , we investigate final states containing a charged lepton, missing transverse energy, and two jets. For heavy neutrino masses below mathcal O(1~textrmTeV) , production is dominated by the s channel process. At higher masses, vector boson fusion becomes the dominant production mechanism, with cross sections that decrease slowly as the heavy neutrino mass increases. We simulate both signal and Standard Model background events and employ gradient-boosted decision trees to optimize event classification. Assuming an integrated luminosity of 3000~mathrm fb^-1 , expected for the high-luminosity, and considering realistic statistical and systematic uncertainties, we find that heavy neutrinos in the mass range 50~textrmGeV – 10~textrmTeV can be </description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16572-5">European Physical Journal C</source>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16572-5</guid>
     </item>
   </channel>
 </rss>
