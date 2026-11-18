@@ -5,35 +5,23 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:54:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:35:19 +0000</lastBuildDate>
     <item>
-      <title>QCD axion and neutrino masses</title>
-      <link>https://doi.org/10.1103/ln3w-814r</link>
-      <description>The strong CP problem and the origin of neutrino masses are among the clearest motivations for physics beyond the Standard Model. The Peccei-Quinn mechanism offers an elegant dynamical solution to the strong CP problem, predicting the QCD axion, while neutrino masses point to new degrees of freedom or interactions beyond the Standard Model. We explore the possibility that these two phenomena arise from a common origin by identifying the Peccei-Quinn symmetry-breaking scale with the scale responsible for neutrino mass generation. We perform a systematic and unified analysis of this connection in both Dine-Fischler-Srednicki-Zhitnitsky and Kim-Shifman-Vainshtein-Zakharov realizations of the Peccei-Quinn mechanism, considering the Type-I, Type-II, and Type-III seesaw mechanisms, the Zee radiative model, and the colored seesaw. For each scenario, we determine the axion couplings to photons and neutrinos and examine their phenomenological consequences. A robust prediction of all the framewo</description>
-      <source url="https://doi.org/10.1103/ln3w-814r">Physical Review D</source>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ln3w-814r</guid>
+      <title>Timing-based search for magnetic monopoles with the NOvA detector on the surface</title>
+      <link>https://doi.org/10.1103/gc5v-8ws1</link>
+      <description>We report a search for a magnetic monopole component of the cosmic-ray flux in a 2743-live-day exposure of the NOvA experiment’s Far Detector, a 14 kt segmented liquid scintillator detector designed primarily to observe GeV-scale electron neutrinos. No events consistent with monopoles were observed, setting an upper limit on the flux of 8×10−16 cm−2 s−1 sr−1 at 90% CL for monopole speed 6×10−4β5×10−3 and mass greater than 109 GeV. Because of NOvA’s small overburden of 3 meters-water equivalent, this constraint covers a previously unexplored low-mass region.</description>
+      <source url="https://doi.org/10.1103/gc5v-8ws1">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/gc5v-8ws1</guid>
     </item><item>
-      <title>Alignment and enhanced multi-Higgs production</title>
-      <link>https://doi.org/10.1103/2spx-9pk6</link>
-      <description>Contrary to conventional expectations, we identify a class of extended scalar-sector scenarios in which final states with two, three, or four Higgs bosons constitute the leading discovery channels for new physics at the LHC. In these scenarios, higher-dimensional interactions, together with suppressed Higgs-scalar mixing near the alignment limit, reorganize the decay patterns of new scalar states, suppressing conventional modes while enhancing multi-Higgs final states. We illustrate the emergence of dominant triple-and quadruple-Higgs signatures in two representative realizations: a single-scalar extension of the standard model, where higher-dimensional operators suppress conventional two-body decays while preserving couplings to higher-multiplicity Higgs final states, and a two-singlet scenario, where similar signatures arise through cascade decays with a simpler operator structure. In both cases, the new scalar states can be produced via gluon fusion, yielding potentially observable </description>
-      <source url="https://doi.org/10.1103/2spx-9pk6">Physical Review D</source>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2spx-9pk6</guid>
-    </item><item>
-      <title>QCD axion and neutrino masses</title>
-      <link>https://doi.org/10.1103/ln3w-814r</link>
-      <description>The strong CP problem and the origin of neutrino masses are among the clearest motivations for physics beyond the Standard Model. The Peccei-Quinn mechanism offers an elegant dynamical solution to the strong CP problem, predicting the QCD axion, while neutrino masses point to new degrees of freedom or interactions beyond the Standard Model. We explore the possibility that these two phenomena arise from a common origin by identifying the Peccei-Quinn symmetry-breaking scale with the scale responsible for neutrino mass generation. We perform a systematic and unified analysis of this connection in both Dine-Fischler-Srednicki-Zhitnitsky and Kim-Shifman-Vainshtein-Zakharov realizations of the Peccei-Quinn mechanism, considering the Type-I, Type-II, and Type-III seesaw mechanisms, the Zee radiative model, and the colored seesaw. For each scenario, we determine the axion couplings to photons and neutrinos and examine their phenomenological consequences. A robust prediction of all the framewo</description>
-      <source url="https://doi.org/10.1103/ln3w-814r">Physical Review D</source>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ln3w-814r</guid>
-    </item><item>
-      <title>Branes Screening Quarks and Defect Operators</title>
-      <link>https://doi.org/10.1103/rx4t-twrx</link>
-      <description>Here we show Wilson lines do not necessarily exhibit Coulomb scaling laws in AdS/BCFT at zero temperature. The area difference between a surface that returns to the boundary, and one that plunges into the bulk, determines the potential between two quarks. This classic AdS/CFT calculation is extended to Wilson surfaces associated to general (p−1)-form symmetries in boundary conformal field theories (BCFTs) by embedding a Karch-Randall (KR) brane. Work done on the boundary charge under a dilatation determines the coefficient of this potential in closed form. Consequently, Coulomb law scaling in subregion size Γ is recovered only above the critical angle for the brane, θc,p, where the configuration is dilatation invariant. The potential between the two quarks (or defect operators) vanishes precisely when the surface connecting them ceases to exist at θc,p. Thus operators are fully screened in this phase transition from Coulomb law to perimeter law, for which we compute the order parameter</description>
-      <source url="https://doi.org/10.1103/rx4t-twrx">Physical Review Letters</source>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rx4t-twrx</guid>
+      <title>Decorrelation of neural networks from particle lifetimes in the LHCb topological b trigger</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16561-8</link>
+      <description>The LHCb topological beauty trigger is the primary set of algorithms for selecting collision events containing b-hadrons in the fully software-based LHCb trigger. The algorithms apply monotonic Lipschitz neural networks (NNs) to select vertices of charged particles consistent with the distinct topology of a b decay, i.e., those with large lifetimes and transverse momentum. Many analyses of the events recorded require that the selection must be unbiased with respect to the b-hadron lifetime at large lifetimes. Accurate reconstruction is challenging in busier detector environments, in which several visible proton–proton collisions occur simultaneously per bunch crossing, such that mis-association of decay products can result in vertices with artificially large measured lifetimes. This paper presents and evaluates two approaches to mitigate correlations between NN scores and candidate lifetimes at large lifetime: distance correlation and moment decomposition. Both methods are found to mit</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16561-8">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16561-8</guid>
     </item><item>
       <title>Axionlike particles and lepton flavor violation in muonic atoms</title>
       <link>https://doi.org/10.1103/xy9q-tfbz</link>
@@ -42,12 +30,40 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/xy9q-tfbz</guid>
     </item><item>
-      <title>Mixed-state extension of the holographic signal inequality</title>
-      <link>https://doi.org/10.1103/q2gy-kdfm</link>
-      <description>A novel inequality involving the residual information and genuine multientropy was proposed in [V. Balasubramanian, M. J. Kang, C. Cummings, C. Murdia, and S. F. Ross, Purely Greenberger-Horne-Zeilinger–like entanglement is forbidden in holography, Phys. Rev. Lett. 136, 031602 (2026).] for tripartite holographic pure states, using which it was argued, that purely Greenberger-Horne-Zeilinger-like tripartite entanglement is not allowed in holography. In this work, we generalize this holographic signal inequality to mixed states. In a minimal extension, we compute the reflected genuine multientropy following [M.-K. Yuan, M. Li, and Y. Zhou, Reflected multientropy and its holographic dual, Phys. Rev. Lett. 135, 091604 (2025).] and find a class of holographic geometries that violate this minimally extended inequality due to a vanishing Markov gap. We can symmetrize this prescription, where instead of computing the residual information on the given mixed state ρABC, we compute it on its cano</description>
-      <source url="https://doi.org/10.1103/q2gy-kdfm">Physical Review D</source>
+      <title>Supersymmetry of cuts in pure gauge theory and gravity</title>
+      <link>https://doi.org/10.1103/wxp1-wzkp</link>
+      <description>At tree-level, scattering amplitudes involving only gluons or gravitons are unaffected by supersymmetry, allowing them to be efficiently encoded by and extracted from those of maximally supersymmetric (N=4, 8) theories. This fails beyond tree-level, of course, but much less than would be expected. We show that all the leading singularities of (submaximally or) nonsupersymmetric theories can be organized into generalized superfunctions, in terms of which all helicity components can be effectively encoded. These functions differ from those of maximally supersymmetric theories by an extent determined by loop order—broken into a sum over 2L supersymmetric pieces.</description>
+      <source url="https://doi.org/10.1103/wxp1-wzkp">Physical Review D</source>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/q2gy-kdfm</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/wxp1-wzkp</guid>
+    </item><item>
+      <title>Alignment and enhanced multi-Higgs production</title>
+      <link>https://doi.org/10.1103/2spx-9pk6</link>
+      <description>Contrary to conventional expectations, we identify a class of extended scalar-sector scenarios in which final states with two, three, or four Higgs bosons constitute the leading discovery channels for new physics at the LHC. In these scenarios, higher-dimensional interactions, together with suppressed Higgs-scalar mixing near the alignment limit, reorganize the decay patterns of new scalar states, suppressing conventional modes while enhancing multi-Higgs final states. We illustrate the emergence of dominant triple-and quadruple-Higgs signatures in two representative realizations: a single-scalar extension of the standard model, where higher-dimensional operators suppress conventional two-body decays while preserving couplings to higher-multiplicity Higgs final states, and a two-singlet scenario, where similar signatures arise through cascade decays with a simpler operator structure. In both cases, the new scalar states can be produced via gluon fusion, yielding potentially observable </description>
+      <source url="https://doi.org/10.1103/2spx-9pk6">Physical Review D</source>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2spx-9pk6</guid>
+    </item><item>
+      <title>Portal matter and scotogeniclike Dirac neutrino masses</title>
+      <link>https://doi.org/10.1103/n153-jnfc</link>
+      <description>Loops of portal matter (PM) fields, carrying both Standard Model and dark charges, can generate the necessary kinetic mixing between the ordinary and dark photons in vector portal scenarios thus allowing for interactions between visible and dark sector fields. Here we show that the field content of a previously considered model based on a partial E6-like UV completion of such setups can generate light Dirac neutrino masses in the interesting range, ∼0.05 eV, at the one-loop level similar to what happens in scotogenic dark matter scenarios. While general E6-like PM scenarios have been shown to be easily probed at colliders, such as the High Luminosity Large Hadron Collider, uniquely testing this specific subclass of these setups in a direct fashion is found to be somewhat more challenging.</description>
+      <source url="https://doi.org/10.1103/n153-jnfc">Physical Review D</source>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/n153-jnfc</guid>
+    </item><item>
+      <title>QCD axion and neutrino masses</title>
+      <link>https://doi.org/10.1103/ln3w-814r</link>
+      <description>The strong CP problem and the origin of neutrino masses are among the clearest motivations for physics beyond the Standard Model. The Peccei-Quinn mechanism offers an elegant dynamical solution to the strong CP problem, predicting the QCD axion, while neutrino masses point to new degrees of freedom or interactions beyond the Standard Model. We explore the possibility that these two phenomena arise from a common origin by identifying the Peccei-Quinn symmetry-breaking scale with the scale responsible for neutrino mass generation. We perform a systematic and unified analysis of this connection in both Dine-Fischler-Srednicki-Zhitnitsky and Kim-Shifman-Vainshtein-Zakharov realizations of the Peccei-Quinn mechanism, considering the Type-I, Type-II, and Type-III seesaw mechanisms, the Zee radiative model, and the colored seesaw. For each scenario, we determine the axion couplings to photons and neutrinos and examine their phenomenological consequences. A robust prediction of all the framewo</description>
+      <source url="https://doi.org/10.1103/ln3w-814r">Physical Review D</source>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/ln3w-814r</guid>
+    </item><item>
+      <title>Radiative corrections to elastic lepton-proton scattering with focus on two-photon-exchange diagrams</title>
+      <link>https://doi.org/10.1103/4kss-bv46</link>
+      <description>Lepton (electron and muon) scattering experiments are excellent tools to gain insight into the nucleon structure. Elastic electron-proton scattering probes the spatial distribution of charge and magnetization inside the proton, and comparing electron-proton and muon-proton scattering data tests lepton universality. The availability of a plethora of scattering data with increased precision and observed discrepancies such as the proton form factor puzzle and the proton radius puzzle motivated a renewed effort to improve the theoretical framework. Realizing that the one-photon-exchange approximation, i. e. the Born approximation, is not sufficient, radiative corrections in QED, especially the two-photon-exchange (TPE) diagrams, are under investigation. The TPE diagrams are of special interest among the radiative corrections, since their hadronic-structure-dependent contribution generates an additional dependence of the cross section on the virtual-photon polarization parameter beyond the </description>
+      <source url="https://doi.org/10.1103/4kss-bv46">Physical Review D</source>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/4kss-bv46</guid>
     </item><item>
       <title>Muon Lifetime and Fermi Constant: An Update</title>
       <link>https://doi.org/10.1103/l12j-mdsl</link>
@@ -57,26 +73,26 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/l12j-mdsl</guid>
     </item><item>
-      <title>Supersymmetry of cuts in pure gauge theory and gravity</title>
-      <link>https://doi.org/10.1103/wxp1-wzkp</link>
-      <description>At tree-level, scattering amplitudes involving only gluons or gravitons are unaffected by supersymmetry, allowing them to be efficiently encoded by and extracted from those of maximally supersymmetric (N=4, 8) theories. This fails beyond tree-level, of course, but much less than would be expected. We show that all the leading singularities of (submaximally or) nonsupersymmetric theories can be organized into generalized superfunctions, in terms of which all helicity components can be effectively encoded. These functions differ from those of maximally supersymmetric theories by an extent determined by loop order—broken into a sum over 2L supersymmetric pieces.</description>
-      <source url="https://doi.org/10.1103/wxp1-wzkp">Physical Review D</source>
+      <title>Branes Screening Quarks and Defect Operators</title>
+      <link>https://doi.org/10.1103/rx4t-twrx</link>
+      <description>Here we show Wilson lines do not necessarily exhibit Coulomb scaling laws in AdS/BCFT at zero temperature. The area difference between a surface that returns to the boundary, and one that plunges into the bulk, determines the potential between two quarks. This classic AdS/CFT calculation is extended to Wilson surfaces associated to general (p−1)-form symmetries in boundary conformal field theories (BCFTs) by embedding a Karch-Randall (KR) brane. Work done on the boundary charge under a dilatation determines the coefficient of this potential in closed form. Consequently, Coulomb law scaling in subregion size Γ is recovered only above the critical angle for the brane, θc,p, where the configuration is dilatation invariant. The potential between the two quarks (or defect operators) vanishes precisely when the surface connecting them ceases to exist at θc,p. Thus operators are fully screened in this phase transition from Coulomb law to perimeter law, for which we compute the order parameter</description>
+      <source url="https://doi.org/10.1103/rx4t-twrx">Physical Review Letters</source>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/wxp1-wzkp</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/rx4t-twrx</guid>
     </item><item>
-      <title>Portal matter and scotogeniclike Dirac neutrino masses</title>
-      <link>https://doi.org/10.1103/n153-jnfc</link>
-      <description>Loops of portal matter (PM) fields, carrying both Standard Model and dark charges, can generate the necessary kinetic mixing between the ordinary and dark photons in vector portal scenarios thus allowing for interactions between visible and dark sector fields. Here we show that the field content of a previously considered model based on a partial E6-like UV completion of such setups can generate light Dirac neutrino masses in the interesting range, ∼0.05 eV, at the one-loop level similar to what happens in scotogenic dark matter scenarios. While general E6-like PM scenarios have been shown to be easily probed at colliders, such as the High Luminosity Large Hadron Collider, uniquely testing this specific subclass of these setups in a direct fashion is found to be somewhat more challenging.</description>
-      <source url="https://doi.org/10.1103/n153-jnfc">Physical Review D</source>
+      <title>Mixed-state extension of the holographic signal inequality</title>
+      <link>https://doi.org/10.1103/q2gy-kdfm</link>
+      <description>A novel inequality involving the residual information and genuine multientropy was proposed in [V. Balasubramanian, M. J. Kang, C. Cummings, C. Murdia, and S. F. Ross, Purely Greenberger-Horne-Zeilinger–like entanglement is forbidden in holography, Phys. Rev. Lett. 136, 031602 (2026).] for tripartite holographic pure states, using which it was argued, that purely Greenberger-Horne-Zeilinger-like tripartite entanglement is not allowed in holography. In this work, we generalize this holographic signal inequality to mixed states. In a minimal extension, we compute the reflected genuine multientropy following [M.-K. Yuan, M. Li, and Y. Zhou, Reflected multientropy and its holographic dual, Phys. Rev. Lett. 135, 091604 (2025).] and find a class of holographic geometries that violate this minimally extended inequality due to a vanishing Markov gap. We can symmetrize this prescription, where instead of computing the residual information on the given mixed state ρABC, we compute it on its cano</description>
+      <source url="https://doi.org/10.1103/q2gy-kdfm">Physical Review D</source>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/n153-jnfc</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/q2gy-kdfm</guid>
     </item><item>
-      <title>Radiative corrections to elastic lepton-proton scattering with focus on two-photon-exchange diagrams</title>
-      <link>https://doi.org/10.1103/4kss-bv46</link>
-      <description>Lepton (electron and muon) scattering experiments are excellent tools to gain insight into the nucleon structure. Elastic electron-proton scattering probes the spatial distribution of charge and magnetization inside the proton, and comparing electron-proton and muon-proton scattering data tests lepton universality. The availability of a plethora of scattering data with increased precision and observed discrepancies such as the proton form factor puzzle and the proton radius puzzle motivated a renewed effort to improve the theoretical framework. Realizing that the one-photon-exchange approximation, i. e. the Born approximation, is not sufficient, radiative corrections in QED, especially the two-photon-exchange (TPE) diagrams, are under investigation. The TPE diagrams are of special interest among the radiative corrections, since their hadronic-structure-dependent contribution generates an additional dependence of the cross section on the virtual-photon polarization parameter beyond the </description>
-      <source url="https://doi.org/10.1103/4kss-bv46">Physical Review D</source>
+      <title>Mixed-state extension of the holographic signal inequality</title>
+      <link>https://doi.org/10.1103/q2gy-kdfm</link>
+      <description>A novel inequality involving the residual information and genuine multientropy was proposed in [V. Balasubramanian, M. J. Kang, C. Cummings, C. Murdia, and S. F. Ross, Purely Greenberger-Horne-Zeilinger–like entanglement is forbidden in holography, Phys. Rev. Lett. 136, 031602 (2026).] for tripartite holographic pure states, using which it was argued, that purely Greenberger-Horne-Zeilinger-like tripartite entanglement is not allowed in holography. In this work, we generalize this holographic signal inequality to mixed states. In a minimal extension, we compute the reflected genuine multientropy following [M.-K. Yuan, M. Li, and Y. Zhou, Reflected multientropy and its holographic dual, Phys. Rev. Lett. 135, 091604 (2025).] and find a class of holographic geometries that violate this minimally extended inequality due to a vanishing Markov gap. We can symmetrize this prescription, where instead of computing the residual information on the given mixed state ρABC, we compute it on its cano</description>
+      <source url="https://doi.org/10.1103/q2gy-kdfm">Physical Review D</source>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/4kss-bv46</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/q2gy-kdfm</guid>
     </item><item>
       <title>First measurements of the branching fractions of J/ψ and ψ(3686)→Σ0Σ¯0η</title>
       <link>https://doi.org/10.1103/5kzp-t345</link>
@@ -92,13 +108,6 @@
       <source url="https://doi.org/10.1103/ypw5-y789">Physical Review D</source>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/ypw5-y789</guid>
-    </item><item>
-      <title>Using the pericentre precession of LAGEOS II to constrain quadratically coupled ultralight dark matter</title>
-      <link>https://doi.org/10.1103/276c-l98h</link>
-      <description>It has been proposed that feebly interacting ultralight scalars may constitute the dark matter content of the Universe. Models describing the interactions of a dark matter scalar with standard model fields may feature quadratic interactions at leading order, such that the scalar acquires an effective mass in the neighborhood of a classical matter distribution. The effect of their introduction is to provide effective shifts in fundamental constants of physics, as well as to mediate scalar “fifth forces” between test bodies. We here demonstrate how these fifth forces can result in pericenter precession in the orbital motion of satellites around the Earth. We apply this to the measured pericenter precession of the LAGEOS II experiment, constraining the mass, and couplings to the light standard model fields of a quadratically coupled ultralight dark matter scalar. We observe such an experiment to be effective in constraining parameter space at strong couplings, where existing constraints f</description>
-      <source url="https://doi.org/10.1103/276c-l98h">Physical Review D</source>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/276c-l98h</guid>
     </item><item>
       <title>Early-time dynamics of heavy-ion collisions through energy correlators: Celestial blocks and the spacetime structure of out-of-equilibrium QCD matter</title>
       <link>https://doi.org/10.1103/3hn6-crj6</link>
@@ -142,14 +151,6 @@
       <author>et al.</author>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16476-4</guid>
-    </item><item>
-      <title>Measurement of Zγ production in proton-proton collisions at s=13.6 TeV and constraints on neutral triple gauge couplings</title>
-      <link>https://doi.org/10.1103/k9zs-c42w</link>
-      <description>A measurement of the Zγ production cross section in proton-proton collisions at a center-of-mass energy of 13.6 TeV is presented. Data corresponding to an integrated luminosity of 34.8 fb−1, collected by the CMS experiment at the LHC in 2022 are used. Events with an oppositely charged pair of muons or electrons, with an invariant mass corresponding to a Z boson, together with an isolated photon are selected. The measured fiducial cross section for the combined electron and muon channels is 1.896±0.033(stat)±0.054(syst)±0.006(theo) pb, in agreement with the standard model prediction of 1.922±0.094 pb. Constraints on neutral triple gauge couplings generated by dimension-8 operators in a recently proposed effective field theory framework are determined for the first time.</description>
-      <source url="https://doi.org/10.1103/k9zs-c42w">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/k9zs-c42w</guid>
     </item>
   </channel>
 </rss>
