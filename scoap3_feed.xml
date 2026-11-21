@@ -5,22 +5,28 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:03:05 +0000</lastBuildDate>
     <item>
-      <title>Observation of an altered a0(980) line shape in D+→π+ηη</title>
-      <link>https://doi.org/10.1103/p6j9-nlsc</link>
-      <description>Using 20.3 fb−1 of e+e− collision data collected with the BESIII detector at s=3.773 GeV, we perform the first amplitude analysis of the decay D+→π+ηη. The intermediate process D+→a0(980)+η, a0(980)+→π+η, is the only component retained in the nominal amplitude model, and its branching fraction is measured to be (3.67±0.12stat±0.06syst)×10−3. The π+η mass spectrum associated with a0(980)+η production exhibits a line shape that differs substantially from those observed in D(s)→a0(980)π and D0→a0(980)−e+νe decays. We examine several conventional descriptions of the a0(980) amplitude, including Flatté, dispersively modified Flatté, T-matrix, and K-matrix parametrizations. With reference a0(980) parameters, neither these models nor their extensions including additional small resonant or nonresonant amplitudes reproduce the observed line shape satisfactorily. When the a0(980) parameters are allowed to float, satisfactory fits can be obtained, but the pole mass is driven well-above the KK¯ th</description>
-      <source url="https://doi.org/10.1103/p6j9-nlsc">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p6j9-nlsc</guid>
+      <title>Production of primordial black holes in the double D3-brane-anti-D3-brane inflation model</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)206</link>
+      <description>A natural extension of the successful D3text-overlineD3-brane inflation model in string theory is one with two D3text-overlineD3-brane pairs, giving rise to a novel feature in string-theory. When the first pair annihilates, D1-strings and F1-strings are produced. Following the non-commutative geometric properties in string theory, it is shown by Myers [1–3] that the presence of the D3-charge field strength of the remaining D3text-overlineD3-brane pair leads to the formation of dielectric 3-branes — neutral, finite-size bound states of 3-branes with D1-strings. They behave as matter with little or no pressure. Spanning a wide range of masses, they seed primordial black holes in the early universe.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)206">Journal of High Energy Physics</source>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)206</guid>
     </item><item>
-      <title>Exploring scalar leptoquarks at muon collider via indirect signatures and right-handed neutrino-assisted decays</title>
-      <link>https://doi.org/10.1103/3myh-zrt6</link>
-      <description>Scalar leptoquarks (sLQs) appear in a wide range of ultraviolet-motivated extensions of the Standard Model and provide a natural link between the quark and lepton sectors. In this work, we investigate the discovery potential of an sLQ doublet R˜2(3,2,1/6) that couples to light quarks and right-handed neutrinos (RHNs) at the proposed muon collider. We analyze both indirect probes—arising from t-channel sLQ exchange that affects the high-pT behavior of dijet spectra—and direct searches exploiting pair and single production of the sLQs, incorporating the full interplay of kinematic thresholds and decay topologies. We find that indirect probes at muon colliders deliver remarkably robust sensitivity to the sLQ-quark-muon coupling over a broad mass range. Assuming a sub-O(1) Yukawa coupling, we achieve a 5σ sensitivity up to sLQ masses ∼4.0 TeV (7.0 TeV) at s=5(10) TeV center-of-mass energy with L=3 ab−1 (10 ab−1) integrated luminosity. Direct production channels provide complementary reach:</description>
-      <source url="https://doi.org/10.1103/3myh-zrt6">Physical Review D</source>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3myh-zrt6</guid>
+      <title>Production of primordial black holes in the double D3-brane-anti-D3-brane inflation model</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)206</link>
+      <description>A natural extension of the successful D3text-overlineD3-brane inflation model in string theory is one with two D3text-overlineD3-brane pairs, giving rise to a novel feature in string-theory. When the first pair annihilates, D1-strings and F1-strings are produced. Following the non-commutative geometric properties in string theory, it is shown by Myers [1–3] that the presence of the D3-charge field strength of the remaining D3text-overlineD3-brane pair leads to the formation of dielectric 3-branes — neutral, finite-size bound states of 3-branes with D1-strings. They behave as matter with little or no pressure. Spanning a wide range of masses, they seed primordial black holes in the early universe.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)206">Journal of High Energy Physics</source>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)206</guid>
+    </item><item>
+      <title>Lorentzian Kähler-Dirac fermions</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)200</link>
+      <description>We examine the formulation of Kähler-Dirac fermions on spacetimes with Lorentz signature. In practice we focus on Minkowski spacetime since most of the difficulties that are encountered are visible even when the spacetime is flat. We show that the theory, when interpreted as a Lorentz invariant theory of forms or antisymmetric tensor fields, is non-unitary. We show that unitarity can be restored provided one adopts a modified inner product on the Hilbert space. This modified inner product requires the insertion of an operator J that anti-commutes with certain modes of the Kähler-Dirac field in such a way as to guarantee all states have positive norm. We give an explicit (and local) form for J and show that while it commutes with the Hamiltonian, it is incompatible with the Lorentz transformation properties of the tensor fields. In flat space, the unitarized formulation is equivalent to 4 Dirac fermions.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)200">Journal of High Energy Physics</source>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)200</guid>
     </item><item>
       <title>Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves</title>
       <link>https://doi.org/10.1103/mzv7-7v5q</link>
@@ -29,12 +35,12 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/mzv7-7v5q</guid>
     </item><item>
-      <title>Testable leptogenesis and 0νββ decay in extended seesaw model</title>
-      <link>https://doi.org/10.1103/phwz-zb8n</link>
-      <description>We investigate the possibility of observable neutrinoless double beta decay (0νββ) and viable leptogenesis within a low-scale extended inverse seesaw mechanism with additional sterile neutrinos. General effective field theory considerations suggest that if there are experimentally observable signatures in 0νββ decay and a lepton asymmetry generated by heavy right-handed neutrino decays, thermal leptogenesis is likely to be unviable. However, in this work, we show that, in the context of low-scale leptogenesis, one can obtain the observed baryon asymmetry of the Universe and observable signatures of 0νββ decay in the presence of additional sterile neutrinos. In this framework, the light neutrino masses are suppressed by the extended seesaw parameter μ, thereby allowing for O(10 TeV) right-handed neutrinos while avoiding small Yukawa couplings as in other neutrino mass models and near degeneracies in the right-handed neutrino spectrum as required by the low-scale leptogenesis paradigm. C</description>
-      <source url="https://doi.org/10.1103/phwz-zb8n">Physical Review D</source>
+      <title>Exploring scalar leptoquarks at muon collider via indirect signatures and right-handed neutrino-assisted decays</title>
+      <link>https://doi.org/10.1103/3myh-zrt6</link>
+      <description>Scalar leptoquarks (sLQs) appear in a wide range of ultraviolet-motivated extensions of the Standard Model and provide a natural link between the quark and lepton sectors. In this work, we investigate the discovery potential of an sLQ doublet R˜2(3,2,1/6) that couples to light quarks and right-handed neutrinos (RHNs) at the proposed muon collider. We analyze both indirect probes—arising from t-channel sLQ exchange that affects the high-pT behavior of dijet spectra—and direct searches exploiting pair and single production of the sLQs, incorporating the full interplay of kinematic thresholds and decay topologies. We find that indirect probes at muon colliders deliver remarkably robust sensitivity to the sLQ-quark-muon coupling over a broad mass range. Assuming a sub-O(1) Yukawa coupling, we achieve a 5σ sensitivity up to sLQ masses ∼4.0 TeV (7.0 TeV) at s=5(10) TeV center-of-mass energy with L=3 ab−1 (10 ab−1) integrated luminosity. Direct production channels provide complementary reach:</description>
+      <source url="https://doi.org/10.1103/3myh-zrt6">Physical Review D</source>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/phwz-zb8n</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/3myh-zrt6</guid>
     </item><item>
       <title>Kernel transformations and bounds for smeared spectral functions</title>
       <link>https://doi.org/10.1103/f4h2-pg8m</link>
@@ -43,12 +49,27 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/f4h2-pg8m</guid>
     </item><item>
+      <title>Testable leptogenesis and 0νββ decay in extended seesaw model</title>
+      <link>https://doi.org/10.1103/phwz-zb8n</link>
+      <description>We investigate the possibility of observable neutrinoless double beta decay (0νββ) and viable leptogenesis within a low-scale extended inverse seesaw mechanism with additional sterile neutrinos. General effective field theory considerations suggest that if there are experimentally observable signatures in 0νββ decay and a lepton asymmetry generated by heavy right-handed neutrino decays, thermal leptogenesis is likely to be unviable. However, in this work, we show that, in the context of low-scale leptogenesis, one can obtain the observed baryon asymmetry of the Universe and observable signatures of 0νββ decay in the presence of additional sterile neutrinos. In this framework, the light neutrino masses are suppressed by the extended seesaw parameter μ, thereby allowing for O(10 TeV) right-handed neutrinos while avoiding small Yukawa couplings as in other neutrino mass models and near degeneracies in the right-handed neutrino spectrum as required by the low-scale leptogenesis paradigm. C</description>
+      <source url="https://doi.org/10.1103/phwz-zb8n">Physical Review D</source>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/phwz-zb8n</guid>
+    </item><item>
       <title>Classical Yangian symmetry of auxiliary field sigma models</title>
       <link>https://doi.org/10.1103/45tz-qs68</link>
       <description>Integrable field theories exhibit infinitely many symmetries which underlie their solvability, but the structure of these symmetries can become obscured after performing an integrable deformation such as TT¯ or an auxiliary field deformation. In this paper, we present a systematic organizing principle for understanding deformed charges and their Yangian structure in a broad class of integrable sigma models and their auxiliary field deformations. We generalize the recursive procedure of Brezin, Itzykson, Zinn-Justin, and Zuber for generating nonlocal charges, and give sufficient conditions under which the first two charges in the tower give rise to a classical Yangian algebra. We apply these results to many examples of integrable sigma models and their auxiliary field deformations, finding a Yangian algebra and Maillet bracket structure in all cases. This offers a unified explanation for the persistence of Hamiltonian integrability and Yangian symmetry across a wide landscape of deforme</description>
       <source url="https://doi.org/10.1103/45tz-qs68">Physical Review D</source>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/45tz-qs68</guid>
+    </item><item>
+      <title>Observation of an altered a0(980) line shape in D+→π+ηη</title>
+      <link>https://doi.org/10.1103/p6j9-nlsc</link>
+      <description>Using 20.3 fb−1 of e+e− collision data collected with the BESIII detector at s=3.773 GeV, we perform the first amplitude analysis of the decay D+→π+ηη. The intermediate process D+→a0(980)+η, a0(980)+→π+η, is the only component retained in the nominal amplitude model, and its branching fraction is measured to be (3.67±0.12stat±0.06syst)×10−3. The π+η mass spectrum associated with a0(980)+η production exhibits a line shape that differs substantially from those observed in D(s)→a0(980)π and D0→a0(980)−e+νe decays. We examine several conventional descriptions of the a0(980) amplitude, including Flatté, dispersively modified Flatté, T-matrix, and K-matrix parametrizations. With reference a0(980) parameters, neither these models nor their extensions including additional small resonant or nonresonant amplitudes reproduce the observed line shape satisfactorily. When the a0(980) parameters are allowed to float, satisfactory fits can be obtained, but the pole mass is driven well-above the KK¯ th</description>
+      <source url="https://doi.org/10.1103/p6j9-nlsc">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/p6j9-nlsc</guid>
     </item><item>
       <title>The universe as a superconductor: how to search for a photon mass</title>
       <link>https://doi.org/10.1007/JHEP11(2026)186</link>
@@ -71,13 +92,6 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16633-9</guid>
     </item><item>
-      <title>Minding the Gap between Hard and Diffractive Structure Functions at the Electron-Ion Collider</title>
-      <link>https://doi.org/10.1103/7jkz-3r9q</link>
-      <description>Diffraction is characterized by forward scattering and a large rapidity gap. Ordinary hard scattering also produces gapped events and presents a significant background to identification of diffractively produced events. We present a fully differential factorization of gapped hard ep scattering. We find that the unpolarized azimuthally dependent structure functions F3,4gap and the longitudinal FLgap vanish at leading power for hard scattering. Azimuthal dependence is thus a pure diffractive signature. This is borne out in Monte Carlo simulations.</description>
-      <source url="https://doi.org/10.1103/7jkz-3r9q">Physical Review Letters</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7jkz-3r9q</guid>
-    </item><item>
       <title>Stability of parton distributions at high x: Impact of nuclear and power corrections</title>
       <link>https://doi.org/10.1103/xp7c-vgl3</link>
       <description>We present a comprehensive new global QCD analysis of unpolarized parton distribution functions (PDFs) based upon proton, deuteron, and A=3 data, including the latest inclusive deep-inelastic scattering (DIS) measurements from Jefferson Lab at high Bjorken-x. Using the JAM Bayesian Monte Carlo framework, we systematically explore the stability of the PDFs with respect to variations in the cuts on the invariant mass W of the DIS final state, the implementation of target mass and higher twist corrections, as well as on the nuclear wave functions for the A=2 and 3 data. We find the u and d quark PDFs (and the d/u ratio) are relatively stable up to x≈0.8 and able to describe DIS data down to W2=3.5 GeV2 and Q2=mc2. Within the collinear factorization framework, the fitted higher twist corrections to DIS are found to be positive and largely isospin independent. The description of the nuclear data also requires nonzero isoscalar and isovector nucleon off-shell PDF contributions, which gives s</description>
@@ -85,12 +99,12 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/xp7c-vgl3</guid>
     </item><item>
-      <title>Searches for heavy neutral lepton decays at spallation neutron sources</title>
-      <link>https://doi.org/10.1103/tt8z-vdqd</link>
-      <description>Spallation neutron sources provide intense neutrino fluxes from pion and muon decay at rest, with energies in the few tens of MeV range. Experiments such as COHERENT exploit these fluxes to detect neutrinos via coherent elastic neutrino-nucleus scattering (CEνNS). However, these facilities also offer a unique opportunity to produce and probe light, secluded, or weakly coupled particles. In this work, we investigate the sensitivity of the Spallation Neutron Source at the Oak Ridge National Laboratory to heavy neutral leptons (HNLs) in the MeV–GeV mass range, as a case study. We consider HNL production in pion and muon decays at rest, followed by their decay into visible Standard Model particles within the detector volume. We analyze a range of current and proposed COHERENT detectors and evaluate their sensitivity to HNL mixing with muon and electron neutrinos as well as to scenarios with mixed mixing. We find that existing detectors can set meaningful constraints, particularly for muon-</description>
-      <source url="https://doi.org/10.1103/tt8z-vdqd">Physical Review D</source>
+      <title>Minding the Gap between Hard and Diffractive Structure Functions at the Electron-Ion Collider</title>
+      <link>https://doi.org/10.1103/7jkz-3r9q</link>
+      <description>Diffraction is characterized by forward scattering and a large rapidity gap. Ordinary hard scattering also produces gapped events and presents a significant background to identification of diffractively produced events. We present a fully differential factorization of gapped hard ep scattering. We find that the unpolarized azimuthally dependent structure functions F3,4gap and the longitudinal FLgap vanish at leading power for hard scattering. Azimuthal dependence is thus a pure diffractive signature. This is borne out in Monte Carlo simulations.</description>
+      <source url="https://doi.org/10.1103/7jkz-3r9q">Physical Review Letters</source>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tt8z-vdqd</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/7jkz-3r9q</guid>
     </item><item>
       <title>Monopoles, strings, walls, and gravitational waves</title>
       <link>https://doi.org/10.1103/7nxq-ky99</link>
@@ -113,43 +127,26 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/p5lz-pn4v</guid>
     </item><item>
-      <title>Production effects and final-state interactions in π1→3π</title>
-      <link>https://doi.org/10.1103/hctz-z2yd</link>
-      <description>We investigate the π1(1600) signal channel of 3π in the JPC=1−+[ππ]1−−πP wave. This channel has recently been analyzed by the COMPASS collaboration using the “freed-isobar” technique which provides direct experimental access to the line shape modifications of the P-wave ππ subchannel arising from both final state interactions and production processes such as the Deck mechanism. We motivate a unified formalism combining production effects and final state interactions using the Khuri-Treiman formalism, which is consistent with low-energy unitarity, analyticity, and crossing symmetry, seeded by an initial production amplitude. We demonstrate that the precise line shape of the ππ mass spectrum can be used to determine the relative strength and complex phase of different production mechanisms contributing to the 3π final state. We conduct a global fit of the π1 freed-isobar dataset, yielding a multidimensional parametrization of the π1→3π decay amplitude at COMPASS as a function of both dec</description>
-      <source url="https://doi.org/10.1103/hctz-z2yd">Physical Review D</source>
-      <author>et al.</author>
+      <title>Searches for heavy neutral lepton decays at spallation neutron sources</title>
+      <link>https://doi.org/10.1103/tt8z-vdqd</link>
+      <description>Spallation neutron sources provide intense neutrino fluxes from pion and muon decay at rest, with energies in the few tens of MeV range. Experiments such as COHERENT exploit these fluxes to detect neutrinos via coherent elastic neutrino-nucleus scattering (CEνNS). However, these facilities also offer a unique opportunity to produce and probe light, secluded, or weakly coupled particles. In this work, we investigate the sensitivity of the Spallation Neutron Source at the Oak Ridge National Laboratory to heavy neutral leptons (HNLs) in the MeV–GeV mass range, as a case study. We consider HNL production in pion and muon decays at rest, followed by their decay into visible Standard Model particles within the detector volume. We analyze a range of current and proposed COHERENT detectors and evaluate their sensitivity to HNL mixing with muon and electron neutrinos as well as to scenarios with mixed mixing. We find that existing detectors can set meaningful constraints, particularly for muon-</description>
+      <source url="https://doi.org/10.1103/tt8z-vdqd">Physical Review D</source>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/hctz-z2yd</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/tt8z-vdqd</guid>
     </item><item>
-      <title>Timing-based search for magnetic monopoles with the NOvA detector on the surface</title>
-      <link>https://doi.org/10.1103/gc5v-8ws1</link>
-      <description>We report a search for a magnetic monopole component of the cosmic-ray flux in a 2743-live-day exposure of the NOvA experiment’s Far Detector, a 14 kt segmented liquid scintillator detector designed primarily to observe GeV-scale electron neutrinos. No events consistent with monopoles were observed, setting an upper limit on the flux of 8×10−16 cm−2 s−1 sr−1 at 90% CL for monopole speed 6×10−4β5×10−3 and mass greater than 109 GeV. Because of NOvA’s small overburden of 3 meters-water equivalent, this constraint covers a previously unexplored low-mass region.</description>
-      <source url="https://doi.org/10.1103/gc5v-8ws1">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/gc5v-8ws1</guid>
+      <title>Probing dark matter interactions with stellar motion near Sagittarius A*</title>
+      <link>https://doi.org/10.1103/mjzl-ymsz</link>
+      <description>Stars orbiting Sagittarius A* (Sgr A*) at the Milky Way’s center provide a unique laboratory to test gravity and dark matter (DM). We demonstrate that DM interactions in stellar interiors induce a novel momentum transfer force, altering orbits beyond gravitational effects. We derive the first astrophysical constraints on DM-nucleon scattering using S2’s 2000–2019 orbital data probing sub-GeV parameter space for specified DM distributions near Sgr A*. We further show that complementary orbital survival constraints and future observations of highly eccentric S stars extend the reach to DM profiles allowed by present gravitational measurements. Unlike bounds requiring DM capture and annihilation, our constraints apply broadly to scattering DM including asymmetric DM and extend to masses where methods based on capture can lose sensitivity. Stellar lifetime constraints over megayear timescales complement these, surpassing some direct detection and cosmological limits. This work establishes </description>
+      <source url="https://doi.org/10.1103/mjzl-ymsz">Physical Review D</source>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/mjzl-ymsz</guid>
     </item><item>
-      <title>QCD axion and neutrino masses</title>
-      <link>https://doi.org/10.1103/ln3w-814r</link>
-      <description>The strong CP problem and the origin of neutrino masses are among the clearest motivations for physics beyond the Standard Model. The Peccei-Quinn mechanism offers an elegant dynamical solution to the strong CP problem, predicting the QCD axion, while neutrino masses point to new degrees of freedom or interactions beyond the Standard Model. We explore the possibility that these two phenomena arise from a common origin by identifying the Peccei-Quinn symmetry-breaking scale with the scale responsible for neutrino mass generation. We perform a systematic and unified analysis of this connection in both Dine-Fischler-Srednicki-Zhitnitsky and Kim-Shifman-Vainshtein-Zakharov realizations of the Peccei-Quinn mechanism, considering the Type-I, Type-II, and Type-III seesaw mechanisms, the Zee radiative model, and the colored seesaw. For each scenario, we determine the axion couplings to photons and neutrinos and examine their phenomenological consequences. A robust prediction of all the framewo</description>
-      <source url="https://doi.org/10.1103/ln3w-814r">Physical Review D</source>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/ln3w-814r</guid>
-    </item><item>
-      <title>Muon Lifetime and Fermi Constant: An Update</title>
-      <link>https://doi.org/10.1103/l12j-mdsl</link>
-      <description>We present an updated prediction for the lifetime of the muon, including a detailed analysis of all relevant uncertainties. Our prediction includes QED corrections up to order α3 and state-of-the-art hadronic contributions based on dispersive methods. Radiative corrections and finite-electron-mass effects are parametrized by the correction factor Δq in τμ−1=GF2mμ5(1+Δq)/(192π3), for which we obtain Δq=(−4 384 700±34)×10−9. This reduces the uncertainty associated with Δq by an order of magnitude compared to the previous prediction at order α2. We use our results to provide an updated value of the Fermi coupling constant, GF=1.166 378 60 (59)×10−5 GeV−2 (consistent with the current Particle Data Group estimate). Further improvements will require better measurements of the muon lifetime and mass.</description>
-      <source url="https://doi.org/10.1103/l12j-mdsl">Physical Review Letters</source>
-      <author>et al.</author>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/l12j-mdsl</guid>
-    </item><item>
-      <title>Branes Screening Quarks and Defect Operators</title>
-      <link>https://doi.org/10.1103/rx4t-twrx</link>
-      <description>Here we show Wilson lines do not necessarily exhibit Coulomb scaling laws in AdS/BCFT at zero temperature. The area difference between a surface that returns to the boundary, and one that plunges into the bulk, determines the potential between two quarks. This classic AdS/CFT calculation is extended to Wilson surfaces associated to general (p−1)-form symmetries in boundary conformal field theories (BCFTs) by embedding a Karch-Randall (KR) brane. Work done on the boundary charge under a dilatation determines the coefficient of this potential in closed form. Consequently, Coulomb law scaling in subregion size Γ is recovered only above the critical angle for the brane, θc,p, where the configuration is dilatation invariant. The potential between the two quarks (or defect operators) vanishes precisely when the surface connecting them ceases to exist at θc,p. Thus operators are fully screened in this phase transition from Coulomb law to perimeter law, for which we compute the order parameter</description>
-      <source url="https://doi.org/10.1103/rx4t-twrx">Physical Review Letters</source>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rx4t-twrx</guid>
+      <title>Perturbative quantum electrodynamics with generalized domain wall fermions</title>
+      <link>https://doi.org/10.1103/p5lz-pn4v</link>
+      <description>In this paper we derive the expansion of the generalized domain-wall fermion Dirac operator including electromagnetic corrections up to O(e2), which are relevant for lattice computations of radiative corrections to hadronic processes with chiral fermions. In the generalized formulation of the domain-wall fermionic QCD+QED action, physical quark fields are related to the corresponding five-dimensional fields in a way which depends on the (QCD+QED) gauge links, generating extra contact terms when expanding correlation functions with respect to the electric charge. We rederive the known first-order correction using a background-field approach and, at second order, obtain new local operator insertions (seagull vertices) required for gauge covariant calculations.</description>
+      <source url="https://doi.org/10.1103/p5lz-pn4v">Physical Review D</source>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/p5lz-pn4v</guid>
     </item>
   </channel>
 </rss>
