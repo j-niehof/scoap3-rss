@@ -5,14 +5,36 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 17:33:33 +0000</lastBuildDate>
     <item>
-      <title>Production of primordial black holes in the double D3-brane-anti-D3-brane inflation model</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)206</link>
-      <description>A natural extension of the successful D3text-overlineD3-brane inflation model in string theory is one with two D3text-overlineD3-brane pairs, giving rise to a novel feature in string-theory. When the first pair annihilates, D1-strings and F1-strings are produced. Following the non-commutative geometric properties in string theory, it is shown by Myers [1–3] that the presence of the D3-charge field strength of the remaining D3text-overlineD3-brane pair leads to the formation of dielectric 3-branes — neutral, finite-size bound states of 3-branes with D1-strings. They behave as matter with little or no pressure. Spanning a wide range of masses, they seed primordial black holes in the early universe.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)206">Journal of High Energy Physics</source>
+      <title>The black hole S-matrix in gauge/gravity duality</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)213</link>
+      <description>A variety of examples of gauge/gravity duality have a Coulomb branch for the gauge theory dynamics. We exploit this feature to construct an S-matrix, in which the initial state is a shell of branes converging on the origin of the Coulomb branch. In the gravitational dual, the shell of branes sources a geometry with a capped throat; the cap descends from the asymptotic region to larger and larger redshift. A trapped surface forms when the redshift of the cap reaches the point where the excitation of strings stretching between the branes is unsuppressed, and the dual gauge theory deconfines. The intermediate state is a long-lived black hole, which then decays via the slow emission of branes back onto the Coulomb branch. We compare and contrast the descriptions of this process in the bulk effective field theory and the dual gauge theory; and discuss the consequences of this construction for the black hole information paradox.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)213">Journal of High Energy Physics</source>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)213</guid>
+    </item><item>
+      <title>Axion wormholes and the AdS/CFT factorization problem</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)201</link>
+      <description>This work investigates the relevance of Euclidean and complex axion wormholes to the AdS/CFT factorization problem. We use a framework that defines bulk gravitational path integrals by integrating over a real Lorentz-signature contour and then, as needed, perhaps further analytically continuing the resulting functions of boundary conditions. For technical reasons we focus on the case of 2+1 bulk dimensions. The AdS boundary conditions (in any dimension) require us to impose Dirichlet boundary conditions on the standard Euclidean axion χ . Fixing its asymptotic values on two boundary spheres to ±χ , we find such wormholes to be subdominant to a UV-sensitive endpoint contribution for χ near the real axis, and that (with our conventions) they become dominant only for χ near the negative imaginary axis. Furthermore, such wormholes are irrelevant to our computation for Imχ &gt; 0 (in the sense that the associated ascent contour fails to intersect the contour of integration). The relevance of t</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)201">Journal of High Energy Physics</source>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)201</guid>
+    </item><item>
+      <title>The JLMS formula in a large code with approximate error correction</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)197</link>
+      <description>Gauge/gravity duality is often described as a quantum error correcting code. However, as seen in the Jafferis-Lewkowycz-Maldacena-Suh (JLMS) formula, exact quantum error correction with complementary recovery (and thus entanglement wedge reconstruction) emerges only in the limit G → 0. As a result, precise arguments controlling error terms have focused on what we call ‘small’ codes which, as G → 0, describe only perturbative excitations near a given classical solution. Such settings are quite restrictive and, in particular, they prohibit discussion of any modular flow that would change the classical background. As a result, they forbid consideration of modular flows generated by semiclassical bulk states at order-one modular parameters.</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)197">Journal of High Energy Physics</source>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)197</guid>
+    </item><item>
+      <title>Einstein-æther elliptic charges and the first law of asymptotically AdS black holes</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)205</link>
+      <description>We investigate the thermodynamic role of asymptotic æther alignment for universal horizons in Einstein-æther theory. In the static, spherically symmetric, asymptotically AdS sector with c = 0, the known first law for universal horizons contains an additional term whenever the æther is misaligned with the timelike Killing vector at infinity. While this term has recently been interpreted in Hořava-Lifshitz gravity as the contribution of an elliptic charge associated with khronon reparameterizations, no corresponding explanation was available in Einstein-æther theory. We show that, in the same sector, Einstein-æther theory possesses a previously unidentified symmetry of the reduced action, generated by infinitesimal transformations of the form δu = fa , where a is the æther acceleration and f obeys an spatial equation on each leaf. We derive the associated current and charge, and show that the aligned limit is naturally interpreted as the ensemble in which this æther-charge contribution v</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)205">Journal of High Energy Physics</source>
+      <author>et al.</author>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)206</guid>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)205</guid>
     </item><item>
       <title>Production of primordial black holes in the double D3-brane-anti-D3-brane inflation model</title>
       <link>https://doi.org/10.1007/JHEP11(2026)206</link>
@@ -49,13 +71,6 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/f4h2-pg8m</guid>
     </item><item>
-      <title>Testable leptogenesis and 0νββ decay in extended seesaw model</title>
-      <link>https://doi.org/10.1103/phwz-zb8n</link>
-      <description>We investigate the possibility of observable neutrinoless double beta decay (0νββ) and viable leptogenesis within a low-scale extended inverse seesaw mechanism with additional sterile neutrinos. General effective field theory considerations suggest that if there are experimentally observable signatures in 0νββ decay and a lepton asymmetry generated by heavy right-handed neutrino decays, thermal leptogenesis is likely to be unviable. However, in this work, we show that, in the context of low-scale leptogenesis, one can obtain the observed baryon asymmetry of the Universe and observable signatures of 0νββ decay in the presence of additional sterile neutrinos. In this framework, the light neutrino masses are suppressed by the extended seesaw parameter μ, thereby allowing for O(10 TeV) right-handed neutrinos while avoiding small Yukawa couplings as in other neutrino mass models and near degeneracies in the right-handed neutrino spectrum as required by the low-scale leptogenesis paradigm. C</description>
-      <source url="https://doi.org/10.1103/phwz-zb8n">Physical Review D</source>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/phwz-zb8n</guid>
-    </item><item>
       <title>Classical Yangian symmetry of auxiliary field sigma models</title>
       <link>https://doi.org/10.1103/45tz-qs68</link>
       <description>Integrable field theories exhibit infinitely many symmetries which underlie their solvability, but the structure of these symmetries can become obscured after performing an integrable deformation such as TT¯ or an auxiliary field deformation. In this paper, we present a systematic organizing principle for understanding deformed charges and their Yangian structure in a broad class of integrable sigma models and their auxiliary field deformations. We generalize the recursive procedure of Brezin, Itzykson, Zinn-Justin, and Zuber for generating nonlocal charges, and give sufficient conditions under which the first two charges in the tower give rise to a classical Yangian algebra. We apply these results to many examples of integrable sigma models and their auxiliary field deformations, finding a Yangian algebra and Maillet bracket structure in all cases. This offers a unified explanation for the persistence of Hamiltonian integrability and Yangian symmetry across a wide landscape of deforme</description>
@@ -63,13 +78,12 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/45tz-qs68</guid>
     </item><item>
-      <title>Observation of an altered a0(980) line shape in D+→π+ηη</title>
-      <link>https://doi.org/10.1103/p6j9-nlsc</link>
-      <description>Using 20.3 fb−1 of e+e− collision data collected with the BESIII detector at s=3.773 GeV, we perform the first amplitude analysis of the decay D+→π+ηη. The intermediate process D+→a0(980)+η, a0(980)+→π+η, is the only component retained in the nominal amplitude model, and its branching fraction is measured to be (3.67±0.12stat±0.06syst)×10−3. The π+η mass spectrum associated with a0(980)+η production exhibits a line shape that differs substantially from those observed in D(s)→a0(980)π and D0→a0(980)−e+νe decays. We examine several conventional descriptions of the a0(980) amplitude, including Flatté, dispersively modified Flatté, T-matrix, and K-matrix parametrizations. With reference a0(980) parameters, neither these models nor their extensions including additional small resonant or nonresonant amplitudes reproduce the observed line shape satisfactorily. When the a0(980) parameters are allowed to float, satisfactory fits can be obtained, but the pole mass is driven well-above the KK¯ th</description>
-      <source url="https://doi.org/10.1103/p6j9-nlsc">Physical Review D</source>
-      <author>et al.</author>
+      <title>Testable leptogenesis and 0νββ decay in extended seesaw model</title>
+      <link>https://doi.org/10.1103/phwz-zb8n</link>
+      <description>We investigate the possibility of observable neutrinoless double beta decay (0νββ) and viable leptogenesis within a low-scale extended inverse seesaw mechanism with additional sterile neutrinos. General effective field theory considerations suggest that if there are experimentally observable signatures in 0νββ decay and a lepton asymmetry generated by heavy right-handed neutrino decays, thermal leptogenesis is likely to be unviable. However, in this work, we show that, in the context of low-scale leptogenesis, one can obtain the observed baryon asymmetry of the Universe and observable signatures of 0νββ decay in the presence of additional sterile neutrinos. In this framework, the light neutrino masses are suppressed by the extended seesaw parameter μ, thereby allowing for O(10 TeV) right-handed neutrinos while avoiding small Yukawa couplings as in other neutrino mass models and near degeneracies in the right-handed neutrino spectrum as required by the low-scale leptogenesis paradigm. C</description>
+      <source url="https://doi.org/10.1103/phwz-zb8n">Physical Review D</source>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p6j9-nlsc</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/phwz-zb8n</guid>
     </item><item>
       <title>The universe as a superconductor: how to search for a photon mass</title>
       <link>https://doi.org/10.1007/JHEP11(2026)186</link>
@@ -106,33 +120,19 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/7jkz-3r9q</guid>
     </item><item>
-      <title>Monopoles, strings, walls, and gravitational waves</title>
-      <link>https://doi.org/10.1103/7nxq-ky99</link>
-      <description>The gauge symmetry breaking SU(2)→U(1)→Z2→1 successively produces monopoles, strings and domain walls bounded by strings (WBS), with the elementary monopole carrying a U(1) magnetic flux twice as large as the elementary string. The elementary strings and subsequently WBS emit gravitational waves, and during their decay, the WBS yield a network of composite strings that carry the same U(1) flux as the monopoles. Depending on the cosmological evolution, we provide the gravitational wave spectra generated by the elementary strings and WBS, in combination with the composite strings which are either effectively stable, quasistable, or metastable. These three scenarios are also realized in the symmetry breaking chain SU(3)→SO(3)→Z2→1. Both SU(2) and SU(3) have appeared in the literature as flavor gauge symmetries.</description>
-      <source url="https://doi.org/10.1103/7nxq-ky99">Physical Review D</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7nxq-ky99</guid>
-    </item><item>
-      <title>Probing dark matter interactions with stellar motion near Sagittarius A*</title>
-      <link>https://doi.org/10.1103/mjzl-ymsz</link>
-      <description>Stars orbiting Sagittarius A* (Sgr A*) at the Milky Way’s center provide a unique laboratory to test gravity and dark matter (DM). We demonstrate that DM interactions in stellar interiors induce a novel momentum transfer force, altering orbits beyond gravitational effects. We derive the first astrophysical constraints on DM-nucleon scattering using S2’s 2000–2019 orbital data probing sub-GeV parameter space for specified DM distributions near Sgr A*. We further show that complementary orbital survival constraints and future observations of highly eccentric S stars extend the reach to DM profiles allowed by present gravitational measurements. Unlike bounds requiring DM capture and annihilation, our constraints apply broadly to scattering DM including asymmetric DM and extend to masses where methods based on capture can lose sensitivity. Stellar lifetime constraints over megayear timescales complement these, surpassing some direct detection and cosmological limits. This work establishes </description>
-      <source url="https://doi.org/10.1103/mjzl-ymsz">Physical Review D</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mjzl-ymsz</guid>
-    </item><item>
-      <title>Perturbative quantum electrodynamics with generalized domain wall fermions</title>
-      <link>https://doi.org/10.1103/p5lz-pn4v</link>
-      <description>In this paper we derive the expansion of the generalized domain-wall fermion Dirac operator including electromagnetic corrections up to O(e2), which are relevant for lattice computations of radiative corrections to hadronic processes with chiral fermions. In the generalized formulation of the domain-wall fermionic QCD+QED action, physical quark fields are related to the corresponding five-dimensional fields in a way which depends on the (QCD+QED) gauge links, generating extra contact terms when expanding correlation functions with respect to the electric charge. We rederive the known first-order correction using a background-field approach and, at second order, obtain new local operator insertions (seagull vertices) required for gauge covariant calculations.</description>
-      <source url="https://doi.org/10.1103/p5lz-pn4v">Physical Review D</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p5lz-pn4v</guid>
-    </item><item>
       <title>Searches for heavy neutral lepton decays at spallation neutron sources</title>
       <link>https://doi.org/10.1103/tt8z-vdqd</link>
       <description>Spallation neutron sources provide intense neutrino fluxes from pion and muon decay at rest, with energies in the few tens of MeV range. Experiments such as COHERENT exploit these fluxes to detect neutrinos via coherent elastic neutrino-nucleus scattering (CEνNS). However, these facilities also offer a unique opportunity to produce and probe light, secluded, or weakly coupled particles. In this work, we investigate the sensitivity of the Spallation Neutron Source at the Oak Ridge National Laboratory to heavy neutral leptons (HNLs) in the MeV–GeV mass range, as a case study. We consider HNL production in pion and muon decays at rest, followed by their decay into visible Standard Model particles within the detector volume. We analyze a range of current and proposed COHERENT detectors and evaluate their sensitivity to HNL mixing with muon and electron neutrinos as well as to scenarios with mixed mixing. We find that existing detectors can set meaningful constraints, particularly for muon-</description>
       <source url="https://doi.org/10.1103/tt8z-vdqd">Physical Review D</source>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/tt8z-vdqd</guid>
+    </item><item>
+      <title>Monopoles, strings, walls, and gravitational waves</title>
+      <link>https://doi.org/10.1103/7nxq-ky99</link>
+      <description>The gauge symmetry breaking SU(2)→U(1)→Z2→1 successively produces monopoles, strings and domain walls bounded by strings (WBS), with the elementary monopole carrying a U(1) magnetic flux twice as large as the elementary string. The elementary strings and subsequently WBS emit gravitational waves, and during their decay, the WBS yield a network of composite strings that carry the same U(1) flux as the monopoles. Depending on the cosmological evolution, we provide the gravitational wave spectra generated by the elementary strings and WBS, in combination with the composite strings which are either effectively stable, quasistable, or metastable. These three scenarios are also realized in the symmetry breaking chain SU(3)→SO(3)→Z2→1. Both SU(2) and SU(3) have appeared in the literature as flavor gauge symmetries.</description>
+      <source url="https://doi.org/10.1103/7nxq-ky99">Physical Review D</source>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7nxq-ky99</guid>
     </item><item>
       <title>Probing dark matter interactions with stellar motion near Sagittarius A*</title>
       <link>https://doi.org/10.1103/mjzl-ymsz</link>
