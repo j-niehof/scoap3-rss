@@ -5,8 +5,51 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 17:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:51:54 +0000</lastBuildDate>
     <item>
+      <title>Evidence for ηc(2S)→pp¯π+π−π0 and observation of χcJ→pp¯π+π−π0</title>
+      <link>https://doi.org/10.1103/xsww-rmyx</link>
+      <description>Using (2.712±0.014)×109 ψ(3686) events collected by the BESIII detector at the BEPCII collider, the ψ(3686)→γpp¯π+π−π0 process is investigated. Evidence for the decay of ηc(2S)→pp¯π+π−π0 is found with a signal significance of 3.3σ. The product of branching fractions of B[ψ(3686)→γηc(2S)]×B[ηc(2S)→pp¯π+π−π0] is determined to be (3.4±0.5±0.8)×10−6, where the first uncertainty is statistical and the second systematic. The hadronic decays of χcJ→pp¯π+π−π0(J=0,1,2) are observed, and their branching fractions are measured to be B(χc0→pp¯π+π−π0)=(4.79±0.01±0.40)×10−3, B(χc1→pp¯π+π−π0)=(2.13 ± 0.01 ± 0.17)×10−3, and B(χc2→pp¯π+π−π0)=(3.72 ± 0.01±0.29)×10−3, respectively. Furthermore, the branching fractions for the intermediate processes χcJ→pp¯ω are updated with significantly improved precision: B(χc0→pp¯ω)=(5.76 ± 0.01 ± 0.42)×10−4, B(χc1→pp¯ω)=(1.85 ± 0.01 ± 0.13)×10−4, and B(χc2→pp¯ω)=(4.51±0.01±0.33)×10−4, respectively.</description>
+      <source url="https://doi.org/10.1103/xsww-rmyx">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xsww-rmyx</guid>
+    </item><item>
+      <title>Improved approximations for collective neutrino oscillations</title>
+      <link>https://doi.org/10.1103/8zfj-q2qh</link>
+      <description>A one-and two-body su(n) Hamiltonian governing the dynamics of many systems, including collective neutrino oscillations, is investigated. We start by analyzing the algebraic structure(u(nN)), formulate a product structure of the algebra, and utilize this to construct generic expressions for operator expectation values, Rényi Entropy, and Wigner Functions. Performing the Bogoliubov-Born-Green-Kirkwood-Yvon hierarchy truncation we develop a systematic methodology for going beyond the mean field with polynomial scaling on a classical computer.</description>
+      <source url="https://doi.org/10.1103/8zfj-q2qh">Physical Review D</source>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/8zfj-q2qh</guid>
+    </item><item>
+      <title>Nonabelian Lattice Weak Gravity Conjecture and monopole confinement</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)222</link>
+      <description>Within the known landscape of quantum gravity, most theories satisfy the Lattice Weak Gravity Conjecture (LWGC), which requires a superextremal particle at every site in the electric charge lattice Γ. However, counterexamples to the LWGC exist, and it was recently hypothesized that such counterexamples necessarily feature fractionally charged confined monopoles. In this work, we verify this hypothesis in toroidal orbifold compactifications of the heterotic string, which notably feature LWGC violation in both the abelian and nonabelian gauge sectors. In all the cases we consider, there exists a discrete subgroup of the center of the gauge group K ⊆ Z(G) such that superextremal particles exist at every site in the charge lattice of the quotient group G/K, while (confined) monopoles exist at all sites in the magnetic charge lattice of G/K. This suggests that LWGC violation cannot occur for gauge groups with trivial centers, and more generally the degree of LWGC violation in a nonabelian g</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)222">Journal of High Energy Physics</source>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)222</guid>
+    </item><item>
+      <title>Quantum channel capacity of traversable wormholes</title>
+      <link>https://doi.org/10.1103/7trm-rykk</link>
+      <description>We formulate the Gao-Jafferis-Wall traversable wormhole protocol as a quantum channel and compute its quantum channel capacity. We show that this capacity is governed by the time derivative of an out-of-time-ordered correlator, hence by operator size growth in the holographic dual, and that its growth is bounded above by the Einstein gravity limit. The channel capacity therefore provides a natural benchmark for quantum simulations of traversable wormholes.</description>
+      <source url="https://doi.org/10.1103/7trm-rykk">Physical Review D</source>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7trm-rykk</guid>
+    </item><item>
+      <title>Every 3D Conformal Field Theory Has an LΛw1+∞ Symmetry</title>
+      <link>https://doi.org/10.1103/64ht-cx15</link>
+      <description>A one-parameter family of deformed Lw1+∞ soft symmetry algebras acting on tree-level gravitational theories in AdS4 has recently been discovered; it is denoted LΛw1+∞. Here, we show that all CFT3 s, including those dual to quantum gravity on AdS4, admit an LΛw1+∞ action generated by the ANEC operator, its conformal descendants, and their commutators. This extends previous tree-level results on these soft symmetries to the strongly coupled quantum regime.</description>
+      <source url="https://doi.org/10.1103/64ht-cx15">Physical Review Letters</source>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/64ht-cx15</guid>
+    </item><item>
+      <title>Tunneling and tidal stripping in multifield ultralight dark matter halos</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)214</link>
+      <description>Tidal stripping is a key feature of the evolution of dark matter (DM) halos, and has major implications for the population of low-mass galaxies. In the case of solitonic cores formed by ultralight DM, tidal stripping proceeds not only classically, at the tidal radius, but also via a process analogous to quantum tunneling by long-wavelength particles out of the potential of the soliton. This modified tidal stripping behavior leads to tight constraints on the particle mass from the stability of small satellite galaxies: only a narrow range of masses produces a core of the appropriate size while resisting tidal disruption over cosmic time. As many models of ultralight DM predict several independent species, it is crucial to understand how these constraints can be generalized to multifield solitons with different particle masses. However, numerical challenges make it difficult to directly study the tunneling process in all but the simplest multifield scenarios. We introduce a simplified ap</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)214">Journal of High Energy Physics</source>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)214</guid>
+    </item><item>
       <title>The black hole S-matrix in gauge/gravity duality</title>
       <link>https://doi.org/10.1007/JHEP11(2026)213</link>
       <description>A variety of examples of gauge/gravity duality have a Coulomb branch for the gauge theory dynamics. We exploit this feature to construct an S-matrix, in which the initial state is a shell of branes converging on the origin of the Coulomb branch. In the gravitational dual, the shell of branes sources a geometry with a capped throat; the cap descends from the asymptotic region to larger and larger redshift. A trapped surface forms when the redshift of the cap reaches the point where the excitation of strings stretching between the branes is unsuppressed, and the dual gauge theory deconfines. The intermediate state is a long-lived black hole, which then decays via the slow emission of branes back onto the Coulomb branch. We compare and contrast the descriptions of this process in the bulk effective field theory and the dual gauge theory; and discuss the consequences of this construction for the black hole information paradox.</description>
@@ -21,12 +64,13 @@
       <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)201</guid>
     </item><item>
-      <title>The JLMS formula in a large code with approximate error correction</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)197</link>
-      <description>Gauge/gravity duality is often described as a quantum error correcting code. However, as seen in the Jafferis-Lewkowycz-Maldacena-Suh (JLMS) formula, exact quantum error correction with complementary recovery (and thus entanglement wedge reconstruction) emerges only in the limit G → 0. As a result, precise arguments controlling error terms have focused on what we call ‘small’ codes which, as G → 0, describe only perturbative excitations near a given classical solution. Such settings are quite restrictive and, in particular, they prohibit discussion of any modular flow that would change the classical background. As a result, they forbid consideration of modular flows generated by semiclassical bulk states at order-one modular parameters.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)197">Journal of High Energy Physics</source>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)197</guid>
+      <title>Einstein-æther elliptic charges and the first law of asymptotically AdS black holes</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)205</link>
+      <description>We investigate the thermodynamic role of asymptotic æther alignment for universal horizons in Einstein-æther theory. In the static, spherically symmetric, asymptotically AdS sector with c = 0, the known first law for universal horizons contains an additional term whenever the æther is misaligned with the timelike Killing vector at infinity. While this term has recently been interpreted in Hořava-Lifshitz gravity as the contribution of an elliptic charge associated with khronon reparameterizations, no corresponding explanation was available in Einstein-æther theory. We show that, in the same sector, Einstein-æther theory possesses a previously unidentified symmetry of the reduced action, generated by infinitesimal transformations of the form δu = fa , where a is the æther acceleration and f obeys an spatial equation on each leaf. We derive the associated current and charge, and show that the aligned limit is naturally interpreted as the ensemble in which this æther-charge contribution v</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)205">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)205</guid>
     </item><item>
       <title>Einstein-æther elliptic charges and the first law of asymptotically AdS black holes</title>
       <link>https://doi.org/10.1007/JHEP11(2026)205</link>
@@ -36,40 +80,12 @@
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)205</guid>
     </item><item>
-      <title>Production of primordial black holes in the double D3-brane-anti-D3-brane inflation model</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)206</link>
-      <description>A natural extension of the successful D3text-overlineD3-brane inflation model in string theory is one with two D3text-overlineD3-brane pairs, giving rise to a novel feature in string-theory. When the first pair annihilates, D1-strings and F1-strings are produced. Following the non-commutative geometric properties in string theory, it is shown by Myers [1–3] that the presence of the D3-charge field strength of the remaining D3text-overlineD3-brane pair leads to the formation of dielectric 3-branes — neutral, finite-size bound states of 3-branes with D1-strings. They behave as matter with little or no pressure. Spanning a wide range of masses, they seed primordial black holes in the early universe.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)206">Journal of High Energy Physics</source>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)206</guid>
-    </item><item>
-      <title>Lorentzian Kähler-Dirac fermions</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)200</link>
-      <description>We examine the formulation of Kähler-Dirac fermions on spacetimes with Lorentz signature. In practice we focus on Minkowski spacetime since most of the difficulties that are encountered are visible even when the spacetime is flat. We show that the theory, when interpreted as a Lorentz invariant theory of forms or antisymmetric tensor fields, is non-unitary. We show that unitarity can be restored provided one adopts a modified inner product on the Hilbert space. This modified inner product requires the insertion of an operator J that anti-commutes with certain modes of the Kähler-Dirac field in such a way as to guarantee all states have positive norm. We give an explicit (and local) form for J and show that while it commutes with the Hamiltonian, it is incompatible with the Lorentz transformation properties of the tensor fields. In flat space, the unitarized formulation is equivalent to 4 Dirac fermions.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)200">Journal of High Energy Physics</source>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)200</guid>
-    </item><item>
       <title>Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves</title>
       <link>https://doi.org/10.1103/mzv7-7v5q</link>
       <description>We explore the coincidence of scales between cosmic inflation and right-handed neutrinos in seesaw models. We show that inflation models, which will be tested by next-generation cosmic microwave background experiments, can produce right-handed neutrinos in sufficient abundance to explain the observed baryon asymmetry of the Universe. The model can be tested by gravitational wave signatures from cosmic inflation and particle production.</description>
       <source url="https://doi.org/10.1103/mzv7-7v5q">Physical Review D</source>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/mzv7-7v5q</guid>
-    </item><item>
-      <title>Exploring scalar leptoquarks at muon collider via indirect signatures and right-handed neutrino-assisted decays</title>
-      <link>https://doi.org/10.1103/3myh-zrt6</link>
-      <description>Scalar leptoquarks (sLQs) appear in a wide range of ultraviolet-motivated extensions of the Standard Model and provide a natural link between the quark and lepton sectors. In this work, we investigate the discovery potential of an sLQ doublet R˜2(3,2,1/6) that couples to light quarks and right-handed neutrinos (RHNs) at the proposed muon collider. We analyze both indirect probes—arising from t-channel sLQ exchange that affects the high-pT behavior of dijet spectra—and direct searches exploiting pair and single production of the sLQs, incorporating the full interplay of kinematic thresholds and decay topologies. We find that indirect probes at muon colliders deliver remarkably robust sensitivity to the sLQ-quark-muon coupling over a broad mass range. Assuming a sub-O(1) Yukawa coupling, we achieve a 5σ sensitivity up to sLQ masses ∼4.0 TeV (7.0 TeV) at s=5(10) TeV center-of-mass energy with L=3 ab−1 (10 ab−1) integrated luminosity. Direct production channels provide complementary reach:</description>
-      <source url="https://doi.org/10.1103/3myh-zrt6">Physical Review D</source>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/3myh-zrt6</guid>
-    </item><item>
-      <title>Kernel transformations and bounds for smeared spectral functions</title>
-      <link>https://doi.org/10.1103/f4h2-pg8m</link>
-      <description>This work develops a framework for transforming between smeared spectral functions computed using different smearing kernels. The kernel-transformation problem naturally arises when information is available for one family of energy-smeared observables, while phenomenology or comparison with other calculations require a different smearing. For exact transformations, analytic conditions are established for the maps to exist and converge without arbitrary regularization. Explicit expressions are provided for several kernel classes of interest, including Cauchy-to-Gaussian transformations and Gaussian-to-Cauchy width mixtures. When exact transformations are unavailable, the inverse problem is tackled through regulated maps paired with bounds on the associated systematic error, directly computable from the given input data. Errors on the input smeared spectral functions, either statistical or in the form of pointwise rigorous bounds, are then propagated to the target observables. Enforcing </description>
-      <source url="https://doi.org/10.1103/f4h2-pg8m">Physical Review D</source>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/f4h2-pg8m</guid>
     </item><item>
       <title>Classical Yangian symmetry of auxiliary field sigma models</title>
       <link>https://doi.org/10.1103/45tz-qs68</link>
@@ -84,13 +100,6 @@
       <source url="https://doi.org/10.1103/phwz-zb8n">Physical Review D</source>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/phwz-zb8n</guid>
-    </item><item>
-      <title>The universe as a superconductor: how to search for a photon mass</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)186</link>
-      <description>We revisit the bounds on the photon mass when it arises from an Abelian Higgs mechanism rather than a Proca term. Because the higgs is necessarily millicharged and light, the phase of the theory (Meissner, vortex, or symmetry-restored) depends on the ambient magnetic field, so the photon mass an experiment measures depends on the environment it is performed in. We classify existing experiments by the phases in which they apply, in analogy with Type I and Type II superconductors. For Type I photon masses, magnetic fields in galaxies and the intergalactic medium can restore the symmetry everywhere, allowing a vacuum photon mass as large as 0.3 MeV. Regions of photon mass as large as 10 eV could be present in the Universe, and measurement of frequency dependent optical depth can potentially reveal these regions. For Type II photon masses, we show that the strongest constraints mainly arise from the requirement that the galactic dynamo generates the observed magnetic fields, which we deriv</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)186">Journal of High Energy Physics</source>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)186</guid>
     </item><item>
       <title>Crossover or first-order? Regularization effects in a contact interaction treatment * Supported by the Natural Science Foundation of Jiangsu Province (BK20220122); the National Natural Science Foundation of China (12233002), and the Program of China Scholarship Council (202606190076)</title>
       <link>https://doi.org/10.1088/1674-1137/aea287</link>
@@ -119,13 +128,6 @@
       <source url="https://doi.org/10.1103/7jkz-3r9q">Physical Review Letters</source>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/7jkz-3r9q</guid>
-    </item><item>
-      <title>Searches for heavy neutral lepton decays at spallation neutron sources</title>
-      <link>https://doi.org/10.1103/tt8z-vdqd</link>
-      <description>Spallation neutron sources provide intense neutrino fluxes from pion and muon decay at rest, with energies in the few tens of MeV range. Experiments such as COHERENT exploit these fluxes to detect neutrinos via coherent elastic neutrino-nucleus scattering (CEνNS). However, these facilities also offer a unique opportunity to produce and probe light, secluded, or weakly coupled particles. In this work, we investigate the sensitivity of the Spallation Neutron Source at the Oak Ridge National Laboratory to heavy neutral leptons (HNLs) in the MeV–GeV mass range, as a case study. We consider HNL production in pion and muon decays at rest, followed by their decay into visible Standard Model particles within the detector volume. We analyze a range of current and proposed COHERENT detectors and evaluate their sensitivity to HNL mixing with muon and electron neutrinos as well as to scenarios with mixed mixing. We find that existing detectors can set meaningful constraints, particularly for muon-</description>
-      <source url="https://doi.org/10.1103/tt8z-vdqd">Physical Review D</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/tt8z-vdqd</guid>
     </item><item>
       <title>Monopoles, strings, walls, and gravitational waves</title>
       <link>https://doi.org/10.1103/7nxq-ky99</link>
