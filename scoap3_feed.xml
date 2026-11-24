@@ -5,22 +5,67 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:27:59 +0000</lastBuildDate>
     <item>
-      <title>Evidence for ηc(2S)→pp¯π+π−π0 and observation of χcJ→pp¯π+π−π0</title>
-      <link>https://doi.org/10.1103/xsww-rmyx</link>
-      <description>Using (2.712±0.014)×109 ψ(3686) events collected by the BESIII detector at the BEPCII collider, the ψ(3686)→γpp¯π+π−π0 process is investigated. Evidence for the decay of ηc(2S)→pp¯π+π−π0 is found with a signal significance of 3.3σ. The product of branching fractions of B[ψ(3686)→γηc(2S)]×B[ηc(2S)→pp¯π+π−π0] is determined to be (3.4±0.5±0.8)×10−6, where the first uncertainty is statistical and the second systematic. The hadronic decays of χcJ→pp¯π+π−π0(J=0,1,2) are observed, and their branching fractions are measured to be B(χc0→pp¯π+π−π0)=(4.79±0.01±0.40)×10−3, B(χc1→pp¯π+π−π0)=(2.13 ± 0.01 ± 0.17)×10−3, and B(χc2→pp¯π+π−π0)=(3.72 ± 0.01±0.29)×10−3, respectively. Furthermore, the branching fractions for the intermediate processes χcJ→pp¯ω are updated with significantly improved precision: B(χc0→pp¯ω)=(5.76 ± 0.01 ± 0.42)×10−4, B(χc1→pp¯ω)=(1.85 ± 0.01 ± 0.13)×10−4, and B(χc2→pp¯ω)=(4.51±0.01±0.33)×10−4, respectively.</description>
-      <source url="https://doi.org/10.1103/xsww-rmyx">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xsww-rmyx</guid>
+      <title>Self-calibration of the neutrino-argon cross section with solar neutrinos</title>
+      <link>https://doi.org/10.1103/5zzp-v9kk</link>
+      <description>The success of DUNE’s MeV physics program depends upon high-precision knowledge of the charged-current (CC) νe+Ar40 cross section. While there are indirect constraints on the cross section with uncertainties at the ∼10% level, the only direct measurement in the MeV range disagrees by more than a factor of two. We show, surprisingly, that this cross section can be precisely measured using the solar-neutrino data themselves. This is possible because of independent knowledge of the B8 flux and survival probability, plus the distinctive angular distributions of the Fermi and Gamow-Teller transitions that comprise the cross section. We propose new methods to extract the transition strengths, considering both intuitive groupings and a principal component analysis. Assuming pessimistic detection performance but controlled detector systematic uncertainties, we demonstrate that a precision of ≲2% on the cross section can be achieved in the 9–15 MeV energy range. These results will be an importa</description>
+      <source url="https://doi.org/10.1103/5zzp-v9kk">Physical Review D</source>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/5zzp-v9kk</guid>
     </item><item>
-      <title>Improved approximations for collective neutrino oscillations</title>
-      <link>https://doi.org/10.1103/8zfj-q2qh</link>
-      <description>A one-and two-body su(n) Hamiltonian governing the dynamics of many systems, including collective neutrino oscillations, is investigated. We start by analyzing the algebraic structure(u(nN)), formulate a product structure of the algebra, and utilize this to construct generic expressions for operator expectation values, Rényi Entropy, and Wigner Functions. Performing the Bogoliubov-Born-Green-Kirkwood-Yvon hierarchy truncation we develop a systematic methodology for going beyond the mean field with polynomial scaling on a classical computer.</description>
-      <source url="https://doi.org/10.1103/8zfj-q2qh">Physical Review D</source>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8zfj-q2qh</guid>
+      <title>Singlet-doublet dark matter beyond freeze-out</title>
+      <link>https://doi.org/10.1103/2v46-g6vv</link>
+      <description>The singlet-doublet fermion model of dark matter is an economical weak-scale dark matter model that realizes the dark matter abundance through interactions with the electroweak bosons of the Standard Model. Depending on the size of the Yukawa couplings in the model, the dark matter relic abundance can be produced via freeze-out (including coannihilation), coscattering, freeze-in, or the SuperWIMP mechanism. We analyze the ways this model can realize the dark matter density with emphasis on the small Yukawa coupling regime. In this limit, direct and indirect detection are difficult, but a rich collider phenomenology is possible.</description>
+      <source url="https://doi.org/10.1103/2v46-g6vv">Physical Review D</source>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/2v46-g6vv</guid>
+    </item><item>
+      <title>Quark-level CPT violation in neutral-meson systems</title>
+      <link>https://doi.org/10.1103/xx5w-5mhk</link>
+      <description>This work investigates CPT and Lorentz breakdown in neutral-meson interferometry within the nonminimal Standard-Model Extension. Employing methods of chiral perturbation theory for mass dimension d=5, a connection between the quark-level and the meson effective pseudoscalar Lagrangian is established. The resulting phenomenological signatures in neutral-meson oscillations with particular focus on the detector geometry are explored. This analysis permits the interpretation of such CPT tests within the d=5 quark sector of the Standard-Model Extension. Existing data are used to extract first constraints on two coefficients and to estimate achievable sensitivity gains over published bounds of up to 18 orders of magnitude.</description>
+      <source url="https://doi.org/10.1103/xx5w-5mhk">Physical Review D</source>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xx5w-5mhk</guid>
+    </item><item>
+      <title>Probing the electron Yukawa coupling with resonant Higgs boson production at FCC-ee in e^+e^-→ H → WW^* lepton-plus-jets final states</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16475-5</link>
+      <description>We report a detailed simulation study of the search for s-channel Higgs boson production in e^+e^-collisions at a center-of-mass (c.m.) energy of sqrts=125,textrmGeV at the CERN Future Circular Collider (FCC-ee), as a means to constrain the electron Yukawa coupling, y_e . The process of interest is e^+e^-→ H→ WW^*→ ell ^± ν + jj with four different WW^* final states considered, involving both on-and off-shell W bosons decaying either into dileptons ( ell ^± = e^± and μ ^± , including those from τ ^± decays) or into dijets (jj). Signal and background events are discriminated through a multiclass gradient boosted decision tree exploiting a comprehensive set of kinematic and topological variables across the four final-state categories. Assuming a monochromatized c.m. energy spread commensurate with the Higgs boson width, yielding a σ _ee→ H = 280 ab resonant cross section, and an integrated luminosity of 10 ab ^-1 , the analysis achieves a combined statistical significance of 2.0 standard</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16475-5">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16475-5</guid>
+    </item><item>
+      <title>Quark-level CPT violation in neutral-meson systems</title>
+      <link>https://doi.org/10.1103/xx5w-5mhk</link>
+      <description>This work investigates CPT and Lorentz breakdown in neutral-meson interferometry within the nonminimal Standard-Model Extension. Employing methods of chiral perturbation theory for mass dimension d=5, a connection between the quark-level and the meson effective pseudoscalar Lagrangian is established. The resulting phenomenological signatures in neutral-meson oscillations with particular focus on the detector geometry are explored. This analysis permits the interpretation of such CPT tests within the d=5 quark sector of the Standard-Model Extension. Existing data are used to extract first constraints on two coefficients and to estimate achievable sensitivity gains over published bounds of up to 18 orders of magnitude.</description>
+      <source url="https://doi.org/10.1103/xx5w-5mhk">Physical Review D</source>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xx5w-5mhk</guid>
+    </item><item>
+      <title>Inclusive mathrm psi (2S) production at midrapidity in pp collisions at sqrts = 13 TeV</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15879-7</link>
+      <description>Inclusive production of mathrm psi (2S) mesons is measured at midrapidity ( |y| &lt; 0.9 ) in pp collisions at sqrts = 13 TeV using the ALICE detector at the LHC, extending the available midrapidity coverage towards lower transverse-momentum ( p_textrmT ). The measurement is performed in the p_textrmT range of 4 to 16 GeV/ c and is based on events triggered by the Transition Radiation Detector, corresponding to an integrated luminosity of 1.7 ± 1.8% (syst.) pb ^-1 . The p_textrmT-differential production cross section of the mathrm psi (2S) and its ratio to the mathrm J/psi production cross section are presented. The results extend the accessible p_textrmT range down to 4 GeV/ c , and a mild rise of the mathrm psi (2S)-to-mathrm J/psi cross section ratio with increasing p_textrmT is observed. The measurements are compared with theoretical predictions based on NRQCD and the ICEM model.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15879-7">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15879-7</guid>
+    </item><item>
+      <title>Search for dark matter produced in association with a dark Higgs boson decaying into a bottom quark–antiquark pair in proton–proton collisions at sqrts=13,text Tehspace-.08emtext V</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16277-9</link>
+      <description>A search for dark matter produced in association with a dark Higgs boson decaying into a bottom quark–antiquark pair has been performed using proton–proton collision data at a center-of-mass energy of 13 ,text Tehspace-.08emtext V . The search uses data collected with the CMS detector at the CERN LHC during the 2016–2018 data-taking period, corresponding to an integrated luminosity of 138 ,text fb^-1 . The results are interpreted in terms of a theoretical model of dark matter production that, together with a spin-1 text Z^prime boson mediator, predicts the existence of a Higgs-boson-like particle in the dark sector (i.e., a dark Higgs boson). This search focuses on an experimental signature with large missing transverse momentum from dark matter production and a resonant structure in the invariant mass of the bottom quark–antiquark pair from the dark Higgs boson decay. Upper limits at 95% confidence level on the signal strength for dark Higgs boson mass hypotheses below 160 ,text Gehsp</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16277-9">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16277-9</guid>
+    </item><item>
+      <title>Gravitational effective theories with maximal supersymmetry and a peculiar parity</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)219</link>
+      <description>We study the space of four-dimensional ultraviolet completions for mathcalN = 8 supergravity that are described at low energies by weakly-coupled effective field theories (EFTs) with maximal supersymmetry and SU(4) × SU(4) R-symmetry. We show that tree-level factorization of the 4-, 5-, and 6-point EFT scattering amplitudes, together with a certain “peculiar parity” condition, leads to nonlinear constraints on the 4-point Wilson coefficients. This peculiar parity is a property that can only be imposed on a subset of scalar amplitudes. Combining the nonlinear constraints with positivity, we find that the allowed region of 4-point Wilson coefficients is reduced to a non-convex domain with two sharp corners: one being the closed superstring Virasoro-Shapiro amplitude, the other an infinite spin tower amplitude exchanging states of every spin at the same mass. We show both numerically and analytically that requiring a finite number of states near the first mass level leaves only the Viraso</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)219">Journal of High Energy Physics</source>
+      <author>et al.</author>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)219</guid>
     </item><item>
       <title>Nonabelian Lattice Weak Gravity Conjecture and monopole confinement</title>
       <link>https://doi.org/10.1007/JHEP11(2026)222</link>
@@ -29,13 +74,6 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)222</guid>
     </item><item>
-      <title>Quantum channel capacity of traversable wormholes</title>
-      <link>https://doi.org/10.1103/7trm-rykk</link>
-      <description>We formulate the Gao-Jafferis-Wall traversable wormhole protocol as a quantum channel and compute its quantum channel capacity. We show that this capacity is governed by the time derivative of an out-of-time-ordered correlator, hence by operator size growth in the holographic dual, and that its growth is bounded above by the Einstein gravity limit. The channel capacity therefore provides a natural benchmark for quantum simulations of traversable wormholes.</description>
-      <source url="https://doi.org/10.1103/7trm-rykk">Physical Review D</source>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7trm-rykk</guid>
-    </item><item>
       <title>Every 3D Conformal Field Theory Has an LΛw1+∞ Symmetry</title>
       <link>https://doi.org/10.1103/64ht-cx15</link>
       <description>A one-parameter family of deformed Lw1+∞ soft symmetry algebras acting on tree-level gravitational theories in AdS4 has recently been discovered; it is denoted LΛw1+∞. Here, we show that all CFT3 s, including those dual to quantum gravity on AdS4, admit an LΛw1+∞ action generated by the ANEC operator, its conformal descendants, and their commutators. This extends previous tree-level results on these soft symmetries to the strongly coupled quantum regime.</description>
@@ -43,42 +81,49 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/64ht-cx15</guid>
     </item><item>
-      <title>Tunneling and tidal stripping in multifield ultralight dark matter halos</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)214</link>
-      <description>Tidal stripping is a key feature of the evolution of dark matter (DM) halos, and has major implications for the population of low-mass galaxies. In the case of solitonic cores formed by ultralight DM, tidal stripping proceeds not only classically, at the tidal radius, but also via a process analogous to quantum tunneling by long-wavelength particles out of the potential of the soliton. This modified tidal stripping behavior leads to tight constraints on the particle mass from the stability of small satellite galaxies: only a narrow range of masses produces a core of the appropriate size while resisting tidal disruption over cosmic time. As many models of ultralight DM predict several independent species, it is crucial to understand how these constraints can be generalized to multifield solitons with different particle masses. However, numerical challenges make it difficult to directly study the tunneling process in all but the simplest multifield scenarios. We introduce a simplified ap</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)214">Journal of High Energy Physics</source>
+      <title>Improved approximations for collective neutrino oscillations</title>
+      <link>https://doi.org/10.1103/8zfj-q2qh</link>
+      <description>A one-and two-body su(n) Hamiltonian governing the dynamics of many systems, including collective neutrino oscillations, is investigated. We start by analyzing the algebraic structure(u(nN)), formulate a product structure of the algebra, and utilize this to construct generic expressions for operator expectation values, Rényi Entropy, and Wigner Functions. Performing the Bogoliubov-Born-Green-Kirkwood-Yvon hierarchy truncation we develop a systematic methodology for going beyond the mean field with polynomial scaling on a classical computer.</description>
+      <source url="https://doi.org/10.1103/8zfj-q2qh">Physical Review D</source>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)214</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/8zfj-q2qh</guid>
     </item><item>
-      <title>The black hole S-matrix in gauge/gravity duality</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)213</link>
-      <description>A variety of examples of gauge/gravity duality have a Coulomb branch for the gauge theory dynamics. We exploit this feature to construct an S-matrix, in which the initial state is a shell of branes converging on the origin of the Coulomb branch. In the gravitational dual, the shell of branes sources a geometry with a capped throat; the cap descends from the asymptotic region to larger and larger redshift. A trapped surface forms when the redshift of the cap reaches the point where the excitation of strings stretching between the branes is unsuppressed, and the dual gauge theory deconfines. The intermediate state is a long-lived black hole, which then decays via the slow emission of branes back onto the Coulomb branch. We compare and contrast the descriptions of this process in the bulk effective field theory and the dual gauge theory; and discuss the consequences of this construction for the black hole information paradox.</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)213">Journal of High Energy Physics</source>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)213</guid>
-    </item><item>
-      <title>Axion wormholes and the AdS/CFT factorization problem</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)201</link>
-      <description>This work investigates the relevance of Euclidean and complex axion wormholes to the AdS/CFT factorization problem. We use a framework that defines bulk gravitational path integrals by integrating over a real Lorentz-signature contour and then, as needed, perhaps further analytically continuing the resulting functions of boundary conditions. For technical reasons we focus on the case of 2+1 bulk dimensions. The AdS boundary conditions (in any dimension) require us to impose Dirichlet boundary conditions on the standard Euclidean axion χ . Fixing its asymptotic values on two boundary spheres to ±χ , we find such wormholes to be subdominant to a UV-sensitive endpoint contribution for χ near the real axis, and that (with our conventions) they become dominant only for χ near the negative imaginary axis. Furthermore, such wormholes are irrelevant to our computation for Imχ &gt; 0 (in the sense that the associated ascent contour fails to intersect the contour of integration). The relevance of t</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)201">Journal of High Energy Physics</source>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)201</guid>
-    </item><item>
-      <title>Einstein-æther elliptic charges and the first law of asymptotically AdS black holes</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)205</link>
-      <description>We investigate the thermodynamic role of asymptotic æther alignment for universal horizons in Einstein-æther theory. In the static, spherically symmetric, asymptotically AdS sector with c = 0, the known first law for universal horizons contains an additional term whenever the æther is misaligned with the timelike Killing vector at infinity. While this term has recently been interpreted in Hořava-Lifshitz gravity as the contribution of an elliptic charge associated with khronon reparameterizations, no corresponding explanation was available in Einstein-æther theory. We show that, in the same sector, Einstein-æther theory possesses a previously unidentified symmetry of the reduced action, generated by infinitesimal transformations of the form δu = fa , where a is the æther acceleration and f obeys an spatial equation on each leaf. We derive the associated current and charge, and show that the aligned limit is naturally interpreted as the ensemble in which this æther-charge contribution v</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)205">Journal of High Energy Physics</source>
+      <title>Evidence for ηc(2S)→pp¯π+π−π0 and observation of χcJ→pp¯π+π−π0</title>
+      <link>https://doi.org/10.1103/xsww-rmyx</link>
+      <description>Using (2.712±0.014)×109 ψ(3686) events collected by the BESIII detector at the BEPCII collider, the ψ(3686)→γpp¯π+π−π0 process is investigated. Evidence for the decay of ηc(2S)→pp¯π+π−π0 is found with a signal significance of 3.3σ. The product of branching fractions of B[ψ(3686)→γηc(2S)]×B[ηc(2S)→pp¯π+π−π0] is determined to be (3.4±0.5±0.8)×10−6, where the first uncertainty is statistical and the second systematic. The hadronic decays of χcJ→pp¯π+π−π0(J=0,1,2) are observed, and their branching fractions are measured to be B(χc0→pp¯π+π−π0)=(4.79±0.01±0.40)×10−3, B(χc1→pp¯π+π−π0)=(2.13 ± 0.01 ± 0.17)×10−3, and B(χc2→pp¯π+π−π0)=(3.72 ± 0.01±0.29)×10−3, respectively. Furthermore, the branching fractions for the intermediate processes χcJ→pp¯ω are updated with significantly improved precision: B(χc0→pp¯ω)=(5.76 ± 0.01 ± 0.42)×10−4, B(χc1→pp¯ω)=(1.85 ± 0.01 ± 0.13)×10−4, and B(χc2→pp¯ω)=(4.51±0.01±0.33)×10−4, respectively.</description>
+      <source url="https://doi.org/10.1103/xsww-rmyx">Physical Review D</source>
       <author>et al.</author>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)205</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xsww-rmyx</guid>
     </item><item>
-      <title>Einstein-æther elliptic charges and the first law of asymptotically AdS black holes</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)205</link>
-      <description>We investigate the thermodynamic role of asymptotic æther alignment for universal horizons in Einstein-æther theory. In the static, spherically symmetric, asymptotically AdS sector with c = 0, the known first law for universal horizons contains an additional term whenever the æther is misaligned with the timelike Killing vector at infinity. While this term has recently been interpreted in Hořava-Lifshitz gravity as the contribution of an elliptic charge associated with khronon reparameterizations, no corresponding explanation was available in Einstein-æther theory. We show that, in the same sector, Einstein-æther theory possesses a previously unidentified symmetry of the reduced action, generated by infinitesimal transformations of the form δu = fa , where a is the æther acceleration and f obeys an spatial equation on each leaf. We derive the associated current and charge, and show that the aligned limit is naturally interpreted as the ensemble in which this æther-charge contribution v</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)205">Journal of High Energy Physics</source>
+      <title>Quantum channel capacity of traversable wormholes</title>
+      <link>https://doi.org/10.1103/7trm-rykk</link>
+      <description>We formulate the Gao-Jafferis-Wall traversable wormhole protocol as a quantum channel and compute its quantum channel capacity. We show that this capacity is governed by the time derivative of an out-of-time-ordered correlator, hence by operator size growth in the holographic dual, and that its growth is bounded above by the Einstein gravity limit. The channel capacity therefore provides a natural benchmark for quantum simulations of traversable wormholes.</description>
+      <source url="https://doi.org/10.1103/7trm-rykk">Physical Review D</source>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/7trm-rykk</guid>
+    </item><item>
+      <title>Observation of an altered a0(980) line shape in D+→π+ηη</title>
+      <link>https://doi.org/10.1103/p6j9-nlsc</link>
+      <description>Using 20.3 fb−1 of e+e− collision data collected with the BESIII detector at s=3.773 GeV, we perform the first amplitude analysis of the decay D+→π+ηη. The intermediate process D+→a0(980)+η, a0(980)+→π+η, is the only component retained in the nominal amplitude model, and its branching fraction is measured to be (3.67±0.12stat±0.06syst)×10−3. The π+η mass spectrum associated with a0(980)+η production exhibits a line shape that differs substantially from those observed in D(s)→a0(980)π and D0→a0(980)−e+νe decays. We examine several conventional descriptions of the a0(980) amplitude, including Flatté, dispersively modified Flatté, T-matrix, and K-matrix parametrizations. With reference a0(980) parameters, neither these models nor their extensions including additional small resonant or nonresonant amplitudes reproduce the observed line shape satisfactorily. When the a0(980) parameters are allowed to float, satisfactory fits can be obtained, but the pole mass is driven well-above the KK¯ th</description>
+      <source url="https://doi.org/10.1103/p6j9-nlsc">Physical Review D</source>
       <author>et al.</author>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)205</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/p6j9-nlsc</guid>
+    </item><item>
+      <title>Exploring scalar leptoquarks at muon collider via indirect signatures and right-handed neutrino-assisted decays</title>
+      <link>https://doi.org/10.1103/3myh-zrt6</link>
+      <description>Scalar leptoquarks (sLQs) appear in a wide range of ultraviolet-motivated extensions of the Standard Model and provide a natural link between the quark and lepton sectors. In this work, we investigate the discovery potential of an sLQ doublet R˜2(3,2,1/6) that couples to light quarks and right-handed neutrinos (RHNs) at the proposed muon collider. We analyze both indirect probes—arising from t-channel sLQ exchange that affects the high-pT behavior of dijet spectra—and direct searches exploiting pair and single production of the sLQs, incorporating the full interplay of kinematic thresholds and decay topologies. We find that indirect probes at muon colliders deliver remarkably robust sensitivity to the sLQ-quark-muon coupling over a broad mass range. Assuming a sub-O(1) Yukawa coupling, we achieve a 5σ sensitivity up to sLQ masses ∼4.0 TeV (7.0 TeV) at s=5(10) TeV center-of-mass energy with L=3 ab−1 (10 ab−1) integrated luminosity. Direct production channels provide complementary reach:</description>
+      <source url="https://doi.org/10.1103/3myh-zrt6">Physical Review D</source>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/3myh-zrt6</guid>
+    </item><item>
+      <title>Kernel transformations and bounds for smeared spectral functions</title>
+      <link>https://doi.org/10.1103/f4h2-pg8m</link>
+      <description>This work develops a framework for transforming between smeared spectral functions computed using different smearing kernels. The kernel-transformation problem naturally arises when information is available for one family of energy-smeared observables, while phenomenology or comparison with other calculations require a different smearing. For exact transformations, analytic conditions are established for the maps to exist and converge without arbitrary regularization. Explicit expressions are provided for several kernel classes of interest, including Cauchy-to-Gaussian transformations and Gaussian-to-Cauchy width mixtures. When exact transformations are unavailable, the inverse problem is tackled through regulated maps paired with bounds on the associated systematic error, directly computable from the given input data. Errors on the input smeared spectral functions, either statistical or in the form of pointwise rigorous bounds, are then propagated to the target observables. Enforcing </description>
+      <source url="https://doi.org/10.1103/f4h2-pg8m">Physical Review D</source>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/f4h2-pg8m</guid>
     </item><item>
       <title>Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves</title>
       <link>https://doi.org/10.1103/mzv7-7v5q</link>
@@ -87,68 +132,12 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/mzv7-7v5q</guid>
     </item><item>
-      <title>Classical Yangian symmetry of auxiliary field sigma models</title>
-      <link>https://doi.org/10.1103/45tz-qs68</link>
-      <description>Integrable field theories exhibit infinitely many symmetries which underlie their solvability, but the structure of these symmetries can become obscured after performing an integrable deformation such as TT¯ or an auxiliary field deformation. In this paper, we present a systematic organizing principle for understanding deformed charges and their Yangian structure in a broad class of integrable sigma models and their auxiliary field deformations. We generalize the recursive procedure of Brezin, Itzykson, Zinn-Justin, and Zuber for generating nonlocal charges, and give sufficient conditions under which the first two charges in the tower give rise to a classical Yangian algebra. We apply these results to many examples of integrable sigma models and their auxiliary field deformations, finding a Yangian algebra and Maillet bracket structure in all cases. This offers a unified explanation for the persistence of Hamiltonian integrability and Yangian symmetry across a wide landscape of deforme</description>
-      <source url="https://doi.org/10.1103/45tz-qs68">Physical Review D</source>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/45tz-qs68</guid>
-    </item><item>
-      <title>Testable leptogenesis and 0νββ decay in extended seesaw model</title>
-      <link>https://doi.org/10.1103/phwz-zb8n</link>
-      <description>We investigate the possibility of observable neutrinoless double beta decay (0νββ) and viable leptogenesis within a low-scale extended inverse seesaw mechanism with additional sterile neutrinos. General effective field theory considerations suggest that if there are experimentally observable signatures in 0νββ decay and a lepton asymmetry generated by heavy right-handed neutrino decays, thermal leptogenesis is likely to be unviable. However, in this work, we show that, in the context of low-scale leptogenesis, one can obtain the observed baryon asymmetry of the Universe and observable signatures of 0νββ decay in the presence of additional sterile neutrinos. In this framework, the light neutrino masses are suppressed by the extended seesaw parameter μ, thereby allowing for O(10 TeV) right-handed neutrinos while avoiding small Yukawa couplings as in other neutrino mass models and near degeneracies in the right-handed neutrino spectrum as required by the low-scale leptogenesis paradigm. C</description>
-      <source url="https://doi.org/10.1103/phwz-zb8n">Physical Review D</source>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/phwz-zb8n</guid>
-    </item><item>
       <title>Crossover or first-order? Regularization effects in a contact interaction treatment * Supported by the Natural Science Foundation of Jiangsu Province (BK20220122); the National Natural Science Foundation of China (12233002), and the Program of China Scholarship Council (202606190076)</title>
       <link>https://doi.org/10.1088/1674-1137/aea287</link>
       <description>The equation of state of hot and dense, strongly interacting quark matter plays a fundamental role in many areas. However, owing to the nonperturbative nature of strong interactions, a reliable treatment remains under debate. We use a symmetry-preserving treatment of a vector otimes vector contact interaction to study related issues at nonzero temperature or quark chemical potential, and we carefully compare a three-momentum cutoff with a proper-time regularization scheme. The numerical results show that the character of the phase transition in the present model depends sensitively on the regularization scheme and parameter choices.</description>
       <source url="https://doi.org/10.1088/1674-1137/aea287">Chinese Physics C</source>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1088/1674-1137/aea287</guid>
-    </item><item>
-      <title>LEP Data@EDM4hep: mitigating data loss risks by increasing data FAIRness, with a view on FCC-ee</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16633-9</link>
-      <description>The LEP data represents the most precise and highest centre-of-mass energy sample of e^+e^-collision data collected to date. Numerous scientific articles have been published since the conclusion of the experiments, underscoring the ongoing relevance of this dataset and the need to secure its long-term availability according to FAIR data preservation principles. These data could also play a crucial new role in the context of the evaluation of the physics potential of FCC-ee, due to the overlapping centre-of-mass energies, offering a valuable benchmark for detector performance and physics analyses. To fulfill this role, the data should be made available in EDM4hep, the standardised event data format currently developed in the context of the common HEP software ecosystem Key4hep. Migrating to EDM4hep would not only benefit future studies but also significantly mitigate the risk of data loss, increase accessibility and interoperability, hence facilitate long-term data preservation. A proof</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16633-9">European Physical Journal C</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16633-9</guid>
-    </item><item>
-      <title>Stability of parton distributions at high x: Impact of nuclear and power corrections</title>
-      <link>https://doi.org/10.1103/xp7c-vgl3</link>
-      <description>We present a comprehensive new global QCD analysis of unpolarized parton distribution functions (PDFs) based upon proton, deuteron, and A=3 data, including the latest inclusive deep-inelastic scattering (DIS) measurements from Jefferson Lab at high Bjorken-x. Using the JAM Bayesian Monte Carlo framework, we systematically explore the stability of the PDFs with respect to variations in the cuts on the invariant mass W of the DIS final state, the implementation of target mass and higher twist corrections, as well as on the nuclear wave functions for the A=2 and 3 data. We find the u and d quark PDFs (and the d/u ratio) are relatively stable up to x≈0.8 and able to describe DIS data down to W2=3.5 GeV2 and Q2=mc2. Within the collinear factorization framework, the fitted higher twist corrections to DIS are found to be positive and largely isospin independent. The description of the nuclear data also requires nonzero isoscalar and isovector nucleon off-shell PDF contributions, which gives s</description>
-      <source url="https://doi.org/10.1103/xp7c-vgl3">Physical Review D</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xp7c-vgl3</guid>
-    </item><item>
-      <title>Minding the Gap between Hard and Diffractive Structure Functions at the Electron-Ion Collider</title>
-      <link>https://doi.org/10.1103/7jkz-3r9q</link>
-      <description>Diffraction is characterized by forward scattering and a large rapidity gap. Ordinary hard scattering also produces gapped events and presents a significant background to identification of diffractively produced events. We present a fully differential factorization of gapped hard ep scattering. We find that the unpolarized azimuthally dependent structure functions F3,4gap and the longitudinal FLgap vanish at leading power for hard scattering. Azimuthal dependence is thus a pure diffractive signature. This is borne out in Monte Carlo simulations.</description>
-      <source url="https://doi.org/10.1103/7jkz-3r9q">Physical Review Letters</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7jkz-3r9q</guid>
-    </item><item>
-      <title>Monopoles, strings, walls, and gravitational waves</title>
-      <link>https://doi.org/10.1103/7nxq-ky99</link>
-      <description>The gauge symmetry breaking SU(2)→U(1)→Z2→1 successively produces monopoles, strings and domain walls bounded by strings (WBS), with the elementary monopole carrying a U(1) magnetic flux twice as large as the elementary string. The elementary strings and subsequently WBS emit gravitational waves, and during their decay, the WBS yield a network of composite strings that carry the same U(1) flux as the monopoles. Depending on the cosmological evolution, we provide the gravitational wave spectra generated by the elementary strings and WBS, in combination with the composite strings which are either effectively stable, quasistable, or metastable. These three scenarios are also realized in the symmetry breaking chain SU(3)→SO(3)→Z2→1. Both SU(2) and SU(3) have appeared in the literature as flavor gauge symmetries.</description>
-      <source url="https://doi.org/10.1103/7nxq-ky99">Physical Review D</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7nxq-ky99</guid>
-    </item><item>
-      <title>Probing dark matter interactions with stellar motion near Sagittarius A*</title>
-      <link>https://doi.org/10.1103/mjzl-ymsz</link>
-      <description>Stars orbiting Sagittarius A* (Sgr A*) at the Milky Way’s center provide a unique laboratory to test gravity and dark matter (DM). We demonstrate that DM interactions in stellar interiors induce a novel momentum transfer force, altering orbits beyond gravitational effects. We derive the first astrophysical constraints on DM-nucleon scattering using S2’s 2000–2019 orbital data probing sub-GeV parameter space for specified DM distributions near Sgr A*. We further show that complementary orbital survival constraints and future observations of highly eccentric S stars extend the reach to DM profiles allowed by present gravitational measurements. Unlike bounds requiring DM capture and annihilation, our constraints apply broadly to scattering DM including asymmetric DM and extend to masses where methods based on capture can lose sensitivity. Stellar lifetime constraints over megayear timescales complement these, surpassing some direct detection and cosmological limits. This work establishes </description>
-      <source url="https://doi.org/10.1103/mjzl-ymsz">Physical Review D</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mjzl-ymsz</guid>
-    </item><item>
-      <title>Perturbative quantum electrodynamics with generalized domain wall fermions</title>
-      <link>https://doi.org/10.1103/p5lz-pn4v</link>
-      <description>In this paper we derive the expansion of the generalized domain-wall fermion Dirac operator including electromagnetic corrections up to O(e2), which are relevant for lattice computations of radiative corrections to hadronic processes with chiral fermions. In the generalized formulation of the domain-wall fermionic QCD+QED action, physical quark fields are related to the corresponding five-dimensional fields in a way which depends on the (QCD+QED) gauge links, generating extra contact terms when expanding correlation functions with respect to the electric charge. We rederive the known first-order correction using a background-field approach and, at second order, obtain new local operator insertions (seagull vertices) required for gauge covariant calculations.</description>
-      <source url="https://doi.org/10.1103/p5lz-pn4v">Physical Review D</source>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/p5lz-pn4v</guid>
     </item>
   </channel>
 </rss>
