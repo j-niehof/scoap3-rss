@@ -5,44 +5,30 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:23:16 +0000</lastBuildDate>
     <item>
-      <title>Probing long-lived particle production in muon decays at the SNS with a highly capable hydrocarbon detector</title>
-      <link>https://doi.org/10.1103/xtl2-wj6n</link>
-      <description>The spallation neutron source (SNS) at Oak Ridge National Laboratory (ORNL) is a prolific muon producer, making it an ideal location for studying dark sector particles produced in muon decays at rest. In this paper, we explore sub-GeV dark particle detection possibilities in a tons-scale, highly capable hydrocarbon scintillator (HC2) detector at the SNS. We consider a search for e+e− final states produced by decays of long-lived, O(10–100) MeV axionlike particles and heavy neutral leptons. The HC2 technology space, exemplified by the PROSPECT and mobile antineutrino demonstrator detectors, offers strong rejection capabilities for the cosmic ray backgrounds that would normally dominate this search. By benchmarking on-surface cosmic ray signatures with data from PROSPECT at ORNL, we generate robust predictions for a multiyear SNS deployment of a range of HC2 detector implementations. Results indicate the potential for order-of-magnitude improvements in sensitivity to axionlike particles </description>
-      <source url="https://doi.org/10.1103/xtl2-wj6n">Physical Review D</source>
+      <title>A determination of the backscattering probability of low-energy antiprotons</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16553-8</link>
+      <description>It is commonly assumed that antiprotons impinging on a material surface annihilate promptly with the nuclei of the material. However, at kinetic energies of a few keV, this assumption may not hold. As with low-energy protons, electrons or positrons that can be reflected from a target, they may undergo large-angle Coulomb scattering before annihilation occurs, thereby appearing to be “backscattered” from the material surface. This backscattering fraction, largely unknown, is a crucial ingredient to the determination of the production cross-section of antihydrogen atoms in the GBAR experiment. This paper presents a determination of the probability that 4 and 6 keV antiprotons backscatter on the surface of a Micro-Channel Plate detector used for beam imaging at GBAR. No evidence for backscattering has been found and an upper limit of 14% at 68% confidence level has been set on this probability. The impact of backscattering on the determination of the number of antiprotons that participate</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16553-8">European Physical Journal C</source>
       <author>et al.</author>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xtl2-wj6n</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16553-8</guid>
     </item><item>
-      <title>Calculating extremely high-energy bremsstrahlung in matter</title>
-      <link>https://doi.org/10.1103/8rg8-tmgg</link>
-      <description>Ultrarelativistic electrons initiate electromagnetic showers in ordinary matter that evolve through bremsstrahlung and pair production. At very high energy, the quantum mechanical duration of bremsstrahlung becomes longer than the mean free time to elastically scatter from the medium, leading to a significant suppression known as the Landau-Pomeranchuk-Migdal (LPM) effect. For some ranges of bremsstrahlung photon and initial electron energies (kγ,E), the duration becomes so long that it will also overlap with subsequent pair production by the bremsstrahlung photon, disrupting LPM suppression and drastically changing LPM predictions. We have previously calculated this change for extremely high energies (kγ≫2 TeV or more, depending on the medium), for which the electron mass and medium-induced photon mass could be ignored. In this paper, we extend that analysis to lower (but still ultrarelativistic) energy by accounting for those masses, leading to a rich map of behavior in different reg</description>
-      <source url="https://doi.org/10.1103/8rg8-tmgg">Physical Review D</source>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8rg8-tmgg</guid>
-    </item><item>
-      <title>Large-N Yang-Mills Λ-parameter from step scaling</title>
-      <link>https://doi.org/10.1103/dhzc-fc2f</link>
-      <description>We use the step-scaling method and results obtained at N=3, 5 and 8 to determine the N-dependence of the dynamically generated scale Λ of SU(N) Yang-Mills theories. We implement the step-scaling method in a suitable finite-volume renormalization scheme based on twisted boundary conditions, introduced to effectively achieve large-N volume independence, and on a coupling defined through the gradient flow. In the MS¯ scheme, we obtain the following values in terms of the gradient flow scale t0: 8t0ΛMS¯=0.577(23), 0.632(32), and 0.611(43) for N=3, 5 and 8, respectively. They extrapolate to a large-N value of: 8t0ΛMS¯(N=∞)=0.639(36), and the N-dependence is given by 8t0ΛMS¯(N)=0.639(36)[1−0.85(62)/N2+O(1/N4)]. This work represents the first calculation of the Yang–Mills Λ-parameter in the large-N limit that does not rely on asymptotic scaling strategies.</description>
-      <source url="https://doi.org/10.1103/dhzc-fc2f">Physical Review D</source>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dhzc-fc2f</guid>
-    </item><item>
-      <title>Extremely High-Energy Bremsstrahlung in Matter</title>
-      <link>https://doi.org/10.1103/rk4d-45t9</link>
-      <description>The theory of bremsstrahlung e→eγ by extremely high energy electrons passing through ordinary matter has been qualitatively incomplete. We revisit the suppression of bremsstrahlung by the Landau-Pomeranchuk-Migdal effect, here accounting for quantum disruption of that effect from pair production. Our analysis covers the full range of ultrarelativistic electron and photon energies (subject to a few simplifying approximations).</description>
-      <source url="https://doi.org/10.1103/rk4d-45t9">Physical Review Letters</source>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rk4d-45t9</guid>
-    </item><item>
-      <title>First Measurement of the Ds+→K*(892)0μ+νμ Decay, Study of Dynamics and Test of Lepton Universality with Ds+→K*(892)0ℓ+νℓ Decays</title>
-      <link>https://doi.org/10.1103/flqh-zxzr</link>
-      <description>We report the first measurement of the semileptonic decay Ds+→K*(892)0μ+νμ and an improved measurement of the decay Ds+→K*(892)0e+νe using a sample of 7.33 fb−1 of e+e− annihilation data collected at center-of-mass energies between 4.128 and 4.226 GeV with the BESIII detector at the Beijing Electron Positron Collider (BEPCII). We measure the branching fractions to be B(Ds+→K*(892)0μ+νμ)=(2.07±0.22stat±0.10syst)×10−3 and B(Ds+→K*(892)0e+νe)=(2.14±0.18stat±0.10syst)×10−3. Based on a simultaneous study of the dynamics in two semileptonic decays, the hadronic form factor parameters in the Ds+→K*(892)0 transition are determined to be rV=V(0)/A1(0)=1.63±0.14stat±0.08syst, r2=A2(0)/A1(0)=0.60±0.13stat±0.06syst, and A1(0)=0.56±0.02stat±0.01syst, where V(0) is the vector form factor and A1,2(0) are the axial-vector form factors evaluated at q2=0. The precision of rV and r2 is improved by twofold and A1(0) is measured for the first time. We also report the first model-independent measurements of</description>
-      <source url="https://doi.org/10.1103/flqh-zxzr">Physical Review Letters</source>
+      <title>The QCD energy-momentum tensor on the lattice: non-perturbative renormalization with N f = 3</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)233</link>
+      <description>We construct the traceless components of the energy-momentum tensor on the lattice for QCD with N = 3 flavours, such that their correlation functions satisfy the appropriate Ward identities in the continuum limit. To carry out this program, we define the theory on the lattice by the Wilson-plaquette and the O(a)-improved Wilson actions for gluons and quarks respectively. The discretization of the space-time entails that (i) the irreducible nonet representation of the SO(4) group splits into a triplet and a sextet irreducible representations of the hypercubic group, and (ii) for each multiplet non-perturbative determinations of the gluonic and fermionic renormalization constants are required. The bare gluonic components of the energy-momentum tensor are defined via the clover discretization of the field strength tensor, while the fermionic ones are discretized by appropriate combinations of symmetric covariant derivatives. For both the triplet and sextet representations, the two indepen</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)233">Journal of High Energy Physics</source>
       <author>et al.</author>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/flqh-zxzr</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)233</guid>
+    </item><item>
+      <title>On the asymptotic causal structure in gravitational EFTs</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)237</link>
+      <description>It is usually assumed that a healthy EFT should not allow superluminal propagation. In the presence of gravity, however, the notion of superluminality becomes subtle, since there is no invariant way to compare with an underlying Minkowski light cone. One can instead resort to an asymptotic criterion: whether the EFT can induce signal propagation faster than what allowed by the asymptotic structure of spacetime. In this work we study the asymptotic causal structure of gravitational EFTs by analysing signal propagation in black-hole backgrounds in the presence of higher-derivative operators. We show that in spacetime dimensions D &gt; 4 the effective light cones can lead to genuine asymptotic superluminality, which can be used to constrain the regime of validity of the EFT. By contrast, in D = 4 the asymptotic causal structure is universally identical to that of Schwarzschild: prompt null curves remain insensitive to higher-derivative corrections and no asymptotic time advance is possible. </description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)237">Journal of High Energy Physics</source>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)237</guid>
     </item><item>
       <title>Strong and electromagnetic amplitudes and direct CP and isospin asymmetries in the decays J/ψ→KS0K+π−+c.c.</title>
       <link>https://doi.org/10.1103/53s5-k8zc</link>
@@ -60,6 +46,44 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/bvrv-g659</guid>
     </item><item>
+      <title>First Measurement of the Ds+→K*(892)0μ+νμ Decay, Study of Dynamics and Test of Lepton Universality with Ds+→K*(892)0ℓ+νℓ Decays</title>
+      <link>https://doi.org/10.1103/flqh-zxzr</link>
+      <description>We report the first measurement of the semileptonic decay Ds+→K*(892)0μ+νμ and an improved measurement of the decay Ds+→K*(892)0e+νe using a sample of 7.33 fb−1 of e+e− annihilation data collected at center-of-mass energies between 4.128 and 4.226 GeV with the BESIII detector at the Beijing Electron Positron Collider (BEPCII). We measure the branching fractions to be B(Ds+→K*(892)0μ+νμ)=(2.07±0.22stat±0.10syst)×10−3 and B(Ds+→K*(892)0e+νe)=(2.14±0.18stat±0.10syst)×10−3. Based on a simultaneous study of the dynamics in two semileptonic decays, the hadronic form factor parameters in the Ds+→K*(892)0 transition are determined to be rV=V(0)/A1(0)=1.63±0.14stat±0.08syst, r2=A2(0)/A1(0)=0.60±0.13stat±0.06syst, and A1(0)=0.56±0.02stat±0.01syst, where V(0) is the vector form factor and A1,2(0) are the axial-vector form factors evaluated at q2=0. The precision of rV and r2 is improved by twofold and A1(0) is measured for the first time. We also report the first model-independent measurements of</description>
+      <source url="https://doi.org/10.1103/flqh-zxzr">Physical Review Letters</source>
+      <author>et al.</author>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/flqh-zxzr</guid>
+    </item><item>
+      <title>Probing long-lived particle production in muon decays at the SNS with a highly capable hydrocarbon detector</title>
+      <link>https://doi.org/10.1103/xtl2-wj6n</link>
+      <description>The spallation neutron source (SNS) at Oak Ridge National Laboratory (ORNL) is a prolific muon producer, making it an ideal location for studying dark sector particles produced in muon decays at rest. In this paper, we explore sub-GeV dark particle detection possibilities in a tons-scale, highly capable hydrocarbon scintillator (HC2) detector at the SNS. We consider a search for e+e− final states produced by decays of long-lived, O(10–100) MeV axionlike particles and heavy neutral leptons. The HC2 technology space, exemplified by the PROSPECT and mobile antineutrino demonstrator detectors, offers strong rejection capabilities for the cosmic ray backgrounds that would normally dominate this search. By benchmarking on-surface cosmic ray signatures with data from PROSPECT at ORNL, we generate robust predictions for a multiyear SNS deployment of a range of HC2 detector implementations. Results indicate the potential for order-of-magnitude improvements in sensitivity to axionlike particles </description>
+      <source url="https://doi.org/10.1103/xtl2-wj6n">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xtl2-wj6n</guid>
+    </item><item>
+      <title>Extremely High-Energy Bremsstrahlung in Matter</title>
+      <link>https://doi.org/10.1103/rk4d-45t9</link>
+      <description>The theory of bremsstrahlung e→eγ by extremely high energy electrons passing through ordinary matter has been qualitatively incomplete. We revisit the suppression of bremsstrahlung by the Landau-Pomeranchuk-Migdal effect, here accounting for quantum disruption of that effect from pair production. Our analysis covers the full range of ultrarelativistic electron and photon energies (subject to a few simplifying approximations).</description>
+      <source url="https://doi.org/10.1103/rk4d-45t9">Physical Review Letters</source>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rk4d-45t9</guid>
+    </item><item>
+      <title>Probing long-lived particle production in muon decays at the SNS with a highly capable hydrocarbon detector</title>
+      <link>https://doi.org/10.1103/xtl2-wj6n</link>
+      <description>The spallation neutron source (SNS) at Oak Ridge National Laboratory (ORNL) is a prolific muon producer, making it an ideal location for studying dark sector particles produced in muon decays at rest. In this paper, we explore sub-GeV dark particle detection possibilities in a tons-scale, highly capable hydrocarbon scintillator (HC2) detector at the SNS. We consider a search for e+e− final states produced by decays of long-lived, O(10–100) MeV axionlike particles and heavy neutral leptons. The HC2 technology space, exemplified by the PROSPECT and mobile antineutrino demonstrator detectors, offers strong rejection capabilities for the cosmic ray backgrounds that would normally dominate this search. By benchmarking on-surface cosmic ray signatures with data from PROSPECT at ORNL, we generate robust predictions for a multiyear SNS deployment of a range of HC2 detector implementations. Results indicate the potential for order-of-magnitude improvements in sensitivity to axionlike particles </description>
+      <source url="https://doi.org/10.1103/xtl2-wj6n">Physical Review D</source>
+      <author>et al.</author>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/xtl2-wj6n</guid>
+    </item><item>
+      <title>Calculating extremely high-energy bremsstrahlung in matter</title>
+      <link>https://doi.org/10.1103/8rg8-tmgg</link>
+      <description>Ultrarelativistic electrons initiate electromagnetic showers in ordinary matter that evolve through bremsstrahlung and pair production. At very high energy, the quantum mechanical duration of bremsstrahlung becomes longer than the mean free time to elastically scatter from the medium, leading to a significant suppression known as the Landau-Pomeranchuk-Migdal (LPM) effect. For some ranges of bremsstrahlung photon and initial electron energies (kγ,E), the duration becomes so long that it will also overlap with subsequent pair production by the bremsstrahlung photon, disrupting LPM suppression and drastically changing LPM predictions. We have previously calculated this change for extremely high energies (kγ≫2 TeV or more, depending on the medium), for which the electron mass and medium-induced photon mass could be ignored. In this paper, we extend that analysis to lower (but still ultrarelativistic) energy by accounting for those masses, leading to a rich map of behavior in different reg</description>
+      <source url="https://doi.org/10.1103/8rg8-tmgg">Physical Review D</source>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/8rg8-tmgg</guid>
+    </item><item>
       <title>Probing the electron Yukawa coupling with resonant Higgs boson production at FCC-ee in e^+e^-→ H → WW^* lepton-plus-jets final states</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16475-5</link>
       <description>We report a detailed simulation study of the search for s-channel Higgs boson production in e^+e^-collisions at a center-of-mass (c.m.) energy of sqrts=125,textrmGeV at the CERN Future Circular Collider (FCC-ee), as a means to constrain the electron Yukawa coupling, y_e . The process of interest is e^+e^-→ H→ WW^*→ ell ^± ν + jj with four different WW^* final states considered, involving both on-and off-shell W bosons decaying either into dileptons ( ell ^± = e^± and μ ^± , including those from τ ^± decays) or into dijets (jj). Signal and background events are discriminated through a multiclass gradient boosted decision tree exploiting a comprehensive set of kinematic and topological variables across the four final-state categories. Assuming a monochromatized c.m. energy spread commensurate with the Higgs boson width, yielding a σ _ee→ H = 280 ab resonant cross section, and an integrated luminosity of 10 ab ^-1 , the analysis achieves a combined statistical significance of 2.0 standard</description>
@@ -67,35 +91,6 @@
       <author>et al.</author>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16475-5</guid>
-    </item><item>
-      <title>Search for dark matter produced in association with a dark Higgs boson decaying into a bottom quark–antiquark pair in proton–proton collisions at sqrts=13,text Tehspace-.08emtext V</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16277-9</link>
-      <description>A search for dark matter produced in association with a dark Higgs boson decaying into a bottom quark–antiquark pair has been performed using proton–proton collision data at a center-of-mass energy of 13 ,text Tehspace-.08emtext V . The search uses data collected with the CMS detector at the CERN LHC during the 2016–2018 data-taking period, corresponding to an integrated luminosity of 138 ,text fb^-1 . The results are interpreted in terms of a theoretical model of dark matter production that, together with a spin-1 text Z^prime boson mediator, predicts the existence of a Higgs-boson-like particle in the dark sector (i.e., a dark Higgs boson). This search focuses on an experimental signature with large missing transverse momentum from dark matter production and a resonant structure in the invariant mass of the bottom quark–antiquark pair from the dark Higgs boson decay. Upper limits at 95% confidence level on the signal strength for dark Higgs boson mass hypotheses below 160 ,text Gehsp</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16277-9">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16277-9</guid>
-    </item><item>
-      <title>Self-calibration of the neutrino-argon cross section with solar neutrinos</title>
-      <link>https://doi.org/10.1103/5zzp-v9kk</link>
-      <description>The success of DUNE’s MeV physics program depends upon high-precision knowledge of the charged-current (CC) νe+Ar40 cross section. While there are indirect constraints on the cross section with uncertainties at the ∼10% level, the only direct measurement in the MeV range disagrees by more than a factor of two. We show, surprisingly, that this cross section can be precisely measured using the solar-neutrino data themselves. This is possible because of independent knowledge of the B8 flux and survival probability, plus the distinctive angular distributions of the Fermi and Gamow-Teller transitions that comprise the cross section. We propose new methods to extract the transition strengths, considering both intuitive groupings and a principal component analysis. Assuming pessimistic detection performance but controlled detector systematic uncertainties, we demonstrate that a precision of ≲2% on the cross section can be achieved in the 9–15 MeV energy range. These results will be an importa</description>
-      <source url="https://doi.org/10.1103/5zzp-v9kk">Physical Review D</source>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/5zzp-v9kk</guid>
-    </item><item>
-      <title>Charm and strange meson fragmentation functions</title>
-      <link>https://doi.org/10.1103/nlvv-rrfp</link>
-      <description>Quark fragmentation functions describe the hadronization process of a quark where any of the final-state hadrons carries a fraction of its initial momentum. We compute these fragmentation functions for a cascade that includes pions, kaons, and the charmed D and Ds mesons, starting from the elementary quark-to-meson fragmentation process. The latter is obtained from the relevant cut diagram, and employs Poincaré covariant Bethe-Salpeter wave functions and quark propagators. We derive a set of twenty-five coupled jet equations that describe the cascade of emitted mesons in the fragmentation process. Their solutions yield full fragmentation functions that offer a consistent picture of the quark fragmentations across the light and heavy sectors.</description>
-      <source url="https://doi.org/10.1103/nlvv-rrfp">Physical Review D</source>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nlvv-rrfp</guid>
-    </item><item>
-      <title>Singlet-doublet dark matter beyond freeze-out</title>
-      <link>https://doi.org/10.1103/2v46-g6vv</link>
-      <description>The singlet-doublet fermion model of dark matter is an economical weak-scale dark matter model that realizes the dark matter abundance through interactions with the electroweak bosons of the Standard Model. Depending on the size of the Yukawa couplings in the model, the dark matter relic abundance can be produced via freeze-out (including coannihilation), coscattering, freeze-in, or the SuperWIMP mechanism. We analyze the ways this model can realize the dark matter density with emphasis on the small Yukawa coupling regime. In this limit, direct and indirect detection are difficult, but a rich collider phenomenology is possible.</description>
-      <source url="https://doi.org/10.1103/2v46-g6vv">Physical Review D</source>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2v46-g6vv</guid>
     </item><item>
       <title>Holographic QCD axion in five dimensions</title>
       <link>https://doi.org/10.1103/mw5s-cd4r</link>
@@ -111,49 +106,26 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/xx5w-5mhk</guid>
     </item><item>
-      <title>Search for dark matter produced in association with a dark Higgs boson decaying into a bottom quark–antiquark pair in proton–proton collisions at sqrts=13,text Tehspace-.08emtext V</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16277-9</link>
-      <description>A search for dark matter produced in association with a dark Higgs boson decaying into a bottom quark–antiquark pair has been performed using proton–proton collision data at a center-of-mass energy of 13 ,text Tehspace-.08emtext V . The search uses data collected with the CMS detector at the CERN LHC during the 2016–2018 data-taking period, corresponding to an integrated luminosity of 138 ,text fb^-1 . The results are interpreted in terms of a theoretical model of dark matter production that, together with a spin-1 text Z^prime boson mediator, predicts the existence of a Higgs-boson-like particle in the dark sector (i.e., a dark Higgs boson). This search focuses on an experimental signature with large missing transverse momentum from dark matter production and a resonant structure in the invariant mass of the bottom quark–antiquark pair from the dark Higgs boson decay. Upper limits at 95% confidence level on the signal strength for dark Higgs boson mass hypotheses below 160 ,text Gehsp</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16277-9">European Physical Journal C</source>
-      <author>et al.</author>
+      <title>Singlet-doublet dark matter beyond freeze-out</title>
+      <link>https://doi.org/10.1103/2v46-g6vv</link>
+      <description>The singlet-doublet fermion model of dark matter is an economical weak-scale dark matter model that realizes the dark matter abundance through interactions with the electroweak bosons of the Standard Model. Depending on the size of the Yukawa couplings in the model, the dark matter relic abundance can be produced via freeze-out (including coannihilation), coscattering, freeze-in, or the SuperWIMP mechanism. We analyze the ways this model can realize the dark matter density with emphasis on the small Yukawa coupling regime. In this limit, direct and indirect detection are difficult, but a rich collider phenomenology is possible.</description>
+      <source url="https://doi.org/10.1103/2v46-g6vv">Physical Review D</source>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16277-9</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/2v46-g6vv</guid>
     </item><item>
-      <title>Nonabelian Lattice Weak Gravity Conjecture and monopole confinement</title>
-      <link>https://doi.org/10.1007/JHEP11(2026)222</link>
-      <description>Within the known landscape of quantum gravity, most theories satisfy the Lattice Weak Gravity Conjecture (LWGC), which requires a superextremal particle at every site in the electric charge lattice Γ. However, counterexamples to the LWGC exist, and it was recently hypothesized that such counterexamples necessarily feature fractionally charged confined monopoles. In this work, we verify this hypothesis in toroidal orbifold compactifications of the heterotic string, which notably feature LWGC violation in both the abelian and nonabelian gauge sectors. In all the cases we consider, there exists a discrete subgroup of the center of the gauge group K ⊆ Z(G) such that superextremal particles exist at every site in the charge lattice of the quotient group G/K, while (confined) monopoles exist at all sites in the magnetic charge lattice of G/K. This suggests that LWGC violation cannot occur for gauge groups with trivial centers, and more generally the degree of LWGC violation in a nonabelian g</description>
-      <source url="https://doi.org/10.1007/JHEP11(2026)222">Journal of High Energy Physics</source>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)222</guid>
+      <title>Charm and strange meson fragmentation functions</title>
+      <link>https://doi.org/10.1103/nlvv-rrfp</link>
+      <description>Quark fragmentation functions describe the hadronization process of a quark where any of the final-state hadrons carries a fraction of its initial momentum. We compute these fragmentation functions for a cascade that includes pions, kaons, and the charmed D and Ds mesons, starting from the elementary quark-to-meson fragmentation process. The latter is obtained from the relevant cut diagram, and employs Poincaré covariant Bethe-Salpeter wave functions and quark propagators. We derive a set of twenty-five coupled jet equations that describe the cascade of emitted mesons in the fragmentation process. Their solutions yield full fragmentation functions that offer a consistent picture of the quark fragmentations across the light and heavy sectors.</description>
+      <source url="https://doi.org/10.1103/nlvv-rrfp">Physical Review D</source>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/nlvv-rrfp</guid>
     </item><item>
-      <title>Evidence for ηc(2S)→pp¯π+π−π0 and observation of χcJ→pp¯π+π−π0</title>
-      <link>https://doi.org/10.1103/xsww-rmyx</link>
-      <description>Using (2.712±0.014)×109 ψ(3686) events collected by the BESIII detector at the BEPCII collider, the ψ(3686)→γpp¯π+π−π0 process is investigated. Evidence for the decay of ηc(2S)→pp¯π+π−π0 is found with a signal significance of 3.3σ. The product of branching fractions of B[ψ(3686)→γηc(2S)]×B[ηc(2S)→pp¯π+π−π0] is determined to be (3.4±0.5±0.8)×10−6, where the first uncertainty is statistical and the second systematic. The hadronic decays of χcJ→pp¯π+π−π0(J=0,1,2) are observed, and their branching fractions are measured to be B(χc0→pp¯π+π−π0)=(4.79±0.01±0.40)×10−3, B(χc1→pp¯π+π−π0)=(2.13 ± 0.01 ± 0.17)×10−3, and B(χc2→pp¯π+π−π0)=(3.72 ± 0.01±0.29)×10−3, respectively. Furthermore, the branching fractions for the intermediate processes χcJ→pp¯ω are updated with significantly improved precision: B(χc0→pp¯ω)=(5.76 ± 0.01 ± 0.42)×10−4, B(χc1→pp¯ω)=(1.85 ± 0.01 ± 0.13)×10−4, and B(χc2→pp¯ω)=(4.51±0.01±0.33)×10−4, respectively.</description>
-      <source url="https://doi.org/10.1103/xsww-rmyx">Physical Review D</source>
-      <author>et al.</author>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xsww-rmyx</guid>
-    </item><item>
-      <title>Every 3D Conformal Field Theory Has an LΛw1+∞ Symmetry</title>
-      <link>https://doi.org/10.1103/64ht-cx15</link>
-      <description>A one-parameter family of deformed Lw1+∞ soft symmetry algebras acting on tree-level gravitational theories in AdS4 has recently been discovered; it is denoted LΛw1+∞. Here, we show that all CFT3 s, including those dual to quantum gravity on AdS4, admit an LΛw1+∞ action generated by the ANEC operator, its conformal descendants, and their commutators. This extends previous tree-level results on these soft symmetries to the strongly coupled quantum regime.</description>
-      <source url="https://doi.org/10.1103/64ht-cx15">Physical Review Letters</source>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/64ht-cx15</guid>
-    </item><item>
-      <title>Quantum channel capacity of traversable wormholes</title>
-      <link>https://doi.org/10.1103/7trm-rykk</link>
-      <description>We formulate the Gao-Jafferis-Wall traversable wormhole protocol as a quantum channel and compute its quantum channel capacity. We show that this capacity is governed by the time derivative of an out-of-time-ordered correlator, hence by operator size growth in the holographic dual, and that its growth is bounded above by the Einstein gravity limit. The channel capacity therefore provides a natural benchmark for quantum simulations of traversable wormholes.</description>
-      <source url="https://doi.org/10.1103/7trm-rykk">Physical Review D</source>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/7trm-rykk</guid>
-    </item><item>
-      <title>Improved approximations for collective neutrino oscillations</title>
-      <link>https://doi.org/10.1103/8zfj-q2qh</link>
-      <description>A one-and two-body su(n) Hamiltonian governing the dynamics of many systems, including collective neutrino oscillations, is investigated. We start by analyzing the algebraic structure(u(nN)), formulate a product structure of the algebra, and utilize this to construct generic expressions for operator expectation values, Rényi Entropy, and Wigner Functions. Performing the Bogoliubov-Born-Green-Kirkwood-Yvon hierarchy truncation we develop a systematic methodology for going beyond the mean field with polynomial scaling on a classical computer.</description>
-      <source url="https://doi.org/10.1103/8zfj-q2qh">Physical Review D</source>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/8zfj-q2qh</guid>
+      <title>Crossover or first-order? Regularization effects in a contact interaction treatment * Supported by the Natural Science Foundation of Jiangsu Province (BK20220122); the National Natural Science Foundation of China (12233002), and the Program of China Scholarship Council (202606190076)</title>
+      <link>https://doi.org/10.1088/1674-1137/aea287</link>
+      <description>The equation of state of hot and dense, strongly interacting quark matter plays a fundamental role in many areas. However, owing to the nonperturbative nature of strong interactions, a reliable treatment remains under debate. We use a symmetry-preserving treatment of a vector otimes vector contact interaction to study related issues at nonzero temperature or quark chemical potential, and we carefully compare a three-momentum cutoff with a proper-time regularization scheme. The numerical results show that the character of the phase transition in the present model depends sensitively on the regularization scheme and parameter choices.</description>
+      <source url="https://doi.org/10.1088/1674-1137/aea287">Chinese Physics C</source>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1088/1674-1137/aea287</guid>
     </item>
   </channel>
 </rss>
