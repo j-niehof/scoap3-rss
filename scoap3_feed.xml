@@ -5,8 +5,45 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 19:23:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:17:56 +0000</lastBuildDate>
     <item>
+      <title>Investigating forward–backward asymmetry in D-meson production and anisotropic flow in p–Pb collisions at the LHC</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16663-3</link>
+      <description>We investigate the forward–backward asymmetry in the production and elliptic flow of prompt D^0 mesons in proton–lead (p–Pb) collisions at sqrts_textrmNN=8.16 TeV using the heavy-flavor improved string-melting version of the AMPT model. The model calculations provide a simultaneous description of nuclear modification factor R_textrmpPb and v₂ in forward and backward rapidities. We find that the observed asymmetry arises from the interplay of initial-state cold nuclear matter effects and final-state partonic interactions, with the competition between coalescence and fragmentation playing a critical role in shaping the transverse momentum and rapidity dependence of both observables. This work suggests that a partonic medium is formed in high-multiplicity p–Pb collisions at LHC energies.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16663-3">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16663-3</guid>
+    </item><item>
+      <title>Antipodal self-duality for generalized fishnets from integrability</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)251</link>
+      <description>Antipodal self-duality (ASD) is a remarkable property that relates an amplitude to itself, after performing a suitable kinematic map and reversing the letters of the symbol (more precisely, acting with the antipode of the Hopf algebra of the de Rham analogs of multiple polylogarithms). ASD has been seen in only one process in planar 𝒩 = 4 super-Yang-Mills theory, and its physical origin is unknown, motivating a search for ASD in other contexts. Recently, ASD was found to hold for square fishnet integrals in a strongly-deformed version of planar 𝒩 = 4. In this paper, we investigate the properties of polynomials in ladder integrals under the ASD transformation that leaves the square fishnet invariant. Our basic building blocks are determinants of certain matrices of ladder integrals, that are labeled by partitions or Young diagrams, and automatically obey the Steinmann relations. We employ integrability-based representations of such determinants, which are essentially matrix-model integr</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)251">Journal of High Energy Physics</source>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)251</guid>
+    </item><item>
+      <title>Configurational temperature in matrix models and random matrix ensembles</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)258</link>
+      <description>We investigate the configurational temperature estimator in interacting matrix models and Gaussian random-matrix ensembles. The estimator follows from an exact Schwinger-Dyson identity and may be expressed in terms of the gradient and Hessian of the action. We study the Gross-Witten-Wadia model, a quartic double-well matrix model, and the Gaussian Orthogonal, Unitary, and Symplectic Ensembles. In all cases, the estimator satisfies the exact Schwinger-Dyson identity, β = 1, within statistical uncertainties. Separating the estimator into isotropic and anisotropic parts, we find that the leading finite-N corrections satisfy the approximate relation β − 1 ≃ −β . We also show that the configurational-temperature estimator provides a sensitive measure-level diagnostic of Monte Carlo sampling. In a double-well matrix model, however, we find that agreement with the exact configurational-temperature identity does not by itself guarantee global equilibration when slow collective degrees of freed</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)258">Journal of High Energy Physics</source>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)258</guid>
+    </item><item>
+      <title>Charged black holes in the 1/N expansion</title>
+      <link>https://doi.org/10.1007/JHEP11(2026)249</link>
+      <description>We study some implications of SU (N) × U (1) theories coupled to gravity in the large-N limit. We find that in theories with quarks transforming as q ~ ( , 1), black holes (BH) with charge larger than a critical value approach extremality (M_BH=sqrt2M_PlQ_BH) as they evaporate. This occurs because BHs in this theory can only lose charge by emitting baryons, a process suppressed by a combinatoric factor e . Once extremality is reached the BH evolution halts for exponentially long times, τ ∝ e , without being protected by any symmetry. At times t ≳ τ the BH forms a cloud of deconfined quarks around it, a quark corona. The quarks are connected to the horizon by strings extending throughout distances that can be much larger than the inverse of the confinement scale, Lambda_N^-1 . Strikingly, due to energy conservation, these long strings cannot break even for light quarks. These effects can be further enhanced in clockwork-like theories based on Yang-Mills sectors of the type, SU (N ) × SU</description>
+      <source url="https://doi.org/10.1007/JHEP11(2026)249">Journal of High Energy Physics</source>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)249</guid>
+    </item><item>
+      <title>A determination of the backscattering probability of low-energy antiprotons</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-16553-8</link>
+      <description>It is commonly assumed that antiprotons impinging on a material surface annihilate promptly with the nuclei of the material. However, at kinetic energies of a few keV, this assumption may not hold. As with low-energy protons, electrons or positrons that can be reflected from a target, they may undergo large-angle Coulomb scattering before annihilation occurs, thereby appearing to be “backscattered” from the material surface. This backscattering fraction, largely unknown, is a crucial ingredient to the determination of the production cross-section of antihydrogen atoms in the GBAR experiment. This paper presents a determination of the probability that 4 and 6 keV antiprotons backscatter on the surface of a Micro-Channel Plate detector used for beam imaging at GBAR. No evidence for backscattering has been found and an upper limit of 14% at 68% confidence level has been set on this probability. The impact of backscattering on the determination of the number of antiprotons that participate</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-16553-8">European Physical Journal C</source>
+      <author>et al.</author>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16553-8</guid>
+    </item><item>
       <title>A determination of the backscattering probability of low-energy antiprotons</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16553-8</link>
       <description>It is commonly assumed that antiprotons impinging on a material surface annihilate promptly with the nuclei of the material. However, at kinetic energies of a few keV, this assumption may not hold. As with low-energy protons, electrons or positrons that can be reflected from a target, they may undergo large-angle Coulomb scattering before annihilation occurs, thereby appearing to be “backscattered” from the material surface. This backscattering fraction, largely unknown, is a crucial ingredient to the determination of the production cross-section of antihydrogen atoms in the GBAR experiment. This paper presents a determination of the probability that 4 and 6 keV antiprotons backscatter on the surface of a Micro-Channel Plate detector used for beam imaging at GBAR. No evidence for backscattering has been found and an upper limit of 14% at 68% confidence level has been set on this probability. The impact of backscattering on the determination of the number of antiprotons that participate</description>
@@ -54,13 +91,12 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/flqh-zxzr</guid>
     </item><item>
-      <title>Probing long-lived particle production in muon decays at the SNS with a highly capable hydrocarbon detector</title>
-      <link>https://doi.org/10.1103/xtl2-wj6n</link>
-      <description>The spallation neutron source (SNS) at Oak Ridge National Laboratory (ORNL) is a prolific muon producer, making it an ideal location for studying dark sector particles produced in muon decays at rest. In this paper, we explore sub-GeV dark particle detection possibilities in a tons-scale, highly capable hydrocarbon scintillator (HC2) detector at the SNS. We consider a search for e+e− final states produced by decays of long-lived, O(10–100) MeV axionlike particles and heavy neutral leptons. The HC2 technology space, exemplified by the PROSPECT and mobile antineutrino demonstrator detectors, offers strong rejection capabilities for the cosmic ray backgrounds that would normally dominate this search. By benchmarking on-surface cosmic ray signatures with data from PROSPECT at ORNL, we generate robust predictions for a multiyear SNS deployment of a range of HC2 detector implementations. Results indicate the potential for order-of-magnitude improvements in sensitivity to axionlike particles </description>
-      <source url="https://doi.org/10.1103/xtl2-wj6n">Physical Review D</source>
-      <author>et al.</author>
+      <title>Large-N Yang-Mills Λ-parameter from step scaling</title>
+      <link>https://doi.org/10.1103/dhzc-fc2f</link>
+      <description>We use the step-scaling method and results obtained at N=3, 5 and 8 to determine the N-dependence of the dynamically generated scale Λ of SU(N) Yang-Mills theories. We implement the step-scaling method in a suitable finite-volume renormalization scheme based on twisted boundary conditions, introduced to effectively achieve large-N volume independence, and on a coupling defined through the gradient flow. In the MS¯ scheme, we obtain the following values in terms of the gradient flow scale t0: 8t0ΛMS¯=0.577(23), 0.632(32), and 0.611(43) for N=3, 5 and 8, respectively. They extrapolate to a large-N value of: 8t0ΛMS¯(N=∞)=0.639(36), and the N-dependence is given by 8t0ΛMS¯(N)=0.639(36)[1−0.85(62)/N2+O(1/N4)]. This work represents the first calculation of the Yang–Mills Λ-parameter in the large-N limit that does not rely on asymptotic scaling strategies.</description>
+      <source url="https://doi.org/10.1103/dhzc-fc2f">Physical Review D</source>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xtl2-wj6n</guid>
+      <guid isPermaLink="false">https://doi.org/10.1103/dhzc-fc2f</guid>
     </item><item>
       <title>Extremely High-Energy Bremsstrahlung in Matter</title>
       <link>https://doi.org/10.1103/rk4d-45t9</link>
@@ -92,33 +128,13 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16475-5</guid>
     </item><item>
-      <title>Holographic QCD axion in five dimensions</title>
-      <link>https://doi.org/10.1103/mw5s-cd4r</link>
-      <description>We present a holographic construction of the QCD axion based on a warped 5D model. A key ingredient of our setup is the introduction of a bulk scalar field θ which is holographically dual to the topological operator of QCD. This will make the relation between the axion, the η′ and the anomalies transparent. We identify the bulk modes corresponding to the η′ and axion states, and show that an adjustment analogous to that of the usual 4D axion takes place. We identify the origin of the axion quality problem in this framework and show that a large degree of axion compositeness is needed to solve it. We also find that in the limit of a high quality axion the physical axion state is predominantly contained in the bulk gauge field.</description>
-      <source url="https://doi.org/10.1103/mw5s-cd4r">Physical Review D</source>
+      <title>Inclusive mathrm psi (2S) production at midrapidity in pp collisions at sqrts = 13 TeV</title>
+      <link>https://doi.org/10.1140/epjc/s10052-026-15879-7</link>
+      <description>Inclusive production of mathrm psi (2S) mesons is measured at midrapidity ( |y| &lt; 0.9 ) in pp collisions at sqrts = 13 TeV using the ALICE detector at the LHC, extending the available midrapidity coverage towards lower transverse-momentum ( p_textrmT ). The measurement is performed in the p_textrmT range of 4 to 16 GeV/ c and is based on events triggered by the Transition Radiation Detector, corresponding to an integrated luminosity of 1.7 ± 1.8% (syst.) pb ^-1 . The p_textrmT-differential production cross section of the mathrm psi (2S) and its ratio to the mathrm J/psi production cross section are presented. The results extend the accessible p_textrmT range down to 4 GeV/ c , and a mild rise of the mathrm psi (2S)-to-mathrm J/psi cross section ratio with increasing p_textrmT is observed. The measurements are compared with theoretical predictions based on NRQCD and the ICEM model.</description>
+      <source url="https://doi.org/10.1140/epjc/s10052-026-15879-7">European Physical Journal C</source>
+      <author>et al.</author>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/mw5s-cd4r</guid>
-    </item><item>
-      <title>Quark-level CPT violation in neutral-meson systems</title>
-      <link>https://doi.org/10.1103/xx5w-5mhk</link>
-      <description>This work investigates CPT and Lorentz breakdown in neutral-meson interferometry within the nonminimal Standard-Model Extension. Employing methods of chiral perturbation theory for mass dimension d=5, a connection between the quark-level and the meson effective pseudoscalar Lagrangian is established. The resulting phenomenological signatures in neutral-meson oscillations with particular focus on the detector geometry are explored. This analysis permits the interpretation of such CPT tests within the d=5 quark sector of the Standard-Model Extension. Existing data are used to extract first constraints on two coefficients and to estimate achievable sensitivity gains over published bounds of up to 18 orders of magnitude.</description>
-      <source url="https://doi.org/10.1103/xx5w-5mhk">Physical Review D</source>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/xx5w-5mhk</guid>
-    </item><item>
-      <title>Singlet-doublet dark matter beyond freeze-out</title>
-      <link>https://doi.org/10.1103/2v46-g6vv</link>
-      <description>The singlet-doublet fermion model of dark matter is an economical weak-scale dark matter model that realizes the dark matter abundance through interactions with the electroweak bosons of the Standard Model. Depending on the size of the Yukawa couplings in the model, the dark matter relic abundance can be produced via freeze-out (including coannihilation), coscattering, freeze-in, or the SuperWIMP mechanism. We analyze the ways this model can realize the dark matter density with emphasis on the small Yukawa coupling regime. In this limit, direct and indirect detection are difficult, but a rich collider phenomenology is possible.</description>
-      <source url="https://doi.org/10.1103/2v46-g6vv">Physical Review D</source>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/2v46-g6vv</guid>
-    </item><item>
-      <title>Charm and strange meson fragmentation functions</title>
-      <link>https://doi.org/10.1103/nlvv-rrfp</link>
-      <description>Quark fragmentation functions describe the hadronization process of a quark where any of the final-state hadrons carries a fraction of its initial momentum. We compute these fragmentation functions for a cascade that includes pions, kaons, and the charmed D and Ds mesons, starting from the elementary quark-to-meson fragmentation process. The latter is obtained from the relevant cut diagram, and employs Poincaré covariant Bethe-Salpeter wave functions and quark propagators. We derive a set of twenty-five coupled jet equations that describe the cascade of emitted mesons in the fragmentation process. Their solutions yield full fragmentation functions that offer a consistent picture of the quark fragmentations across the light and heavy sectors.</description>
-      <source url="https://doi.org/10.1103/nlvv-rrfp">Physical Review D</source>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/nlvv-rrfp</guid>
+      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15879-7</guid>
     </item><item>
       <title>Crossover or first-order? Regularization effects in a contact interaction treatment * Supported by the Natural Science Foundation of Jiangsu Province (BK20220122); the National Natural Science Foundation of China (12233002), and the Program of China Scholarship Council (202606190076)</title>
       <link>https://doi.org/10.1088/1674-1137/aea287</link>
