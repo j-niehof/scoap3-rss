@@ -5,8 +5,15 @@
     <link>https://repo.scoap3.org/</link>
     <description>20 most recent open-access high-energy physics articles from SCOAP3 with CERN or United States affiliations.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:17:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:54:37 +0000</lastBuildDate>
     <item>
+      <title>Triaxial shapes and the angular structure of nuclear three-body correlations</title>
+      <link>https://doi.org/10.1016/j.physletb.2026.141213</link>
+      <description>Relativistic nuclear collisions have emerged as a new tool for probing many-body correlations of nucleons in the ground states of atomic nuclei. Here, we investigate the connection between three-nucleon correlations inside nuclei and three-particle correlations measured in collider final states. We work within a classical rigid-rotor picture of the colliding ions, whereby correlations in the lab frame arise solely from the averaging over orientations of an intrinsic-frame nucleon density with a triaxial quadrupole deformation, characterized by Bohr parameters β 2 and γ. With a Gaussian Ansatz for the density, we derive the leading-order form of the resulting two-and three-body nucleon distributions and perform a detailed analysis of their harmonic structure. With this, we provide an analytical understanding of empirical results linking shape parameters to final-state observables, notably, the fact that in the deformation-dominated limit, where 1/ A background fluctuations are subdomina</description>
+      <source url="https://doi.org/10.1016/j.physletb.2026.141213">Physics Letters B</source>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1016/j.physletb.2026.141213</guid>
+    </item><item>
       <title>Investigating forward–backward asymmetry in D-meson production and anisotropic flow in p–Pb collisions at the LHC</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16663-3</link>
       <description>We investigate the forward–backward asymmetry in the production and elliptic flow of prompt D^0 mesons in proton–lead (p–Pb) collisions at sqrts_textrmNN=8.16 TeV using the heavy-flavor improved string-melting version of the AMPT model. The model calculations provide a simultaneous description of nuclear modification factor R_textrmpPb and v₂ in forward and backward rapidities. We find that the observed asymmetry arises from the interplay of initial-state cold nuclear matter effects and final-state partonic interactions, with the competition between coalescence and fragmentation playing a critical role in shaping the transverse momentum and rapidity dependence of both observables. This work suggests that a partonic medium is formed in high-multiplicity p–Pb collisions at LHC energies.</description>
@@ -35,14 +42,6 @@
       <source url="https://doi.org/10.1007/JHEP11(2026)249">Journal of High Energy Physics</source>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1007/JHEP11(2026)249</guid>
-    </item><item>
-      <title>A determination of the backscattering probability of low-energy antiprotons</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16553-8</link>
-      <description>It is commonly assumed that antiprotons impinging on a material surface annihilate promptly with the nuclei of the material. However, at kinetic energies of a few keV, this assumption may not hold. As with low-energy protons, electrons or positrons that can be reflected from a target, they may undergo large-angle Coulomb scattering before annihilation occurs, thereby appearing to be “backscattered” from the material surface. This backscattering fraction, largely unknown, is a crucial ingredient to the determination of the production cross-section of antihydrogen atoms in the GBAR experiment. This paper presents a determination of the probability that 4 and 6 keV antiprotons backscatter on the surface of a Micro-Channel Plate detector used for beam imaging at GBAR. No evidence for backscattering has been found and an upper limit of 14% at 68% confidence level has been set on this probability. The impact of backscattering on the determination of the number of antiprotons that participate</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16553-8">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16553-8</guid>
     </item><item>
       <title>A determination of the backscattering probability of low-energy antiprotons</title>
       <link>https://doi.org/10.1140/epjc/s10052-026-16553-8</link>
@@ -91,20 +90,6 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/flqh-zxzr</guid>
     </item><item>
-      <title>Large-N Yang-Mills Λ-parameter from step scaling</title>
-      <link>https://doi.org/10.1103/dhzc-fc2f</link>
-      <description>We use the step-scaling method and results obtained at N=3, 5 and 8 to determine the N-dependence of the dynamically generated scale Λ of SU(N) Yang-Mills theories. We implement the step-scaling method in a suitable finite-volume renormalization scheme based on twisted boundary conditions, introduced to effectively achieve large-N volume independence, and on a coupling defined through the gradient flow. In the MS¯ scheme, we obtain the following values in terms of the gradient flow scale t0: 8t0ΛMS¯=0.577(23), 0.632(32), and 0.611(43) for N=3, 5 and 8, respectively. They extrapolate to a large-N value of: 8t0ΛMS¯(N=∞)=0.639(36), and the N-dependence is given by 8t0ΛMS¯(N)=0.639(36)[1−0.85(62)/N2+O(1/N4)]. This work represents the first calculation of the Yang–Mills Λ-parameter in the large-N limit that does not rely on asymptotic scaling strategies.</description>
-      <source url="https://doi.org/10.1103/dhzc-fc2f">Physical Review D</source>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/dhzc-fc2f</guid>
-    </item><item>
-      <title>Extremely High-Energy Bremsstrahlung in Matter</title>
-      <link>https://doi.org/10.1103/rk4d-45t9</link>
-      <description>The theory of bremsstrahlung e→eγ by extremely high energy electrons passing through ordinary matter has been qualitatively incomplete. We revisit the suppression of bremsstrahlung by the Landau-Pomeranchuk-Migdal effect, here accounting for quantum disruption of that effect from pair production. Our analysis covers the full range of ultrarelativistic electron and photon energies (subject to a few simplifying approximations).</description>
-      <source url="https://doi.org/10.1103/rk4d-45t9">Physical Review Letters</source>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1103/rk4d-45t9</guid>
-    </item><item>
       <title>Probing long-lived particle production in muon decays at the SNS with a highly capable hydrocarbon detector</title>
       <link>https://doi.org/10.1103/xtl2-wj6n</link>
       <description>The spallation neutron source (SNS) at Oak Ridge National Laboratory (ORNL) is a prolific muon producer, making it an ideal location for studying dark sector particles produced in muon decays at rest. In this paper, we explore sub-GeV dark particle detection possibilities in a tons-scale, highly capable hydrocarbon scintillator (HC2) detector at the SNS. We consider a search for e+e− final states produced by decays of long-lived, O(10–100) MeV axionlike particles and heavy neutral leptons. The HC2 technology space, exemplified by the PROSPECT and mobile antineutrino demonstrator detectors, offers strong rejection capabilities for the cosmic ray backgrounds that would normally dominate this search. By benchmarking on-surface cosmic ray signatures with data from PROSPECT at ORNL, we generate robust predictions for a multiyear SNS deployment of a range of HC2 detector implementations. Results indicate the potential for order-of-magnitude improvements in sensitivity to axionlike particles </description>
@@ -113,6 +98,13 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/xtl2-wj6n</guid>
     </item><item>
+      <title>Large-N Yang-Mills Λ-parameter from step scaling</title>
+      <link>https://doi.org/10.1103/dhzc-fc2f</link>
+      <description>We use the step-scaling method and results obtained at N=3, 5 and 8 to determine the N-dependence of the dynamically generated scale Λ of SU(N) Yang-Mills theories. We implement the step-scaling method in a suitable finite-volume renormalization scheme based on twisted boundary conditions, introduced to effectively achieve large-N volume independence, and on a coupling defined through the gradient flow. In the MS¯ scheme, we obtain the following values in terms of the gradient flow scale t0: 8t0ΛMS¯=0.577(23), 0.632(32), and 0.611(43) for N=3, 5 and 8, respectively. They extrapolate to a large-N value of: 8t0ΛMS¯(N=∞)=0.639(36), and the N-dependence is given by 8t0ΛMS¯(N)=0.639(36)[1−0.85(62)/N2+O(1/N4)]. This work represents the first calculation of the Yang–Mills Λ-parameter in the large-N limit that does not rely on asymptotic scaling strategies.</description>
+      <source url="https://doi.org/10.1103/dhzc-fc2f">Physical Review D</source>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/dhzc-fc2f</guid>
+    </item><item>
       <title>Calculating extremely high-energy bremsstrahlung in matter</title>
       <link>https://doi.org/10.1103/8rg8-tmgg</link>
       <description>Ultrarelativistic electrons initiate electromagnetic showers in ordinary matter that evolve through bremsstrahlung and pair production. At very high energy, the quantum mechanical duration of bremsstrahlung becomes longer than the mean free time to elastically scatter from the medium, leading to a significant suppression known as the Landau-Pomeranchuk-Migdal (LPM) effect. For some ranges of bremsstrahlung photon and initial electron energies (kγ,E), the duration becomes so long that it will also overlap with subsequent pair production by the bremsstrahlung photon, disrupting LPM suppression and drastically changing LPM predictions. We have previously calculated this change for extremely high energies (kγ≫2 TeV or more, depending on the medium), for which the electron mass and medium-induced photon mass could be ignored. In this paper, we extend that analysis to lower (but still ultrarelativistic) energy by accounting for those masses, leading to a rich map of behavior in different reg</description>
@@ -120,21 +112,12 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://doi.org/10.1103/8rg8-tmgg</guid>
     </item><item>
-      <title>Probing the electron Yukawa coupling with resonant Higgs boson production at FCC-ee in e^+e^-→ H → WW^* lepton-plus-jets final states</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-16475-5</link>
-      <description>We report a detailed simulation study of the search for s-channel Higgs boson production in e^+e^-collisions at a center-of-mass (c.m.) energy of sqrts=125,textrmGeV at the CERN Future Circular Collider (FCC-ee), as a means to constrain the electron Yukawa coupling, y_e . The process of interest is e^+e^-→ H→ WW^*→ ell ^± ν + jj with four different WW^* final states considered, involving both on-and off-shell W bosons decaying either into dileptons ( ell ^± = e^± and μ ^± , including those from τ ^± decays) or into dijets (jj). Signal and background events are discriminated through a multiclass gradient boosted decision tree exploiting a comprehensive set of kinematic and topological variables across the four final-state categories. Assuming a monochromatized c.m. energy spread commensurate with the Higgs boson width, yielding a σ _ee→ H = 280 ab resonant cross section, and an integrated luminosity of 10 ab ^-1 , the analysis achieves a combined statistical significance of 2.0 standard</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-16475-5">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-16475-5</guid>
-    </item><item>
-      <title>Inclusive mathrm psi (2S) production at midrapidity in pp collisions at sqrts = 13 TeV</title>
-      <link>https://doi.org/10.1140/epjc/s10052-026-15879-7</link>
-      <description>Inclusive production of mathrm psi (2S) mesons is measured at midrapidity ( |y| &lt; 0.9 ) in pp collisions at sqrts = 13 TeV using the ALICE detector at the LHC, extending the available midrapidity coverage towards lower transverse-momentum ( p_textrmT ). The measurement is performed in the p_textrmT range of 4 to 16 GeV/ c and is based on events triggered by the Transition Radiation Detector, corresponding to an integrated luminosity of 1.7 ± 1.8% (syst.) pb ^-1 . The p_textrmT-differential production cross section of the mathrm psi (2S) and its ratio to the mathrm J/psi production cross section are presented. The results extend the accessible p_textrmT range down to 4 GeV/ c , and a mild rise of the mathrm psi (2S)-to-mathrm J/psi cross section ratio with increasing p_textrmT is observed. The measurements are compared with theoretical predictions based on NRQCD and the ICEM model.</description>
-      <source url="https://doi.org/10.1140/epjc/s10052-026-15879-7">European Physical Journal C</source>
-      <author>et al.</author>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://doi.org/10.1140/epjc/s10052-026-15879-7</guid>
+      <title>Extremely High-Energy Bremsstrahlung in Matter</title>
+      <link>https://doi.org/10.1103/rk4d-45t9</link>
+      <description>The theory of bremsstrahlung e→eγ by extremely high energy electrons passing through ordinary matter has been qualitatively incomplete. We revisit the suppression of bremsstrahlung by the Landau-Pomeranchuk-Migdal effect, here accounting for quantum disruption of that effect from pair production. Our analysis covers the full range of ultrarelativistic electron and photon energies (subject to a few simplifying approximations).</description>
+      <source url="https://doi.org/10.1103/rk4d-45t9">Physical Review Letters</source>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1103/rk4d-45t9</guid>
     </item><item>
       <title>Crossover or first-order? Regularization effects in a contact interaction treatment * Supported by the Natural Science Foundation of Jiangsu Province (BK20220122); the National Natural Science Foundation of China (12233002), and the Program of China Scholarship Council (202606190076)</title>
       <link>https://doi.org/10.1088/1674-1137/aea287</link>
